@@ -1,0 +1,13973 @@
+##3490150		fo
+<h>		null
+Feed	feed	vv0
+The	the	at
+Dog	dog	nn1
+<p>		null
+Feed	feed	vv0
+the	the	at
+Dog	dog	nn1
+is	be	vbz
+fun	fun	jj
+skill	skill	nn1
+game	game	nn1
+for	for	if
+kids	kid	nn2
+with	with	iw
+cute	cute	jj
+dog	dog	nn1
+theme	theme	nn1
+.		.
+Your	your	appge
+goal	goal	nn1
+is	be	vbz
+to	to	to
+eat	eat	vvi
+all	all	db
+the	the	at
+food	food	nn1
+on	on	ii
+screen	screen	nn1
+.		.
+Click	click	vv0
+somewhere	somewhere	rl
+on	on	ii
+the	the	at
+screen	screen	nn1
+to	to	to
+start	start	vvi
+moving	move	vvg
+in	in	ii
+that	that	dd1
+direction	direction	nn1
+.		.
+If	if	cs
+you	you	ppy
+##3490152		fo
+<h>		null
+Love	love	vv0_nn1
+Couples	couple	nn2
+<p>		null
+Draw	draw	vv0
+a	a	at1
+line	line	nn1
+with	with	iw
+your	your	appge
+mouse	mouse	nn1
+making	make	vvg
+a	a	at1
+path	path	nn1
+on	on	ii
+the	the	at
+hexagons	hexagon	nn2
+to	to	to
+connect	connect	vvi
+two	two	mc
+or	or	cc
+more	more	dar_rrr
+love	love	nn1_vv0
+symbols	symbol	nn2
+of	of	io
+the	the	at
+same	same	da
+kind	kind	nn1
+.		.
+You	you	ppy
+can	can	vm
+draw	draw	vvi
+everywhere	everywhere	rl
+as	as	cs31
+long	long	cs32
+as	as	cs33
+you	you	ppy
+highlight	highlight	vv0
+adjacent	adjacent	jj
+hexagons	hexagon	nn2
+and	and	cc
+connect	connect	vv0
+love	love	nn1_vv0
+symbols	symbol	nn2
+of	of	io
+the	the	at
+same	same	da
+kind	kind	nn1
+.		.
+Draw	draw	vv0
+too	too	rg
+fast	fast	jj_rr
+and	and	cc
+you	you	ppy
+will	will	vm
+lose	lose	vvi
+your	your	appge
+path	path	nn1
+.		.
+Draw	draw	vv0
+a	a	at1
+line	line	nn1
+with	with	iw
+your	your	appge
+mouse	mouse	nn1
+making	make	vvg
+a	a	at1
+path	path	nn1
+on	on	ii
+the	the	at
+hexagons	hexagon	nn2
+to	to	to
+connect	connect	vvi
+two	two	mc
+or	or	cc
+more	more	dar_rrr
+love	love	nn1_vv0
+symbols	symbol	nn2
+of	of	io
+the	the	at
+same	same	da
+kind	kind	nn1
+.		.
+You	you	ppy
+can	can	vm
+draw	draw	vvi
+everywhere	everywhere	rl
+as	as	cs31
+long	long	cs32
+as	as	cs33
+you	you	ppy
+highlight	highlight	vv0
+adjacent	adjacent	jj
+hexagons	hexagon	nn2
+and	and	cc
+connect	connect	vv0
+love	love	nn1_vv0
+symbols	symbol	nn2
+of	of	io
+the	the	at
+same	same	da
+kind	kind	nn1
+##3495052		fo
+<h>		null
+VC	vc	nn1
+Financing	finance	vvg_nn1
+for	for	if
+Startups	start-ups	np1_nn2
+:		:
+Understanding	understand	vvg_nn1_jj@
+Cost	cost	nn1
+Drivers	driver	nn2
+<p>		null
+This	this	dd1
+breaks	break	vvz
+down	down	rp_ii@
+the	the	at
+legal	legal	jj
+costs	cost	nn2
+behind	behind	ii
+a	a	at1
+financing	financing	nn1
+deal	deal	vv0_nn1
+rather	rather	rg
+well	well	rr
+.		.
+It	it	pph1
+also	also	rr
+makes	make	vvz
+a	a	at1
+critical	critical	jj
+point	point	nn1
+:		:
+small	small	jj
+firms	firm	nn2
+are	be	vbr
+startups	start-up	nn2
+as	as	rr21_rg
+well	well	rr22_rr
+,		,
+which	which	ddq
+puts	put	vvz
+them	them	ppho2
+in	in	ii_rp@
+a	a	at1
+great	great	jj
+position	position	nn1
+to	to	to
+understand	understand	vvi
+the	the	at
+needs	need	nn2
+,		,
+cost	cost	vv0_nn1
+prohibitions	prohibition	nn2
+,		,
+and	and	cc
+though	though	cs
+process	process	nn1
+of	of	io
+a	a	at1
+startup	start-up	nn1
+--		zz
+they	they	pphs2
+also	also	rr
+cost	cost	vv0_vvd@
+less	less	rrr_dar
+,		,
+for	for	if_cs%
+often	often	rr
+the	the	at
+same	same	da
+caliber	caliber	nn1
+of	of	io
+work	work	nn1
+.		.
+Nugget	nugget	nn1_vv0
+of	of	io
+thought	thought	nn1
+for	for	if
+entrepreneurs	entrepreneur	nn2
+.		.
+<p>		null
+To	to	to
+understand	understand	vvi
+what	what	ddq
+drives	drive	vvz
+legal	legal	jj
+fees	fee	nn2
+(		(
+aside	aside	ii21
+from	from	ii22
+an	a	at1
+army	army	nn1
+of	of	io
+associates	associate	nn2
+)		)
+during	during	ii
+a	a	at1
+financing	financing	nn1
+round	round	rp_nn1@
+,		,
+it	it	pph1
+'s	be	vbz
+important	important	jj
+for	for	if
+startups	start-up	nn2
+,		,
+especially	especially	rr
+those	those	dd2
+going	go	vvg
+through	through	ii_rp@
+their	their	appge
+first	first	md
+few	few	da2
+rounds	round	nn2
+,		,
+to	to	to
+understand	understand	vvi
+why	why	rrq
+a	a	at1
+transaction	transaction	nn1
+costs	cost	vvz
+more	more	dar_rrr
+than	than	csn
+a	a	at1
+few	few	da2
+hundred	hundred	nno
+dollars	dollar	nnu2
+.		.
+It	it	pph1
+'s	be	vbz
+also	also	rr
+important	important	jj
+to	to	to
+understand	understand	vvi
+why	why	rrq
+choosing	choosing	nn1
+a	a	at1
+firm	firm	nn1_jj
+that	that	cst_dd1
+'s	be	vbz
+a	a	at1
+good	good	jj
+fit	fit	jj
+for	for	if
+a	a	at1
+startup	start-up	nn1
+matters	matter	nn2_vvz@
+in	in	ii
+these	these	dd2
+rounds	round	nn2
+.		.
+<p>		null
+Leveraging	leverage	vvg_jj@_np1@
+Knowledge	knowledge	nn1
+<p>		null
+Few	few	da2
+things	thing	nn2
+can	can	vm
+hurt	hurt	vvi
+a	a	at1
+startup	start-up	nn1
+more	more	rrr_dar
+than	than	csn
+a	a	at1
+vague	vague	jj
+or	or	cc
+hurried	hurried	jj
+term	term	nn1
+sheet	sheet	nn1
+that	that	cst_dd1
+will	will	vm
+result	result	vvi
+in	in	ii
+increased	increased	jj
+costs	cost	nn2
+down	down	ii
+the	the	at
+road	road	nn1
+.		.
+To	to	to
+avoid	avoid	vvi
+these	these	dd2
+problems	problem	nn2
+,		,
+s	s	zz1
+mart	mart	vv0_nn1
+entrepreneurs	entrepreneur	nn2
+and	and	cc
+investors	investor	nn2
+involve	involve	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+it	it	pph1
+as	as	rg
+smooth	smooth	jj
+as	as	csa
+possible	possible	jj
+.		.
+For	for	if
+entrepreneurs	entrepreneur	nn2
+,		,
+they	they	pphs2
+need	need	vv0
+to	to	to
+understand	understand	vvi
+that	that	cst
+a	a	at1
+VC	vc	nn1
+'s	's	ge
+counsel	counsel	nn1
+is	be	vbz
+not	not	xx
+the	the	at
+startup	start-up	nn1
+'s	's	ge
+counsel	counsel	nn1
+and	and	cc
+that	that	cst
+they	they	pphs2
+absolutely	absolutely	rr
+need	need	vv0
+their	their	appge
+own	own	da
+counsel	counsel	nn1
+as	as	rr21_rg
+well	well	rr22_rr
+.		.
+It	it	pph1
+'s	be	vbz
+like	like	ii
+buying	buy	vvg
+an	a	at1
+insurance	insurance	nn1
+policy	policy	nn1
+that	that	cst_dd1
+will	will	vm
+cost	cost	vvi
+your	your	appge
+startup	start-up	nn1
+much	much	rr_da1
+less	less	dar_rrr
+than	than	csn
+potential	potential	jj
+future	future	jj_nn1
+problems	problem	nn2
+stemming	stem	vvg
+from	from	ii
+vague	vague	jj
+term	term	nn1
+sheets	sheet	nn2
+.		.
+<p>		null
+In	in	ii
+most	most	dat
+funding	funding	nn1
+rounds	round	nn2_vvz
+,		,
+costs	cost	nn2_vvz
+start	start	vv0_nn1
+increasing	increase	vvg_jj
+due	due	ii21
+to	to	ii22
+due	due	jj
+diligence	diligence	nn1
+required	require	vvn
+by	by	ii
+investors	investor	nn2
+before	before	ii_cs
+a	a	at1
+deal	deal	nn1
+is	be	vbz
+closed	close	vvn_jj
+.		.
+This	this	dd1
+means	mean	vvz
+due	due	jj
+diligence	diligence	nn1
+on	on	ii
+the	the	at
+following	following	jj
+(		(
+if	if	cs
+not	not	xx
+more	more	dar_rrr
+)		)
+subjects	subject	nn2
+:		:
+<p>		null
+(		(
+1	1	mc1
+)		)
+Litigation	litigation	nn1
+Diligence	diligence	np1
+:		:
+Investors	investor	nn2
+want	want	vv0
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+there	there	ex
+are	be	vbr
+no	no	at
+pending	pending	jj
+or	or	cc
+threatened	threaten	vvd_jj@_vvn
+suits	suit	nn2
+against	against	ii
+the	the	at
+startup	start-up	nn1
+that	that	cst_dd1
+could	could	vm
+materially	materially	rr
+reduce	reduce	vvi
+its	its	appge
+value	value	nn1
+(		(
+they	they	pphs2
+can	can	vm
+not	not	xx
+just	just	rr
+take	take	vvi
+your	your	appge
+word	word	nn1
+on	on	ii
+this	this	dd1
+)		)
+.		.
+<p>		null
+(		(
+2	2	mc
+)		)
+Tax	tax	nn1_vv0@
+and	and	cc
+Liability	liability	nn1
+Diligence	diligence	np1
+:		:
+Investors	investor	nn2
+need	need	vv0
+assurance	assurance	nn1
+that	that	cst
+the	the	at
+startup	start-up	nn1
+is	be	vbz
+up	up	jj31
+to	to	jj32
+date	date	jj33
+on	on	ii
+all	all	db
+taxes	tax	nn2
+and	and	cc
+potential	potential	jj_nn1
+obligations	obligation	nn2
+.		.
+<p>		null
+(		(
+3	3	mc
+)		)
+IP	ip	np1_vv0
+Diligence	diligence	np1
+:		:
+The	the	at
+assurance	assurance	nn1
+that	that	cst
+each	each	dd1
+IP	ip	nn1_vv0
+the	the	at
+startup	start-up	nn1
+claim	claim	nn1_vv0
+s	s	zz1
+as	as	csa_ii@
+its	its	appge
+own	own	da
+really	really	rr
+belongs	belong	vvz
+to	to	ii
+the	the	at
+startup	start-up	nn1
+and	and	cc
+not	not	xx
+anyone	anyone	pn1
+else	else	rr
+.		.
+This	this	dd1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+or	or	cc
+similar	similar	jj
+issues	issue	nn2
+,		,
+that	that	cst_dd1
+all	all	db
+former/current		fu
+**40;14428;TOOLONG		fu
+...		...
+have	have	vh0
+legally	legally	rr
+and	and	cc
+properly	properly	rr
+assigned	assign	vvn
+rights	right	nn2
+to	to	ii
+any	any	dd
+IP	ip	nn1_vv0
+to	to	ii
+the	the	at
+startup	start-up	nn1
+,		,
+and	and	cc
+if	if	cs_csw@
+reverse	reverse	jj
+vesting	vesting	nn1
+of	of	io
+common	common	jj
+stock	stock	nn1
+held	hold	vvn
+by	by	ii
+key	key	jj_nn1
+employees	employee	nn2
+is	be	vbz
+necessary	necessary	jj
+.		.
+<p>		null
+(		(
+5	5	mc
+)		)
+Corporate	corporate	jj
+Governance	governance	nn1
+Diligence	diligence	np1
+:		:
+Investors	investor	nn2
+want	want	vv0
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+the	the	at
+entity	entity	nn1
+is	be	vbz
+properly	properly	rr
+formed	form	vvn_vvd
+and	and	cc
+corporate	corporate	jj
+governance	governance	nn1
+matters	matter	nn2
+have	have	vh0
+been	be	vbn
+properly	properly	rr
+followed	follow	vvn
+(		(
+i.e.	ie	rex
+startup	start-up	nn1
+'s	's	ge
+corporate	corporate	jj
+records	record	nn2
+must	must	vm
+be	be	vbi
+in	in	ii
+order	order	nn1
+;		;
+if	if	cs
+they	they	pphs2
+are	be	vbr
+not	not	xx
+,		,
+lawyers	lawyer	nn2
+and	and	cc
+the	the	at
+startup	start-up	nn1
+must	must	vm
+go	go	vvi
+into	into	ii
+overdrive	overdrive	nn1
+conducting	conduct	vvg
+a	a	at1
+"		"
+cleanup	cleanup	nn1
+"		"
+to	to	to
+ensure	ensure	vvi
+that	that	cst_dd1
+everything	everything	pn1
+is	be	vbz
+up	up	jj31
+to	to	jj32
+date	date	jj33
+,		,
+properly	properly	rr
+documented	document	vvn_vvd
+,		,
+and	and	cc
+ready	ready	jj
+for	for	if
+inspection	inspection	nn1
+--		zz
+this	this	dd1
+can	can	vm
+add	add	vvi
+significant	significant	jj
+costs	cost	nn2
+and	and	cc
+often	often	rr
+can	can	vm
+be	be	vbi
+delay	delay	nn1
+,		,
+or	or	cc
+kill	kill	vv0
+,		,
+a	a	at1
+deal	deal	nn1
+closing	closing	nn1_vvg
+)		)
+.		.
+<p>		null
+(		(
+6	6	mc
+)		)
+Stock	stock	nn1_np1
+Option	option	nn1
+Diligence	diligence	np1
+:		:
+Legal	legal	jj
+diligence	diligence	nn1
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+all	all	db
+stock	stock	nn1_jj%
+option	option	nn1
+grants	grant	nn2
+were	be	vbdr
+properly	properly	rr
+approved	approve	vvn_jj
+and	and	cc
+409A		fo
+compliant	compliant	jj
+;		;
+this	this	dd1
+may	may	vm
+also	also	rr
+result	result	vvi
+in	in	ii
+a	a	at1
+change	change	nn1
+to	to	ii
+the	the	at
+price	price	nn1
+per	per	ii
+share	share	nn1
+if	if	cs
+contemplated	contemplate	vvn
+on	on	ii
+a	a	at1
+"		"
+pre-money	pre-money	jj_nn1
+valuation	valuation	nn1
+"		"
+basis	basis	nn1
+.		.
+<p>		null
+(		(
+There	there	ex_rl
+are	be	vbr
+more	more	dar
+aspects	aspect	nn2
+that	that	cst_dd1
+can	can	vm
+drive	drive	vvi
+up	up	rp_ii@
+the	the	at
+costs	cost	nn2
+,		,
+but	but	ccb
+those	those	dd2
+listed	list	vvn_vvd
+above	above	rl
+can	can	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+a	a	at1
+Cap	cap	nn1
+<p>		null
+Anytime	anytime	nnt1
+a	a	at1
+startup	start-up	nn1
+(		(
+or	or	cc
+an	a	at1
+investor	investor	nn1
+)		)
+hires	hire	vvz_nn2
+counsel	counsel	nn1_vv0
+,		,
+they	they	pphs2
+should	should	vm
+ask	ask	vvi
+for	for	if
+a	a	at1
+cap	cap	nn1
+on	on	ii
+the	the	at
+legal	legal	jj
+fees	fee	nn2
+;		;
+SLF	slf	np1
+works	work	vvz
+to	to	to
+ensure	ensure	vvi
+that	that	cst_dd1
+in	in	ii
+closing	closing	jj_nn1_vvg
+deals	deal	nn2_vvz
+such	such	ii21
+as	as	ii22
+early	early	jj
+financing	financing	nn1_vvg
+rounds	round	nn2_vvz
+,		,
+our	our	appge
+legal	legal	jj
+bill	bill	nn1
+comes	come	vvz
+under	under	ii
+the	the	at
+cap	cap	nn1
+,		,
+however	however	rgqv
+other	other	jj
+firms	firm	nn2
+have	have	vh0
+been	be	vbn
+known	know	vvn
+to	to	ii
+bill	bill	nn1
+at	at	ii
+the	the	at
+cap	cap	nn1
+regardless	regardless	rr
+of	of	io
+complexity	complexity	nn1
+or	or	cc
+simplicity	simplicity	nn1
+of	of	io
+the	the	at
+deal	deal	nn1
+.		.
+<p>		null
+If	if	cs
+an	a	at1
+attorney	attorney	nn1
+or	or	cc
+firm	firm	nn1
+does	do	vdz
+not	not	xx
+want	want	vvi
+to	to	to
+talk	talk	vvi
+in	in	ii31
+terms	terms	ii32
+of	of	ii33
+a	a	at1
+cap	cap	nn1
+on	on	ii
+the	the	at
+legal	legal	jj
+fee	fee	nn1
+,		,
+it	it	pph1
+may	may	vm
+be	be	vbi
+prudent	prudent	jj
+to	to	to
+search	search	vvi
+around	around	rp_rg@
+a	a	rr21
+little	little	rr22
+more	more	rrr_dar
+.		.
+<p>		null
+For	for	if
+more	more	dar
+information	information	nn1
+on	on	ii
+startup	start-up	nn1
+legal	legal	jj
+services	service	nn2
+,		,
+email	e-mail	vv0@
+us	us	ppio2
+at	at	ii
+sardar@sardarlawfirm.com		fo
+or	or	cc
+join	join	vv0
+us	us	ppio2
+for	for	if
+a	a	at1
+class	class	nn1
+taught	teach	vvn
+by	by	ii
+Benish		jj_nn1
+Shah	shah	np1_nn1@
+and	and	cc
+Sheheryar		np1_vv0_nn1
+Sardar	sardar	np1_nn1
+.		.
+<p>		null
+"		"
+Benish	benish	nn1_jj
+and	and	cc
+Sheheryar		np1_nn1_vv0
+provided	provide	vvd_cs
+many	many	da2
+useful	useful	jj
+insights	insight	nn2
+about	about	ii
+the	the	at
+startup	start-up	nn1
+world	world	nn1
+and	and	cc
+launching	launch	vvg
+a	a	at1
+company	company	nn1
+.		.
+I	i	ppis1
+thought	think	vvd
+I	i	ppis1
+knew	know	vvd
+the	the	at
+best	best	jjt
+way	way	nn1
+to	to	to
+launch	launch	vvi
+before	before	ii_cs
+the	the	at
+class	class	nn1
+,		,
+but	but	ccb
+they	they	pphs2
+helped	help	vvd
+fill	fill	nn1@_vv0
+in	in	ii
+the	the	at
+gaps	gap	nn2
+in	in	ii
+my	my	appge
+knowledge	knowledge	nn1
+about	about	ii
+forming	form	vvg
+a	a	at1
+corporation	corporation	nn1
+,		,
+raising	raise	vvg_nn1
+capital	capital	nn1
+,		,
+and	and	cc
+other	other	jj
+various	various	jj
+legal	legal	jj
+considerations	consideration	nn2
+.		.
+Highly	highly	rr
+recommended	recommend	vvn_vvd
+.		.
+"		"
+--		zz
+Chris	chris	np1
+Macke	macke	np1
+<p>		null
+"		"
+Great	great	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+was	be	vbdz
+personalized	personalize	vvn@_jj@
+,		,
+relatable	relatable	jj
+and	and	cc
+clearly	clearly	rr
+presented	present	vvn_vvd
+.		.
+My	my	appge
+partner	partner	nn1
+and	and	cc
+I	i	ppis1
+expected	expect	vvd
+to	to	to
+walk	walk	vvi
+away	away	rl
+confused	confuse	vvn_jj
+,		,
+but	but	ccb
+we	we	ppis2
+left	leave	vvd
+knowing	know	vvg
+the	the	at
+right	right	jj_nn1
+##3497650		fo
+<p>		null
+A	a	at1_zz1
+triumphant	triumphant	jj
+Vladimir	vladimir	np1
+Putin	putin	np1
+,		,
+Russian	russian	jj
+president	president	nn1
+from	from	ii
+2000	2000	mc
+to	to	ii
+2008	2008	mc
+before	before	ii
+becoming	become	vvg
+prime	prime	jj
+minister	minister	nn1
+due	due	jj
+to	to	to
+term	term	vvi
+limits	limit	nn2
+,		,
+has	have	vhz
+just	just	rr
+won	win	vvn
+a	a	at1
+third	third	md
+six-year	six-year	jj
+term	term	nn1
+with	with	iw
+nearly	nearly	rr
+64	64	mc
+percent	percent	nnu
+of	of	io
+the	the	at
+vote	vote	nn1
+.		.
+<p>		null
+Opposition	opposition	nn1
+claims	claim	vvz_nn2
+that	that	cst
+his	his	appge
+presidential	presidential	jj
+election	election	nn1
+victory	victory	nn1
+was	be	vbdz
+unfair	unfair	jj
+and	and	cc
+fraudulent	fraudulent	jj
+are	be	vbr
+ignored	ignore	vvn
+by	by	ii
+Putin	putin	np1
+.		.
+Instead	instead	rr
+,		,
+he	he	pphs1
+criticized	criticize	vvd
+the	the	at
+opposition	opposition	nn1
+for	for	if
+failing	fail	vvg
+to	to	to
+offer	offer	vvi
+a	a	at1
+constructive	constructive	jj
+program	program	nn1
+and	and	cc
+failing	fail	vvg
+to	to	to
+become	become	vvi
+a	a	at1
+real	real	jj
+political	political	jj
+force	force	nn1
+at	at	ii
+the	the	at
+ballot	ballot	nn1
+box	box	nn1
+--		zz
+difficult	difficult	jj
+to	to	to
+do	do	vdi
+in	in	ii
+a	a	at1
+country	country	nn1
+with	with	iw
+controlled	controlled	jj@
+elections	election	nn2
+.		.
+<p>		null
+Putin	putin	np1@_nn1
+'s	's	ge
+tough	tough	jj
+remarks	remark	nn2
+indicate	indicate	vv0
+he	he	pphs1
+is	be	vbz
+not	not	xx
+going	go	vvgk
+to	to	to
+be	be	vbi
+influenced	influence	vvn
+by	by	ii
+the	the	at
+massive	massive	jj
+protests	protest	nn2
+that	that	cst
+have	have	vh0
+revealed	reveal	vvn
+public	public	jj_rr@
+anger	anger	nn1_vv0
+over	over	ii_rp
+his	his	appge
+continuing	continuing	jj
+12-year	12-year	jj_nnt1
+rule	rule	nn1
+.		.
+He	he	pphs1
+will	will	vm
+no	no	at_rr%
+doubt	doubt	nn1_vv0
+appoint	appoint	vvi
+Medvedev	medvedev	np1
+to	to	to
+be	be	vbi
+Prime	prime	jj
+Minister	minister	nn1
+again	again	rt
+in	in	ii
+the	the	at
+interests	interest	nn2
+of	of	io
+stability	stability	nn1
+,		,
+though	though	cs
+his	his	appge
+next	next	md
+term	term	nn1
+of	of	io
+office	office	nn1
+may	may	vm
+not	not	xx
+be	be	vbi
+as	as	rg
+stable	stable	jj
+as	as	csa
+he	he	pphs1
+hopes	hope	vvz
+.		.
+Political	political	jj
+instability	instability	nn1
+in	in	ii
+Russia	russia	np1
+has	have	vhz
+been	be	vbn
+growing	grow	vvg
+over	over	ii_rp
+the	the	at
+years	year	nnt2
+and	and	cc
+anti-Kremlin	anti-kremlin	jj
+movements	movement	nn2
+have	have	vh0
+grown	grow	vvn
+in	in	ii
+confidence	confidence	nn1
+since	since	cs_ii@
+the	the	at
+December	december	npm1
+2011	2011	mc
+parliamentary	parliamentary	jj
+elections	election	nn2
+,		,
+when	when	cs_rrq
+Putin	putin	np1
+'s	's	ge_vbz
+United	united	jj_vvn
+Russia	russia	np1
+Party	party	nn1
+lost	lose	vvd_vvn
+its	its	appge
+super-majority	supermajority	nn1
+in	in	ii
+the	the	at
+Duma	duma	np1_nn1@
+.		.
+<p>		null
+A	a	at1_zz1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+calm	calm	nn1_jj
+and	and	cc
+anti-Kremlin	anti-kremlin	jj
+sentiment	sentiment	nn1
+has	have	vhz
+led	lead	vvn
+to	to	ii
+a	a	at1
+perception	perception	nn1
+of	of	io
+a	a	at1
+weaker	weak	jjr
+Putin	putin	nn1@_np1
+.		.
+At	at	ii
+the	the	at
+same	same	da
+time	time	nnt1
+,		,
+the	the	at
+European	european	jj_nn1
+financial	financial	jj
+crisis	crisis	nn1
+affected	affect	vvd@_vvn
+Russia	russia	np1
+'s	's	ge
+economy	economy	nn1
+because	because	cs
+an	a	at1
+estimated	estimated	jj@
+75	75	mc
+percent	percent	nnu
+of	of	io
+foreign	foreign	jj
+investment	investment	nn1
+in	in	ii
+Russia	russia	np1
+comes	come	vvz
+from	from	ii
+European	european	jj
+Union	union	nn1
+countries	country	nn2
+.		.
+Trade	trade	nn1
+has	have	vhz
+rebounded	rebound	vvn
+lately	lately	rr
+as	as	csa
+demand	demand	nn1
+for	for	if
+Russia	russia	np1
+'s	's	ge
+oil	oil	nn1
+and	and	cc
+gas	gas	nn1
+continues	continue	vvz
+and	and	cc
+prices	price	nn2
+for	for	if
+both	both	db2
+are	be	vbr
+at	at	ii
+record	record	nn1
+highs	high	nn2
+.		.
+Economic	economic	jj
+uncertainties	uncertainty	nn2
+however	however	rr
+,		,
+feed	feed	vv0_nn1
+into	into	ii
+domestic	domestic	jj
+political	political	jj
+problems	problem	nn2
+and	and	cc
+Putin	putin	np1_nn1@
+will	will	vm
+have	have	vhi
+to	to	to
+find	find	vvi
+a	a	at1
+new	new	jj
+balance	balance	nn1
+to	to	to
+weather	weather	vvi
+the	the	at
+volatility	volatility	nn1
+ahead	ahead	rl
+.		.
+<p>		null
+Any	any	dd
+sign	sign	nn1
+of	of	io
+weakness	weakness	nn1
+in	in	ii
+the	the	at
+Kremlin	kremlin	np1
+is	be	vbz
+likely	likely	jj
+to	to	to
+be	be	vbi
+welcomed	welcome	vvn
+by	by	ii
+the	the	at
+United	united	np1
+States	state	np1
+and	and	cc
+Central	central	jj
+European	european	jj
+countries	country	nn2
+,		,
+particularly	particularly	rr
+when	when	cs
+negotiating	negotiate	vvg
+the	the	at
+missile	missile	nn1
+defense	defense	nn1
+issue	issue	nn1
+.		.
+The	the	at
+emerging	emerging	jj
+states	state	nn2
+of	of	io
+the	the	at
+former	former	da
+Soviet	soviet	jj
+Union	union	nn1
+in	in	rr21
+particular	particular	rr22
+are	be	vbr
+always	always	rr
+looking	look	vvg
+for	for	if
+opportunities	opportunity	nn2
+to	to	to
+assert	assert	vvi
+their	their	appge
+independence	independence	nn1
+from	from	ii
+Russia	russia	np1
+.		.
+But	but	ccb
+the	the	at
+smaller	small	jjr
+breakaway	breakaway	nn1_jj
+territories	territory	nn2
+of	of	io
+the	the	at
+region	region	nn1
+such	such	ii21
+as	as	ii22
+the	the	at
+former	former	da
+Georgian	georgian	jj
+territory	territory	nn1
+of	of	io
+Abkhazia	abkhazia	np1
+and	and	cc
+the	the	at
+Nagorno-Karabakh	nagorno-karabakh	np1
+region	region	nn1
+of	of	io
+Azerbaijan	azerbaijan	np1
+are	be	vbr
+in	in	ii
+a	a	at1
+more	more	rgr
+ambivalent	ambivalent	jj
+position	position	nn1
+as	as	csa
+they	they	pphs2
+lack	lack	vv0@
+resources	resource	nn2
+to	to	to
+exist	exist	vvi
+as	as	rg@_csa
+independent	independent	jj
+nation-states	nation-state	nn2
+and	and	cc
+must	must	vm
+rely	rely	vvi
+on	on	ii_rp@
+Russian	russian	jj
+patronage	patronage	nn1
+.		.
+Russia	russia	np1
+has	have	vhz
+a	a	at1
+strong	strong	jj
+military	military	jj
+presence	presence	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+is	be	vbz
+provided	provide	vvn
+with	with	iw
+financial	financial	jj
+and	and	cc
+military	military	jj
+aid	aid	nn1
+through	through	ii
+neighboring	neighboring	vvg
+Armenia	armenia	np1
+.		.
+<p>		null
+Russia	russia	np1
+has	have	vhz
+shown	show	vvn
+that	that	cst
+it	it	pph1
+will	will	vm
+use	use	vvi
+its	its	appge
+dominant	dominant	jj
+position	position	nn1
+in	in	ii
+the	the	at
+breakaway	breakaway	jj_nn1
+areas	area	nn2
+to	to	to
+control	control	vvi
+the	the	at
+"		"
+parent	parent	nn1
+"		"
+states	state	nn2_vvz
+and	and	cc
+punish	punish	vv0
+them	them	ppho2
+if	if	cs
+they	they	pphs2
+do	do	vd0
+something	something	pn1
+Russia	russia	np1
+does	do	vdz
+not	not	xx
+like	like	vvi
+.		.
+For	for	rex21
+example	example	rex22
+Russia	russia	np1
+invaded	invade	vvd
+Georgia	georgia	np1
+in	in	ii
+2008	2008	mc
+when	when	rrq
+Georgia	georgia	np1
+attempted	attempt	vvd
+to	to	to
+join	join	vvi
+NATO	nato	np1
+.		.
+The	the	at
+breakaway	breakaway	jj_nn1
+states	state	nn2
+of	of	io
+South	south	np1
+Ossetia	ossetia	np1
+and	and	cc
+Abkhazia	abkhazia	np1
+were	be	vbdr
+recognized	recognize	vvn
+by	by	ii
+Russia	russia	np1
+who	who	pnqs
+keeps	keep	vvz
+troops	troop	nn2
+stationed	station	vvn
+there	there	rl
+as	as	ii_csa
+a	a	at1
+constant	constant	jj
+threat	threat	nn1
+to	to	ii
+Georgia	georgia	np1
+.		.
+<p>		null
+Recent	recent	jj
+elections	election	nn2
+in	in	ii
+South	south	np1
+Ossetia	ossetia	np1
+and	and	cc
+Transdniestria	transdniestria	np1
+,		,
+a	a	at1
+separatist	separatist	jj
+region	region	nn1
+of	of	io
+Moldava	moldava	np1
+,		,
+saw	see	vvd
+Russia	russia	np1
+'s	's	ge
+preferred	preferred	jj
+candidates	candidate	nn2
+both	both	rr_db2
+losing	lose	vvg
+,		,
+suggesting	suggest	vvg
+that	that	dd1_cst
+Russian	russian	jj
+influence	influence	nn1
+may	may	vm
+be	be	vbi
+waning	wane	vvg
+.		.
+But	but	ccb
+the	the	at
+need	need	nn1
+for	for	if
+Russian	russian	jj
+funding	funding	nn1
+still	still	rr
+guarantees	guarantee	vvz
+the	the	at
+allegiance	allegiance	nn1
+of	of	io
+smaller	small	jjr
+separatist	separatist	jj
+regions	region	nn2
+,		,
+and	and	cc
+while	while	cs
+Russia	russia	np1
+remains	remain	vvz
+a	a	at1
+relatively	relatively	rr
+powerful	powerful	jj
+country	country	nn1
+it	it	pph1
+will	will	vm
+continue	continue	vvi
+under	under	ii
+Putin	putin	np1
+to	to	to
+assertively	assertively	rr
+oversee	oversee	vvi
+the	the	at
+nations	nation	nn2
+in	in	ii
+the	the	at
+former	former	da
+Soviet	soviet	jj
+sphere	sphere	nn1
+.		.
+<p>		null
+That	that	dd1
+is	be	vbz
+why	why	rrq
+the	the	at
+issue	issue	nn1
+of	of	io
+the	the	at
+Gabala		np1_nn1@
+Radar	radar	nn1
+Station	station	nn1
+in	in	ii
+Azerbaijan	azerbaijan	np1
+is	be	vbz
+becoming	become	vvg
+a	a	at1
+symbolic	symbolic	jj
+yet	yet	rr
+pivotal	pivotal	jj
+actor	actor	nn1
+in	in	ii
+the	the	at
+missile	missile	nn1
+defense	defense	nn1
+question	question	nn1
+that	that	cst_dd1
+has	have	vhz
+preoccupied	preoccupied	jj_vvn%
+U.S.	us	np1
+and	and	cc
+Russian	russian	jj
+policymakers	policymaker	nn2
+for	for	if
+some	some	dd
+years	year	nnt2
+.		.
+The	the	at
+Gabala		np1_nn1@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii
+1985	1985	mc
+and	and	cc
+is	be	vbz
+now	now	rt
+leased	lease	vvn_vvd_jj
+and	and	cc
+operated	operate	vvn
+by	by	ii
+the	the	at
+Russian	russian	jj
+Aerospace	aerospace	nn1
+Defense	defense	nn1
+Forces	force	nn2
+.		.
+It	it	pph1
+has	have	vhz
+a	a	at1
+range	range	nn1
+of	of	io
+6,000	6,000	mc
+kilometers	kilometer	nnu2
+,		,
+covering	cover	vvg
+Iran	iran	np1
+,		,
+Turkey	turkey	np1
+,		,
+India	india	np1
+,		,
+Iraq	iraq	np1
+and	and	cc
+the	the	at
+entire	entire	jj
+Middle	middle	jj
+East	east	nd1
+,		,
+and	and	cc
+can	can	vm
+detect	detect	vvi
+and	and	cc
+track	track	vvi
+the	the	at
+launch	launch	nn1
+of	of	io
+missiles	missile	nn2
+to	to	to
+enable	enable	vvi
+a	a	at1
+defense	defense	nn1
+system	system	nn1
+to	to	to
+intercept	intercept	vvi
+offensive	offensive	jj
+strikes	strike	nn2
+.		.
+<p>		null
+The	the	at
+current	current	jj
+lease	lease	nn1
+expires	expire	vvz
+in	in	ii
+December	december	npm1
+2012	2012	mc
+,		,
+and	and	cc
+Moscow	moscow	np1
+wants	want	vvz
+to	to	to
+extend	extend	vvi
+the	the	at
+lease	lease	nn1
+for	for	if
+another	another	dd1
+25	25	mc
+years	year	nnt2
+.		.
+Azerbaijan	azerbaijan	np1
+'s	's	ge
+response	response	nn1
+has	have	vhz
+been	be	vbn
+to	to	to
+raise	raise	vvi
+the	the	at
+rent	rent	nn1
+,		,
+first	first	md
+from	from	ii
+the	the	at
+existing	existing	jj
+$7	$7	nnu
+million	million	nno
+a	a	at1
+year	year	nnt1
+to	to	ii
+$15	$15	nnu
+million	million	nno
+,		,
+then	then	rt
+to	to	ii
+$150	$150	nnu
+million	million	nno
+and	and	cc
+again	again	rt
+to	to	ii
+$300	$300	nnu
+million	million	nno
+.		.
+<p>		null
+The	the	at
+standoff	standoff	nn1
+is	be	vbz
+interesting	interesting	jj
+because	because	cs
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+needs	need	vvz
+modernization	modernization	nn1
+and	and	cc
+the	the	at
+Russians	russian	nn2
+are	be	vbr
+building	build	vvg@
+a	a	at1
+new	new	jj
+and	and	cc
+more	more	rgr
+powerful	powerful	jj
+station	station	nn1
+in	in	ii
+Armavir		np1_nn1
+,		,
+in	in	ii
+neighboring	neighboring	vvg
+Armenia	armenia	np1
+which	which	ddq
+can	can	vm
+replace	replace	vvi
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+when	when	cs_rrq
+its	its	appge
+second	second	md
+phase	phase	nn1
+comes	come	vvz
+online	online	rr_jj
+.		.
+By	by	ii
+increasing	increase	vvg
+the	the	at
+rent	rent	nn1
+so	so	rg_rr
+dramatically	dramatically	rr
+,		,
+Azerbaijan	azerbaijan	np1
+is	be	vbz
+asserting	assert	vvg
+its	its	appge
+independence	independence	nn1
+from	from	ii
+Russia	russia	np1
+and	and	cc
+its	its	appge
+ability	ability	nn1
+to	to	to
+offer	offer	vvi
+the	the	at
+station	station	nn1
+instead	instead	rr
+to	to	ii
+NATO	nato	np1
+.		.
+Speculation	speculation	nn1
+about	about	ii
+the	the	at
+reasons	reason	nn2
+behind	behind	ii
+Azerbaijan	azerbaijan	np1
+'s	's	ge
+new	new	jj
+assertiveness	assertiveness	nn1
+range	range	nn1
+from	from	ii
+the	the	at
+absence	absence	nn1
+of	of	io
+progress	progress	nn1
+in	in	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+finalizing	finalize	vvg
+the	the	at
+Trans-Caspian	trans-caspian	jj
+pipeline	pipeline	nn1
+.		.
+<p>		null
+If	if	cs
+Russia	russia	np1
+refuses	refuse	vvz
+to	to	to
+pay	pay	vvi
+up	up	rp
+,		,
+then	then	rt
+it	it	pph1
+will	will	vm
+lose	lose	vvi
+the	the	at
+Gabala		np1_nn1@
+Radar	radar	nn1
+Station	station	nn1
+.		.
+AZ	az	np1_vv0_nn1
+News	news	nn1
+online	online	rr_jj
+reports	report	vvz_nn2
+that	that	cst_dd1
+,		,
+"		"
+Moscow	moscow	np1
+then	then	rt
+will	will	vm
+not	not	xx
+only	only	rr
+lose	lose	vvi
+one	one	mc1
+of	of	io
+its	its	appge
+trump	trump	nn1
+cards	card	nn2
+in	in	ii
+negotiation	negotiation	nn1
+with	with	iw
+Washington	washington	np1
+on	on	ii
+missile	missile	nn1
+defense	defense	nn1
+,		,
+but	but	ccb
+it	it	pph1
+will	will	vm
+also	also	rr
+give	give	vvi
+the	the	at
+Americans	american	nn2
+a	a	at1
+station	station	nn1
+that	that	cst_dd1
+will	will	vm
+help	help	vvi
+them	them	ppho2
+conduct	conduct	vvi
+operations	operation	nn2
+against	against	ii
+Iran	iran	np1
+.		.
+"		"
+<p>		null
+However	however	rr
+,		,
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+may	may	vm
+not	not	xx
+be	be	vbi
+such	such	da
+a	a	at1
+trump	trump	nn1
+card	card	nn1
+after	after	ii
+all	all	db
+.		.
+In	in	ii
+2007	2007	mc
+,		,
+Putin	putin	np1
+offered	offer	vvd
+the	the	at
+station	station	nn1
+to	to	ii
+the	the	at
+United	united	np1
+States	state	np1
+if	if	cs
+they	they	pphs2
+would	would	vm
+abandon	abandon	vvi
+their	their	appge
+proposed	proposed	jj
+deployments	deployment	nn2
+of	of	io
+missile	missile	nn1
+defense	defense	nn1
+systems	system	nn2
+in	in	ii
+Poland	poland	np1
+and	and	cc
+Czech	czech	jj
+Republic	republic	nn1
+.		.
+The	the	at
+United	united	np1
+States	state	np1
+refused	refuse	vvd
+and	and	cc
+Russia	russia	np1
+then	then	rt
+had	have	vhd
+to	to	to
+appease	appease	vvi
+Iran	iran	np1
+who	who	pnqs
+thought	think	vvd
+that	that	cst
+the	the	at
+Russians	russian	nn2
+were	be	vbdr
+trying	try	vvg
+to	to	to
+gain	gain	vvi
+favor	favor	nn1_vv0
+with	with	iw
+the	the	at
+US	us	np1
+at	at	ii
+Iran	iran	np1
+'s	's	ge
+expense	expense	nn1
+.		.
+The	the	at
+Russians	russian	nn2
+explained	explain	vvd_vvn
+it	it	pph1
+away	away	rl
+by	by	ii
+saying	say	vvg
+that	that	cst
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+was	be	vbdz
+simply	simply	rr
+a	a	at1
+passive	passive	jj
+surveillance	surveillance	nn1
+system	system	nn1
+,		,
+a	a	at1
+listening	listening	jj_nn1
+post	post	nn1
+,		,
+and	and	cc
+had	have	vhd_vhn@
+no	no	at
+anti-missile	anti-missile	jj_nn1
+component	component	nn1
+.		.
+Moscow	moscow	np1
+continues	continue	vvz
+to	to	ii
+this	this	dd1
+day	day	nnt1
+to	to	to
+insist	insist	vvi
+that	that	cst
+Iran	iran	np1
+is	be	vbz
+not	not	xx
+capable	capable	jj
+of	of	io
+launching	launch	vvg
+ballistic	ballistic	jj
+missiles	missile	nn2
+and	and	cc
+that	that	cst
+the	the	at
+United	united	np1
+States	state	np1
+has	have	vhz
+an	a	at1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	to
+protect	protect	vvi
+them	them	ppho2
+against	against	ii
+a	a	at1
+possibly	possibly	rr
+belligerent	belligerent	jj
+Russia	russia	np1
+.		.
+<p>		null
+The	the	at
+fate	fate	nn1
+of	of	io
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+then	then	rt
+is	be	vbz
+highly	highly	rr
+symbolic	symbolic	jj
+of	of	io
+Russia	russia	np1
+'s	's	ge
+new	new	jj
+President	president	nn1
+'s	's	ge
+attitude	attitude	nn1
+toward	toward	ii
+the	the	at
+former	former	da
+Soviet	soviet	jj
+satellites	satellite	nn2
+.		.
+Putin	putin	np1@_nn1
+'s	's	ge
+new	new	jj
+Presidency	presidency	nn1
+could	could	vm
+well	well	rr
+be	be	vbi
+one	one	mc1
+of	of	io
+heightened	heightened	jj
+tensions	tension	nn2
+as	as	csa
+he	he	pphs1
+seeks	seek	vvz
+to	to	to
+suppress	suppress	vvi
+internal	internal	jj
+dissent	dissent	nn1
+by	by	ii
+creating	create	vvg
+external	external	jj
+enemies	enemy	nn2
+.		.
+Georgia	georgia	np1
+and	and	cc
+Chechnya	chechnya	np1
+were	be	vbdr
+hostage	hostage	nn1
+to	to	ii
+his	his	appge
+inordinate	inordinate	jj
+ambitions	ambition	nn2
+,		,
+and	and	cc
+the	the	at
+tragic	tragic	jj
+loss	loss	nn1
+of	of	io
+life	life	nn1
+and	and	cc
+the	the	at
+human	human	jj_nn1
+rights	right	nn2
+abuses	abuse	nn2
+have	have	vh0
+gained	gain	vvn
+Putin	putin	np1
+little	little	rr_jj_da1
+but	but	ccb
+international	international	jj
+disrepute	disrepute	nn1
+.		.
+If	if	cs
+Azerbaijan	azerbaijan	np1
+is	be	vbz
+pressured	pressure	vvn@_jj@
+to	to	to
+lower	lower	vvi
+the	the	at
+rent	rent	nn1
+by	by	ii
+an	a	at1
+autocratic	autocratic	jj
+Russia	russia	np1
+,		,
+then	then	rt
+the	the	at
+Gabala		np1_nn1@
+station	station	nn1
+would	would	vm
+be	be	vbi
+a	a	at1
+constant	constant	jj
+reminder	reminder	nn1
+that	that	cst
+Azerbaijan	azerbaijan	np1
+is	be	vbz
+still	still	rr
+a	a	at1
+client	client	nn1
+state	state	nn1_vv0
+,		,
+and	and	cc
+that	that	cst
+the	the	at
+Russians	russian	nn2
+have	have	vh0
+a	a	at1
+right	right	nn1
+to	to	to
+maintain	maintain	vvi
+their	their	appge
+last	last	md
+military	military	jj
+outpost	outpost	nn1
+in	in	ii
+an	a	at1
+independent	independent	jj
+country	country	nn1
+.		.
+<p>		null
+If	if	cs
+the	the	at
+United	united	np1
+States	state	np1
+were	be	vbdr
+to	to	to
+support	support	vvi
+Azerbaijan	azerbaijan	np1
+,		,
+and	and	cc
+perhaps	perhaps	rr
+reopen	reopen	vv0
+discussions	discussion	nn2
+with	with	iw
+the	the	at
+Russians	russian	nn2
+about	about	ii
+Gabala	gabala	np1
+and	and	cc
+remind	remind	vv0
+them	them	ppho2
+of	of	io
+their	their	appge
+earlier	early	jjr
+offer	offer	nn1
+,		,
+perhaps	perhaps	rr
+this	this	dd1
+relic	relic	nn1
+of	of	io
+the	the	at
+Cold	cold	jj
+War	war	nn1
+could	could	vm
+be	be	vbi
+taken	take	vvn
+over	over	rp
+by	by	ii
+NATO	nato	np1
+or	or	cc
+even	even	rr
+demolished	demolish	vvn_vvd
+,		,
+decommissioned	decommission	vvd_jj@
+or	or	cc
+turned	turn	vvd_vvn
+into	into	ii
+a	a	at1
+tourist	tourist	nn1
+hotel	hotel	nn1
+as	as	csa_ii@
+some	some	dd
+in	in	ii
+Azerbaijan	azerbaijan	np1
+have	have	vh0
+suggested	suggest	vvn
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+of	of	io
+the	the	at
+country	country	nn1
+and	and	cc
+photos	photo	nn2
+of	of	io
+the	the	at
+site	site	nn1
+show	show	vv0_nn1
+it	it	pph1
+to	to	to
+be	be	vbi
+an	a	at1
+especially	especially	rr
+ugly	ugly	jj
+piece	piece	nn1
+of	of	io
+brutal	brutal	jj
+concrete	concrete	jj_nn1
+Soviet	soviet	jj
+architecture	architecture	nn1
+.		.
+Let	let	vv0
+us	us	ppio2
+hope	hope	vvi
+a	a	at1
+pragmatic	pragmatic	jj
+President	president	nnb
+Putin	putin	np1
+will	will	vm
+see	see	vvi
+it	it	pph1
+as	as	rg@_csa
+technologically	technologically	rr
+outdated	outdated	jj_vvn@
+and	and	cc
+too	too	rg
+expensive	expensive	jj
+to	to	to
+continue	continue	vvi
+to	to	to
+maintain	maintain	vvi
+.		.
+Like	like	ii
+the	the	at
+statues	statue	nn2
+of	of	io
+Stalin	stalin	np1
+,		,
+Gabala	gabala	np1
+radar	radar	nn1
+station	station	nn1
+should	should	vm
+go	go	vvi
+--		zz
+along	along	ii21
+with	with	ii22
+Cold	cold	jj
+War	war	nn1
+symbols	symbol	nn2
+and	and	cc
+Cold	cold	jj
+War	war	nn1
+thinking	thinking	nn1_vvg
+.		.
+<p>		null
+Dr.	dr.-i	nnb
+Azeem		np1
+Ibrahim	ibrahim	np1
+is	be	vbz
+a	a	at1
+Research	research	nn1
+Professor	professor	nn1
+at	at	ii
+the	the	at
+US	us	np1
+Army	army	nn1
+War	war	nn1
+College	college	nn1
+,		,
+Lecturer	lecturer	nn1
+at	at	ii
+the	the	at
+University	university	nn1
+of	of	io
+Chicago	chicago	np1
+,		,
+Fellow	fellow	jj_nn1
+and	and	cc
+Member	member	nn1
+of	of	io
+the	the	at
+Board	board	nn1
+of	of	io
+Directors	director	nn2
+at	at	ii
+the	the	at
+Institute	institute	nn1
+of	of	io
+Social	social	jj
+Policy	policy	nn1
+and	and	cc
+Understanding	understanding	nn1_vvg
+and	and	cc
+a	a	at1
+former	former	da
+Research	research	nn1
+Scholar	scholar	nn1
+at	at	ii
+the	the	at
+Kennedy	kennedy	np1
+School	school	nn1
+of	of	io
+Government	government	nn1
+at	at	ii
+Harvard	harvard	np1
+and	and	cc
+World	world	nn1
+Fellow	fellow	nn1
+##3498051		fo
+<h>		null
+The	the	at
+Endless	endless	jj
+Baptism	baptism	nn1
+of	of	io
+Palestine	palestine	np1
+<p>		null
+For	for	if
+the	the	at
+last	last	md
+few	few	da2
+months	month	nnt2
+,		,
+I	i	ppis1
+'ve	have	vh0
+been	be	vbn
+working	work	vvg
+on	on	ii_rp@
+a	a	at1
+series	series	nn
+of	of	io
+essays	essay	nn2
+on	on	ii
+Palestine	palestine	np1
+.		.
+I	i	ppis1
+'ve	have	vh0
+now	now	rt
+written	write	vvn
+and	and	cc
+erased	erase	vvn
+my	my	appge
+words	word	nn2
+until	until	cs
+there	there	ex
+is	be	vbz
+nothing	nothing	pn1
+left	left	jj_vvn_vvd
+but	but	ccb
+the	the	at
+original	original	jj
+title	title	nn1
+of	of	io
+the	the	at
+series	series	nn
+.		.
+It	it	pph1
+could	could	vm
+fit	fit	vvi
+on	on	ii_rp@
+a	a	at1
+button	button	nn1
+:		:
+"		"
+Islamophobia	islamophobia	np1
+is	be	vbz
+not	not	xx
+the	the	at
+answer	answer	nn1
+to	to	ii
+Anti-Semitism	anti-semitism	nn1
+.		.
+"		"
+--		zz
+-Eventually	--eventually	rr
+,		,
+the	the	at
+title	title	nn1
+too	too	rr@
+had	have	vhn@_vhd
+to	to	to
+be	be	vbi
+scratched	scratch	vvn
+.		.
+Because	because	cs
+although	although	cs
+anti-Muslim	anti-muslim	jj
+sentiment	sentiment	nn1
+is	be	vbz
+fueled	fuel	vvn
+by	by	ii_rp%
+and	and	cc
+benefits	benefit	nn2
+US	us	np1
+imperialism	imperialism	nn1
+and	and	cc
+Israel	israel	np1
+'s	's	ge
+apartheid	apartheid	nn1
+practices	practice	nn2
+,		,
+Palestinian	palestinian	jj_nn1
+Christians	christian	nn2
+suffer	suffer	vv0
+as	as	rr21_rg
+well	well	rr22_rr
+.		.
+<p>		null
+Each	each	dd1
+day	day	nnt1
+I	i	ppis1
+tried	try	vvd
+to	to	to
+work	work	vvi
+.		.
+I	i	ppis1
+felt	feel	vvd
+myself	myself	ppx1
+covered	cover	vvn_vvd
+with	with	iw
+dust	dust	nn1
+.		.
+I	i	ppis1
+read	read	vv0_vvd
+of	of	io
+the	the	at
+erasure	erasure	nn1
+of	of	io
+Palestinian	palestinian	jj_nn1
+names	name	nn2
+from	from	ii
+Israeli	israeli	jj_nn1
+maps	map	nn2
+and	and	cc
+how	how	rrq
+each	each	dd1
+erasure	erasure	nn1
+was	be	vbdz
+attended	attend	vvn
+by	by	ii
+a	a	at1
+massacre	massacre	nn1
+of	of	io
+innocents	innocent	nn2
+.		.
+I	i	ppis1
+felt	feel	vvd
+myself	myself	ppx1
+consumed	consume	vvn_vvd
+in	in	ii
+darkness	darkness	nn1
+while	while	cs
+reading	read	vvg_nn1
+stories	story	nn2
+of	of	io
+Al-Dawayima		np1
+where	where	rrq_cs
+an	a	at1
+entire	entire	jj
+village	village	nn1
+of	of	io
+Palestinian	palestinian	jj_nn1
+citizens	citizen	nn2
+was	be	vbdz
+murdered	murder	vvn_jj
+,		,
+beaten	beat	vvn_jj
+,		,
+some	some	dd
+raped	raped	jj@_vvd@
+,		,
+their	their	appge
+bodies	body	nn2
+thrown	throw	vvn
+down	down	rp
+into	into	ii
+the	the	at
+town	town	nn1
+well	well	rr_nn1@
+by	by	ii
+Israeli	israeli	jj_nn1
+soldiers	soldier	nn2
+.		.
+i	i	mc1_zz1
+I	i	ppis1
+tried	try	vvd
+to	to	to
+write	write	vvi
+of	of	io
+the	the	at
+massacre	massacre	nn1
+of	of	io
+the	the	at
+people	people	nn
+of	of	io
+Nasir	nasir	np1
+al-din	al-din	np1
+,		,
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+their	their	appge
+hunger	hunger	nn1
+.		.
+If	if	cs
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+believe	believe	vvi
+me	me	ppio1
+,		,
+read	read	vv0_vvn_vvd
+and	and	cc
+read	read	vvd_vv0_vvn
+.		.
+<p>		null
+These	these	dd2
+massacres	massacre	nn2
+are	be	vbr
+the	the	at
+seeds	seed	nn2
+of	of	io
+Israel	israel	np1
+'s	's	ge
+creation	creation	nn1
+.		.
+The	the	at
+occupation	occupation	nn1
+of	of	io
+Palestinian	palestinian	jj_nn1
+land	land	nn1
+and	and	cc
+apartheid	apartheid	nn1
+conditions	condition	nn2
+for	for	if
+Palestinians	palestinian	nn2
+continues	continue	vvz
+to	to	ii
+the	the	at
+present	present	jj_nn1
+day	day	nnt1
+.		.
+At	at	ii
+the	the	at
+same	same	da
+time	time	nnt1
+there	there	ex
+is	be	vbz
+forced	forced	jj_vvn
+ignorance	ignorance	nn1
+of	of	io
+the	the	at
+history	history	nn1
+of	of	io
+Israel	israel	np1
+and	and	cc
+its	its	appge
+current	current	jj
+crimes	crime	nn2
+.		.
+As	as	ii_csa
+a	a	at1
+Muslim-raised		jj
+New	new	jj
+Yorker	yorker	np1
+,		,
+I	i	ppis1
+am	be	vbm
+baffled	baffled	jj_vvn
+and	and	cc
+horrified	horrify	vvd_vvn
+almost	almost	rr
+every	every	at1
+day	day	nnt1
+by	by	ii
+how	how	rgq@
+little	little	da1
+people	people	nn
+know	know	vv0
+about	about	ii
+Palestine	palestine	np1
+.		.
+I	i	ppis1
+can	can	vm
+not	not	xx
+read	read	vvi
+the	the	at
+New	new	np1
+York	york	np1
+Times	time	nnt2
+without	without	iw
+gagging	gag	vvg
+.		.
+There	there	ex
+is	be	vbz
+a	a	at1
+creation	creation	nn1
+of	of	io
+a	a	at1
+fake	fake	jj
+history	history	nn1
+right	right	nn1_rr
+before	before	ii_cs
+our	our	appge
+eyes	eye	nn2
+,		,
+the	the	at
+kind	kind	nn1
+of	of	io
+history	history	nn1
+that	that	cst_dd1
+hurts	hurt	vvz
+the	the	at
+most	most	rrt@_dat
+.		.
+<p>		null
+It	it	pph1
+is	be	vbz
+always	always	rr
+difficult	difficult	jj
+to	to	to
+find	find	vvi
+the	the	at
+words	word	nn2
+to	to	to
+say	say	vvi
+what	what	ddq
+I	i	ppis1
+know	know	vv0
+and	and	cc
+feel	feel	vvi
+about	about	ii
+Palestine	palestine	np1
+and	and	cc
+the	the	at
+ways	way	nn2
+in	in	ii
+which	which	ddq
+we	we	ppis2
+in	in	ii
+the	the	at
+United	united	np1
+States	state	np1
+are	be	vbr
+complicit	complicit	nn1_vv0
+in	in	ii
+Israel	israel	np1
+'s	's	ge
+crimes	crime	nn2
+because	because	cs
+when	when	cs
+I	i	ppis1
+do	do	vd0
+,		,
+I	i	ppis1
+hear	hear	vv0
+cries	cry	nn2
+of	of	io
+"		"
+Anti-Semite	anti-semite	nn1
+"		"
+thrown	throw	vvn
+like	like	ii
+dirt	dirt	nn1
+in	in	ii
+my	my	appge
+eyes	eye	nn2
+.		.
+This	this	dd1
+is	be	vbz
+what	what	ddq
+is	be	vbz
+done	do	vdn
+when	when	cs
+someone	someone	pn1
+tries	try	vvz
+to	to	to
+tell	tell	vvi
+the	the	at
+truth	truth	nn1
+of	of	io
+Palestine	palestine	np1
+,		,
+even	even	cs21
+though	though	cs22
+Zionism	zionism	nn1
+in	in	ii
+current	current	jj
+practice	practice	nn1
+has	have	vhz
+been	be	vbn
+included	include	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+'s	's	ge
+Rights	right	nn2
+on	on	ii
+par	par	nn1
+with	with	iw
+apartheid	apartheid	nn1
+and	and	cc
+neocolonialism	neo-colonialism	nn1
+.		.
+This	this	dd1
+Charter	charter	nn1
+has	have	vhz
+been	be	vbn
+ratified	ratify	vvn
+by	by	ii
+53	53	mc
+African	african	jj
+countries	country	nn2
+.		.
+<p>		null
+Before	before	cs
+they	they	pphs2
+were	be	vbdr
+bullied	bully	vvn
+into	into	ii
+changing	change	vvg
+the	the	at
+definition	definition	nn1
+,		,
+the	the	at
+UN	un	np1
+General	general	jj_nn1
+Assembly	assembly	nn1
+also	also	rr
+defined	define	vvn_jj@_vvd
+Zionism	zionism	nn1
+as	as	csa_ii@
+"		"
+a	a	at1
+form	form	nn1
+of	of	io
+racism	racism	nn1
+and	and	cc
+racial	racial	jj
+discrimination	discrimination	nn1
+"		"
+and	and	cc
+added	add	vvd_vvn
+that	that	cst
+"		"
+any	any	dd
+doctrine	doctrine	nn1
+of	of	io
+racial	racial	jj
+differentiation	differentiation	nn1
+of	of	io
+superiority	superiority	nn1
+is	be	vbz
+scientifically	scientifically	rr
+false	false	jj_rr@
+,		,
+morally	morally	rr
+condemnable	condemnable	jj
+,		,
+socially	socially	rr
+unjust	unjust	jj
+,		,
+and	and	cc
+dangerous	dangerous	jj
+.		.
+"		"
+This	this	dd1
+was	be	vbdz
+in	in	ii
+1975	1975	mc
+.		.
+Due	due	ii21
+to	to	ii22
+pressure	pressure	nn1
+from	from	ii
+the	the	at
+United	united	np1
+States	state	np1
+and	and	cc
+Israel	israel	np1
+,		,
+the	the	at
+UN	un	np1
+had	have	vhd
+to	to	to
+change	change	vvi
+its	its	appge
+tune	tune	nn1
+.		.
+At	at	ii
+the	the	at
+UN	un	np1
+Conference	conference	nn1
+on	on	ii
+Racism	racism	nn1
+in	in	ii
+2001	2001	mc
+,		,
+the	the	at
+United	united	np1
+States	state	np1
+and	and	cc
+Israel	israel	np1
+threatened	threaten	vvd
+to	to	to
+walk	walk	vvi
+away	away	ii21_rl
+from	from	ii22_ii
+the	the	at
+conference	conference	nn1
+if	if	cs
+Zionism	zionism	nn1
+continued	continue	vvd_vvn
+to	to	to
+be	be	vbi
+associated	associate	vvn
+with	with	iw
+racism	racism	nn1
+.		.
+Thus	thus	rr
+,		,
+Zionism	zionism	nn1
+was	be	vbdz
+n't	n't	xx
+labeled	label	vvn@_jj@
+as	as	csa_ii@
+racism	racism	nn1
+in	in	ii
+the	the	at
+UN	un	np1
+anymore	anymore	rr
+.		.
+However	however	rr
+,		,
+an	a	at1
+independent	independent	jj
+Human	human	jj_nn1
+Rights	right	nn2
+Forum	forum	nn1
+at	at	ii
+the	the	at
+same	same	da
+conference	conference	nn1
+did	do	vdd
+connect	connect	vvi
+Zionism	zionism	nn1
+with	with	iw
+racism	racism	nn1
+and	and	cc
+cited	cite	vvd
+Israel	israel	np1
+'s	's	ge
+racially	racially	rr
+inspired	inspired	jj_vvn
+brutality	brutality	nn1
+,		,
+acts	act	nn2_vvz
+of	of	io
+genocide	genocide	nn1
+,		,
+and	and	cc
+ethnic	ethnic	jj
+cleansing	cleansing	nn1
+of	of	io
+Palestinians	palestinian	nn2
+as	as	csa_rg@
+obvious	obvious	jj
+forms	form	nn2
+of	of	io
+racism	racism	nn1
+.		.
+<p>		null
+And	and	cc
+so	so	rr_cs@
+I	i	ppis1
+know	know	vv0
+I	i	ppis1
+am	be	vbm
+not	not	xx
+completely	completely	rr
+alone	alone	jj
+,		,
+but	but	ccb
+still	still	rr
+the	the	at
+words	word	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+this	this	dd1
+series	series	nn
+.		.
+I	i	ppis1
+could	could	vm
+only	only	rr
+begin	begin	vvi
+writing	write	vvg
+this	this	dd1
+piece	piece	nn1
+after	after	ii_cs
+John	john	np1
+Murillo	murillo	np1
+,		,
+a	a	at1
+poet	poet	nn1
+,		,
+teacher	teacher	nn1
+,		,
+and	and	cc
+friend	friend	nn1
+of	of	io
+friends	friend	nn2
+,		,
+shared	share	vvn_vvd
+during	during	ii
+a	a	at1
+Cave	cave	np1_nn1
+Canem		np1
+workshop	workshop	nn1
+,		,
+Lorca	lorca	np1
+'s	's	ge
+Theory	theory	nn1
+and	and	cc
+Play	play	nn1
+of	of	io
+the	the	at
+Duende	duende	np1
+.		.
+Lorca	lorca	np1@_nn1
+spoke	speak	vvd
+of	of	io
+the	the	at
+darkness	darkness	nn1
+.		.
+The	the	at
+beauty	beauty	nn1
+of	of	io
+his	his	appge
+words	word	nn2
+were	be	vbdr
+branches	branch	nn2
+I	i	ppis1
+could	could	vm
+grasp	grasp	vvi
+to	to	to
+see	see	vvi
+me	me	ppio1
+to	to	ii
+the	the	at
+other	other	jj
+side	side	nn1
+.		.
+In	in	ii
+the	the	at
+end	end	nn1
+,		,
+my	my	appge
+first	first	md
+response	response	nn1
+,		,
+before	before	cs
+I	i	ppis1
+could	could	vm
+write	write	vvi
+any	any	dd
+of	of	io
+what	what	ddq
+I	i	ppis1
+wrote	write	vvd
+above	above	rl
+,		,
+was	be	vbdz
+a	a	at1
+poem	poem	nn1
+,		,
+a	a	at1
+loose	loose	jj
+cento	cento	nn1
+created	create	vvn_vvd
+from	from	ii
+a	a	at1
+patchwork	patchwork	nn1
+of	of	io
+Gabriel	gabriel	np1
+Garcia	garcia	np1
+Lorca	lorca	np1
+'s	's	ge
+words	word	nn2
+:		:
+<p>		null
+i	i	zz1_mc1
+The	the	at
+movie	movie	nn1
+"		"
+Salt	salt	nn1
+of	of	io
+the	the	at
+Sea	sea	nn1
+"		"
+(		(
+written/directed		vvn
+by	by	ii
+Annemarie	annemarie	np1
+Jacir	jacir	np1
+)		)
+contains	contain	vvz
+a	a	at1
+poignant	poignant	jj
+and	and	cc
+necessary	necessary	jj
+response	response	nn1
+to	to	ii
+the	the	at
+Al-Dawayima		np1
+massacre	massacre	nn1_vv0
+.		.
+<p>		null
+iv	iv	mc
+The	the	at
+verses	verse	nn2
+of	of	io
+Jeremiah	jeremiah	np1
+from	from	ii
+the	the	at
+Hebrew	hebrew	jj_nn1
+Bible	bible	nn1
+are	be	vbr
+used	use	vvn
+to	to	to
+justify	justify	vvi
+the	the	at
+creation	creation	nn1
+of	of	io
+the	the	at
+State	state	nn1
+of	of	io
+Israel	israel	np1
+.		.
+<p>		null
+v	zz_v	ii@_zz1
+The	the	at
+drunken	drunken	jj
+soldier	soldier	nn1
+quotes	quote	nn2_vvz
+and	and	cc
+misquotes	misquote	vvz
+the	the	at
+Hebrew	hebrew	jj_nn1
+Bible	bible	nn1
+and	and	cc
+Theodor	theodor	np1
+Hertzl		np1
+,		,
+the	the	at
+founder	founder	nn1
+of	of	io
+Zionism	zionism	nn1
+.		.
+Hertzl		np1@_nn1
+'s	's	ge
+thoughts	thought	nn2
+on	on	ii
+the	the	at
+methods	method	nn2
+of	of	io
+creating	create	vvg
+the	the	at
+state	state	nn1
+of	of	io
+Israel	israel	np1
+are	be	vbr
+contradictory	contradictory	jj
+.		.
+He	he	pphs1
+wrote	write	vvd
+both	both	rr
+about	about	ii
+living	live	vvg
+peacefully	peacefully	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+it	it	pph1
+was	be	vbdz
+in	in	ii
+Uganda	uganda	np1
+or	or	cc
+Palestine	palestine	np1
+)		)
+and	and	cc
+"		"
+spiriting	spirit	vvg
+"		"
+these	these	dd2
+same	same	da
+residents	resident	nn2
+away	away	rl
+across	across	ii
+the	the	at
+border	border	nn1
+and	and	cc
+not	not	xx
+allowing	allow	vvg
+them	them	ppho2
+back	back	rp
+in	in	ii_rp@
+.		.
+Hertzl		np1@_nn1
+wrote	write	vvd
+:		:
+"		"
+The	the	at
+process	process	nn1
+of	of	io
+expropriation	expropriation	nn1
+and	and	cc
+the	the	at
+removal	removal	nn1
+of	of	io
+the	the	at
+poor	poor	jj
+must	must	vm
+be	be	vbi
+carried	carry	vvn
+out	out	rp
+discretely	discretely	rr
+and	and	cc
+circumspectly	circumspectly	rr
+.		.
+"		"
+Based	base	vvn
+on	on	ii
+how	how	rgq@_rrq
+little	little	rr
+most	most	dat
+US	us	np1
+citizens	citizen	nn2
+know	know	vv0
+of	of	io
+the	the	at
+brutal	brutal	jj
+treatment	treatment	nn1
+of	of	io
+Palestinians	palestinian	nn2
+,		,
+how	how	rrq_rgq@
+even	even	rr_jj%
+Israelis	israeli	nn2
+are	be	vbr
+fed	feed	vvn
+##3498852		fo
+<h>		null
+WCIC		jj_nn1_np1
+STATEMENT	statement	nn1
+ABOUT	about	ii
+THE	the	at
+RECENT	recent	jj
+PROTEST	protest	nn1
+IN	in	ii
+THE	the	at
+MUSLIM	muslim	jj
+WORLD	world	nn1
+<p>		null
+The	the	at
+Board	board	nn1
+of	of	io
+Trustees	trustee	nn2
+and	and	cc
+members	member	nn2
+of	of	io
+the	the	at
+Walnut	walnut	nn1
+Creek	creek	nn1
+Islamic	islamic	jj
+Center	center	nn1
+(		(
+WCIC		np1
+)		)
+strongly	strongly	rr
+condemn	condemn	vv0
+the	the	at
+individual	individual	jj_nn1
+acts	act	nn2
+which	which	ddq
+were	be	vbdr
+taken	take	vvn
+recently	recently	rr
+by	by	ii
+extremists	extremist	nn2
+in	in	ii
+Libya	libya	np1
+on	on	ii
+9/11/2012		mf
+by	by	ii
+attacking	attack	vvg
+the	the	at
+US	us	np1
+Consulate	consulate	np1_nn1_vv0
+in	in	ii
+Tripoli	tripoli	np1
+,		,
+causing	cause	vvg
+the	the	at
+death	death	nn1
+of	of	io
+four	four	mc
+American	american	jj
+diplomats	diplomat	nn2
+.		.
+The	the	at
+WCIC		jj_nn1
+community	community	nn1
+deeply	deeply	rr
+mourns	mourn	vvz
+the	the	at
+death	death	nn1
+of	of	io
+Ambassador	ambassador	nnb
+Chris	chris	np1
+Stevens	stevens	np1
+and	and	cc
+the	the	at
+other	other	jj_nn1@
+three	three	mc
+Consulate	consulate	nn1_np1_vv0
+employees	employee	nn2
+and	and	cc
+offers	offer	vvz@_nn2
+its	its	appge
+condolences	condolence	nn2
+to	to	ii
+the	the	at
+victims	victim	nn2
+'	'	ge
+families	family	nn2
+and	and	cc
+to	to	ii
+the	the	at
+American	american	jj
+people	people	nn
+.		.
+<p>		null
+The	the	at
+WCIC		nn1_np1
+further	far	rrr
+declares	declare	vvz
+,		,
+that	that	cst
+this	this	dd1
+violent	violent	jj
+act	act	nn1
+is	be	vbz
+un-Islamic	un-islamic	jj
+as	as	csa
+true	true	jj
+Islam	islam	nn1
+has	have	vhz
+always	always	rr
+viewed	view	vvn
+and	and	cc
+treated	treated	jj@_vvn_vvd@
+members	member	nn2
+of	of	io
+diplomatic	diplomatic	jj
+corps	corps	nn
+as	as	csa_ii@
+messengers	messenger	nn2
+of	of	io
+peace	peace	nn1
+who	who	pnqs
+are	be	vbr
+on	on	ii
+a	a	at1
+mission	mission	nn1
+to	to	to
+promote	promote	vvi
+peace	peace	nn1
+and	and	cc
+prosperity	prosperity	nn1
+among	among	ii
+nations	nation	nn2
+.		.
+<p>		null
+Furthermore	furthermore	rr
+,		,
+our	our	appge
+community	community	nn1
+endorses	endorse	vvz
+the	the	at
+statement	statement	nn1
+,		,
+released	release	vvn
+by	by	ii
+the	the	at
+Islamic	islamic	jj
+Society	society	nn1
+of	of	io
+North	north	nd1
+America	america	np1
+(		(
+ISNA	isna	np1
+)		)
+,		,
+stating	state	vvg
+that	that	dd1_cst
+"		"
+Leading	leading	jj_vvg
+American	american	jj
+Muslims	muslim	nn2
+and	and	cc
+senior	senior	jj
+representatives	representative	nn2
+of	of	io
+other	other	jj
+faiths	faith	nn2
+join	join	vv0
+together	together	rl
+to	to	to
+condemn	condemn	vvi
+the	the	at
+murder	murder	nn1
+of	of	io
+U.S.	us	np1
+diplomats	diplomat	nn2
+in	in	ii
+Libya	libya	np1
+and	and	cc
+the	the	at
+attack	attack	nn1
+on	on	ii
+the	the	at
+U.S.	us	np1
+Embassy	embassy	nn1
+in	in	ii
+Cairo	cairo	np1
+.		.
+"		"
+It	it	pph1
+continued	continue	vvd
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+false	false	jj
+narrative	narrative	nn1
+of	of	io
+American	american	jj
+society	society	nn1
+and	and	cc
+of	of	io
+American	american	jj
+values	value	nn2
+.		.
+It	it	pph1
+does	do	vdz
+not	not	xx
+represent	represent	vvi
+the	the	at
+views	view	nn2
+of	of	io
+the	the	at
+American	american	jj
+public	public	nn1
+as	as	ii
+a	a	at1
+whole	whole	nn1
+,		,
+nor	nor	cc
+does	do	vdz
+it	it	pph1
+represent	represent	vvi
+Jews	jew	nn2
+,		,
+Christians	christian	nn2
+,		,
+or	or	cc
+people	people	nn
+of	of	io
+any	any	dd
+other	other	jj
+faith	faith	nn1
+...		...
+As	as	csa_rg@
+horrific	horrific	jj
+and	and	cc
+offensive	offensive	jj_nn1@
+as	as	ii_csa
+the	the	at
+video	video	nn1
+might	might	vm
+be	be	vbi
+,		,
+nothing	nothing	pn1
+justifies	justify	vvz
+the	the	at
+sort	sort	nn1
+of	of	io
+violent	violent	jj
+acts	act	nn2
+we	we	ppis2
+have	have	vh0
+heard	hear	vvn
+reported	report	vvn_vvd
+in	in	ii
+Egypt	egypt	np1
+and	and	cc
+Libya	libya	np1
+.		.
+"		"
+<p>		null
+We	we	ppis2
+strongly	strongly	rr
+believe	believe	vv0
+that	that	cst
+the	the	at
+only	only	jj
+proper	proper	jj
+response	response	nn1
+to	to	ii
+intentional	intentional	jj
+provocations	provocation	nn2
+such	such	ii21
+as	as	ii22
+this	this	dd1
+video	video	nn1
+is	be	vbz
+to	to	to
+redouble	redouble	vvi
+our	our	appge
+joint	joint	jj
+efforts	effort	nn2
+to	to	to
+promote	promote	vvi
+mutual	mutual	jj
+understanding	understanding	nn1
+between	between	ii
+faiths	faith	nn2
+and	and	cc
+to	to	to
+marginalize	marginalize	vvi
+extremists	extremist	nn2
+of	of	io
+all	all	db
+stripes	stripe	nn2
+.		.
+We	we	ppis2
+all	all	db
+need	need	vv0_nn1
+to	to	to
+collectively	collectively	rr
+strive	strive	vvi
+to	to	to
+define	define	vvi
+and	and	cc
+adopt	adopt	vvi
+effective	effective	jj
+ways	way	nn2
+and	and	cc
+means	mean	vvz_nn
+to	to	to
+prevent	prevent	vvi
+such	such	da
+material	material	nn1
+which	which	ddq
+is	be	vbz
+offensive	offensive	jj
+,		,
+irresponsible	irresponsible	jj
+,		,
+and	and	cc
+has	have	vhz
+no	no	at
+value	value	nn1
+whatsoever	whatsoever	ddqv
+from	from	ii
+being	be	vbg
+posted	post	vvn
+on	on	ii
+the	the	at
+Internet	internet	nn1_np1
+.		.
+Nobody	nobody	pn1
+should	should	vm
+have	have	vhi
+the	the	at
+right	right	nn1
+to	to	to
+deeply	deeply	rr
+insult	insult	vvi
+and	and	cc
+ridicule	ridicule	vvi
+the	the	at
+believes	believe	vvz
+##3499451		fo
+<h>		null
+Wallace	wallace	np1
+And	and	cc
+Gromit	gromit	np1_vv0
+:		:
+A	a	at1@_zz1
+Matter	matter	nn1
+of	of	io
+Loaf	loaf	nn1
+And	and	cc
+Death	death	nn1
+(		(
+2008	2008	mc
+)		)
+(		(
+TV	tv	nn1
+,		,
+DivX	divx	np1_vv0_nn1
+,		,
+AVI	avi	np1
+)		)
+<p>		null
+Plot	plot	vv0_nn1
+:		:
+Wallace	wallace	np1
+and	and	cc
+Gromit	gromit	np1_nn1
+have	have	vh0
+a	a	at1
+brand	brand	jj21
+new	new	jj22
+business	business	nn1
+.		.
+The	the	at
+conversion	conversion	nn1
+of	of	io
+62	62	mc
+West	west	np1
+Wallaby		np1
+Street	street	nnl1
+is	be	vbz
+complete	complete	jj
+and	and	cc
+impressive	impressive	jj
+,		,
+the	the	at
+whole	whole	jj
+house	house	nn1
+is	be	vbz
+now	now	rt
+a	a	at1
+granary	granary	nn1_jj
+with	with	iw
+ovens	oven	nn2
+and	and	cc
+robotic	robotic	jj
+kneading	kneading	nn1@_vvg
+arms	arm	nn2
+.		.
+Huge	huge	jj
+mixing	mixing	nn1
+bowls	bowl	nn2
+are	be	vbr
+all	all	rr
+over	over	ii
+the	the	at
+place	place	nn1
+and	and	cc
+everything	everything	pn1
+is	be	vbz
+covered	cover	vvn
+with	with	iw
+a	a	at1
+layer	layer	nn1
+of	of	io
+flour	flour	nn1
+.		.
+On	on	ii
+the	the	at
+roof	roof	nn1
+is	be	vbz
+a	a	at1
+'	'	ge
+Wallace	wallace	np1
+patent-pending	patent-pending	jj
+'	'	ge
+old-fashioned	old-fashioned	jj
+windmill	windmill	nn1
+.		.
+The	the	at
+transformation	transformation	nn1
+is	be	vbz
+perfect	perfect	jj
+.		.
+Although	although	cs
+business	business	nn1
+is	be	vbz
+booming	booming	jj_vvg
+,		,
+Gromit	gromit	np1_nn1
+is	be	vbz
+concerned	concerned	jj_vvn%
+by	by	ii
+the	the	at
+news	news	nn1
+that	that	cst
+12	12	mc
+local	local	jj
+bakers	baker	nn2
+have	have	vh0
+'	'	ge
+disappeared	disappeared	jj@
+'	'	ge
+this	this	dd1
+year	year	nnt1
+--		zz
+but	but	ccb
+Wallace	wallace	np1
+is	be	vbz
+n't	n't	xx
+worried	worried	jj_vvn@
+.		.
+He	he	pphs1
+'s	be	vbz_vhz@
+too	too	rr@_rg
+distracted	distract	vvn_jj%_vvd
+and	and	cc
+'	'	ge
+dough-eyed		nn1@_jj
+'	'	ge
+in	in	ii
+love	love	nn1
+with	with	iw
+local	local	jj
+beauty	beauty	nn1
+and	and	cc
+bread	bread	nn1
+enthusiast	enthusiast	nn1
+,		,
+Piella		np1
+Bakewell	bakewell	np1
+,		,
+to	to	to
+be	be	vbi
+of	of	io
+much	much	da1
+help	help	nn1
+.		.
+While	while	cs
+they	they	pphs2
+enjoy	enjoy	vv0
+being	be	vbg
+the	the	at
+'	'	ge
+Toast	toast	nn1
+of	of	io
+the	the	at
+Town	town	nn1
+'	'	ge
+,		,
+Gromit	gromit	np1_vv0_nn1
+,		,
+with	with	iw
+his	his	appge
+master	master	nn1
+'s	's	ge
+life	life	nn1
+in	in	ii
+jeopardy	jeopardy	nn1
+,		,
+must	must	vm
+be	be	vbi
+the	the	at
+sleuth	sleuth	nn1
+and	and	cc
+solve	solve	vv0
+the	the	at
+escalating	escalating	jj
+murder	murder	nn1
+mystery	mystery	nn1
+--		zz
+in	in	ii
+what	what	ddq
+##3499550		fo
+<p>		null
+Costly	costly	jj
+equipment	equipment	nn1
+for	for	if
+biomechanical	biomechanical	jj
+analysis	analysis	nn1
+at	at	ii
+the	the	at
+National	national	jj
+Cricket	cricket	nn1
+Academy	academy	nn1
+(		(
+NCA	nca	np1
+)		)
+in	in	ii
+Lahore	lahore	np1
+is	be	vbz
+now	now	rt
+set	set	vv0_vvd_vvn
+to	to	to
+be	be	vbi
+used	use	vvn
+,		,
+after	after	cs_ii
+years	year	nnt2
+of	of	io
+neglect	neglect	nn1
+.		.
+The	the	at
+PCB	pcb	nn1
+has	have	vhz
+also	also	rr
+approved	approve	vvn
+renovation	renovation	nn1
+work	work	nn1_vv0
+at	at	ii
+the	the	at
+NCA	nca	nn1_np1
+indoor	indoor	jj
+school	school	nn1
+,		,
+and	and	cc
+is	be	vbz
+updating	update	vvg
+it	it	pph1
+with	with	iw
+a	a	at1
+modern	modern	jj
+video	video	nn1
+simulator	simulator	nn1
+.		.
+<p>		null
+The	the	at
+biomechanical	biomechanical	jj
+equipment	equipment	nn1
+was	be	vbdz
+procured	procure	vvn
+for	for	if
+about	about	rg
+Rs		nnu2
+44	44	mc
+million	million	nno
+(		(
+$460,000	$460,000	nnu
+)		)
+when	when	rrq_cs
+Nasim	nasim	np1
+Ashraf	ashraf	np1_nn1
+was	be	vbdz
+in	in	ii31
+charge	charge	ii32
+of	of	ii33
+the	the	at
+PCB	pcb	nn1
+,		,
+and	and	cc
+was	be	vbdz
+meant	mean	vvn
+to	to	to
+be	be	vbi
+installed	install	vvn
+by	by	ii
+December	december	npm1
+2008	2008	mc
+.		.
+Since	since	ii
+then	then	rt
+all	all	db
+the	the	at
+equipment	equipment	nn1
+-	-	-
+18	18	mc
+cameras	camera	nn2
+along	along	ii21
+with	with	ii22
+the	the	at
+other	other	jj
+supporting	supporting	jj
+apparatus	apparatus	nn1
+and	and	cc
+the	the	at
+relevant	relevant	jj
+software	software	nn1
+have	have	vh0
+been	be	vbn
+unused	unused	jj
+.		.
+The	the	at
+project	project	nn1
+was	be	vbdz
+put	put	vvn
+on	on	ii
+hold	hold	nn1
+by	by	ii
+the	the	at
+then	then	jj%
+chairman	chairman	nn1
+Ijaz	ijaz	np1
+Butt	butt	nn1_vv0
+after	after	ii_cs
+PCB	pcb	nn1
+'s	's	ge
+audit	audit	nn1
+revealed	reveal	vvd_vvn
+massive	massive	jj
+financial	financial	jj
+mismanagement	mismanagement	nn1
+and	and	cc
+the	the	at
+construction	construction	nn1
+contract	contract	nn1
+for	for	if
+the	the	at
+laboratory	laboratory	nn1
+where	where	cs_rrq
+the	the	at
+equipment	equipment	nn1
+was	be	vbdz
+to	to	to
+be	be	vbi
+housed	house	vvn
+was	be	vbdz
+suspended	suspend	vvn
+.		.
+<p>		null
+According	according	ii21
+to	to	ii22
+the	the	at
+plan	plan	nn1
+,		,
+part	part	nn1
+of	of	io
+the	the	at
+NCA	nca	np1_nn1
+'s	's	ge
+outdoor	outdoor	jj
+practice	practice	nn1
+area	area	nn1
+was	be	vbdz
+to	to	to
+be	be	vbi
+used	use	vvn
+to	to	to
+accommodate	accommodate	vvi
+the	the	at
+dedicated	dedicated	jj
+laboratory	laboratory	nn1
+that	that	cst_dd1
+would	would	vm
+enable	enable	vvi
+biomechanics	biomechanics	nn1_nn2
+experts	expert	nn2
+to	to	to
+take	take	vvi
+a	a	at1
+2D	2d	nnu
+analysis	analysis	nn1
+of	of	io
+a	a	at1
+bowler	bowler	nn1
+'s	's	ge
+action	action	nn1
+,		,
+by	by	ii
+filming	film	vvg
+the	the	at
+players	player	nn2
+and	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+The	the	at
+NCA	nca	nn1_np1
+biomechanics	biomechanics	nn1_nn2
+lab	lab	nn1
+is	be	vbz
+equipped	equip	vvn
+with	with	iw
+state	state	nn1
+of	of	io
+the	the	at
+art	art	nn1
+Advanced	advanced	jj_vvd_vvn
+Motion	motion	nn1
+Capture	capture	nn1_vv0
+Architecture	architecture	nn1
+from	from	ii
+the	the	at
+UK-based	uk-based	jj
+Vicon	vicon	nn1
+Motion	motion	nn1
+Systems	system	nn2
+Limited	limit	vvn@_jj
+.		.
+The	the	at
+lab	lab	nn1
+will	will	vm
+operate	operate	vvi
+with	with	iw
+18	18	mc
+motion-capture		jj
+cameras	camera	nn2
+and	and	cc
+6	6	mc
+high-speed	high-speed	jj
+video	video	nn1
+cameras	camera	nn2
+.		.
+The	the	at
+lab	lab	nn1
+was	be	vbdz
+temporarily	temporarily	rr
+activated	activate	vvn_vvd
+for	for	if
+a	a	at1
+brief	brief	jj
+period	period	nn1
+at	at	ii
+the	the	at
+NCA	nca	nn1_np1
+indoor	indoor	jj
+school	school	nn1
+earlier	early	rrr
+in	in	ii
+2008	2008	mc
+by	by	ii
+the	the	at
+Vicon	vicon	nn1_np1
+experts	expert	nn2
+but	but	ccb
+was	be	vbdz
+later	later	rrr
+shut	shut	vvn_vvd
+down	down	rp
+.		.
+<p>		null
+"		"
+We	we	ppis2
+are	be	vbr
+very	very	rg
+enthusiastic	enthusiastic	jj
+about	about	ii
+technology	technology	nn1
+and	and	cc
+keen	keen	jj
+to	to	to
+see	see	vvi
+the	the	at
+biomechanics	biomechanics	nn1
+lab	lab	nn1
+functioning	function	vvg
+as	as	rg
+soon	soon	rr
+as	as	csa
+possible	possible	jj
+,		,
+"		"
+PCB	pcb	nn1
+director	director	nn1
+academies	academy	nn2
+,		,
+Intikhab		np1
+Alam	alam	np1
+,		,
+told	tell	vvd_vvn
+ESPNcricinfo		np1_nn1
+.		.
+"		"
+We	we	ppis2
+are	be	vbr
+in	in	ii
+no	no	at
+doubt	doubt	nn1
+about	about	ii
+its	its	appge
+scope	scope	nn1
+and	and	cc
+execution	execution	nn1
+in	in	ii
+research	research	nn1
+and	and	cc
+for	for	if
+the	the	at
+development	development	nn1
+of	of	io
+the	the	at
+game	game	nn1
+and	and	cc
+we	we	ppis2
+obviously	obviously	rr
+want	want	vv0
+to	to	to
+see	see	vvi
+the	the	at
+technology	technology	nn1
+to	to	to
+be	be	vbi
+used	use	vvn
+in	in	ii
+our	our	appge
+players	player	nn2
+'	'	ge
+development	development	nn1
+.		.
+<p>		null
+"		"
+We	we	ppis2
+look	look	vv0
+forward	forward	rl
+to	to	ii
+the	the	at
+use	use	nn1
+of	of	io
+the	the	at
+tool	tool	nn1
+that	that	cst_dd1
+will	will	vm
+not	not	xx
+only	only	rr
+help	help	vvi
+bowlers	bowler	nn2
+to	to	to
+correct	correct	vvi
+their	their	appge
+flawed	flawed	jj
+actions	action	nn2
+but	but	ccb
+can	can	vm
+also	also	rr
+help	help	vvi
+the	the	at
+batsmen	batsman	nn2
+to	to	to
+enhance	enhance	vvi
+their	their	appge
+performance	performance	nn1
+.		.
+It	it	pph1
+can	can	vm
+also	also	rr
+prevent	prevent	vvi
+injuries	injury	nn2
+and	and	cc
+be	be	vbi
+used	use	vvn
+for	for	if
+rehabilitation	rehabilitation	nn1
+process	process	nn1
+.		.
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+why	why	rrq
+the	the	at
+equipment	equipment	nn1
+was	be	vbdz
+unattended	unattended	jj
+but	but	ccb
+importantly	importantly	rr
+now	now	rt
+we	we	ppis2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+have	have	vh0
+started	start	vvn
+retrieving	retrieve	vvg
+all	all	db
+the	the	at
+documentation	documentation	nn1
+and	and	cc
+updating	update	vvg
+them	them	ppho2
+accordingly	accordingly	rr
+to	to	to
+kick	kick	vvi
+off	off	rp_ii
+this	this	dd1
+landmark	landmark	nn1
+project	project	nn1
+.		.
+"		"
+<p>		null
+The	the	at
+PCB	pcb	nn1
+still	still	rr
+has	have	vhz
+an	a	at1
+understanding	understanding	nn1
+with	with	iw
+Vicon		np1_nn1
+,		,
+who	who	pnqs
+will	will	vm
+install	install	vvi
+the	the	at
+equipment	equipment	nn1
+once	once	cs@_rr
+the	the	at
+building	building	nn1
+is	be	vbz
+completed	complete	vvn
+.		.
+The	the	at
+project	project	nn1
+,		,
+according	according	ii21
+to	to	ii22
+Alam	alam	np1_nn1
+,		,
+will	will	vm
+be	be	vbi
+managed	manage	vvn
+by	by	ii
+a	a	at1
+team	team	nn1
+that	that	cst_dd1
+includes	include	vvz
+a	a	at1
+biomechanics	biomechanics	nn1
+expert	expert	nn1
+,		,
+doctors	doctor	nn2
+,		,
+a	a	at1
+mathematician	mathematician	nn1
+,		,
+computer	computer	nn1
+analysts	analyst	nn2
+and	and	cc
+coaches	coach	nn2
+.		.
+<p>		null
+"		"
+We	we	ppis2
+have	have	vh0
+entered	enter	vvn
+the	the	at
+first	first	md
+phase	phase	nn1
+of	of	io
+negotiation	negotiation	nn1
+with	with	iw
+the	the	at
+experts	expert	nn2
+to	to	to
+be	be	vbi
+taken	take	vvn
+on	on	rl21
+board	board	rl22
+for	for	if
+making	make	vvg
+the	the	at
+lab	lab	nn1
+functional	functional	jj
+,		,
+"		"
+Alam	alam	np1
+said	say	vvd
+.		.
+"		"
+The	the	at
+key	key	jj_nn1
+role	role	nn1
+is	be	vbz
+that	that	dd1
+of	of	io
+a	a	at1
+biomechanics	biomechanics	nn1
+expert	expert	nn1
+and	and	cc
+we	we	ppis2
+are	be	vbr
+already	already	rr
+engaged	engage	vvn_vvd
+with	with	iw
+an	a	at1
+expert	expert	nn1
+who	who	pnqs
+has	have	vhz
+done	do	vdn
+her	her	appge
+PhD	phd	nn1
+from	from	ii
+Austria	austria	np1
+.		.
+We	we	ppis2
+will	will	vm
+soon	soon	rr
+reach	reach	vvi
+an	a	at1
+agreement	agreement	nn1
+with	with	iw
+her	her	ppho1
+and	and	cc
+a	a	at1
+mathematician	mathematician	nn1
+to	to	to@
+work	work	vvi
+the	the	at
+laboratory	laboratory	nn1
+.		.
+Besides	besides	rr
+,		,
+we	we	ppis2
+have	have	vh0
+all	all	db
+the	the	at
+medical	medical	jj
+doctors	doctor	nn2
+,		,
+well-trained	well-trained	jj
+analysts	analyst	nn2
+and	and	cc
+coaches	coach	nn2
+.		.
+"		"
+Alam		np1@_nn1_vv0
+confirmed	confirm	vvd
+that	that	cst
+the	the	at
+equipment	equipment	nn1
+was	be	vbdz
+in	in	ii
+good	good	jj
+shape	shape	nn1
+though	though	cs
+the	the	at
+software	software	nn1
+needed	need	vvd_vvn
+some	some	dd
+upgrading	upgrading	nn1@_vvg
+.		.
+Once	once	rr
+operational	operational	jj
+,		,
+the	the	at
+PCB	pcb	nn1
+will	will	vm
+be	be	vbi
+the	the	at
+only	only	jj
+board	board	nn1
+in	in	ii
+Asia	asia	np1
+to	to	to
+own	own	vvi
+a	a	at1
+biomechanics	biomechanics	nn1
+lab	lab	nn1
+.		.
+<p>		null
+Since	since	cs
+Zaka	zaka	np1
+Ashraf	ashraf	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+far	far	rr
+,		,
+and	and	cc
+there	there	ex_rl
+have	have	vh0
+been	be	vbn
+many	many	da2
+scopes	scope	nn2
+in	in	ii
+the	the	at
+system	system	nn1
+.		.
+But	but	ccb
+I	i	ppis1
+am	be	vbm
+bothered	bother	vvn
+by	by	ii
+one	one	mc1
+thing-		nn1
+IS	be	vbz
+IT	it	nn1_pph1@
+BEING	be	vbg
+ACTUALLY	actually	rr
+DONE	do	vdn
+OR	or	cc
+JUST	just	rr
+SIMPLY	simply	rr
+TELLING	tell	vvg
+"		"
+BLAH	blah	uh
+BLAH	blah	uh
+WE	we	ppis2
+ARE	be	vbr
+DOING	do	vdg
+THIS	this	dd1
+BLAH	blah	uh
+BLAH	blah	uh
+"		"
+<p>		null
+Posted	post	vvn
+by	by	ii
+Faridoon		np1_nn1
+on	on	ii
+(		(
+November	november	npm1
+05	05	mc
+2012	2012	mc
+,		,
+10:32	10:32	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+So	so	rg
+far	far	rr
+so	so	rg
+good	good	jj
+from	from	ii
+Zaka	zaka	np1
+.		.
+No	no	at
+negative	negative	jj
+news	news	nn1
+about	about	ii
+the	the	at
+man	man	nn1
+.		.
+He	he	pphs1
+does	do	vdz
+not	not	xx
+make	make	vvi
+over	over	ii_rp
+the	the	at
+top	top	jj_nn1
+wild	wild	jj
+promises	promise	nn2
+.		.
+And	and	cc
+whatever	whatever	ddqv
+he	he	pphs1
+says	say	vvz
+,		,
+he	he	pphs1
+does	do	vdz
+.		.
+Keep	keep	vv0
+it	it	pph1
+up	up	rp_ii@
+PCB	pcb	nn1
+!		!
+<p>		null
+The	the	at
+aim	aim	nn1
+should	should	vm
+to	to	to
+build	build	vvi
+a	a	at1
+state	state	nn1
+of	of	io
+the	the	at
+art	art	nn1
+biomechanics	biomechanics	nn1_nn2
+facility	facility	nn1
+and	and	cc
+have	have	vh0
+enough	enough	dd_rr
+subject	subject	nn1_jj@
+matter	matter	nn1
+expertise	expertise	nn1
+to	to	to
+warrant	warrant	vvi
+the	the	at
+ICC	icc	np1
+to	to	to
+send	send	vvi
+players	player	nn2
+to	to	ii
+Pakistan	pakistan	np1
+to	to	to
+get	get	vvi
+their	their	appge
+action	action	nn1
+tested	test	vvn
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+halfblood-prince		nn1_jj
+on	on	ii
+(		(
+November	november	npm1
+05	05	mc
+2012	2012	mc
+,		,
+08:45	08:45	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+well	well	rr
+thats		vvz
+the	the	at
+immediate	immediate	jj
+effect	effect	nn1
+of	of	io
+arranging	arrange	vvg
+a	a	at1
+short	short	jj
+series	series	nn
+with	with	iw
+mighty	mighty	jj
+BCCI	bcci	np1
+..	...	...
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+05	05	mc
+2012	2012	mc
+,		,
+08:09		mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+Positive	positive	jj
+move	move	nn1
+..	...	...
+Well	well	rr
+done	do	vdn
+Zaka		nn1@
+and	and	cc
+all	all	db
+PCB	pcb	nn1
+team	team	nn1
+....	....	...
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+05	05	mc
+2012	2012	mc
+,		,
+07:38	07:38	mc
+AM	am	ra@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+04	04	mc
+2012	2012	mc
+,		,
+21:26	21:26	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Well	well	rr
+done	do	vdn
+PCB	pcb	nn1
+!		!
+Zaka		nn1_np1@
+is	be	vbz
+doing	do	vdg
+a	a	at1
+good	good	jj
+job	job	nn1
+so	so	rg
+far	far	rr
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+Syedimranabbas		np2_nn2@
+on	on	ii
+(		(
+November	november	npm1
+04	04	mc
+2012	2012	mc
+,		,
+20:00	20:00	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Well	well	rr
+done	do	vdn
+..	...	...
+seems	seem	vvz
+a	a	at1
+right	right	jj_nn1
+move	move	nn1_vv0
+..	...	...
+He	he	pphs1
+is	be	vbz
+doing	do	vdg
+quite	quite	rg
+well	well	rr
+..	...	...
+I	i	ppis1
+also	also	rr
+liked	like	vvd
+his	his	appge
+idea	idea	nn1
+of	of	io
+opening	open	vvg
+a	a	at1
+new	new	jj
+stadium	stadium	nn1
+in	in	ii
+islamabad		nn1
+.		.
+And	and	cc
+please	please	rr
+could	could	vm
+you	you	ppy
+guys	guy	nn2
+get	get	vv0
+some	some	dd
+nice	nice	jj
+palying		nn1@_jj@
+and	and	cc
+training	training	nn1_vvg@
+kits	kit	nn2
+for	for	if
+our	our	appge
+national	national	jj
+team	team	nn1
+.		.
+current	current	jj
+one	one	pn1_mc1
+the	the	at
+worst	bad	jjt
+in	in	ii
+cricekt		nn1
+history	history	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+getsetgopk		nn1
+on	on	ii
+(		(
+November	november	npm1
+04	04	mc
+2012	2012	mc
+,		,
+16:44	16:44	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+A	a	at1
+biomechanics	biomechanics	nn1
+lab	lab	nn1
+can	can	vm
+not	not	xx
+only	only	rr
+be	be	vbi
+used	use	vvn
+to	to	to
+judge	judge	vvi
+a	a	at1
+bowlers	bowler	nn2
+action	action	nn1_vv0%
+if	if	cs_csw@
+its	its	appge
+legal	legal	jj
+or	or	cc
+not	not	xx
+but	but	ccb
+can	can	vm
+be	be	vbi
+a	a	at1
+very	very	rg
+helpful	helpful	jj
+tool	tool	nn1
+to	to	to
+completely	completely	rr
+analyze	analyze	vvi
+a	a	at1
+bowlers	bowler	nn2
+action	action	nn1_vv0%
+,		,
+it	it	pph1
+can	can	vm
+identify	identify	vvi
+areas	area	nn2
+where	where	rrq_cs
+a	a	at1
+bowler	bowler	nn1
+puts	put	vvz
+extra	extra	jj
+stress	stress	nn1
+than	than	csn
+his	his	appge
+skeleton	skeleton	nn1
+can	can	vm
+handle	handle	vvi
+and	and	cc
+can	can	vm
+help	help	vvi
+improve	improve	vvi
+his	his	appge
+action	action	nn1
+a	a	rr31@
+great	great	rr32
+deal	deal	rr33
+.		.
+If	if	cs
+Mr.		nnb
+Zaka	zaka	np1
+was	be	vbdz
+there	there	rl
+instead	instead	ii21
+of	of	ii22
+that	that	dd1
+curse	curse	nn1
+called	call	vvn
+Ijaz	ijaz	np1
+Butt	butt	vv0
+this	this	dd1
+lab	lab	nn1
+would	would	vm
+have	have	vhi
+been	be	vbn
+operational	operational	jj
+some	some	dd
+three	three	mc
+years	year	nnt2
+ago	ago	ra
+but	but	ccb
+better	better	rrr_jjr
+##3499551		fo
+<p>		null
+Shahid	shahid	np1@_jj
+Afridi	afridi	np1
+has	have	vhz
+decided	decide	vvn
+to	to	to
+end	end	vvi
+a	a	at1
+nearly	nearly	rr
+four-year	four-year	jj
+hiatus	hiatus	nn1
+from	from	ii
+domestic	domestic	jj
+first-class	first-class	jj
+cricket	cricket	nn1
+in	in	ii
+a	a	at1
+bid	bid	nn1
+to	to	to
+regain	regain	vvi
+his	his	appge
+form	form	nn1
+ahead	ahead	ii21
+of	of	ii22
+the	the	at
+India	india	np1
+series	series	nn
+next	next	md
+month	month	nnt1
+.		.
+Afridi	afridi	np1
+will	will	vm
+represent	represent	vvi
+Habib	habib	np1
+Bank	bank	nn1_np1@
+Limited	limit	vvn@_jj_vvd%
+in	in	ii
+the	the	at
+ongoing	ongoing	jj
+President	president	nn1
+'s	's	ge
+Trophy	trophy	nn1
+,		,
+after	after	cs_ii
+last	last	nn1%_md
+having	have	vhg
+played	play	vvn
+for	for	if
+them	them	ppho2
+in	in	ii
+January	january	npm1
+2009	2009	mc
+.		.
+<p>		null
+"		"
+We	we	ppis2
+understand	understand	vv0
+he	he	pphs1
+Afridi	afridi	np1
+has	have	vhz
+been	be	vbn
+struggling	struggle	vvg
+with	with	iw
+his	his	appge
+form	form	nn1
+and	and	cc
+obviously	obviously	rr
+he	he	pphs1
+has	have	vhz
+to	to	to
+play	play	vvi
+quality	quality	nn1
+cricket	cricket	nn1
+to	to	to
+regain	regain	vvi
+it	it	pph1
+,		,
+"		"
+a	a	at1
+spokesman	spokesman	nn1
+from	from	ii
+HBL	hbl	np1
+sports	sport	nn2_vvz%
+department	department	nn1
+told	tell	vvd_vvn
+ESPNcricinfo		np1_nn1
+.		.
+"		"
+Unfortunately	unfortunately	rr
+there	there	ex
+is	be	vbz
+no	no	at
+limited-overs	limited-over	nn2
+cricket	cricket	nn1
+being	be	vbg
+played	play	vvn
+at	at	ii
+the	the	at
+moment	moment	nn1
+and	and	cc
+the	the	at
+on-going	ongoing	jj
+first-class	first-class	jj
+tournament	tournament	nn1
+is	be	vbz
+the	the	at
+way	way	nn1
+out	out	rp
+for	for	if
+him	him	ppho1
+to	to	to
+get	get	vvi
+engaged	engaged	jj
+to	to	to
+change	change	vvi
+his	his	appge
+dipping	dipping	jj_nn1
+form	form	nn1
+.		.
+"		"
+<p>		null
+Afridi	afridi	np1
+is	be	vbz
+currently	currently	rr
+in	in	ii
+the	the	at
+middle	middle	nn1
+of	of	io
+a	a	at1
+severe	severe	jj
+form	form	nn1
+trough	trough	nn1
+,		,
+highlighted	highlight	vvn_vvd
+at	at	ii
+the	the	at
+recent	recent	jj
+World	world	nn1
+Twenty20		fo
+.		.
+He	he	pphs1
+made	make	vvd
+only	only	rr
+30	30	mc
+runs	run	nn2_vvz
+in	in	ii
+six	six	mc
+matches	match	nn2
+,		,
+and	and	cc
+picked	pick	vvd_vvn
+up	up	rp
+four	four	mc
+wickets	wicket	nn2
+at	at	ii
+42.75	42.75	mc
+.		.
+In	in	ii
+ODIs	odis	np1
+this	this	dd1
+year	year	nnt1
+,		,
+he	he	pphs1
+has	have	vhz
+scored	score	vvn
+182	182	mc
+runs	run	nn2_vvz
+in	in	ii
+16	16	mc
+matches	match	nn2
+and	and	cc
+taken	take	vvn
+15	15	mc
+wickets	wicket	nn2
+at	at	ii
+43.13	43.13	mc
+(		(
+including	including	ii_vvg@
+a	a	at1
+five-for		mc
+against	against	ii
+the	the	at
+lightweights	lightweight	nn2
+of	of	io
+Afghanistan	afghanistan	np1
+)		)
+.		.
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+has	have	vhz
+drawn	draw	vvn
+criticism	criticism	nn1
+from	from	ii
+several	several	da2
+former	former	da
+players	player	nn2
+,		,
+with	with	iw
+some	some	dd
+blaming	blame	vvg
+Afridi	afridi	np1
+'s	's	ge
+poor	poor	jj
+form	form	nn1
+as	as	ii_csa
+the	the	at
+primary	primary	jj_nn1
+reason	reason	nn1
+for	for	if
+the	the	at
+team	team	nn1
+'s	's	ge
+failure	failure	nn1
+to	to	to
+reach	reach	vvi
+the	the	at
+final	final	nn1_jj
+.		.
+<p>		null
+Afridi	afridi	np1
+will	will	vm
+join	join	vvi
+the	the	at
+HBL	hbl	np1
+squad	squad	nn1
+in	in	ii31
+place	place	ii32
+of	of	ii33
+Pakistan	pakistan	np1
+left-arm	left-arm	nn1
+spinner	spinner	nn1
+Abdur	abdur	np1_nn1
+Rehman	rehman	np1_nn1
+,		,
+who	who	pnqs
+is	be	vbz
+currently	currently	rr
+serving	serve	vvg
+his	his	appge
+12	12	mc
+weeks	week	nnt2
+ban	ban	vv0_nn1
+for	for	if
+using	use	vvg
+recreational	recreational	jj
+drug	drug	nn1
+cannabis	cannabis	nn1
+during	during	ii
+his	his	appge
+stint	stint	nn1
+with	with	iw
+Somerset	somerset	np1
+in	in	ii
+the	the	at
+English	english	jj_nn1
+domestic	domestic	jj
+season	season	nnt1
+.		.
+"		"
+Though	though	cs
+Afridi	afridi	np1
+'s	's	ge
+name	name	nn1
+was	be	vbdz
+n't	n't	xx
+listed	list	vvn
+in	in	ii
+20-man	20-man	jj_nn1
+probables	probables	nn2_vvz
+for	for	if
+the	the	at
+team	team	nn1
+,		,
+he	he	pphs1
+can	can	vm
+take	take	vvi
+the	the	at
+place	place	nn1
+of	of	io
+Rehman	rehman	nn1_np1
+to	to	to
+play	play	vvi
+the	the	at
+rest	rest	nn1
+of	of	io
+the	the	at
+rounds	round	nn2
+ahead	ahead	ii21
+of	of	ii22
+the	the	at
+India	india	np1
+series	series	nn
+,		,
+"		"
+the	the	at
+spokesman	spokesman	nn1
+said	say	vvd
+.		.
+<p>		null
+@Syedimranabbas		fo
+He	he	pphs1
+is	be	vbz
+also	also	rr
+the	the	at
+reason	reason	nn1
+for	for	if
+bringing	bring	vvg
+some	some	dd
+of	of	io
+the	the	at
+biggest	big	jjt
+humiliations	humiliation	nn2
+for	for	if
+pkaistan		nn1
+on	on	ii_rp@
+and	and	cc
+off	off	ii_rp
+the	the	at
+field	field	nn1
+.		.
+I	i	ppis1
+think	think	vv0
+what	what	ddq
+Pakistan	pakistan	np1
+needs	need	vvz_nn2
+is	be	vbz
+at	at	rr21
+least	least	rr22
+ONE	one	mc1_pn1
+decent	decent	jj
+and	and	cc
+civilized	civilized	jj
+cricketer	cricketer	nn1
+,		,
+and	and	cc
+Afridi	afridi	np1
+is	be	vbz
+definitely	definitely	rr
+not	not	xx
+the	the	at
+answer	answer	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+07	07	mc
+2012	2012	mc
+,		,
+15:52		mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Shahid	shahid	jj_nn1
+khan	khan	nn1
+afridi		nn1
+is	be	vbz
+our	our	appge
+next	next	md
+captain	captain	nn1
+.........	..........	...
+<p>		null
+Posted	post	vvn
+by	by	ii
+Syedimranabbas		np2_nn2@
+on	on	ii
+(		(
+November	november	npm1
+07	07	mc
+2012	2012	mc
+,		,
+14:50	14:50	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+was	be	vbdz
+one	one	mc1
+of	of	io
+the	the	at
+biggest	big	jjt
+reason	reason	nn1
+of	of	io
+pakistan	pakistan-	nn1
+failure	failure	nn1
+in	in	ii
+world	world	nn1
+t20.		fo
+anyways	anyways	nn2
+best	best	rrt
+of	of	io
+luck	luck	nn1
+and	and	cc
+good	good	jj
+to	to	to
+hear	hear	vvi
+that	that	cst
+he	he	pphs1
+is	be	vbz
+playing	play	vvg
+in	in	ii_rp@
+domestic	domestic	jj
+games	game	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+07	07	mc
+2012	2012	mc
+,		,
+11:47	11:47	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+guyz		vv0_nn1
+stop	stop	nn1_vv0
+fighting	fighting	nn1_vvg
+..........	...........	...
+and	and	cc
+best	best	rrt_jjt
+of	of	io
+luck	luck	nn1
+lala	lala	nn1
+,		,
+we	we	ppis2
+all	all	db
+have	have	vh0
+our	our	appge
+hopes	hope	nn2
+on	on	ii
+u	u	zz1
+,		,
+i	i	zz1_mc1
+have	have	vh0
+full	full	rr%_jj
+believe	believe	vv0
+on	on	ii
+u	u	zz1
+,		,
+and	and	cc
+INSHALLAH		np1_nn1
+u	u	zz1
+will	will	vm
+fire	fire	vvi
+and	and	cc
+will	will	vm
+silence	silence	vvi
+all	all	db
+your	your	appge
+haters	hater	nn2
+aka	aka	nn1
+critics	critic	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+AamirAbuOzair		np1_nn1
+on	on	ii
+(		(
+November	november	npm1
+07	07	mc
+2012	2012	mc
+,		,
+09:35	09:35	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+My	my	appge
+friend	friend	nn1
+Zaheer	zaheer	np1_nn1
+Abbas	abbas	np1
+and	and	cc
+Javed	javed	np1
+Miandad		np1
+were	be	vbdr
+even	even	rr
+better	better	jjr
+,		,
+why	why	rrq
+do	do	vd0
+n't	n't	xx
+we	we	ppis2
+call	call	vvi
+them	them	ppho2
+.		.
+Afridi	afridi	np1
+should	should	vm
+accept	accept	vvi
+his	his	appge
+struggling	struggling	jj
+age	age	nn1
+and	and	cc
+form	form	nn1_vv0
+and	and	cc
+should	should	vm
+step	step	vvi
+aside	aside	rl
+,		,
+we	we	ppis2
+need	need	vv0
+younger	young	jjr
+and	and	cc
+talented	talented	jj
+persons	person	nn2
+to	to	to
+replace	replace	vvi
+him	him	ppho1
+that	that	cst_dd1
+can	can	vm
+take	take	vvi
+us	us	ppio2
+to	to	ii
+the	the	at
+next	next	md
+world	world	nn1
+cups	cup	nn2_vvz
+and	and	cc
+can	can	vm
+play	play	vvi
+for	for	if
+much	much	rr_da1
+longer	long	rrr_jjr
+.		.
+No	no	at_uh
+offense	offense	nn1_vv0
+to	to	ii
+him	him	ppho1
+but	but	ccb
+we	we	ppis2
+will	will	vm
+always	always	rr
+remember	remember	vvi
+him	him	ppho1
+as	as	csa_ii@
+one	one	mc1
+of	of	io
+the	the	at
+Greats	great	nn2
+but	but	ccb
+it	it	pph1
+is	be	vbz
+time	time	nnt1
+to	to	to
+accept	accept	vvi
+and	and	cc
+get	get	vvi
+some	some	dd
+talent	talent	nn1
+into	into	ii
+the	the	at
+team	team	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+FastTrackBully		np1_rr
+on	on	ii
+(		(
+November	november	npm1
+07	07	mc
+2012	2012	mc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Duck	duck	nn_vv0@
+Duck	duck	nn_vv0@
+Afridi	afridi	np1
+that	that	cst_dd1
+will	will	vm
+suit	suit	vvi
+him	him	ppho1
+more	more	dar
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+06	06	mc
+2012	2012	mc
+,		,
+23:08	23:08	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Afridi	afridi	np1
+needs	need	vvz
+to	to	to
+open	open	vvi
+batting	bat	vvg_nn1
+in	in	ii
+T-20.		mc
+afridi		nn1_jj
+is	be	vbz
+better	better	jjr
+captain	captain	nn1
+for	for	if
+odi		nn1_jj
+and	and	cc
+t20	t20	fo
+.		.
+<p>		null
+Afridi	afridi	np1
+was	be	vbdz
+the	the	at
+best	best	jjt
+thing	thing	nn1
+to	to	to
+have	have	vhi
+happened	happen	vvn@
+to	to	ii@
+Pakistan	pakistan	np1
+cricket	cricket	nn1
+in	in	ii
+a	a	at1
+long	long	jj
+time	time	nnt1
+....	....	...
+He	he	pphs1
+is	be	vbz
+a	a	at1
+MUCH	much	rr
+better	better	rrr_jjr
+ODI	odi	np1
+captain	captain	nn1
+than	than	csn
+Misbah		np1
+.		.
+He	he	pphs1
+has	have	vhz
+aggression	aggression	nn1
+and	and	cc
+passion	passion	nn1
+needed	need	vvn_vvd
+in	in	ii
+Pak	pak	np1
+cricket	cricket	nn1
+<p>		null
+Afridi	afridi	np1
+is	be	vbz
+a	a	at1
+star	star	nn1_jj@
+performer	performer	nn1
+and	and	cc
+a	a	at1
+definite	definite	jj
+match-winner		nn1
+.		.
+<p>		null
+Shahid	shahid	np1@_jj
+Afridi	afridi	np1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+aggressive	aggressive	jj
+batsmen	batsman	nn2
+of	of	io
+the	the	at
+world	world	nn1
+.		.
+Currently	currently	rr
+....	....	...
+Just	just	rr
+in	in	ii
+1world		fo
+Afridi	afridi	np1
+is	be	vbz
+the	the	at
+best	best	jjt
+all-rounder	all-rounder	nn1
+the	the	at
+BEST	best	jjt
+entertainer	entertainer	nn1
+in	in	ii
+the	the	at
+world	world	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+06	06	mc
+2012	2012	mc
+,		,
+22:55		mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+In	in	ii
+last	last	md
+2	2	mc
+years	year	nnt2
+Afridi	afridi	np1
+has	have	vhz
+one	one	mc1
+so	so	rg
+many	many	da2
+matches	match	nn2
+for	for	if
+Pakistan	pakistan	np1
+.		.
+Do	do	vd0
+n't	n't	xx
+think	think	vvi
+there	there	rl_ex
+is	be	vbz
+any	any	dd
+doubt	doubt	nn1_vv0
+in	in	ii
+Afridi	afridi	np1
+ability	ability	nn1
+to	to	to
+win	win	vvi
+matches	match	nn2
+.		.
+He	he	pphs1
+has	have	vhz
+said	say	vvn
+so	so	rg
+many	many	da2
+times	time	nnt2
+,		,
+he	he	pphs1
+is	be	vbz
+a	a	at1
+bowler	bowler	nn1
+who	who	pnqs
+can	can	vm
+bat	bat	vvi
+.		.
+Why	why	rrq
+do	do	vd0
+we	we	ppis2
+expect	expect	vvi
+him	him	ppho1
+to	to	to
+play	play	vvi
+a	a	at1
+big	big	jj
+inning	inning	nn1
+all	all	db
+the	the	at
+time	time	nnt1
+.		.
+Stop	stop	vv0
+complaining	complain	vvg
+about	about	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+not	not	xx
+be	be	vbi
+in	in	ii
+team	team	nn1
+.		.
+We	we	ppis2
+need	need	vv0
+Afridi	afridi	np1
+.		.
+He	he	pphs1
+is	be	vbz
+the	the	at
+match	match	nn1
+winner	winner	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+November	november	npm1
+06	06	mc
+2012	2012	mc
+,		,
+18:30	18:30	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+He	he	pphs1
+was	be	vbdz
+always	always	rr
+a	a	at1
+better	better	jjr
+test	test	nn1
+player	player	nn1
+than	than	csn
+a	a	at1
+ODI	odi	np1
+players	player	nn2
+<p>		null
+Posted	post	vvn
+by	by	ii
+SaeedKhanNiazi		np1_nn1_jj
+on	on	ii
+(		(
+November	november	npm1
+06	06	mc
+2012	2012	mc
+,		,
+17:33	17:33	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+contd		vv0_nn1
+:		:
+It	it	pph1
+is	be	vbz
+unfair	unfair	jj
+to	to	to
+include	include	vvi
+Afridi	afridi	np1
+as	as	csa
+being	be	vbg
+part	part	nn1
+of	of	io
+a	a	at1
+current	current	jj
+great	great	jj
+bowling	bowling	nn1
+attack	attack	nn1_vv0
+only	only	rr
+as	as	ii_csa
+an	a	at1
+attempt	attempt	nn1
+to	to	to
+overlook	overlook	vvi
+his	his	appge
+lack	lack	nn1
+of	of	io
+contribution	contribution	nn1
+.		.
+Let	let	vm21
+'s	be	vm22
+face	face	vvi
+##3504350		fo
+<h>		null
+5	5	mc
+Styles	style	nn2
+Of	of	io
+Slim	slim	jj
+Fit	fit	jj
+Shirts	shirt	nn2
+That	that	cst
+All	all	db
+Teenage	teenage	jj
+Girls	girl	nn2
+Love	love	vv0
+<h>		null
+5	5	mc
+Styles	style	nn2
+Of	of	io
+Slim	slim	jj
+Fit	fit	jj
+Shirts	shirt	nn2
+That	that	cst
+All	all	db
+Teenage	teenage	jj
+Girls	girl	nn2
+Love	love	vv0
+:		:
+<p>		null
+Slim	slim	jj_vv0@
+Fit	fit	jj
+Dress	dress	nn1
+Shirts	shirt	nn2
+<p>		null
+Slim	slim	jj_vv0@
+fit	fit	jj
+shirts	shirt	nn2
+have	have	vh0
+been	be	vbn
+created	create	vvn
+by	by	ii
+tailors	tailor	nn2
+to	to	to
+give	give	vvi
+all	all	db
+men	man	nn2
+a	a	at1
+defined	defined	jj@
+,		,
+and	and	cc
+incredibly	incredibly	rr
+appealing	appealing	jj_vvg
+look	look	nn1
+to	to	ii
+many	many	da2
+of	of	io
+the	the	at
+women	woman	nn2
+and	and	cc
+colleagues	colleague	nn2
+out	out	rp
+there	there	rl
+.		.
+We	we	ppis2
+'ve	have	vh0
+found	find	vvn
+that	that	cst_dd1
+getting	get	vvg
+a	a	at1
+great	great	jj
+fitting	fitting	jj_nn1
+slim	slim	jj
+fit	fit	jj
+shirt	shirt	nn1
+is	be	vbz
+all	all	db_rr@
+about	about	ii
+adopting	adopt	vvg
+a	a	at1
+style	style	nn1
+.		.
+<p>		null
+1	1	mc1
+)		)
+Jet	jet	nn1
+Black	black	np1@_nn1@_jj
+:		:
+<p>		null
+The	the	at
+jet	jet	nn1
+black	black	jj_nn1@
+shirt	shirt	nn1
+has	have	vhz
+been	be	vbn
+produced	produce	vvn
+to	to	to
+help	help	vvi
+you	you	ppy
+look	look	vvi
+your	your	appge
+best	best	jjt_rrt
+in	in	ii
+any	any	dd
+situation	situation	nn1
+.		.
+Like	like	ii
+the	the	at
+(		(
+in	in	ii
+)		)
+famous	famous	jj
+"		"
+little	little	jj_rr
+black	black	jj
+dress	dress	nn1
+"		"
+,		,
+this	this	dd1
+has	have	vhz
+been	be	vbn
+created	create	vvn
+to	to	to
+give	give	vvi
+you	you	ppy
+a	a	at1
+really	really	rr
+nice	nice	jj
+look	look	nn1
+even	even	cs21
+if	if	cs22
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+suit	suit	vvi
+the	the	at
+style	style	nn1
+.		.
+Wearing	wear	vvg
+a	a	at1
+jet	jet	nn1
+black	black	jj
+slim	slim	jj
+fit	fit	jj
+shirt	shirt	nn1
+will	will	vm
+give	give	vvi
+you	you	ppy
+that	that	cst_dd1
+look	look	vv0_nn1
+over	over	rp_ii
+all	all	db
+of	of	io
+the	the	at
+other	other	jj
+men	man	nn2
+in	in	ii
+the	the	at
+building	building	nn1
+.		.
+<p>		null
+2	2	mc
+)		)
+Contrast	contrast	nn1_vv0@
+Collar	collar	nn1
+:		:
+<p>		null
+You	you	ppy
+'ve	have	vh0
+all	all	rr@_db
+seen	see	vvn
+Gordon	gordon	np1
+Gecko	gecko	np1_nn1
+wearing	wear	vvg
+the	the	at
+blue	blue	jj
+shirt	shirt	nn1
+with	with	iw
+white	white	jj
+collar	collar	nn1
+and	and	cc
+cuffs	cuff	nn2_vvz
+.		.
+Regardless	regardless	rr
+of	of	io
+what	what	ddq
+you	you	ppy
+may	may	vm
+think	think	vvi
+of	of	io
+this	this	dd1
+design	design	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+popular	popular	jj
+and	and	cc
+sought-after	sought-after	jj
+designs	design	nn2
+that	that	cst
+you	you	ppy
+can	can	vm
+get	get	vvi
+.		.
+Women	woman	nn2
+love	love	vv0
+men	man	nn2
+who	who	pnqs
+ooze	ooze	vv0
+power	power	nn1
+,		,
+and	and	cc
+so	so	rr_cs@
+it	it	pph1
+'s	be	vbz
+recommended	recommend	vvn
+that	that	cst
+you	you	ppy
+'re	be	vbr
+able	able	jk
+to	to	to
+get	get	vvi
+a	a	at1
+contrast	contrast	nn1
+collar	collar	nn1
+shirt	shirt	nn1
+that	that	cst_dd1
+looks	look	vvz
+great	great	jj
+.		.
+<p>		null
+3	3	mc
+)		)
+Pin	pin	nn1_vv0@
+Stripe	stripe	np1_nn1
+:		:
+<p>		null
+Pin	pin	vv0@_nn1
+Striped	striped	jj
+shirts	shirt	nn2
+have	have	vh0
+been	be	vbn
+produced	produce	vvn
+to	to	to
+help	help	vvi
+you	you	ppy
+look	look	vvi
+fantastic	fantastic	jj
+,		,
+even	even	cs21
+if	if	cs22
+you	you	ppy
+'re	be	vbr
+not	not	xx
+well	well	rr
+suited	suit	vvn_vvd
+to	to	to
+slim	slim	vvi
+fit	fit	jj
+shirts	shirt	nn2
+.		.
+We	we	ppis2
+'ve	have	vh0
+found	find	vvn
+that	that	cst_dd1
+getting	get	vvg
+a	a	at1
+really	really	rr
+nice	nice	jj
+pin	pin	nn1
+striped	striped	jj
+shirt	shirt	nn1
+can	can	vm
+be	be	vbi
+done	do	vdn
+by	by	ii
+first	first	md
+finding	find	vvg_nn1
+the	the	at
+shirt	shirt	nn1
+that	that	cst_dd1
+fits	fit	vvz
+you	you	ppy
+well	well	rr
+,		,
+and	and	cc
+then	then	rt
+locating	locate	vvg
+the	the	at
+colours	color	nn2
+that	that	cst
+are	be	vbr
+required	require	vvn
+to	to	to
+help	help	vvi
+the	the	at
+shirt	shirt	nn1
+look	look	vv0_nn1
+good	good	jj
+.		.
+<p>		null
+4	4	mc
+)		)
+Multi-Coloured	multi-coloured	jj
+Stripe	stripe	nn1_np1
+:		:
+<p>		null
+Women	woman	nn2
+love	love	vv0
+men	man	nn2
+who	who	pnqs
+are	be	vbr
+powerful	powerful	jj
+and	and	cc
+protective	protective	jj
+,		,
+meaning	mean	vvg
+that	that	cst
+if	if	cs
+you	you	ppy
+want	want	vv0
+to	to	to
+get	get	vvi
+the	the	at
+most	most	rrt@_rgt
+out	out	ii21
+of	of	ii22
+this	this	dd1
+shirt	shirt	nn1
+--		zz
+you	you	ppy
+have	have	vh0
+to	to	to
+be	be	vbi
+able	able	jk
+to	to	to
+get	get	vvi
+the	the	at
+design	design	nn1
+that	that	cst_dd1
+'s	be	vbz
+really	really	rr
+going	go	vvgk
+to	to	to
+help	help	vvi
+you	you	ppy
+look	look	vvi
+great	great	jj
+,		,
+and	and	cc
+not	not	xx
+be	be	vbi
+garish	garish	jj
+.		.
+<p>		null
+Slim	slim	jj_vv0@
+fit	fit	jj
+Shirts	shirt	nn2
+<p>		null
+5	5	mc
+)		)
+Solid	solid	jj
+C	c	zz1_np1
+lour	lour	vv0_nn1
+:		:
+<p>		null
+Solid	solid	jj
+color	color	nn1
+shirts	shirt	nn2
+are	be	vbr
+fantastic	fantastic	jj
+if	if	cs_csw@
+you	you	ppy
+want	want	vv0
+to	to	to
+wear	wear	vvi
+them	them	ppho2
+out	out	rp
+to	to	ii
+town	town	nn1
+,		,
+or	or	cc
+just	just	rr
+around	around	ii_rp
+the	the	at
+office	office	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	to
+get	get	vvi
+a	a	at1
+really	really	rr
+nice	nice	jj
+solid	solid	jj
+colour	color	nn1
+shirt	shirt	nn1
+is	be	vbz
+all	all	db_rr@
+about	about	ii
+getting	get	vvg
+quality	quality	nn1
+designs	design	nn2
+that	that	cst
+are	be	vbr
+going	go	vvgk
+to	to	to
+help	help	vvi
+you	you	ppy
+##3504750		
+start	start	vvi
+viewing	view	vvg_nn1
+messages	message	nn2
+,		,
+select	select	vv0
+the	the	at
+forum	forum	nn1
+that	that	cst
+you	you	ppy
+want	want	vv0
+to	to	to
+visit	visit	vvi
+from	from	ii
+the	the	at
+selection	selection	nn1
+below	below	rl
+.		.
+<h>		null
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Been	be	vbn
+advised	advise	vvn
+to	to	ii
+re-post		nn1
+this	this	dd1
+in	in	ii
+here	here	rl
+:		:
+<p>		null
+Dear	dear	jj_rr@
+everyone	everyone	pn1
+,		,
+Here	here	rl
+is	be	vbz
+a	a	at1
+brief	brief	jj
+summary	summary	nn1
+of	of	io
+my	my	appge
+story	story	nn1
+:		:
+I	i	ppis1
+am	be	vbm
+a	a	at1
+revert	revert	vv0
+to	to	ii
+Islam	islam	nn1
+.		.
+I	i	ppis1
+said	say	vvd
+my	my	appge
+Shahadah		nn1@_np1
+on	on	ii
+the	the	at
+1st	1st	md
+of	of	io
+November	november	npm1
+this	this	dd1
+year	year	nnt1
+.		.
+I	i	ppis1
+was	be	vbdz
+christened	christen	vvn
+as	as	ii
+a	a	at1
+baby	baby	nn1
+and	and	cc
+went	go	vvn
+to	to	ii
+a	a	at1
+Church	church	nn1
+of	of	io
+England	england	np1
+school	school	nn1
+where	where	cs_rrq
+we	we	ppis2
+went	go	vvd
+to	to	ii
+Church	church	nn1
+once	once	rr_cs@
+a	a	at1
+week	week	nnt1
+but	but	ccb
+that	that	dd1
+was	be	vbdz
+about	about	ii
+it	it	pph1
+.		.
+Then	then	rt
+I	i	ppis1
+moved	move	vvd
+to	to	ii
+another	another	dd1
+school	school	nn1
+due	due	ii21
+to	to	ii22
+moving	move	vvg_jj@
+house	house	nn1
+(		(
+non	non	fu
+religious	religious	jj
+school	school	nn1
+this	this	dd1
+time	time	nnt1
+)		)
+.		.
+I	i	ppis1
+am	be	vbm
+17	17	mc
+so	so	cs@_rr
+I	i	ppis1
+still	still	rr
+go	go	vv0
+to	to	ii
+secondary	secondary	jj_nn1
+school	school	nn1
+;		;
+my	my	appge
+school	school	nn1
+is	be	vbz
+just	just	rr
+for	for	if
+girls	girl	nn2
+and	and	cc
+I	i	ppis1
+would	would	vm
+say	say	vvi
+the	the	at
+majority	majority	nn1
+are	be	vbr
+non-religious	non-religious	jj
+however	however	rr
+there	there	ex
+are	be	vbr
+a	a	at1
+handful	handful	nn1
+of	of	io
+Muslims	muslim	nn2
+in	in	ii
+each	each	dd1
+class-		nn1_jj
+we	we	ppis2
+are	be	vbr
+a	a	at1
+very	very	rg
+open	open	jj
+school	school	nn1
+.		.
+Anyway	anyway	rr
+,		,
+growing	grow	vvg
+up	up	rp
+I	i	ppis1
+didn	didn	vv0
+?		?
+t	t	zz1
+think	think	vv0
+much	much	rr_da1
+about	about	ii
+God	god	np1
+..	...	...
+I	i	ppis1
+just	just	rr
+prayed	pray	vvd
+when	when	cs_rrq
+I	i	ppis1
+wanted	want	vvd
+nice	nice	jj
+weather	weather	nn1
+or	or	cc
+something	something	pn1
+trivial	trivial	jj
+like	like	ii
+that	that	dd1
+!		!
+Then	then	rt
+,		,
+when	when	cs_rrq
+I	i	ppis1
+started	start	vvd
+high	high	jj
+school	school	nn1
+I	i	ppis1
+became	become	vvd
+agnostic/weak		jj
+atheist	atheist	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+my	my	appge
+partner	partner	nn1
+was	be	vbdz
+Muslim	muslim	jj
+?		?
+we	we	ppis2
+got/get		fu
+on	on	ii
+really	really	rr
+well	well	rr
+,		,
+and	and	cc
+I	i	ppis1
+get	get	vv0
+on	on	rp@_ii
+well	well	rr_nn1@
+with	with	iw
+her	her	appge_ppho1
+Muslim	muslim	jj
+friends	friend	nn2
+too	too	rr@
+.		.
+Due	due	ii21
+to	to	ii22
+our	our	appge
+friendship	friendship	nn1
+,		,
+I	i	ppis1
+got	get	vvd
+the	the	at
+amazing	amazing	jj
+chance	chance	nn1
+to	to	to
+spend	spend	vvi
+all	all	db
+of	of	io
+Ramadan	ramadan	nnt1
+with	with	iw
+her	her	appge
+family	family	nn1
+in	in	ii
+a	a	at1
+Muslim	muslim	jj
+country	country	nn1
+.		.
+We	we	ppis2
+had	have	vhd
+a	a	at1
+lot	lot	nn1
+of	of	io
+debates	debate	nn2
+about	about	ii
+God	god	np1
+during	during	ii
+this	this	dd1
+summer	summer	nnt1
+,		,
+and	and	cc
+we	we	ppis2
+spoke	speak	vvd
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+.		.
+On	on	ii
+my	my	appge
+return	return	nn1
+to	to	ii
+England	england	np1
+I	i	ppis1
+decided	decide	vvd
+to	to	to
+buy	buy	vvi
+a	a	at1
+Quran	quran	nn1
+and	and	cc
+I	i	ppis1
+started	start	vvd
+reading	read	vvg
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+about	about	ii
+Islam	islam	nn1
+.		.
+I	i	ppis1
+had	have	vhd
+a	a	at1
+lot	lot	nn1
+of	of	io
+doubts	doubt	nn2
+at	at	rr21
+first	first	rr22
+,		,
+but	but	ccb
+I	i	ppis1
+slowly	slowly	rr
+started	start	vvd_vvn@
+to	to	to
+find	find	vvi
+faith	faith	nn1
+in	in	ii
+God	god	np1
+.		.
+I	i	ppis1
+decided	decide	vvd
+then	then	rt
+,		,
+to	to	to
+visit	visit	vvi
+a	a	at1
+Mosque	mosque	nn1
+and	and	cc
+I	i	ppis1
+took	take	vvd
+my	my	appge
+Shahadah		nn1@_np1
+there	there	rl
+and	and	cc
+then	then	rt
+;		;
+they	they	pphs2
+also	also	rr
+gave	give	vvd
+me	me	ppio1
+lots	lots	pn
+of	of	io
+books	book	nn2
+to	to	to
+read	read	vvi
+.		.
+I	i	ppis1
+felt	feel	vvd
+uneasy	uneasy	jj
+however	however	rr
+,		,
+and	and	cc
+slightly	slightly	rr
+anxious	anxious	jj
+straight	straight	jj_rr
+after	after	cs_ii
+however	however	rrqv
+I	i	ppis1
+now	now	rt
+feel	feel	vv0
+more	more	rgr_dar_rrr
+secure	secure	jj_vv0
+..	...	...
+I	i	ppis1
+know	know	vv0
+God	god	np1
+exists	exist	vvz
+.		.
+My	my	appge
+problems	problem	nn2
+:		:
+My	my	appge
+friends	friend	nn2
+at	at	ii
+my	my	appge
+school	school	nn1
+are	be	vbr
+not	not	xx
+Muslim	muslim	jj
+,		,
+and	and	cc
+while	while	cs
+they	they	pphs2
+are	be	vbr
+lovely	lovely	jj
+and	and	cc
+understanding	understand	vvg_nn1_jj@
+people	people	nn
+,		,
+I	i	ppis1
+can	can	vm_vv0%
+?		?
+t	t	zz1
+tell	tell	vv0
+them	them	ppho2
+I	i	ppis1
+am	be	vbm
+Muslim	muslim	jj
+?		?
+they	they	pphs2
+think	think	vv0
+my	my	appge
+interest	interest	nn1
+is	be	vbz
+a	a	at1
+joke	joke	nn1
+and	and	cc
+think	think	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+?		?
+t	t	zz1
+drink	drink	vv0_nn1
+,		,
+etc	etc	ra
+.		.
+They	they	pphs2
+aren	aren	nn1
+?		?
+t	t	zz1
+the	the	at
+kind	kind	nn1
+of	of	io
+people	people	nn
+that	that	cst
+always	always	rr
+drink	drink	vv0
+and	and	cc
+party	party	nn1
+but	but	ccb
+occasionally	occasionally	rr
+they	they	pphs2
+drink	drink	vv0
+,		,
+and	and	cc
+I	i	ppis1
+can	can	vm_vv0%
+?		?
+t	t	zz1
+get	get	vv0
+involved	involved	jj
+with	with	iw
+that	that	dd1
+,		,
+plus	plus	nn1@_rr%_ii
+,		,
+they	they	pphs2
+just	just	rr
+don	don	vv0
+?		?
+t	t	zz1
+understand	understand	vv0
+and	and	cc
+I	i	ppis1
+am	be	vbm
+finding	find	vvg
+it	it	pph1
+hard	hard	rr_jj
+.		.
+I	i	ppis1
+really	really	rr
+wish	wish	vv0
+I	i	ppis1
+was	be	vbdz
+surrounded	surround	vvn
+by	by	ii
+people	people	nn
+who	who	pnqs
+would	would	vm
+constantly	constantly	rr
+remind	remind	vvi
+me	me	ppio1
+of	of	io
+Allah	allah	np1
+.		.
+My	my	appge
+family	family	nn1
+kind	kind	rr21%_nn1
+of	of	rr22_io
+know	know	vv0
+I	i	ppis1
+have	have	vh0
+converted	convert	vvn
+,		,
+but	but	ccb
+I	i	ppis1
+said	say	vvd
+it	it	pph1
+in	in	ii_rp@
+passing	passing	nn1_vvg_jj
+,		,
+and	and	cc
+I	i	ppis1
+don	don	vv0
+?		?
+t	t	zz1
+pray	pray	vv0
+yet	yet	rr
+(		(
+another	another	dd1
+problem	problem	nn1
+..	...	...
+it	it	pph1
+?		?
+s	s	zz1
+too	too	rr@
+difficult	difficult	jj
+.		.
+I	i	ppis1
+am	be	vbm
+at	at	ii
+school	school	nn1
+during	during	ii
+3	3	mc
+of	of	io
+those	those	dd2
+and	and	cc
+I	i	ppis1
+can	can	vm_vv0%
+?		?
+t	t	zz1
+skip	skip	vv0_nn1
+class	class	nn1
+so	so	cs@_rr
+I	i	ppis1
+will	will	vm
+have	have	vhi
+to	to	to
+make	make	vvi
+up	up	rp
+for	for	if
+them	them	ppho2
+and	and	cc
+just	just	rr
+..	...	...
+argh	argh	vv0_nn1
+)		)
+.		.
+Anyway	anyway	rr
+,		,
+my	my	appge
+family	family	nn1
+are	be	vbr
+okay	okay	jj
+with	with	iw
+it	it	pph1
+..	...	...
+not	not	xx
+happy	happy	jj
+,		,
+but	but	ccb
+okay	okay	rr
+?		?
+my	my	appge
+mother	mother	nn1
+is	be	vbz
+a	a	at1
+Christian	christian	jj_nn1@
+(		(
+but	but	ccb
+not	not	xx
+practicing	practice	vvg
+)		)
+and	and	cc
+my	my	appge
+brother	brother	nn1
+an	a	at1
+atheist	atheist	nn1_jj
+.		.
+Today	today	rt
+has	have	vhz
+been	be	vbn
+an	a	at1
+awful	awful	jj
+day	day	nnt1
+,		,
+I	i	ppis1
+feel	feel	vv0
+tension	tension	nn1
+between	between	ii
+my	my	appge
+friends	friend	nn2
+and	and	cc
+I	i	ppis1_zz1%
+,		,
+and	and	cc
+tension	tension	nn1
+within	within	ii
+myself	myself	ppx1
+due	due	ii21
+to	to	ii22
+my	my	appge
+constant	constant	jj
+sinning	sinning	nn1@
+(		(
+i.e		rex
+I	i	zz1%_ppis1
+don	don	vv0_nn1
+?		?
+t	t	zz1
+treat	treat	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+change	change	vv0_nn1
+..	...	...
+lying	lying	nn1@_vvg
+etc	etc	ra
+)		)
+.		.
+To	to	to
+make	make	vvi
+matters	matter	nn2
+worse	bad	jjr_rrr@
+,		,
+our	our	appge
+very	very	rg
+new	new	jj
+little	little	jj
+puppy	puppy	nn1
+might	might	vm
+die	die	vvi
+..	...	...
+he	he	pphs1
+doesn	doesn	vv0
+?		?
+t	t	zz1
+have	have	vh0
+much	much	da1
+chance	chance	nn1
+and	and	cc
+we	we	ppis2
+love	love	vv0
+him	him	ppho1
+so	so	rg
+much	much	da1
+?		?
+.		.
+I	i	ppis1
+told	tell	vvd
+my	my	appge
+brother	brother	nn1
+I	i	ppis1
+would	would	vm
+pray	pray	vvi
+for	for	if
+the	the	at
+pup	pup	nn1
+,		,
+but	but	ccb
+he	he	pphs1
+said	say	vvd
+?		?
+God	god	np1
+doesn	doesn	nn1_vv0
+?		?
+t	t	zz1
+exist	exist	vv0
+!		!
+!		!
+!		!
+?		?
+?		?
+I	i	ppis1
+get	get	vv0
+very	very	rg
+frustrated	frustrated	jj
+.		.
+Even	even	cs21
+though	though	cs22
+I	i	ppis1
+know	know	vv0
+God	god	np1
+exists	exist	vvz
+I	i	ppis1
+sometimes	sometimes	rt
+begin	begin	vv0
+to	to	to
+doubt	doubt	vvi
+since	since	cs
+everyone	everyone	pn1
+around	around	ii
+me	me	ppio1
+doesn	doesn	nn1
+?		?
+t	t	zz1
+believe	believe	vv0
+.		.
+I	i	ppis1
+am	be	vbm
+feeling	feel	vvg
+so	so	rr_rg
+lost	lose	vvn_jj@_vvd
+and	and	cc
+stressed	stress	vvn
+out	out	rp
+right	right	rr
+now	now	rt
+.		.
+They	they	pphs2
+are	be	vbr
+just	just	rr
+a	a	at1
+few	few	da2
+of	of	io
+my	my	appge
+issues	issue	nn2
+.		.
+HELP	help	vv0_nn1
+?		?
+please	please	rr
+..	...	...
+EDIT	edit	vv0
+:		:
+My	my	appge
+puppy	puppy	nn1
+died	die	vvd
+yesterday	yesterday	rt
+..	...	...
+is	be	vbz
+there	there	ex_rl%
+really	really	rr
+a	a	at1
+God	god	nn1@_np1
+..	...	...
+seriously	seriously	rr
+Rebecca	rebecca	np1
+xxx	zzx	mc
+<h>		null
+Re	re	np1@_ii
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Congratulations	congratulations	nn2
+on	on	ii
+your	your	appge
+recent	recent	jj
+conversion	conversion	nn1
+to	to	ii
+Islam	islam	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+it	it	pph1
+easier	easy	jjr_rrr
+for	for	if
+you	you	ppy
+and	and	cc
+give	give	vvi
+you	you	ppy
+the	the	at
+correct	correct	jj
+knowledge	knowledge	nn1
+of	of	io
+this	this	dd1
+beautiful	beautiful	jj
+religion	religion	nn1
+and	and	cc
+the	the	at
+ability	ability	nn1
+to	to	ii
+practice	practice	nn1
+it	it	pph1
+in	in	ii
+comfort	comfort	nn1
+.		.
+Ameen	ameen	nn1_np1@_jj
+<p>		null
+Firstly	firstly	rr
+,		,
+you	you	ppy
+must	must	vm
+move	move	vvi
+away	away	ii21_rl
+from	from	ii22_ii
+your	your	appge
+non-Muslim	non-muslim	jj
+friends	friend	nn2
+.		.
+If	if	cs
+they	they	pphs2
+are	be	vbr
+inviting	invite	vvg_jj
+you	you	ppy
+to	to	ii
+things	thing	nn2
+like	like	ii
+alcohol	alcohol	nn1
+and	and	cc
+other	other	jj
+sinful	sinful	jj
+things	thing	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Stick	stick	vv0_nn1
+to	to	ii
+your	your	appge
+Muslim	muslim	jj
+friends	friend	nn2
+,		,
+especially	especially	rr
+the	the	at
+one	one	pn1
+who	who	pnqs
+invited	invite	vvd
+you	you	ppy
+to	to	ii
+Islam	islam	nn1
+in	in	ii
+the	the	at
+first	first	md
+place	place	nn1
+.		.
+<p>		null
+Sister	sister	nn1
+,		,
+one	one	mc1
+thing	thing	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+understand	understand	vvi
+is	be	vbz
+that	that	cst
+this	this	dd1
+religion	religion	nn1
+is	be	vbz
+very	very	rg
+easy	easy	jj
+.		.
+Allah	allah	np1
+does	do	vdz
+not	not	xx
+burden	burden	vvi
+a	a	at1
+soul	soul	nn1
+with	with	iw
+more	more	dar
+than	than	csn
+it	it	pph1
+can	can	vm
+bear	bear	vvi
+.		.
+As	as	ii21_csa
+for	for	ii22_if
+you	you	ppy
+missing	miss	vvg_jj
+prayers	prayer	nn2
+,		,
+this	this	dd1
+is	be	vbz
+not	not	xx
+good	good	jj
+.		.
+If	if	cs
+you	you	ppy
+have	have	vh0
+already	already	rr
+learned	learn	vvn
+how	how	rrq
+to	to	to
+pray	pray	vvi
+,		,
+then	then	rt
+you	you	ppy
+are	be	vbr
+obligated	obligate	vvn@
+to	to	to
+do	do	vdi
+so	so	rr_rg
+five	five	mc
+times	time	nnt2
+a	a	at1
+day	day	nnt1
+.		.
+Ask	ask	vv0
+your	your	appge
+teacher	teacher	nn1
+to	to	to
+excuse	excuse	vvi
+you	you	ppy
+from	from	ii
+the	the	at
+classroom	classroom	nn1
+so	so	cs21
+that	that	cs22
+you	you	ppy
+may	may	vm
+pray	pray	vvi
+.		.
+Praying	pray	vvg
+the	the	at
+fard	fard	nn1
+only	only	jj_rr
+takes	take	nn2%_vvz
+3-5	3-5	mcmc
+minutes	minute	nnt2
+anyway	anyway	rr
+,		,
+you	you	ppy
+wont	wont	nn1
+be	be	vbi
+asking	ask	vvg
+for	for	if
+much	much	rr_da1
+.		.
+They	they	pphs2
+ca	can	vm
+n't	n't	xx
+say	say	vvi
+no	no	uh
+,		,
+you	you	ppy
+have	have	vh0
+a	a	at1
+right	right	nn1
+to	to	ii
+practice	practice	nn1
+your	your	appge
+religion	religion	nn1
+and	and	cc
+they	they	pphs2
+cant	cant	jj_nn1
+stop	stop	vv0_nn1
+you	you	ppy
+.		.
+<p>		null
+Secondly	secondly	rr
+,		,
+you	you	ppy
+must	must	vm
+treat	treat	vvi
+your	your	appge
+parents	parent	nn2
+with	with	iw
+utmost	utmost	jj
+respect	respect	nn1
+.		.
+<p>		null
+Say	say	vv0
+,		,
+"		"
+Come	come	vv0
+,		,
+I	i	ppis1
+will	will	vm
+recite	recite	vvi
+what	what	ddq
+your	your	appge
+Lord	lord	nn1
+has	have	vhz
+prohibited	prohibit	vvn
+to	to	ii
+you	you	ppy
+.		.
+He	he	pphs1
+commands	command	vvz
+that	that	cst
+you	you	ppy
+not	not	xx
+associate	associate	jj_vv0
+anything	anything	pn1
+with	with	iw
+Him	him	ppho1
+,		,
+and	and	cc
+to	to	ii
+parents	parent	nn2
+,		,
+good	good	jj
+treatment	treatment	nn1
+,		,
+and	and	cc
+do	do	vd0
+not	not	xx
+kill	kill	vvi
+your	your	appge
+children	child	nn2
+out	out	ii21
+of	of	ii22
+poverty	poverty	nn1
+;		;
+6:151		mc
+And	and	cc
+We	we	ppis2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+mother	mother	nn1
+carried	carry	vvd_vvn
+him	him	ppho1
+,		,
+increasing	increase	vvg
+her	her	ppho1
+in	in	ii
+weakness	weakness	nn1
+upon	upon	ii
+weakness	weakness	nn1
+,		,
+and	and	cc
+his	his	appge
+weaning	weaning	jj@_vvg
+is	be	vbz
+in	in	ii
+two	two	mc
+years	year	nnt2
+.		.
+Be	be	vb0
+grateful	grateful	jj
+to	to	ii
+Me	me	ppio1
+and	and	cc
+to	to	ii
+your	your	appge
+parents	parent	nn2
+;		;
+to	to	ii
+Me	me	ppio1
+is	be	vbz
+the	the	at
+final	final	jj_nn1
+destination	destination	nn1
+.		.
+31:14	31:14	mc
+<p>		null
+To	to	to
+disrespect	disrespect	vvi
+parents	parent	nn2
+,		,
+even	even	cs21
+if	if	cs22
+they	they	pphs2
+be	be	vbi
+non-Muslims	non-muslim	nn2
+,		,
+is	be	vbz
+said	say	vvn@
+to	to	to
+be	be	vbi
+the	the	at
+second-biggest	second-biggest	jjt
+sin	sin	nn1
+after	after	ii_cs
+Shirk	shirk	np1_nn1
+.		.
+You	you	ppy
+must	must	vm
+treat	treat	vvi
+both	both	db2_rr
+your	your	appge
+parents	parent	nn2
+with	with	iw
+respect	respect	nn1
+,		,
+and	and	cc
+obey	obey	vv0
+all	all	db
+their	their	appge
+commands	command	nn2
+(		(
+except	except	cs_ii
+those	those	dd2
+which	which	ddq
+go	go	vv0
+against	against	ii
+Islam	islam	nn1
+)		)
+.		.
+This	this	dd1
+will	will	vm
+make	make	vvi
+Allah	allah	np1
+very	very	rg
+pleased	pleased	jj
+with	with	iw
+you	you	ppy
+.		.
+And	and	cc
+of	of	rr21
+course	course	rr22
+I	i	ppis1
+do	do	vd0
+nt		xx
+have	have	vhi
+to	to	to
+tell	tell	vvi
+you	you	ppy
+that	that	dd1_cst
+lying	lying	nn1@_vvg
+is	be	vbz
+a	a	at1
+major	major	jj
+sin	sin	nn1
+also	also	rr
+.		.
+Why	why	rrq
+do	do	vd0
+you	you	ppy
+have	have	vhi
+to	to	to
+lie	lie	vvi
+,		,
+they	they	pphs2
+already	already	rr
+know	know	vv0
+you	you	ppy
+are	be	vbr
+a	a	at1
+Muslim	muslim	jj_nn1@
+,		,
+yes	yes	uh
+?		?
+<p>		null
+What	what	ddq
+you	you	ppy
+should	should	vm
+do	do	vdi
+is	be	vbz
+start	start	nn1
+studying	study	vvg
+this	this	dd1
+deen	deen	nn1_jj
+.		.
+Once	once	cs@_rr
+you	you	ppy
+have	have	vh0
+a	a	at1
+good	good	jj
+foundation	foundation	nn1
+,		,
+start	start	vv0_nn1
+giving	give	vvg
+da'wah		nn1
+to	to	ii
+your	your	appge
+family	family	nn1
+.		.
+I	i	ppis1
+know	know	vv0
+it	it	pph1
+must	must	vm
+be	be	vbi
+hard	hard	jj
+for	for	if
+you	you	ppy
+,		,
+but	but	ccb
+if	if	cs
+you	you	ppy
+do	do	vd0
+it	it	pph1
+with	with	iw
+ikhlas		nn2
+,		,
+Allah	allah	np1
+will	will	vm
+make	make	vvi
+it	it	pph1
+easier	easy	jjr_rrr
+for	for	if
+you	you	ppy
+.		.
+Make	make	vv0
+plenty	plenty	pn
+of	of	io
+dua	dua	nn1
+to	to	ii
+Allah	allah	np1
+and	and	cc
+cry	cry	vv0_nn1
+to	to	ii
+Him	him	ppho1
+,		,
+and	and	cc
+tell	tell	vv0
+Him	him	ppho1
+about	about	ii
+your	your	appge
+frustrations	frustration	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,		,
+pleading	plead	vvg
+.		.
+<p>		null
+Do	do	vd0
+not	not	xx
+let	let	vvi
+your	your	appge
+family	family	nn1
+members	member	nn2
+(		(
+especially	especially	rr
+your	your	appge
+brother	brother	nn1
+)		)
+turn	turn	vv0
+you	you	ppy
+back	back	rp_vv0%
+to	to	to
+kufr		vvi
+.		.
+Rather	rather	rr@
+you	you	ppy
+must	must	vm
+incline	incline	nn1
+them	them	ppho2
+towards	towards	ii
+Islam	islam	nn1
+.		.
+Just	just	rr
+because	because	cs
+people	people	nn
+around	around	ii_rp
+you	you	ppy
+deny	deny	vv0
+the	the	at
+existence	existence	nn1
+of	of	io
+God	god	np1
+does	do	vdz
+n't	n't	xx
+mean	mean	vvi
+He	he	pphs1
+does	do	vdz
+not	not	xx
+exist	exist	vvi
+.		.
+Think	think	vv0
+of	of	io
+the	the	at
+companions	companion	nn2
+of	of	io
+Rasulullah		np1_nn1@
+.		.
+They	they	pphs2
+were	be	vbdr
+very	very	rg
+few	few	da2
+in	in	ii
+number	number	nn1
+,		,
+and	and	cc
+all	all	db
+were	be	vbdr
+either	either	rr
+poor	poor	jj
+or	or	cc
+slaves	slave	nn2
+.		.
+They	they	pphs2
+were	be	vbdr
+surrounded	surround	vvn
+with	with	iw
+kufr	kufr	nn1
+and	and	cc
+shirk	shirk	nn1_vv0
+.		.
+Yet	yet	rr
+their	their	appge
+Iman	iman	np1
+was	be	vbdz
+so	so	rg_rr
+strong	strong	jj
+.		.
+You	you	ppy
+have	have	vh0
+you	you	ppy
+be	be	vbi
+like	like	ii
+that	that	dd1
+with	with	iw
+your	your	appge
+family	family	nn1
+.		.
+Holding	hold	vvg
+on	on	rp_ii21
+to	to	ii_ii22
+the	the	at
+deen	deen	nn1_jj
+in	in	ii
+times	time	nnt2
+of	of	io
+such	such	da
+hardship	hardship	nn1
+and	and	cc
+negative	negative	jj
+influences	influence	nn2
+will	will	vm
+get	get	vvi
+you	you	ppy
+so	so	rg
+much	much	da1
+reward	reward	nn1
+from	from	ii
+Allah	allah	np1
+,		,
+insha-Allah		np1
+(		(
+God-Willing		jj
+)		)
+.		.
+<p>		null
+Undo	undo	vv0
+your	your	appge
+stress	stress	nn1
+and	and	cc
+frustrations	frustration	nn2
+by	by	ii
+doing	do	vdg
+dhikr	dhikr	nn1
+,		,
+reading	read	vvg
+the	the	at
+Quran	quran	nn1_np1
+,		,
+and	and	cc
+the	the	at
+the	the	at
+life	life	nn1
+of	of	io
+the	the	at
+Prophet	prophet	nn1
+.		.
+Most	most	dat
+of	of	io
+all	all	db
+you	you	ppy
+must	must	vm
+have	have	vhi
+Sabr	sabr	nn1_np1
+(		(
+patience/perseverance		nn1
+)		)
+:		:
+And	and	cc
+seek	seek	vv0
+help	help	nn1_vv0
+through	through	ii
+patience	patience	nn1
+and	and	cc
+prayer	prayer	nn1
+,		,
+and	and	cc
+indeed	indeed	rr
+,		,
+it	it	pph1
+is	be	vbz
+difficult	difficult	jj
+except	except	ii21
+for	for	ii22
+the	the	at
+humbly	humbly	rr
+submissive	submissive	jj
+to	to	ii
+Allah	allah	np1
+2:45	2:45	mc
+<p>		null
+I	i	ppis1
+am	be	vbm
+sorry	sorry	jj
+to	to	to
+hear	hear	vvi
+about	about	ii
+your	your	appge
+puppy	puppy	nn1
+.		.
+I	i	ppis1
+felt	feel	vvd
+disappointed	disappointed	jj
+to	to	to
+read	read	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+died	die	vvd
+yesterday	yesterday	rt
+..	...	...
+is	be	vbz
+there	there	ex_rl%
+really	really	rr
+a	a	at1
+God	god	nn1@_np1
+"		"
+.		.
+You	you	ppy
+must	must	vm
+n't	n't	xx
+doubt	doubt	vvi
+the	the	at
+existence	existence	nn1
+of	of	io
+Allah	allah	np1
+every	every	at1
+time	time	nnt1
+you	you	ppy
+get	get	vv0
+hit	hit	vvn
+by	by	ii
+a	a	at1
+hardship	hardship	nn1
+.		.
+Only	only	rr
+the	the	at
+weak	weak	jj
+in	in	ii
+faith	faith	nn1
+do	do	vd0
+this	this	dd1
+.		.
+Allah	allah	np1
+says	say	vvz
+in	in	ii
+the	the	at
+Quran	quran	np1_nn1
+:		:
+<p>		null
+And	and	cc
+We	we	ppis2
+will	will	vm
+surely	surely	rr
+test	test	vvi
+you	you	ppy
+with	with	iw
+something	something	pn1
+of	of	io
+fear	fear	nn1
+and	and	cc
+hunger	hunger	nn1
+and	and	cc
+a	a	at1
+loss	loss	nn1
+of	of	io
+wealth	wealth	nn1
+and	and	cc
+lives	life	nn2
+and	and	cc
+fruits	fruit	nn2
+,		,
+but	but	ccb
+give	give	vv0
+good	good	jj
+tidings	tiding	nn2
+to	to	ii
+the	the	at
+patient	patient	nn1_jj
+,		,
+Who	who	pnqs
+,		,
+when	when	cs_rrq
+disaster	disaster	nn1
+strikes	strike	vvz
+them	them	ppho2
+,		,
+say	say	vv0
+,		,
+"		"
+Indeed	indeed	rr
+we	we	ppis2
+belong	belong	vv0
+to	to	ii
+Allah	allah	np1
+,		,
+and	and	cc
+indeed	indeed	rr
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+will	will	vm
+return	return	vvi
+.		.
+"		"
+2:155-156		mcmc
+<p>		null
+To	to	ii
+Allah	allah	np1
+we	we	ppis2
+belong	belong	vv0
+and	and	cc
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+shall	shall	vm
+return	return	vvi
+.		.
+These	these	dd2
+are	be	vbr
+the	the	at
+words	word	nn2
+a	a	at1
+true	true	jj
+believer	believer	nn1
+will	will	vm
+say	say	vvi
+when	when	rrq
+hit	hit	vvn
+by	by	ii
+a	a	at1
+calamity	calamity	nn1
+.		.
+Rasulullah		np1@_nn1
+said	say	vvd
+(		(
+and	and	cc
+forgive	forgive	vv0
+me	me	ppio1
+for	for	if
+paraphrasing	paraphrase	vvg
+)		)
+:		:
+The	the	at
+matter	matter	nn1
+of	of	io
+the	the	at
+believer	believer	nn1
+is	be	vbz
+always	always	rr
+a	a	at1
+good	good	jj
+one	one	pn1
+;		;
+when	when	cs_rrq
+something	something	pn1
+good	good	rr%_jj
+happens	happen	vvz
+,		,
+he	he	pphs1
+thanks	thank	vvz%
+Allah	allah	np1
+,		,
+and	and	cc
+Allah	allah	np1
+rewards	reward	vvz@
+him	him	ppho1
+even	even	rr
+more	more	rrr_dar
+.		.
+When	when	cs
+a	a	at1
+calamity	calamity	nn1
+strikes	strike	nn2_vvz
+,		,
+he	he	pphs1
+has	have	vhz
+sabr	sabr	nn1
+,		,
+and	and	cc
+Allah	allah	np1
+rewards	reward	vvz@
+him	him	ppho1
+.		.
+<p>		null
+Sister	sister	nn1
+,		,
+make	make	vv0
+dua	dua	nn1
+for	for	if
+yourself	yourself	ppx1
+,		,
+and	and	cc
+I	i	ppis1
+will	will	vm
+also	also	rr
+make	make	vvi
+plenty	plenty	pn
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii_rp@
+this	this	dd1
+life	life	nn1
+,		,
+and	and	cc
+ease	ease	vv0_nn1
+in	in	ii
+the	the	at
+afterlife	afterlife	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+give	give	vvi
+you	you	ppy
+the	the	at
+tawfiq		nn1_jj
+(		(
+enablement	enablement	nn1
+)		)
+to	to	ii
+practice	practice	nn1
+this	this	dd1
+religion	religion	nn1
+freely	freely	rr
+and	and	cc
+openly	openly	rr
+,		,
+without	without	iw
+any	any	dd
+difficulty	difficulty	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+you	you	ppy
+from	from	ii
+among	among	ii
+his	his	appge
+Pious	pious	jj
+and	and	cc
+Righteous	righteous	jj_np1
+slaves	slave	nn2
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+guide	guide	vvi
+your	your	appge
+family	family	nn1
+to	to	ii
+Islam	islam	nn1
+,		,
+and	and	cc
+make	make	vv0
+you	you	ppy
+strong	strong	jj
+in	in	ii
+your	your	appge
+iman	iman	nn1
+.		.
+<h>		null
+Re	re	np1%_ii
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Congratulations	congratulations	nn2
+on	on	ii
+your	your	appge
+recent	recent	jj
+conversion	conversion	nn1
+to	to	ii
+Islam	islam	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+it	it	pph1
+easier	easy	jjr_rrr
+for	for	if
+you	you	ppy
+and	and	cc
+give	give	vvi
+you	you	ppy
+the	the	at
+correct	correct	jj
+knowledge	knowledge	nn1
+of	of	io
+this	this	dd1
+beautiful	beautiful	jj
+religion	religion	nn1
+and	and	cc
+the	the	at
+ability	ability	nn1
+to	to	ii
+practice	practice	nn1
+it	it	pph1
+in	in	ii
+comfort	comfort	nn1
+.		.
+Ameen	ameen	nn1_np1@_jj
+<p>		null
+Firstly	firstly	rr
+,		,
+you	you	ppy
+must	must	vm
+move	move	vvi
+away	away	ii21_rl
+from	from	ii22_ii
+your	your	appge
+non-Muslim	non-muslim	jj
+friends	friend	nn2
+.		.
+If	if	cs
+they	they	pphs2
+are	be	vbr
+inviting	invite	vvg_jj
+you	you	ppy
+to	to	ii
+things	thing	nn2
+like	like	ii
+alcohol	alcohol	nn1
+and	and	cc
+other	other	jj
+sinful	sinful	jj
+things	thing	nn2
+,		,
+then	then	rt
+you	you	ppy
+must	must	vm
+cut-off	cut-off	nn1
+all	all	db_rr@
+ties	tie	nn2_vvz
+with	with	iw
+them	them	ppho2
+.		.
+Stick	stick	vv0_nn1
+to	to	ii
+your	your	appge
+Muslim	muslim	jj
+friends	friend	nn2
+,		,
+especially	especially	rr
+the	the	at
+one	one	pn1
+who	who	pnqs
+invited	invite	vvd
+you	you	ppy
+to	to	ii
+Islam	islam	nn1
+in	in	ii
+the	the	at
+first	first	md
+place	place	nn1
+.		.
+<p>		null
+Sister	sister	nn1
+,		,
+one	one	mc1
+thing	thing	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+understand	understand	vvi
+is	be	vbz
+that	that	cst
+this	this	dd1
+religion	religion	nn1
+is	be	vbz
+very	very	rg
+easy	easy	jj
+.		.
+Allah	allah	np1
+does	do	vdz
+not	not	xx
+burden	burden	vvi
+a	a	at1
+soul	soul	nn1
+with	with	iw
+more	more	dar
+than	than	csn
+it	it	pph1
+can	can	vm
+bear	bear	vvi
+.		.
+As	as	ii21_csa
+for	for	ii22_if
+you	you	ppy
+missing	miss	vvg_jj
+prayers	prayer	nn2
+,		,
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+how	how	rrq
+to	to	to
+pray	pray	vvi
+,		,
+then	then	rt
+you	you	ppy
+are	be	vbr
+obligated	obligate	vvn@
+to	to	to
+do	do	vdi
+so	so	rr_rg
+five	five	mc
+times	time	nnt2
+a	a	at1
+day	day	nnt1
+.		.
+Ask	ask	vv0
+your	your	appge
+teacher	teacher	nn1
+to	to	to
+excuse	excuse	vvi
+you	you	ppy
+from	from	ii
+the	the	at
+classroom	classroom	nn1
+so	so	cs21
+that	that	cs22
+you	you	ppy
+may	may	vm
+pray	pray	vvi
+.		.
+Praying	pray	vvg
+the	the	at
+fard	fard	nn1
+only	only	jj_rr
+takes	take	nn2%_vvz
+3-5	3-5	mcmc
+minutes	minute	nnt2
+anyway	anyway	rr
+,		,
+you	you	ppy
+wont	wont	nn1
+be	be	vbi
+asking	ask	vvg
+for	for	if
+much	much	rr_da1
+.		.
+They	they	pphs2
+ca	can	vm
+n't	n't	xx
+say	say	vvi
+no	no	uh
+,		,
+you	you	ppy
+have	have	vh0
+a	a	at1
+right	right	nn1
+to	to	ii
+practice	practice	nn1
+your	your	appge
+religion	religion	nn1
+and	and	cc
+they	they	pphs2
+cant	cant	jj_nn1
+stop	stop	vv0_nn1
+you	you	ppy
+.		.
+<p>		null
+Secondly	secondly	rr
+,		,
+you	you	ppy
+must	must	vm
+treat	treat	vvi
+your	your	appge
+parents	parent	nn2
+with	with	iw
+utmost	utmost	jj
+respect	respect	nn1
+.		.
+<p>		null
+Say	say	vv0
+,		,
+"		"
+Come	come	vv0
+,		,
+I	i	ppis1
+will	will	vm
+recite	recite	vvi
+what	what	ddq
+your	your	appge
+Lord	lord	nn1
+has	have	vhz
+prohibited	prohibit	vvn
+to	to	ii
+you	you	ppy
+.		.
+He	he	pphs1
+commands	command	vvz
+that	that	cst
+you	you	ppy
+not	not	xx
+associate	associate	jj_vv0
+anything	anything	pn1
+with	with	iw
+Him	him	ppho1
+,		,
+and	and	cc
+to	to	ii
+parents	parent	nn2
+,		,
+good	good	jj
+treatment	treatment	nn1
+,		,
+and	and	cc
+do	do	vd0
+not	not	xx
+kill	kill	vvi
+your	your	appge
+children	child	nn2
+out	out	ii21
+of	of	ii22
+poverty	poverty	nn1
+;		;
+6:151		mc
+And	and	cc
+We	we	ppis2
+have	have	vh0
+enjoined	enjoin	vvn
+upon	upon	ii
+man	man	nn1
+care	care	nn1_vv0
+for	for	if
+his	his	appge
+parents	parent	nn2
+.		.
+His	his	appge
+mother	mother	nn1
+carried	carry	vvd_vvn
+him	him	ppho1
+,		,
+increasing	increase	vvg
+her	her	ppho1
+in	in	ii
+weakness	weakness	nn1
+upon	upon	ii
+weakness	weakness	nn1
+,		,
+and	and	cc
+his	his	appge
+weaning	weaning	jj@_vvg
+is	be	vbz
+in	in	ii
+two	two	mc
+years	year	nnt2
+.		.
+Be	be	vb0
+grateful	grateful	jj
+to	to	ii
+Me	me	ppio1
+and	and	cc
+to	to	ii
+your	your	appge
+parents	parent	nn2
+;		;
+to	to	ii
+Me	me	ppio1
+is	be	vbz
+the	the	at
+final	final	jj_nn1
+destination	destination	nn1
+.		.
+31:14	31:14	mc
+<p>		null
+To	to	to
+disrespect	disrespect	vvi
+parents	parent	nn2
+,		,
+even	even	cs21
+if	if	cs22
+they	they	pphs2
+be	be	vbi
+non-Muslims	non-muslim	nn2
+,		,
+is	be	vbz
+said	say	vvn@
+to	to	to
+be	be	vbi
+the	the	at
+second-biggest	second-biggest	jjt
+sin	sin	nn1
+after	after	ii_cs
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,		,
+and	and	cc
+obey	obey	vv0
+all	all	db
+their	their	appge
+commands	command	nn2
+(		(
+except	except	cs_ii
+those	those	dd2
+which	which	ddq
+go	go	vv0
+against	against	ii
+Islam	islam	nn1
+)		)
+.		.
+This	this	dd1
+will	will	vm
+make	make	vvi
+Allah	allah	np1
+very	very	rg
+pleased	pleased	jj
+with	with	iw
+you	you	ppy
+.		.
+And	and	cc
+of	of	rr21
+course	course	rr22
+I	i	ppis1
+do	do	vd0
+nt		xx
+have	have	vhi
+to	to	to
+tell	tell	vvi
+you	you	ppy
+that	that	dd1_cst
+lying	lying	nn1@_vvg
+is	be	vbz
+a	a	at1
+major	major	jj
+sin	sin	nn1
+also	also	rr
+.		.
+Why	why	rrq
+do	do	vd0
+you	you	ppy
+have	have	vhi
+to	to	to
+lie	lie	vvi
+,		,
+they	they	pphs2
+already	already	rr
+know	know	vv0
+you	you	ppy
+are	be	vbr
+a	a	at1
+Muslim	muslim	jj_nn1@
+,		,
+yes	yes	uh
+?		?
+<p>		null
+What	what	ddq
+you	you	ppy
+should	should	vm
+do	do	vdi
+is	be	vbz
+start	start	nn1
+studying	study	vvg
+this	this	dd1
+deen	deen	nn1_jj
+.		.
+Once	once	cs@_rr
+you	you	ppy
+have	have	vh0
+a	a	at1
+good	good	jj
+foundation	foundation	nn1
+,		,
+start	start	vv0_nn1
+giving	give	vvg
+da'wah		nn1
+to	to	ii
+your	your	appge
+family	family	nn1
+.		.
+I	i	ppis1
+know	know	vv0
+it	it	pph1
+must	must	vm
+be	be	vbi
+hard	hard	jj
+for	for	if
+you	you	ppy
+,		,
+but	but	ccb
+if	if	cs
+you	you	ppy
+do	do	vd0
+it	it	pph1
+with	with	iw
+ikhlas		nn2
+,		,
+Allah	allah	np1
+will	will	vm
+make	make	vvi
+it	it	pph1
+easier	easy	jjr_rrr
+for	for	if
+you	you	ppy
+.		.
+Make	make	vv0
+plenty	plenty	pn
+of	of	io
+dua	dua	nn1
+to	to	ii
+Allah	allah	np1
+and	and	cc
+cry	cry	vv0_nn1
+to	to	ii
+Him	him	ppho1
+,		,
+and	and	cc
+tell	tell	vv0
+Him	him	ppho1
+about	about	ii
+your	your	appge
+frustrations	frustration	nn2
+.		.
+Allah	allah	np1
+loves	love	vvz
+it	it	pph1
+when	when	cs
+His	his	appge
+slaves	slave	nn2
+turn	turn	vv0
+to	to	ii
+Him	him	ppho1
+,		,
+pleading	plead	vvg
+.		.
+<p>		null
+Do	do	vd0
+not	not	xx
+let	let	vvi
+your	your	appge
+family	family	nn1
+members	member	nn2
+(		(
+especially	especially	rr
+your	your	appge
+brother	brother	nn1
+)		)
+turn	turn	vv0
+you	you	ppy
+back	back	rp_vv0%
+to	to	to
+kufr		vvi
+.		.
+Rather	rather	rr@
+you	you	ppy
+must	must	vm
+incline	incline	nn1
+them	them	ppho2
+towards	towards	ii
+Islam	islam	nn1
+.		.
+Just	just	rr
+because	because	cs
+people	people	nn
+around	around	ii_rp
+you	you	ppy
+deny	deny	vv0
+the	the	at
+existence	existence	nn1
+of	of	io
+God	god	np1
+does	do	vdz
+n't	n't	xx
+mean	mean	vvi
+He	he	pphs1
+does	do	vdz
+not	not	xx
+exist	exist	vvi
+.		.
+Think	think	vv0
+of	of	io
+the	the	at
+companions	companion	nn2
+of	of	io
+Rasulullah		np1_nn1@
+.		.
+They	they	pphs2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+poor	poor	jj
+or	or	cc
+slaves	slave	nn2
+.		.
+They	they	pphs2
+were	be	vbdr
+surrounded	surround	vvn
+with	with	iw
+kufr	kufr	nn1
+and	and	cc
+shirk	shirk	nn1_vv0
+.		.
+Yet	yet	rr
+their	their	appge
+Iman	iman	np1
+was	be	vbdz
+so	so	rg_rr
+strong	strong	jj
+.		.
+You	you	ppy
+have	have	vh0
+you	you	ppy
+be	be	vbi
+like	like	ii
+that	that	dd1
+with	with	iw
+your	your	appge
+family	family	nn1
+.		.
+Holding	hold	vvg
+on	on	rp_ii21
+to	to	ii_ii22
+the	the	at
+deen	deen	nn1_jj
+in	in	ii
+times	time	nnt2
+of	of	io
+such	such	da
+hardship	hardship	nn1
+and	and	cc
+negative	negative	jj
+influences	influence	nn2
+will	will	vm
+get	get	vvi
+you	you	ppy
+so	so	rg
+much	much	da1
+reward	reward	nn1
+from	from	ii
+Allah	allah	np1
+,		,
+insha-Allah		np1
+(		(
+God-Willing		jj
+)		)
+.		.
+<p>		null
+Undo	undo	vv0
+your	your	appge
+stress	stress	nn1
+and	and	cc
+frustrations	frustration	nn2
+by	by	ii
+doing	do	vdg
+dhikr	dhikr	nn1
+,		,
+reading	read	vvg
+the	the	at
+Quran	quran	nn1_np1
+,		,
+and	and	cc
+the	the	at
+the	the	at
+life	life	nn1
+of	of	io
+the	the	at
+Prophet	prophet	nn1
+.		.
+Most	most	dat
+of	of	io
+all	all	db
+you	you	ppy
+must	must	vm
+have	have	vhi
+Sabr	sabr	nn1_np1
+(		(
+patience/perseverance		nn1
+)		)
+:		:
+And	and	cc
+seek	seek	vv0
+help	help	nn1_vv0
+through	through	ii
+patience	patience	nn1
+and	and	cc
+prayer	prayer	nn1
+,		,
+and	and	cc
+indeed	indeed	rr
+,		,
+it	it	pph1
+is	be	vbz
+difficult	difficult	jj
+except	except	ii21
+for	for	ii22
+the	the	at
+humbly	humbly	rr
+submissive	submissive	jj
+to	to	ii
+Allah	allah	np1
+2:45	2:45	mc
+<p>		null
+I	i	ppis1
+am	be	vbm
+sorry	sorry	jj
+to	to	to
+hear	hear	vvi
+about	about	ii
+your	your	appge
+puppy	puppy	nn1
+.		.
+I	i	ppis1
+felt	feel	vvd
+disappointed	disappointed	jj
+to	to	to
+read	read	vvi
+the	the	at
+last	last	md
+line	line	nn1
+of	of	io
+your	your	appge
+post	post	nn1
+:		:
+"		"
+My	my	appge
+puppy	puppy	nn1
+died	die	vvd
+yesterday	yesterday	rt
+..	...	...
+is	be	vbz
+there	there	ex_rl%
+really	really	rr
+a	a	at1
+God	god	nn1@_np1
+"		"
+.		.
+You	you	ppy
+must	must	vm
+n't	n't	xx
+doubt	doubt	vvi
+the	the	at
+existence	existence	nn1
+of	of	io
+Allah	allah	np1
+every	every	at1
+time	time	nnt1
+you	you	ppy
+get	get	vv0
+hit	hit	vvn
+by	by	ii
+a	a	at1
+hardship	hardship	nn1
+.		.
+Only	only	rr
+the	the	at
+weak	weak	jj
+in	in	ii
+faith	faith	nn1
+do	do	vd0
+this	this	dd1
+.		.
+Allah	allah	np1
+says	say	vvz
+in	in	ii
+the	the	at
+Quran	quran	np1_nn1
+:		:
+<p>		null
+And	and	cc
+We	we	ppis2
+will	will	vm
+surely	surely	rr
+test	test	vvi
+you	you	ppy
+with	with	iw
+something	something	pn1
+of	of	io
+fear	fear	nn1
+and	and	cc
+hunger	hunger	nn1
+and	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+give	give	vv0
+good	good	jj
+tidings	tiding	nn2
+to	to	ii
+the	the	at
+patient	patient	nn1_jj
+,		,
+Who	who	pnqs
+,		,
+when	when	cs_rrq
+disaster	disaster	nn1
+strikes	strike	vvz
+them	them	ppho2
+,		,
+say	say	vv0
+,		,
+"		"
+Indeed	indeed	rr
+we	we	ppis2
+belong	belong	vv0
+to	to	ii
+Allah	allah	np1
+,		,
+and	and	cc
+indeed	indeed	rr
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+will	will	vm
+return	return	vvi
+.		.
+"		"
+2:155-156		mcmc
+<p>		null
+To	to	ii
+Allah	allah	np1
+we	we	ppis2
+belong	belong	vv0
+and	and	cc
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+shall	shall	vm
+return	return	vvi
+.		.
+These	these	dd2
+are	be	vbr
+the	the	at
+words	word	nn2
+a	a	at1
+true	true	jj
+believer	believer	nn1
+will	will	vm
+say	say	vvi
+when	when	rrq
+hit	hit	vvn
+by	by	ii
+a	a	at1
+calamity	calamity	nn1
+.		.
+Rasulullah		np1@_nn1
+said	say	vvd
+(		(
+and	and	cc
+forgive	forgive	vv0
+me	me	ppio1
+for	for	if
+paraphrasing	paraphrase	vvg
+)		)
+:		:
+The	the	at
+matter	matter	nn1
+of	of	io
+the	the	at
+believer	believer	nn1
+is	be	vbz
+always	always	rr
+a	a	at1
+good	good	jj
+one	one	pn1
+;		;
+when	when	cs_rrq
+something	something	pn1
+good	good	rr%_jj
+happens	happen	vvz
+,		,
+he	he	pphs1
+thanks	thank	vvz%
+Allah	allah	np1
+,		,
+and	and	cc
+Allah	allah	np1
+rewards	reward	vvz@
+him	him	ppho1
+even	even	rr
+more	more	rrr_dar
+.		.
+When	when	cs
+a	a	at1
+calamity	calamity	nn1
+strikes	strike	nn2_vvz
+,		,
+he	he	pphs1
+has	have	vhz
+sabr	sabr	nn1
+,		,
+and	and	cc
+Allah	allah	np1
+rewards	reward	vvz@
+him	him	ppho1
+.		.
+<p>		null
+Sister	sister	nn1
+,		,
+make	make	vv0
+dua	dua	nn1
+for	for	if
+yourself	yourself	ppx1
+,		,
+and	and	cc
+I	i	ppis1
+will	will	vm
+also	also	rr
+make	make	vvi
+plenty	plenty	pn
+of	of	io
+dua	dua	nn1
+for	for	if
+you	you	ppy
+.		.
+<p>		null
+May	may	np1%_npm1
+Allah	allah	np1
+give	give	vvi
+you	you	ppy
+ease	ease	vv0
+in	in	ii_rp@
+this	this	dd1
+life	life	nn1
+,		,
+and	and	cc
+ease	ease	vv0_nn1
+in	in	ii
+the	the	at
+afterlife	afterlife	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+give	give	vvi
+you	you	ppy
+the	the	at
+tawfiq		nn1_jj
+(		(
+enablement	enablement	nn1
+)		)
+to	to	ii
+practice	practice	nn1
+this	this	dd1
+religion	religion	nn1
+freely	freely	rr
+and	and	cc
+openly	openly	rr
+,		,
+without	without	iw
+any	any	dd
+difficulty	difficulty	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+you	you	ppy
+from	from	ii
+among	among	ii
+his	his	appge
+Pious	pious	jj
+and	and	cc
+Righteous	righteous	jj_np1
+slaves	slave	nn2
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+guide	guide	vvi
+your	your	appge
+family	family	nn1
+to	to	ii
+Islam	islam	nn1
+,		,
+and	and	cc
+make	make	vv0
+you	you	ppy
+strong	strong	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,		,
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+cut	cut	vvi
+ties	tie	nn2
+with	with	iw
+my	my	appge
+friends	friend	nn2
+...		...
+I	i	ppis1
+love	love	vv0
+them	them	ppho2
+...		...
+we	we	ppis2
+have	have	vh0
+been	be	vbn
+friends	friend	nn2
+for	for	if
+about	about	rg
+7	7	mc
+years	year	nnt2
+and	and	cc
+I	i	ppis1
+always	always	rr
+want	want	vv0
+them	them	ppho2
+to	to	to
+be	be	vbi
+a	a	at1
+part	part	nn1
+of	of	io
+my	my	appge
+life	life	nn1
+.		.
+Some	some	dd
+are	be	vbr
+supportive	supportive	jj
+and	and	cc
+fine	fine	jj
+with	with	iw
+it	it	pph1
+..	...	...
+they	they	pphs2
+do	do	vd0
+nt		xx
+actually	actually	rr
+directly	directly	rr
+tell	tell	vv0
+me	me	ppio1
+to	to	to
+drink	drink	vvi
+and	and	cc
+things	thing	nn2
+but	but	ccb
+naturally	naturally	rr
+I	i	ppis1
+just	just	rr
+get	get	vvi
+a	a	rr21
+bit	bit	rr22
+left	leave	vvn_vvd
+out	out	rp
+.		.
+Also	also	rr
+they	they	pphs2
+just	just	rr
+do	do	vd0
+n't	n't	xx
+understand	understand	vvi
+since	since	cs
+they	they	pphs2
+are	be	vbr
+sure	sure	jj
+God	god	nn1@_np1
+does	do	vdz
+not	not	xx
+exist	exist	vvi
+.		.
+<p>		null
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+yet	yet	rr
+know	know	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+..	...	...
+it	it	pph1
+'s	be	vbz
+too	too	rg
+difficult	difficult	jj
+..	...	...
+I	i	ppis1
+have	have	vh0
+tried	try	vvn
+.		.
+There	there	ex
+are	be	vbr
+too	too	rg
+many	many	da2
+rules	rule	nn2
+..	...	...
+my	my	appge
+prayers	prayer	nn2
+would	would	vm
+probably	probably	rr
+be	be	vbi
+invalid	invalid	jj
+anyway	anyway	rr
+.		.
+Also	also	rr
+I	i	ppis1
+can	can	vm
+not	not	xx
+be	be	vbi
+excused	excuse	vvn
+from	from	ii
+class	class	nn1
+because	because	cs
+a	a	zz1
+)		)
+nobody	nobody	pn1
+at	at	ii
+school	school	nn1
+knows	know	vvz
+and	and	cc
+I	i	ppis1
+am	be	vbm
+not	not	xx
+ready	ready	jj_rr@
+..	...	...
+b	b	zz1
+)		)
+there	there	ex_rl
+is	be	vbz
+nowhere	nowhere	rl
+I	i	ppis1
+can	can	vm
+do	do	vdi
+wudu		nn1
+or	or	cc
+pray	pray	vv0
+at	at	ii
+school	school	nn1
+..	...	...
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+disrespecting	disrespect	vvg
+her	her	ppho1
+..	...	...
+I	i	ppis1
+love	love	vv0
+her	her	ppho1
+,		,
+but	but	ccb
+I	i	ppis1
+know	know	vv0
+naturally	naturally	rr
+I	i	ppis1
+am	be	vbm
+more	more	rgr
+authoritative	authoritative	jj
+over	over	ii
+her	her	ppho1
+..	...	...
+I	i	ppis1
+am	be	vbm
+quite	quite	rg
+dominant	dominant	jj
+and	and	cc
+she	she	pphs1
+is	be	vbz
+n't	n't	xx
+.		.
+It	it	pph1
+'s	be	vbz
+just	just	rr
+how	how	rrq
+I	i	ppis1
+am	be	vbm
+..	...	...
+stubborn	stubborn	jj
+and	and	cc
+do	do	vd0
+n't	n't	xx
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+about	about	ii
+the	the	at
+lying	lying	nn1@
+I	i	ppis1
+just	just	rr
+mean	mean	vv0_jj
+lying	lie	vvg_nn1@
+as	as	csa
+in	in	ii_rp@
+..	...	...
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+telling	tell	vvg
+so	so	rg
+many	many	da2
+white	white	jj
+lies	lie	nn2
+..	...	...
+if	if	cs
+someone	someone	pn1
+says	say	vvz
+"		"
+did	do	vdd
+you	you	ppy
+get	get	vvi
+my	my	appge
+email	e-mail	nn1
+"		"
+I	i	ppis1
+'ll	will	vm
+say	say	vvi
+"		"
+No	no	uh
+"		"
+even	even	cs21
+if	if	cs22
+I	i	ppis1
+did	do	vdd
+..	...	...
+without	without	iw
+even	even	rr
+thinking	think	vvg_nn1
+..	...	...
+or	or	cc
+"		"
+yeah	yeah	uh
+I	i	ppis1
+have	have	vh0
+read	read	vvn
+that	that	dd1_cst
+book	book	nn1
+"		"
+..	...	...
+when	when	cs_rrq
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+!		!
+!		!
+!		!
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+it	it	pph1
+..	...	...
+it	it	pph1
+has	have	vhz
+become	become	vvn@
+habit	habit	nn1
+..	...	...
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+seem	seem	vvi
+to	to	to
+get	get	vvi
+by	by	rp%_ii
+without	without	iw
+it	it	pph1
+.		.
+<p>		null
+Thank	thank	vv0
+you	you	ppy
+so	so	rg
+much	much	da1
+for	for	if
+your	your	appge
+response	response	nn1
+.		.
+I	i	ppis1
+feel	feel	vv0
+though	though	rr@_cs
+,		,
+like	like	ii_vv0@
+yes	yes	uh
+God	god	np1
+exists	exist	vvz
+,		,
+but	but	ccb
+then	then	rt
+maybe	maybe	rr
+I	i	ppis1
+am	be	vbm
+just	just	rr
+being	be	vbg
+stupid	stupid	jj
+because	because	cs
+nobody	nobody	pn1
+around	around	ii
+me	me	ppio1
+follows	follow	vvz
+God	god	np1
+or	or	cc
+even	even	rr
+believes	believe	vvz
+in	in	ii
+him	him	ppho1
+!		!
+!		!
+!		!
+Also	also	rr
+..	...	...
+why	why	rrq
+did	do	vdd
+God	god	np1
+let	let	vvi
+my	my	appge
+puppy	puppy	nn1
+die	die	vvi
+..	...	...
+I	i	ppis1
+love	love	vv0
+him	him	ppho1
+so	so	rg
+much	much	da1_rr
+.		.
+We	we	ppis2
+are	be	vbr
+devastated	devastate	vvn
+.		.
+I	i	ppis1
+prayed	pray	vvd
+for	for	if
+my	my	appge
+puppy	puppy	nn1
+too	too	rg_rr@
+..	...	...
+Sigh	sigh	nn1_vv0@
+..	...	...
+<h>		null
+Re	re	np1%_ii
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Assalaamu		nn1_np1@
+alaykum	alaykum	nn1
+ww	ww	nnu
+sister	sister	nn1
+.		.
+Welcome	welcome	vv0_nn1
+to	to	ii
+the	the	at
+forum	forum	nn1
+and	and	cc
+congratulations	congratulations	nn2
+on	on	ii
+finding	find	vvg
+your	your	appge
+way	way	nn1
+back	back	rp_nn1
+to	to	ii
+Islam	islam	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+keep	keep	vvi
+us	us	ppio2
+all	all	db
+steadfast	steadfast	jj
+.		.
+<p>		null
+The	the	at
+advice	advice	nn1
+I	i	ppis1
+can	can	vm
+think	think	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+anyway	anyway	rr
+;		;
+<p>		null
+about	about	ii
+your	your	appge
+puppy	puppy	nn1
+;		;
+it	it	pph1
+'s	be	vbz
+natural	natural	jj
+to	to	to
+feel	feel	vvi
+sad	sad	jj
+and	and	cc
+upset	upset	vvi
+when	when	rrq_cs
+we	we	ppis2
+lose	lose	vv0
+someone/something		pn1
+that	that	cst_dd1
+is	be	vbz
+dear	dear	jj_rr@
+to	to	ii
+us	us	ppio2
+.		.
+We	we	ppis2
+all	all	db
+have	have	vh0
+to	to	to
+part	part	nn1
+one	one	mc1
+day	day	nnt1
+.		.
+Everyone	everyone	pn1
+around	around	ii_rp
+you	you	ppy
+was	be	vbdz
+disappointing	disappoint	vvg@_jj
+you	you	ppy
+but	but	ccb
+it	it	pph1
+seems	seem	vvz
+you	you	ppy
+took	take	vvd
+solace	solace	nn1_vv0
+in	in	ii
+your	your	appge
+puppy	puppy	nn1
+who	who	pnqs
+was	be	vbdz
+the	the	at
+only	only	jj
+being	being	nn1%_vbg
+that	that	cst_dd1
+accepted	accept	vvd_jj
+you	you	ppy
+for	for	if_cs%
+who	who	pnqs
+you	you	ppy
+are.Now		nnu
+he	he	pphs1
+is	be	vbz
+gone	go	vvn
+,		,
+you	you	ppy
+are	be	vbr
+devastated	devastate	vvn
+.		.
+At	at	ii
+this	this	dd1
+point	point	nn1
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+is	be	vbz
+imperative	imperative	jj_nn1
+we	we	ppis2
+find	find	vv0
+someone	someone	pn1
+that	that	cst
+you	you	ppy
+can	can	vm
+go	go	vvi
+to	to	to
+talk	talk	vvi
+to.All		nnu
+these	these	dd2
+pent	pent	jj_nn1
+up	up	ii@_rp
+feelings	feeling	nn2
+,		,
+emotions	emotion	nn2
+and	and	cc
+despondency	despondency	nn1
+is	be	vbz
+not	not	xx
+going	go	vvgk
+to	to	to
+do	do	vdi
+anyone	anyone	pn1
+any	any	rr%
+good	good	jj
+,		,
+especially	especially	rr
+you	you	ppy
+.		.
+<p>		null
+Sister	sister	nn1
+are	be	vbr
+there	there	rl
+no	no	at
+muslimahs		nn2
+at	at	ii
+your	your	appge
+school	school	nn1
+whom	whom	pnqo
+you	you	ppy
+can	can	vm
+befriend	befriend	vvi
+or	or	cc
+anyone	anyone	pn1
+at	at	ii
+the	the	at
+masjid	masjid	nn1_jj
+,		,
+where	where	cs_rrq
+you	you	ppy
+took	take	vvd
+the	the	at
+shahaadah		nn1
+,		,
+who	who	pnqs
+you	you	ppy
+can	can	vm
+talk	talk	vvi
+to	to	ii
+?		?
+<p>		null
+Also	also	rr
+,		,
+it	it	pph1
+is	be	vbz
+important	important	jj
+you	you	ppy
+continue	continue	vv0
+to	to	to
+be	be	vbi
+educated	educate	vvn
+about	about	ii
+Islam	islam	nn1
+.		.
+Have	have	vh0
+you	you	ppy
+a	a	at1
+teacher	teacher	nn1
+who	who	pnqs
+is	be	vbz
+teaching	teach	vvg
+you	you	ppy
+how	how	rrq
+to	to	to
+pray	pray	vvi
+and	and	cc
+about	about	ii
+matters	matter	nn2
+relating	relate	vvg
+to	to	ii
+deen	deen	nn1_jj
+?		?
+From	from	ii
+what	what	ddq
+I	i	ppis1
+'m	be	vbm
+reading	read	vvg
+my	my	appge
+understanding	understanding	nn1
+is	be	vbz
+that	that	cst
+you	you	ppy
+are	be	vbr
+learning	learn	vvg
+about	about	ii
+islam	islam	nn1
+by	by	ii
+yourself	yourself	ppx1
+with	with	iw
+no	no	at
+assistance	assistance	nn1
+?		?
+?		?
+correct	correct	vv0@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+:		:
+(		(
+<p>		null
+Hello	hello	uh
+,		,
+<p>		null
+Welcome	welcome	vv0_nn1
+to	to	ii
+the	the	at
+forum	forum	nn1
+and	and	cc
+to	to	ii
+the	the	at
+fold	fold	nn1
+of	of	io
+Islam	islam	nn1
+.		.
+I	i	ppis1
+am	be	vbm
+a	a	at1
+relatively	relatively	rr
+new	new	jj
+Muslim	muslim	nn1@_jj
+myself	myself	ppx1
+and	and	cc
+I	i	ppis1
+am	be	vbm
+still	still	rr
+finding	find	vvg
+my	my	appge
+feet	foot	nn2
+.		.
+So	so	rr
+do	do	vd0
+n't	n't	xx
+be	be	vbi
+so	so	rg
+hard	hard	jj
+on	on	ii
+yourself	yourself	ppx1
+by	by	ii
+saying	say	vvg
+your	your	appge
+faith	faith	nn1
+is	be	vbz
+weak	weak	jj
+.		.
+The	the	at
+fact	fact	nn1
+you	you	ppy
+you	you	ppy
+were	be	vbdr
+able	able	jk
+to	to	to
+find	find	vvi
+the	the	at
+truth	truth	nn1
+and	and	cc
+embrace	embrace	vvi
+already	already	rr
+says	say	vvz
+much	much	rr_da1
+about	about	ii
+your	your	appge
+character	character	nn1
+,		,
+but	but	ccb
+after	after	ii
+taking	take	vvg
+the	the	at
+Shahadah		np1_nn1@
+is	be	vbz
+when	when	rrq_cs
+your	your	appge
+journey	journey	nn1
+really	really	rr
+begins	begin	vvz
+.		.
+<p>		null
+You	you	ppy
+should	should	vm
+realise	realize	vvi
+that	that	cst_dd1
+after	after	ii
+converting	convert	vvg
+to	to	ii
+Islam	islam	nn1
+you	you	ppy
+will	will	vm
+be	be	vbi
+tested	test	vvn
+by	by	ii
+Allah	allah	np1
+as	as	ii21
+to	to	ii22
+how	how	rgq@_rrq
+firm	firm	jj_nn1
+you	you	ppy
+are	be	vbr
+on	on	ii
+your	your	appge
+Islam	islam	nn1
+.		.
+<p>		null
+Allah	allah	np1
+says	say	vvz
+:		:
+<p>		null
+"		"
+Do	do	vd0
+people	people	nn
+think	think	vv0
+that	that	cst
+they	they	pphs2
+will	will	vm
+be	be	vbi
+left	leave	vvn_jj
+alone	alone	jj
+because	because	cs
+they	they	pphs2
+say	say	vv0
+:		:
+"		"
+We	we	ppis2
+believe	believe	vv0
+,		,
+"		"
+and	and	cc
+will	will	vm
+not	not	xx
+be	be	vbi
+tested	test	vvn
+.		.
+<p>		null
+"		"
+And	and	cc
+We	we	ppis2
+indeed	indeed	rr
+tested	test	vvn_vvd
+those	those	dd2
+who	who	pnqs
+were	be	vbdr
+before	before	ii
+them	them	ppho2
+.		.
+And	and	cc
+Allah	allah	np1
+will	will	vm
+certainly	certainly	rr
+make	make	vvi
+(		(
+it	it	pph1
+)		)
+known	know	vvn
+(		(
+the	the	at
+truth	truth	nn1
+of	of	io
+)		)
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+true	true	jj
+,		,
+and	and	cc
+will	will	vm
+certainly	certainly	rr
+make	make	vvi
+(		(
+it	it	pph1
+)		)
+known	know	vvn
+(		(
+the	the	at
+falsehood	falsehood	nn1
+of	of	io
+)		)
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+liars	liar	nn2
+,		,
+(		(
+although	although	cs
+Allah	allah	np1
+knows	know	vvz
+all	all	db
+that	that	cst_dd1
+before	before	ii
+putting	put	vvg
+them	them	ppho2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Not	not	xx
+only	only	rr
+do	do	vd0
+these	these	dd2
+tests	test	nn2
+separate	separate	vvi
+the	the	at
+sincere	sincere	jj
+Muslim	muslim	nn1@_jj
+from	from	ii
+the	the	at
+insincere	insincere	jj
+Muslim	muslim	jj_nn1@
+but	but	ccb
+they	they	pphs2
+also	also	rr
+enable	enable	vv0
+a	a	at1
+Muslim	muslim	jj
+to	to	to
+reach	reach	vvi
+a	a	at1
+higher	high	jjr
+rank	rank	nn1
+in	in	ii
+heaven	heaven	nn1
+.		.
+It	it	pph1
+'s	be	vbz
+sad	sad	jj
+to	to	to
+hear	hear	vvi
+your	your	appge
+puppy	puppy	nn1
+passed	pass	vvd_vvn
+away	away	rl
+,		,
+but	but	ccb
+then	then	rt
+to	to	to
+question	question	vvi
+whether	whether	csw
+God	god	np1
+exists	exist	vvz
+is	be	vbz
+taking	take	vvg
+a	a	at1
+few	few	da2
+backward	backward	jj
+steps	step	nn2
+.		.
+Remember	remember	vv0
+,		,
+Islam	islam	nn1
+means	mean	vvz_nn
+complete	complete	jj
+submission	submission	nn1
+and	and	cc
+surrendering	surrender	vvg
+to	to	ii
+the	the	at
+will	will	nn1@
+of	of	io
+Allah	allah	np1
+.		.
+From	from	ii
+Him	him	ppho1
+we	we	ppis2
+came	come	vvd
+and	and	cc
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+'ll	will	vm
+be	be	vbi
+returning	return	vvg
+.		.
+He	he	pphs1
+is	be	vbz
+our	our	appge
+Rab	rab	np1
+which	which	ddq
+,		,
+means	mean	vvz
+our	our	appge
+lord	lord	nn1
+,		,
+sustainer	sustainer	nn1
+,		,
+cherisher	cherisher	nn1
+and	and	cc
+master	master	nn1
+.		.
+Thus	thus	rr
+,		,
+the	the	at
+fate	fate	nn1
+good	good	jj
+and	and	cc
+bad	bad	jj
+that	that	cst
+descends	descend	vvz
+upon	upon	ii
+is	be	vbz
+by	by	ii
+Him	him	ppho1
+alone	alone	rr_jj
+and	and	cc
+we	we	ppis2
+should	should	vm
+not	not	xx
+question	question	vvi
+it	it	pph1
+,		,
+but	but	ccb
+instead	instead	rr
+be	be	vbi
+thankful	thankful	jj
+in	in	ii
+gratitude	gratitude	nn1
+that	that	cst
+he	he	pphs1
+'s	be	vhz
+given	give	vvn
+us	us	ppio2
+Imam	imam	nn1
+(		(
+kalimah		uh_nn1
+-	-	-
+the	the	at
+first	first	md
+pillar	pillar	nn1
+)		)
+,		,
+which	which	ddq
+is	be	vbz
+our	our	appge
+sole	sole	jj
+ticket	ticket	nn1
+into	into	ii
+Paradise	paradise	nn1
+.		.
+<p>		null
+What	what	ddq
+I	i	ppis1
+mean	mean	vv0
+is	be	vbz
+to	to	to
+have	have	vhi
+faith	faith	nn1
+.		.
+The	the	at
+true	true	jj
+believers	believer	nn2
+are	be	vbr
+those	those	dd2
+who	who	pnqs
+remain	remain	vv0
+devoted	devoted	jj
+to	to	ii
+Allah	allah	np1
+under	under	ii
+all	all	db
+circumstances	circumstance	nn2
+in	in	ii
+life	life	nn1
+.		.
+Allah	allah	np1
+exists	exist	vvz
+no	no	ddqv31
+matter	matter	ddqv32
+what	what	ddqv33
+befalls	befall	vvz
+them	them	ppho2
+and	and	cc
+deserves	deserve	vvz
+to	to	to
+be	be	vbi
+worshipped	worship	vvn
+at	at	ii
+all	all	db
+times	time	nnt2
+.		.
+And	and	cc
+they	they	pphs2
+know	know	vv0
+they	they	pphs2
+have	have	vh0
+no	no	at
+escape	escape	nn1
+from	from	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+faith	faith	nn1
+.		.
+Thus	thus	rr
+,		,
+they	they	pphs2
+serve	serve	vv0
+Allah	allah	np1
+with	with	iw
+true	true	jj
+faith	faith	nn1
+at	at	ii
+all	all	db
+times	time	nnt2
+and	and	cc
+pass	pass	vv0
+every	every	at1
+test	test	nn1
+Allah	allah	np1
+gives	give	vvz
+them	them	ppho2
+-	-	-
+at	at	ii
+good	good	jj
+times	time	nnt2
+,		,
+they	they	pphs2
+thank	thank	vv0
+Allah	allah	np1
+and	and	cc
+do	do	vd0
+not	not	xx
+become	become	vvi
+spoilt		vvn_jj@
+,		,
+at	at	ii
+bad	bad	jj
+times	time	nnt2
+they	they	pphs2
+continue	continue	vv0
+to	to	to
+serve	serve	vvi
+Allah	allah	np1
+and	and	cc
+look	look	vvi
+to	to	ii
+the	the	at
+Hereafter	hereafter	nn1@
+for	for	if
+their	their	appge
+patience	patience	nn1
+and	and	cc
+perseverance	perseverance	nn1
+.		.
+<p>		null
+One	one	pn1
+can	can	vm
+derive	derive	vvi
+the	the	at
+true	true	jj
+meaning	meaning	nn1
+of	of	io
+being	be	vbg
+a	a	at1
+believer	believer	nn1
+by	by	ii
+closely	closely	rr
+analysing	analyse	vvg
+the	the	at
+Qur'an	qur'an	nn1_jj_np1
+and	and	cc
+drawing	draw	vvg_nn1
+lessons	lesson	nn2
+from	from	ii
+it	it	pph1
+like	like	cs%_rr%
+we	we	ppis2
+have	have	vh0
+done	do	vdn
+,		,
+and	and	cc
+live	live	vv0_jj
+by	by	ii
+that	that	dd1
+definition	definition	nn1
+of	of	io
+being	be	vbg
+a	a	at1
+true	true	jj_nn1%
+'	'	ge
+Muslim	muslim	nn1@_jj
+'	'	ge
+to	to	ii
+Allah	allah	np1
+instead	instead	ii21
+of	of	ii22
+the	the	at
+definition	definition	nn1
+provided	provide	vvn
+by	by	ii
+society	society	nn1
+.		.
+<p>		null
+I	i	ppis1
+'d	have	vm
+recommend	recommend	vvi
+reading	read	vvg
+the	the	at
+story	story	nn1
+of	of	io
+Abraham	abraham	np1
+in	in	ii
+the	the	at
+Quran	quran	np1_nn1
+:		:
+When	when	rrq_cs
+his	his	appge
+Lord	lord	nn1_np1
+said	say	vvd_vvn@
+to	to	ii
+him	him	ppho1
+,		,
+"		"
+Submit	submit	vv0
+"		"
+,		,
+he	he	pphs1
+said	say	vvd
+"		"
+I	i	ppis1
+have	have	vh0
+submitted	submit	vvn
+to	to	ii
+the	the	at
+Lord	lord	nn1
+of	of	io
+the	the	at
+worlds	world	nn2
+.		.
+"		"
+(		(
+2:131		mc
+)		)
+<p>		null
+That	that	dd1
+'s	be	vbz
+one	one	mc1
+powerful	powerful	jj
+quote	quote	nn1
+from	from	ii
+the	the	at
+Quran	quran	nn1_np1
+.		.
+It	it	pph1
+gives	give	vvz
+me	me	ppio1
+goosebumps	goosebumps	vvz
+everytime	everytime	rt
+I	i	ppis1
+ponder	ponder	vv0
+over	over	ii_rp
+it	it	pph1
+.		.
+<p>		null
+I	i	ppis1
+hope	hope	vv0
+all	all	db
+pans	pan	nn2
+out	out	rp
+well	well	rr
+.		.
+You	you	ppy
+'re	be	vbr
+in	in	ii
+good	good	jj
+hands	hand	nn2
+here	here	rl
+.		.
+There	there	ex
+are	be	vbr
+many	many	da2
+willing	willing	jj
+brothers	brother	nn2
+and	and	cc
+sisters	sister	nn2
+will	will	vm
+guide	guide	vvi
+you	you	ppy
+better	better	rrr
+than	than	csn
+I	i	ppis1
+can	can	vm_vv0%
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+by	by	ii
+rebeccam		nn1
+<p>		null
+Aleikum	aleikum	nn1_np1@
+salam	salam	nn1_vv0
+,		,
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+cut	cut	vvi
+ties	tie	nn2
+with	with	iw
+my	my	appge
+friends	friend	nn2
+...		...
+I	i	ppis1
+love	love	vv0
+them	them	ppho2
+...		...
+we	we	ppis2
+have	have	vh0
+been	be	vbn
+friends	friend	nn2
+for	for	if
+about	about	rg
+7	7	mc
+years	year	nnt2
+and	and	cc
+I	i	ppis1
+always	always	rr
+want	want	vv0
+them	them	ppho2
+to	to	to
+be	be	vbi
+a	a	at1
+part	part	nn1
+of	of	io
+my	my	appge
+life	life	nn1
+.		.
+Some	some	dd
+are	be	vbr
+supportive	supportive	jj
+and	and	cc
+fine	fine	jj
+with	with	iw
+it	it	pph1
+..	...	...
+they	they	pphs2
+do	do	vd0
+nt		xx
+actually	actually	rr
+directly	directly	rr
+tell	tell	vv0
+me	me	ppio1
+to	to	to
+drink	drink	vvi
+and	and	cc
+things	thing	nn2
+but	but	ccb
+naturally	naturally	rr
+I	i	ppis1
+just	just	rr
+get	get	vvi
+a	a	rr21
+bit	bit	rr22
+left	leave	vvn_vvd
+out	out	rp
+.		.
+Also	also	rr
+they	they	pphs2
+just	just	rr
+do	do	vd0
+n't	n't	xx
+understand	understand	vvi
+since	since	cs
+they	they	pphs2
+are	be	vbr
+sure	sure	jj
+God	god	nn1@_np1
+does	do	vdz
+not	not	xx
+exist	exist	vvi
+.		.
+<p>		null
+I	i	ppis1
+know	know	vv0
+they	they	pphs2
+must	must	vm
+be	be	vbi
+important	important	jj
+to	to	ii
+you	you	ppy
+sister	sister	nn1
+,		,
+but	but	ccb
+they	they	pphs2
+are	be	vbr
+also	also	rr
+a	a	at1
+bad	bad	jj
+influence	influence	nn1
+.		.
+You	you	ppy
+need	need	vv0
+to	to	to
+be	be	vbi
+around	around	rg@_ii
+good	good	jj
+company	company	nn1
+.		.
+These	these	dd2
+people	people	nn
+may	may	vm
+not	not	xx
+directly	directly	rr
+be	be	vbi
+inviting	invite	vvg_jj
+you	you	ppy
+to	to	ii
+evil	evil	nn1_jj
+,		,
+but	but	ccb
+they	they	pphs2
+are	be	vbr
+doing	do	vdg
+evil	evil	jj_nn1
+things	thing	nn2
+.		.
+Why	why	rrq
+would	would	vm
+you	you	ppy
+want	want	vvi
+to	to	to
+be	be	vbi
+around	around	ii_rg@_rp
+all	all	db
+this	this	dd1
+fitnah		nn1
+?		?
+You	you	ppy
+may	may	vm
+not	not	xx
+understand	understand	vvi
+this	this	dd1
+now	now	rt
+since	since	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+new	new	jj
+Muslim	muslim	jj_nn1@
+,		,
+but	but	ccb
+you	you	ppy
+need	need	vv0
+to	to	to
+put	put	vvi
+your	your	appge
+religion	religion	nn1
+ahead	ahead	ii21
+of	of	ii22
+everything	everything	pn1
+(		(
+friends	friend	nn2
+,		,
+family	family	nn1
+ect	ect	nn1_vv0
+...		...
+)		)
+.		.
+If	if	cs
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+let	let	vvi
+go	go	nn1%_vv0
+of	of	io
+your	your	appge
+friends	friend	nn2
+,		,
+the	the	at
+least	least	rgt_rrt
+you	you	ppy
+can	can	vm
+do	do	vdi
+is	be	vbz
+give	give	vvi
+da'wah		nn1
+to	to	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+that	that	cst
+they	they	pphs2
+be	be	vbi
+guided	guide	vvn
+as	as	csa
+you	you	ppy
+were	be	vbdr
+.		.
+If	if	cs
+that	that	dd1
+does	do	vdz
+n't	n't	xx
+work	work	vvi
+,		,
+then	then	rt
+you	you	ppy
+need	need	vv0
+to	to	to
+replace	replace	vvi
+them	them	ppho2
+with	with	iw
+better	better	jjr_rrr
+,		,
+Muslim	muslim	jj
+friends	friend	nn2
+.		.
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+rebeccam		nn1
+<p>		null
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+yet	yet	rr
+know	know	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+..	...	...
+it	it	pph1
+'s	be	vbz
+too	too	rg
+difficult	difficult	jj
+..	...	...
+I	i	ppis1
+have	have	vh0
+tried	try	vvn
+.		.
+There	there	ex
+are	be	vbr
+too	too	rg
+many	many	da2
+rules	rule	nn2
+..	...	...
+my	my	appge
+prayers	prayer	nn2
+would	would	vm
+probably	probably	rr
+be	be	vbi
+invalid	invalid	jj
+anyway	anyway	rr
+.		.
+Also	also	rr
+I	i	ppis1
+can	can	vm
+not	not	xx
+be	be	vbi
+excused	excuse	vvn
+from	from	ii
+class	class	nn1
+because	because	cs
+a	a	zz1
+)		)
+nobody	nobody	pn1
+at	at	ii
+school	school	nn1
+knows	know	vvz
+and	and	cc
+I	i	ppis1
+am	be	vbm
+not	not	xx
+ready	ready	jj_rr@
+..	...	...
+b	b	zz1
+)		)
+there	there	ex_rl
+is	be	vbz
+nowhere	nowhere	rl
+I	i	ppis1
+can	can	vm
+do	do	vdi
+wudu		nn1
+or	or	cc
+pray	pray	vv0
+at	at	ii
+school	school	nn1
+..	...	...
+<p>		null
+If	if	cs
+you	you	ppy
+do	do	vd0
+nt		xx
+know	know	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+yet	yet	rr
+,		,
+then	then	rt
+you	you	ppy
+are	be	vbr
+obligated	obligate	vvn@
+to	to	to
+learn	learn	vvi
+.		.
+Have	have	vh0
+you	you	ppy
+started	start	vvn
+learning	learn	vvg_nn1
+yet	yet	rr
+?		?
+Do	do	vd0
+you	you	ppy
+have	have	vhi
+a	a	at1
+teacher	teacher	nn1
+?		?
+You	you	ppy
+can	can	vm
+try	try	vvi
+going	go	vvg
+to	to	ii
+that	that	dd1
+mosque	mosque	nn1
+you	you	ppy
+took	take	vvd
+the	the	at
+shahada	shahada	nn1
+in	in	rp@_ii
+;		;
+im		vv0
+sure	sure	jj_rr%
+they	they	pphs2
+'ll	will	vm
+be	be	vbi
+more	more	dar_rrr
+than	than	csn
+willing	willing	jj
+to	to	to
+help	help	vvi
+you	you	ppy
+out	out	rp
+.		.
+<p>		null
+And	and	cc
+its	its	appge
+not	not	xx
+difficult	difficult	jj
+.		.
+This	this	dd1
+religion	religion	nn1
+is	be	vbz
+very	very	rg
+easy	easy	jj
+.		.
+It	it	pph1
+just	just	rr
+seems	seem	vvz
+hard	hard	rr
+now	now	rt
+because	because	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+new	new	jj
+Muslim	muslim	jj_nn1@
+.		.
+It	it	pph1
+'ll	will	vm
+take	take	vvi
+sometime	sometime	jj_rt
+to	to	to
+learn	learn	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+,		,
+but	but	ccb
+It	it	pph1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+<p>		null
+Once	once	cs@_rr
+you	you	ppy
+learn	learn	vv0
+,		,
+you	you	ppy
+must	must	vm
+excuse	excuse	vvi
+yourself	yourself	ppx1
+from	from	ii
+class	class	nn1
+to	to	to
+pray	pray	vvi
+.		.
+Who	who	pnqs
+cares	care	vvz
+if	if	cs_csw@
+no	no	pn121
+one	one	pn122
+knows	know	vvz
+that	that	cst
+you	you	ppy
+'re	be	vbr
+a	a	at1
+Muslim	muslim	jj_nn1@
+.		.
+Just	just	rr
+tell	tell	vv0
+them	them	ppho2
+,		,
+and	and	cc
+if	if	cs_csw@
+they	they	pphs2
+do	do	vd0
+nt		xx
+understand	understand	vvi
+,		,
+tough	tough	jj_nn1@
+.		.
+Tell	tell	vv0
+the	the	at
+teacher	teacher	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+be	be	vbi
+excused	excuse	vvn
+to	to	to
+pray	pray	vvi
+for	for	if
+5	5	mc
+minutes	minute	nnt2
+.		.
+Do	do	vd0
+wudu		nn1
+in	in	ii
+the	the	at
+bathroom	bathroom	nn1
+,		,
+or	or	cc
+do	do	vd0
+wudhu	wudhu	nn1
+before	before	ii
+leaving	leave	vvg
+for	for	if
+school	school	nn1
+and	and	cc
+keep	keep	vv0
+it	it	pph1
+throughout	throughout	ii
+the	the	at
+day	day	nnt1
+.		.
+Find	find	vv0
+an	a	at1
+empty	empty	jj
+room	room	nn1
+,		,
+and	and	cc
+start	start	vv0_nn1
+praying	pray	vvg_nn1@
+.		.
+Thats		vvz_nn2
+all	all	db_rr@
+.		.
+You	you	ppy
+could	could	vm
+even	even	rr
+ask	ask	vvi
+the	the	at
+principal	principal	nn1_jj
+if	if	cs
+there	there	ex
+is	be	vbz
+an	a	at1
+empty	empty	jj
+room	room	nn1
+you	you	ppy
+can	can	vm
+use	use	vvi
+to	to	to
+pray	pray	vvi
+.		.
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+rebeccam		nn1
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+disrespecting	disrespect	vvg
+her	her	ppho1
+..	...	...
+I	i	ppis1
+love	love	vv0
+her	her	ppho1
+,		,
+but	but	ccb
+I	i	ppis1
+know	know	vv0
+naturally	naturally	rr
+I	i	ppis1
+am	be	vbm
+more	more	rgr
+authoritative	authoritative	jj
+over	over	ii
+her	her	ppho1
+..	...	...
+I	i	ppis1
+am	be	vbm
+quite	quite	rg
+dominant	dominant	jj
+and	and	cc
+she	she	pphs1
+is	be	vbz
+n't	n't	xx
+.		.
+It	it	pph1
+'s	be	vbz
+just	just	rr
+how	how	rrq
+I	i	ppis1
+am	be	vbm
+..	...	...
+stubborn	stubborn	jj
+and	and	cc
+do	do	vd0
+n't	n't	xx
+like	like	vvi
+to	to	to
+be	be	vbi
+told	tell	vvn
+what	what	ddq
+to	to	to
+do	do	vdi
+.		.
+Also	also	rr
+,		,
+about	about	ii
+the	the	at
+lying	lying	nn1@
+I	i	ppis1
+just	just	rr
+mean	mean	vv0_jj
+lying	lie	vvg_nn1@
+as	as	csa
+in	in	ii_rp@
+..	...	...
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+telling	tell	vvg
+so	so	rg
+many	many	da2
+white	white	jj
+lies	lie	nn2
+..	...	...
+if	if	cs
+someone	someone	pn1
+says	say	vvz
+"		"
+did	do	vdd
+you	you	ppy
+get	get	vvi
+my	my	appge
+email	e-mail	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+did	do	vdd
+..	...	...
+without	without	iw
+even	even	rr
+thinking	think	vvg_nn1
+..	...	...
+or	or	cc
+"		"
+yeah	yeah	uh
+I	i	ppis1
+have	have	vh0
+read	read	vvn
+that	that	dd1_cst
+book	book	nn1
+"		"
+..	...	...
+when	when	cs_rrq
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+!		!
+!		!
+!		!
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+it	it	pph1
+..	...	...
+it	it	pph1
+has	have	vhz
+become	become	vvn@
+habit	habit	nn1
+..	...	...
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+seem	seem	vvi
+to	to	to
+get	get	vvi
+by	by	rp%_ii
+without	without	iw
+it	it	pph1
+.		.
+<p>		null
+You	you	ppy
+need	need	vv0
+to	to	to
+change	change	vvi
+this	this	dd1
+attitude	attitude	nn1
+then	then	rt
+.		.
+Start	start	vv0_nn1
+becoming	become	vvg
+less	less	rgr_dar
+dominant	dominant	jj
+,		,
+and	and	cc
+more	more	rgr
+humble	humble	jj
+and	and	cc
+obedient	obedient	jj
+to	to	ii
+your	your	appge
+parents	parent	nn2
+.		.
+Change	change	vv0
+this	this	dd1
+evil	evil	jj_nn1
+habit	habit	nn1
+.		.
+When	when	cs
+your	your	appge
+mother	mother	nn1
+tells	tell	vvz
+you	you	ppy
+to	to	to
+do	do	vdi
+something	something	pn1
+,		,
+do	do	vd0
+it	it	pph1
+for	for	if
+the	the	at
+sake	sake	nn1
+of	of	io
+Allah	allah	np1
+,		,
+if	if	cs
+not	not	xx
+for	for	if
+her	her	ppho1
+.		.
+<p>		null
+If	if	cs
+you	you	ppy
+have	have	vh0
+a	a	at1
+bad	bad	jj
+habit	habit	nn1
+of	of	io
+lying	lie	vvg_nn1@
+,		,
+then	then	rt
+you	you	ppy
+need	need	vv0
+to	to	to
+get	get	vvi
+rid	rid	vvn
+of	of	io
+that	that	dd1
+too	too	rr@
+.		.
+Here	here	rl
+'s	be	vbz
+what	what	ddq
+you	you	ppy
+can	can	vm
+do	do	vdi
+:		:
+Every	every	at1
+time	time	nnt1
+you	you	ppy
+lie	lie	vv0
+,		,
+give	give	vv0
+some	some	dd
+money	money	nn1
+in	in	ii
+charity	charity	nn1
+as	as	csa_ii@
+expiation	expiation	nn1
+,		,
+and	and	cc
+repent	repent	vv0
+immediately	immediately	rr
+.		.
+Also	also	rr
+,		,
+correct	correct	vv0@
+it	it	pph1
+immediately	immediately	rr
+by	by	ii
+telling	tell	vvg
+the	the	at
+truth	truth	nn1
+(		(
+"		"
+Did	do	vdd
+you	you	ppy
+get	get	vvi
+the	the	at
+e-mail	e-mail	nn1
+?		?
+"		"
+"		"
+No	no	uh
+...		...
+Wait	wait	vv0
+,		,
+yes	yes	uh
+I	i	ppis1
+did	do	vdd
+!		!
+"		"
+)		)
+.		.
+And	and	cc
+there	there	ex
+'s	be	vbz
+no	no	at
+such	such	da
+thing	thing	nn1
+as	as	csa
+a	a	at1
+"		"
+white	white	jj
+lie	lie	nn1@
+"		"
+.		.
+Lying	lie	vvg_nn1@
+is	be	vbz
+lying	lie	vvg
+,		,
+no	no	rgqv31
+matter	matter	rgqv32
+how	how	rgqv33
+big	big	jj
+or	or	cc
+small	small	jj_rr%
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+a	a	at1
+"		"
+white	white	jj
+lie	lie	nn1@
+"		"
+,		,
+because	because	cs
+then	then	rt
+you	you	ppy
+'ll	will	vm
+stop	stop	vvi
+taking	take	vvg
+it	it	pph1
+seriously	seriously	rr
+.		.
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+rebeccam		nn1
+<p>		null
+Also	also	rr
+..	...	...
+why	why	rrq
+did	do	vdd
+God	god	np1
+let	let	vvi
+my	my	appge
+puppy	puppy	nn1
+die	die	vvi
+..	...	...
+I	i	ppis1
+love	love	vv0
+him	him	ppho1
+so	so	rg
+much	much	da1_rr
+.		.
+We	we	ppis2
+are	be	vbr
+devastated	devastate	vvn
+.		.
+I	i	ppis1
+prayed	pray	vvd
+for	for	if
+my	my	appge
+puppy	puppy	nn1
+too	too	rg_rr@
+..	...	...
+<p>		null
+Again	again	rt
+,		,
+you	you	ppy
+should	should	vm
+stop	stop	vvi
+saying	say	vvg
+things	thing	nn2
+like	like	ii
+this	this	dd1
+.		.
+Its	its	appge
+a	a	at1
+sin	sin	nn1
+to	to	to
+question	question	vvi
+the	the	at
+will	will	nn1@
+of	of	io
+God	god	np1_nn1@
+.		.
+Just	just	rr
+accept	accept	vv0
+it	it	pph1
+,		,
+have	have	vh0
+sabr	sabr	nn1
+,		,
+and	and	cc
+move	move	vv0
+on	on	rp@
+.		.
+If	if	cs
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+handle	handle	vvi
+your	your	appge
+puppy	puppy	nn1
+dying	die	vvg_jj
+,		,
+how	how	rrq
+will	will	vm
+you	you	ppy
+handle	handle	vvi
+it	it	pph1
+when	when	cs
+a	a	at1
+loved	loved	jj%
+one	one	pn1
+passes	pass	vvz
+away	away	rl
+?		?
+<p>		null
+Here	here	rl
+'s	be	vbz
+a	a	at1
+hadith	hadith	nn1
+to	to	to
+motivate	motivate	vvi
+you	you	ppy
+:		:
+<p>		null
+Allah	allah	np1
+(		(
+mighty	mighty	jj
+and	and	cc
+sublime	sublime	jj
+be	be	vbi
+He	he	pphs1
+)		)
+says	say	vvz
+:		:
+'	'	"@_ge
+My	my	appge
+faithful	faithful	jj
+servant	servant	nn1
+'s	's	ge
+reward	reward	nn1
+from	from	ii
+Me	me	ppio1
+,		,
+if	if	cs
+I	i	ppis1
+have	have	vh0
+taken	take	vvn
+to	to	ii
+Me	me	ppio1
+his	his	appge
+best	best	jjt
+friend	friend	nn1
+from	from	ii
+amongst	amongst	ii
+the	the	at
+inhabitants	inhabitant	nn2
+of	of	io
+the	the	at
+world	world	nn1
+and	and	cc
+he	he	pphs1
+has	have	vhz
+then	then	rt
+borne	bear	vvn
+it	it	pph1
+patiently	patiently	rr
+for	for	if
+My	my	appge
+sake	sake	nn1
+,		,
+shall	shall	vm
+be	be	vbi
+nothing	nothing	pn1
+less	less	dar
+than	than	csn
+Paradise	paradise	nn1
+.		.
+'	'	"@_ge
+"		"
+<h>		null
+Re	re	np1%_ii
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+rebeccam		nn1
+<p>		null
+Aleikum	aleikum	nn1_np1@
+salam	salam	nn1_vv0
+,		,
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+cut	cut	vvi
+ties	tie	nn2
+with	with	iw
+my	my	appge
+friends	friend	nn2
+...		...
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+7	7	mc
+years	year	nnt2
+and	and	cc
+I	i	ppis1
+always	always	rr
+want	want	vv0
+them	them	ppho2
+to	to	to
+be	be	vbi
+a	a	at1
+part	part	nn1
+of	of	io
+my	my	appge
+life	life	nn1
+.		.
+Some	some	dd
+are	be	vbr
+supportive	supportive	jj
+and	and	cc
+fine	fine	jj
+with	with	iw
+it	it	pph1
+..	...	...
+they	they	pphs2
+do	do	vd0
+nt		xx
+actually	actually	rr
+directly	directly	rr
+tell	tell	vv0
+me	me	ppio1
+to	to	to
+drink	drink	vvi
+and	and	cc
+things	thing	nn2
+but	but	ccb
+naturally	naturally	rr
+I	i	ppis1
+just	just	rr
+get	get	vvi
+a	a	rr21
+bit	bit	rr22
+left	leave	vvn_vvd
+out	out	rp
+.		.
+Also	also	rr
+they	they	pphs2
+just	just	rr
+do	do	vd0
+n't	n't	xx
+understand	understand	vvi
+since	since	cs
+they	they	pphs2
+are	be	vbr
+sure	sure	jj
+God	god	nn1@_np1
+does	do	vdz
+not	not	xx
+exist	exist	vvi
+.		.
+<p>		null
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+yet	yet	rr
+know	know	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+..	...	...
+it	it	pph1
+'s	be	vbz
+too	too	rg
+difficult	difficult	jj
+..	...	...
+I	i	ppis1
+have	have	vh0
+tried	try	vvn
+.		.
+There	there	ex
+are	be	vbr
+too	too	rg
+many	many	da2
+rules	rule	nn2
+..	...	...
+my	my	appge
+prayers	prayer	nn2
+would	would	vm
+probably	probably	rr
+be	be	vbi
+invalid	invalid	jj
+anyway	anyway	rr
+.		.
+Also	also	rr
+I	i	ppis1
+can	can	vm
+not	not	xx
+be	be	vbi
+excused	excuse	vvn
+from	from	ii
+class	class	nn1
+because	because	cs
+a	a	zz1
+)		)
+nobody	nobody	pn1
+at	at	ii
+school	school	nn1
+knows	know	vvz
+and	and	cc
+I	i	ppis1
+am	be	vbm
+not	not	xx
+ready	ready	jj_rr@
+..	...	...
+b	b	zz1
+)		)
+there	there	ex_rl
+is	be	vbz
+nowhere	nowhere	rl
+I	i	ppis1
+can	can	vm
+do	do	vdi
+wudu		nn1
+or	or	cc
+pray	pray	vv0
+at	at	ii
+school	school	nn1
+..	...	...
+<p>		null
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+disrespecting	disrespect	vvg
+her	her	ppho1
+..	...	...
+I	i	ppis1
+love	love	vv0
+her	her	ppho1
+,		,
+but	but	ccb
+I	i	ppis1
+know	know	vv0
+naturally	naturally	rr
+I	i	ppis1
+am	be	vbm
+more	more	rgr
+authoritative	authoritative	jj
+over	over	ii
+her	her	ppho1
+..	...	...
+I	i	ppis1
+am	be	vbm
+quite	quite	rg
+dominant	dominant	jj
+and	and	cc
+she	she	pphs1
+is	be	vbz
+n't	n't	xx
+.		.
+It	it	pph1
+'s	be	vbz
+just	just	rr
+how	how	rrq
+I	i	ppis1
+am	be	vbm
+..	...	...
+stubborn	stubborn	jj
+and	and	cc
+do	do	vd0
+n't	n't	xx
+like	like	vvi
+to	to	to
+be	be	vbi
+told	tell	vvn
+what	what	ddq
+to	to	to
+do	do	vdi
+.		.
+Also	also	rr
+,		,
+about	about	ii
+the	the	at
+lying	lying	nn1@
+I	i	ppis1
+just	just	rr
+mean	mean	vv0_jj
+lying	lie	vvg_nn1@
+as	as	csa
+in	in	ii_rp@
+..	...	...
+I	i	ppis1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+someone	someone	pn1
+says	say	vvz
+"		"
+did	do	vdd
+you	you	ppy
+get	get	vvi
+my	my	appge
+email	e-mail	nn1
+"		"
+I	i	ppis1
+'ll	will	vm
+say	say	vvi
+"		"
+No	no	uh
+"		"
+even	even	cs21
+if	if	cs22
+I	i	ppis1
+did	do	vdd
+..	...	...
+without	without	iw
+even	even	rr
+thinking	think	vvg_nn1
+..	...	...
+or	or	cc
+"		"
+yeah	yeah	uh
+I	i	ppis1
+have	have	vh0
+read	read	vvn
+that	that	dd1_cst
+book	book	nn1
+"		"
+..	...	...
+when	when	cs_rrq
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+!		!
+!		!
+!		!
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+help	help	vvi
+it	it	pph1
+..	...	...
+it	it	pph1
+has	have	vhz
+become	become	vvn@
+habit	habit	nn1
+..	...	...
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+seem	seem	vvi
+to	to	to
+get	get	vvi
+by	by	rp%_ii
+without	without	iw
+it	it	pph1
+.		.
+<p>		null
+Thank	thank	vv0
+you	you	ppy
+so	so	rg
+much	much	da1
+for	for	if
+your	your	appge
+response	response	nn1
+.		.
+I	i	ppis1
+feel	feel	vv0
+though	though	rr@_cs
+,		,
+like	like	ii_vv0@
+yes	yes	uh
+God	god	np1
+exists	exist	vvz
+,		,
+but	but	ccb
+then	then	rt
+maybe	maybe	rr
+I	i	ppis1
+am	be	vbm
+just	just	rr
+being	be	vbg
+stupid	stupid	jj
+because	because	cs
+nobody	nobody	pn1
+around	around	ii
+me	me	ppio1
+follows	follow	vvz
+God	god	np1
+or	or	cc
+even	even	rr
+believes	believe	vvz
+in	in	ii
+him	him	ppho1
+!		!
+!		!
+!		!
+Also	also	rr
+..	...	...
+why	why	rrq
+did	do	vdd
+God	god	np1
+let	let	vvi
+my	my	appge
+puppy	puppy	nn1
+die	die	vvi
+..	...	...
+I	i	ppis1
+love	love	vv0
+him	him	ppho1
+so	so	rg
+much	much	da1_rr
+.		.
+We	we	ppis2
+are	be	vbr
+devastated	devastate	vvn
+.		.
+I	i	ppis1
+prayed	pray	vvd
+for	for	if
+my	my	appge
+puppy	puppy	nn1
+too	too	rg_rr@
+..	...	...
+Sigh	sigh	nn1_vv0@
+..	...	...
+<p>		null
+I	i	ppis1
+am	be	vbm
+fairly	fairly	rr
+weak	weak	jj
+in	in	ii
+faith	faith	nn1
+,		,
+being	be	vbg
+a	a	at1
+new	new	jj
+Muslim	muslim	jj_nn1@
+..	...	...
+<p>		null
+Rebecca	rebecca	np1
+<p>		null
+Salam		vv0
+u	u	zz1
+alaikum	alaikum	nn1
+Sister	sister	nn1
+,		,
+<p>		null
+The	the	at
+best	best	jjt_rrt
+of	of	io
+the	the	at
+Muslims	muslim	nn2
+who	who	pnqs
+ever	ever	rr
+walked	walk	vvd_vvn@
+on	on	ii
+this	this	dd1
+earth	earth	nn1
+were	be	vbdr
+all	all	db_rr@
+converts/reverts		vvz
+.		.
+They	they	pphs2
+were	be	vbdr
+the	the	at
+companions	companion	nn2
+of	of	io
+our	our	appge
+beloved	beloved	jj
+prophet	prophet	nn1
+Muhammad	muhammad	np1
+S.W.	s.w	nd1
+They	they	pphs2
+were	be	vbdr
+living	live	vvg
+In	in	ii_rp@
+a	a	at1
+severe	severe	jj
+hostile	hostile	jj
+environment	environment	nn1
+.		.
+I	i	ppis1
+recommend	recommend	vv0
+you	you	ppy
+keep	keep	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+(		(
+Sahabas		np2
+)		)
+and	and	cc
+how	how	rrq
+they	they	pphs2
+went	go	vvd
+about	about	rp@
+with	with	iw
+their	their	appge
+conversion	conversion	nn1
+.		.
+It	it	pph1
+will	will	vm
+give	give	vvi
+you	you	ppy
+a	a	at1
+true	true	jj
+sense	sense	nn1
+of	of	io
+spirit	spirit	nn1
+of	of	io
+Islam	islam	nn1
+.		.
+And	and	cc
+just	just	rr
+reading	read	vvg_nn1
+about	about	ii
+them	them	ppho2
+will	will	vm
+answer	answer	vvi
+and	and	cc
+give	give	vvi
+you	you	ppy
+direction	direction	nn1
+to	to	ii
+a	a	at1
+lot	lot	nn1
+of	of	io
+your	your	appge
+problems	problem	nn2
+and	and	cc
+situation	situation	nn1
+that	that	cst
+you	you	ppy
+might	might	vm
+face	face	vvi
+.		.
+<p>		null
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+it	it	pph1
+all	all	db
+very	very	rg
+easy	easy	jj_rr@
+for	for	if
+you	you	ppy
+,		,
+wasalam		vv0_nn1
+.		.
+<p>		null
+Never	never	rr
+Say	say	vv0
+:		:
+"		"
+His	his	appge
+decree	decree	nn1
+has	have	vhz
+stopped	stop	vvn
+me	me	ppio1
+from	from	ii
+walking	walk	vvg_nn1
+towards	towards	ii
+Him	him	ppho1
+!		!
+"		"
+....	....	...
+It	it	pph1
+is	be	vbz
+your	your	appge
+idleness	idleness	nn1
+,		,
+the	the	at
+lack	lack	nn1
+of	of	io
+firmness	firmness	nn1
+in	in	ii
+your	your	appge
+purpose	purpose	nn1
+and	and	cc
+the	the	at
+weakness	weakness	nn1
+of	of	io
+your	your	appge
+decision-making	decision-making	jj_nn1
+ability	ability	nn1
+which	which	ddq
+stopped	stop	vvd
+you	you	ppy
+.		.
+<h>		null
+Re	re	np1%_ii
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+NewMuslim		np1_nn1
+<p>		null
+Hello	hello	uh
+,		,
+<p>		null
+Welcome	welcome	vv0_nn1
+to	to	ii
+the	the	at
+forum	forum	nn1
+and	and	cc
+to	to	ii
+the	the	at
+fold	fold	nn1
+of	of	io
+Islam	islam	nn1
+.		.
+I	i	ppis1
+am	be	vbm
+a	a	at1
+relatively	relatively	rr
+new	new	jj
+Muslim	muslim	nn1@_jj
+myself	myself	ppx1
+and	and	cc
+I	i	ppis1
+am	be	vbm
+still	still	rr
+finding	find	vvg
+my	my	appge
+feet	foot	nn2
+.		.
+So	so	rr
+do	do	vd0
+n't	n't	xx
+be	be	vbi
+so	so	rg
+hard	hard	jj
+on	on	ii
+yourself	yourself	ppx1
+by	by	ii
+saying	say	vvg
+your	your	appge
+faith	faith	nn1
+is	be	vbz
+weak	weak	jj
+.		.
+The	the	at
+fact	fact	nn1
+you	you	ppy
+you	you	ppy
+were	be	vbdr
+able	able	jk
+to	to	to
+find	find	vvi
+the	the	at
+truth	truth	nn1
+and	and	cc
+embrace	embrace	vvi
+already	already	rr
+says	say	vvz
+much	much	rr_da1
+about	about	ii
+your	your	appge
+character	character	nn1
+,		,
+but	but	ccb
+after	after	ii
+taking	take	vvg
+the	the	at
+Shahadah		np1_nn1@
+is	be	vbz
+when	when	rrq_cs
+your	your	appge
+journey	journey	nn1
+really	really	rr
+begins	begin	vvz
+.		.
+<p>		null
+You	you	ppy
+should	should	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+by	by	ii
+Allah	allah	np1
+as	as	ii21
+to	to	ii22
+how	how	rgq@_rrq
+firm	firm	jj_nn1
+you	you	ppy
+are	be	vbr
+on	on	ii
+your	your	appge
+Islam	islam	nn1
+.		.
+<p>		null
+Allah	allah	np1
+says	say	vvz
+:		:
+<p>		null
+"		"
+Do	do	vd0
+people	people	nn
+think	think	vv0
+that	that	cst
+they	they	pphs2
+will	will	vm
+be	be	vbi
+left	leave	vvn_jj
+alone	alone	jj
+because	because	cs
+they	they	pphs2
+say	say	vv0
+:		:
+"		"
+We	we	ppis2
+believe	believe	vv0
+,		,
+"		"
+and	and	cc
+will	will	vm
+not	not	xx
+be	be	vbi
+tested	test	vvn
+.		.
+<p>		null
+"		"
+And	and	cc
+We	we	ppis2
+indeed	indeed	rr
+tested	test	vvn_vvd
+those	those	dd2
+who	who	pnqs
+were	be	vbdr
+before	before	ii
+them	them	ppho2
+.		.
+And	and	cc
+Allah	allah	np1
+will	will	vm
+certainly	certainly	rr
+make	make	vvi
+(		(
+it	it	pph1
+)		)
+known	know	vvn
+(		(
+the	the	at
+truth	truth	nn1
+of	of	io
+)		)
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+true	true	jj
+,		,
+and	and	cc
+will	will	vm
+certainly	certainly	rr
+make	make	vvi
+(		(
+it	it	pph1
+)		)
+known	know	vvn
+(		(
+the	the	at
+falsehood	falsehood	nn1
+of	of	io
+)		)
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+liars	liar	nn2
+,		,
+(		(
+although	although	cs
+Allah	allah	np1
+knows	know	vvz
+all	all	db
+that	that	cst_dd1
+before	before	ii
+putting	put	vvg
+them	them	ppho2
+to	to	to
+test	test	vvi
+)		)
+"		"
+.		.
+(		(
+29:2.		mc
+-3	-3	mc
+)		)
+<p>		null
+Not	not	xx
+only	only	rr
+do	do	vd0
+these	these	dd2
+tests	test	nn2
+separate	separate	vvi
+the	the	at
+sincere	sincere	jj
+Muslim	muslim	nn1@_jj
+from	from	ii
+the	the	at
+insincere	insincere	jj
+Muslim	muslim	jj_nn1@
+but	but	ccb
+they	they	pphs2
+also	also	rr
+enable	enable	vv0
+a	a	at1
+Muslim	muslim	jj
+to	to	to
+reach	reach	vvi
+a	a	at1
+higher	high	jjr
+rank	rank	nn1
+in	in	ii
+heaven	heaven	nn1
+.		.
+It	it	pph1
+'s	be	vbz
+sad	sad	jj
+to	to	to
+hear	hear	vvi
+your	your	appge
+puppy	puppy	nn1
+passed	pass	vvd_vvn
+away	away	rl
+,		,
+but	but	ccb
+then	then	rt
+to	to	to
+question	question	vvi
+whether	whether	csw
+God	god	np1
+exists	exist	vvz
+is	be	vbz
+taking	take	vvg
+a	a	at1
+few	few	da2
+backward	backward	jj
+steps	step	nn2
+.		.
+Remember	remember	vv0
+,		,
+Islam	islam	nn1
+means	mean	vvz_nn
+complete	complete	jj
+submission	submission	nn1
+and	and	cc
+surrendering	surrender	vvg
+to	to	ii
+the	the	at
+will	will	nn1@
+of	of	io
+Allah	allah	np1
+.		.
+From	from	ii
+Him	him	ppho1
+we	we	ppis2
+came	come	vvd
+and	and	cc
+to	to	ii
+Him	him	ppho1
+we	we	ppis2
+'ll	will	vm
+be	be	vbi
+returning	return	vvg
+.		.
+He	he	pphs1
+is	be	vbz
+our	our	appge
+Rab	rab	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+master	master	nn1
+.		.
+Thus	thus	rr
+,		,
+the	the	at
+fate	fate	nn1
+good	good	jj
+and	and	cc
+bad	bad	jj
+that	that	cst
+descends	descend	vvz
+upon	upon	ii
+is	be	vbz
+by	by	ii
+Him	him	ppho1
+alone	alone	rr_jj
+and	and	cc
+we	we	ppis2
+should	should	vm
+not	not	xx
+question	question	vvi
+it	it	pph1
+,		,
+but	but	ccb
+instead	instead	rr
+be	be	vbi
+thankful	thankful	jj
+in	in	ii
+gratitude	gratitude	nn1
+that	that	cst
+he	he	pphs1
+'s	be	vhz
+given	give	vvn
+us	us	ppio2
+Imam	imam	nn1
+(		(
+kalimah		uh_nn1
+-	-	-
+the	the	at
+first	first	md
+pillar	pillar	nn1
+)		)
+,		,
+which	which	ddq
+is	be	vbz
+our	our	appge
+sole	sole	jj
+ticket	ticket	nn1
+into	into	ii
+Paradise	paradise	nn1
+.		.
+<p>		null
+What	what	ddq
+I	i	ppis1
+mean	mean	vv0
+is	be	vbz
+to	to	to
+have	have	vhi
+faith	faith	nn1
+.		.
+The	the	at
+true	true	jj
+believers	believer	nn2
+are	be	vbr
+those	those	dd2
+who	who	pnqs
+remain	remain	vv0
+devoted	devoted	jj
+to	to	ii
+Allah	allah	np1
+under	under	ii
+all	all	db
+circumstances	circumstance	nn2
+in	in	ii
+life	life	nn1
+.		.
+Allah	allah	np1
+exists	exist	vvz
+no	no	ddqv31
+matter	matter	ddqv32
+what	what	ddqv33
+befalls	befall	vvz
+them	them	ppho2
+and	and	cc
+deserves	deserve	vvz
+to	to	to
+be	be	vbi
+worshipped	worship	vvn
+at	at	ii
+all	all	db
+times	time	nnt2
+.		.
+And	and	cc
+they	they	pphs2
+know	know	vv0
+they	they	pphs2
+have	have	vh0
+no	no	at
+escape	escape	nn1
+from	from	ii
+Allah	allah	np1
+.		.
+Everything	everything	pn1
+they	they	pphs2
+experience	experience	vv0
+is	be	vbz
+a	a	at1
+test	test	nn1
+of	of	io
+their	their	appge
+faith	faith	nn1
+.		.
+Thus	thus	rr
+,		,
+they	they	pphs2
+serve	serve	vv0
+Allah	allah	np1
+with	with	iw
+true	true	jj
+faith	faith	nn1
+at	at	ii
+all	all	db
+times	time	nnt2
+and	and	cc
+pass	pass	vv0
+every	every	at1
+test	test	nn1
+Allah	allah	np1
+gives	give	vvz
+them	them	ppho2
+-	-	-
+at	at	ii
+good	good	jj
+times	time	nnt2
+,		,
+they	they	pphs2
+thank	thank	vv0
+Allah	allah	np1
+and	and	cc
+do	do	vd0
+not	not	xx
+become	become	vvi
+spoilt		vvn_jj@
+,		,
+at	at	ii
+bad	bad	jj
+times	time	nnt2
+they	they	pphs2
+continue	continue	vv0
+to	to	to
+serve	serve	vvi
+Allah	allah	np1
+and	and	cc
+look	look	vvi
+to	to	ii
+the	the	at
+Hereafter	hereafter	nn1@
+for	for	if
+their	their	appge
+patience	patience	nn1
+and	and	cc
+perseverance	perseverance	nn1
+.		.
+<p>		null
+One	one	pn1
+can	can	vm
+derive	derive	vvi
+the	the	at
+true	true	jj
+meaning	meaning	nn1
+of	of	io
+being	be	vbg
+a	a	at1
+believer	believer	nn1
+by	by	ii
+closely	closely	rr
+analysing	analyse	vvg
+the	the	at
+Qur'an	qur'an	nn1_jj_np1
+and	and	cc
+drawing	draw	vvg_nn1
+lessons	lesson	nn2
+from	from	ii
+it	it	pph1
+like	like	cs%_rr%
+we	we	ppis2
+have	have	vh0
+done	do	vdn
+,		,
+and	and	cc
+live	live	vv0_jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	ii
+Allah	allah	np1
+instead	instead	ii21
+of	of	ii22
+the	the	at
+definition	definition	nn1
+provided	provide	vvn
+by	by	ii
+society	society	nn1
+.		.
+<p>		null
+I	i	ppis1
+'d	have	vm
+recommend	recommend	vvi
+reading	read	vvg
+the	the	at
+story	story	nn1
+of	of	io
+Abraham	abraham	np1
+in	in	ii
+the	the	at
+Quran	quran	np1_nn1
+:		:
+When	when	rrq_cs
+his	his	appge
+Lord	lord	nn1_np1
+said	say	vvd_vvn@
+to	to	ii
+him	him	ppho1
+,		,
+"		"
+Submit	submit	vv0
+"		"
+,		,
+he	he	pphs1
+said	say	vvd
+"		"
+I	i	ppis1
+have	have	vh0
+submitted	submit	vvn
+to	to	ii
+the	the	at
+Lord	lord	nn1
+of	of	io
+the	the	at
+worlds	world	nn2
+.		.
+"		"
+(		(
+2:131		mc
+)		)
+<p>		null
+That	that	dd1
+'s	be	vbz
+one	one	mc1
+powerful	powerful	jj
+quote	quote	nn1
+from	from	ii
+the	the	at
+Quran	quran	nn1_np1
+.		.
+It	it	pph1
+gives	give	vvz
+me	me	ppio1
+goosebumps	goosebumps	vvz
+everytime	everytime	rt
+I	i	ppis1
+ponder	ponder	vv0
+over	over	ii_rp
+it	it	pph1
+.		.
+<p>		null
+I	i	ppis1
+hope	hope	vv0
+all	all	db
+pans	pan	nn2
+out	out	rp
+well	well	rr
+.		.
+You	you	ppy
+'re	be	vbr
+in	in	ii
+good	good	jj
+hands	hand	nn2
+here	here	rl
+.		.
+There	there	ex
+are	be	vbr
+many	many	da2
+willing	willing	jj
+brothers	brother	nn2
+and	and	cc
+sisters	sister	nn2
+will	will	vm
+guide	guide	vvi
+you	you	ppy
+better	better	rrr
+than	than	csn
+I	i	ppis1
+can	can	vm_vv0%
+.		.
+<p>		null
+Thank	thank	vv0
+you	you	ppy
+for	for	if
+your	your	appge
+comments	comment	nn2
+.		.
+It	it	pph1
+'s	be	vbz
+so	so	rg_rr
+tough	tough	jj
+though	though	cs
+..	...	...
+I	i	ppis1
+set	set	vv0_vvd
+my	my	appge
+alarm	alarm	nn1
+for	for	if
+5.30	5.30	mc
+this	this	dd1
+morning	morning	nnt1
+to	to	to
+get	get	vvi
+up	up	rp
+and	and	cc
+try	try	vvi
+to	to	to
+pray	pray	vvi
+but	but	ccb
+I	i	ppis1
+was	be	vbdz
+too	too	rg
+tired	tired	jj
+so	so	rg_rr
+just	just	rr
+went	go	vvd
+back	back	rp
+to	to	to
+sleep	sleep	vvi
+..	...	...
+said	say	vvd
+"		"
+I	i	ppis1
+'ll	will	vm
+do	do	vdi
+it	it	pph1
+another	another	dd1
+day	day	nnt1
+"		"
+...		...
+I	i	ppis1
+just	just	rr
+feel	feel	vv0
+so	so	rg_rr
+apathetic	apathetic	jj
+.		.
+It	it	pph1
+really	really	rr
+does	do	vdz
+feel	feel	vvi
+really	really	rr
+difficult	difficult	jj
+..	...	...
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+where	where	rrq
+the	the	at
+Qiblah		np1_nn1@
+is	be	vbz
+,		,
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+the	the	at
+right	right	jj_nn1
+clothes	clothes	nn2
+to	to	to
+wear	wear	vvi
+..	...	...
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+do	do	vdi
+what	what	ddq
+to	to	to
+do	do	vdi
+or	or	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+how	how	rgq@_rrq
+lenient	lenient	jj
+the	the	at
+times	time	nnt2
+are	be	vbr
+..	...	...
+I	i	ppis1
+CA	can	vm
+N'T	n't	xx
+DO	do	vdi
+IT	it	pph1@_nn1
+<h>		null
+Re	re	ii_np1@
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Originally	originally	rr
+Posted	post	vvn
+by	by	ii
+a.s	a.s	nnu
+.		.
+<p>		null
+I	i	ppis1
+know	know	vv0
+they	they	pphs2
+must	must	vm
+be	be	vbi
+important	important	jj
+to	to	ii
+you	you	ppy
+sister	sister	nn1
+,		,
+but	but	ccb
+they	they	pphs2
+are	be	vbr
+also	also	rr
+a	a	at1
+bad	bad	jj
+influence	influence	nn1
+.		.
+You	you	ppy
+need	need	vv0
+to	to	to
+be	be	vbi
+around	around	rg@_ii
+good	good	jj
+company	company	nn1
+.		.
+These	these	dd2
+people	people	nn
+may	may	vm
+not	not	xx
+directly	directly	rr
+be	be	vbi
+inviting	invite	vvg_jj
+you	you	ppy
+to	to	ii
+evil	evil	nn1_jj
+,		,
+but	but	ccb
+they	they	pphs2
+are	be	vbr
+doing	do	vdg
+evil	evil	jj_nn1
+things	thing	nn2
+.		.
+Why	why	rrq
+would	would	vm
+you	you	ppy
+want	want	vvi
+to	to	to
+be	be	vbi
+around	around	ii_rg@_rp
+all	all	db
+this	this	dd1
+fitnah		nn1
+?		?
+You	you	ppy
+may	may	vm
+not	not	xx
+understand	understand	vvi
+this	this	dd1
+now	now	rt
+since	since	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+new	new	jj
+Muslim	muslim	jj_nn1@
+,		,
+but	but	ccb
+you	you	ppy
+need	need	vv0
+to	to	to
+put	put	vvi
+your	your	appge
+religion	religion	nn1
+ahead	ahead	ii21
+of	of	ii22
+everything	everything	pn1
+(		(
+friends	friend	nn2
+,		,
+family	family	nn1
+ect	ect	nn1_vv0
+...		...
+)		)
+.		.
+If	if	cs
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+let	let	vvi
+go	go	nn1%_vv0
+of	of	io
+your	your	appge
+friends	friend	nn2
+,		,
+the	the	at
+least	least	rgt_rrt
+you	you	ppy
+can	can	vm
+do	do	vdi
+is	be	vbz
+give	give	vvi
+da'wah		nn1
+to	to	ii
+them	them	ppho2
+,		,
+explain	explain	vv0
+Islam	islam	nn1
+to	to	ii
+them	them	ppho2
+,		,
+and	and	cc
+make	make	vv0
+dua	dua	nn1
+that	that	cst
+they	they	pphs2
+be	be	vbi
+guided	guide	vvn
+as	as	csa
+you	you	ppy
+were	be	vbdr
+.		.
+If	if	cs
+that	that	dd1
+does	do	vdz
+n't	n't	xx
+work	work	vvi
+,		,
+then	then	rt
+you	you	ppy
+need	need	vv0
+to	to	to
+replace	replace	vvi
+them	them	ppho2
+with	with	iw
+better	better	jjr_rrr
+,		,
+Muslim	muslim	jj
+friends	friend	nn2
+.		.
+<p>		null
+If	if	cs
+you	you	ppy
+do	do	vd0
+nt		xx
+know	know	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+yet	yet	rr
+,		,
+then	then	rt
+you	you	ppy
+are	be	vbr
+obligated	obligate	vvn@
+to	to	to
+learn	learn	vvi
+.		.
+Have	have	vh0
+you	you	ppy
+started	start	vvn
+learning	learn	vvg_nn1
+yet	yet	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+going	go	vvg
+to	to	ii
+that	that	dd1
+mosque	mosque	nn1
+you	you	ppy
+took	take	vvd
+the	the	at
+shahada	shahada	nn1
+in	in	rp@_ii
+;		;
+im		vv0
+sure	sure	jj_rr%
+they	they	pphs2
+'ll	will	vm
+be	be	vbi
+more	more	dar_rrr
+than	than	csn
+willing	willing	jj
+to	to	to
+help	help	vvi
+you	you	ppy
+out	out	rp
+.		.
+<p>		null
+And	and	cc
+its	its	appge
+not	not	xx
+difficult	difficult	jj
+.		.
+This	this	dd1
+religion	religion	nn1
+is	be	vbz
+very	very	rg
+easy	easy	jj
+.		.
+It	it	pph1
+just	just	rr
+seems	seem	vvz
+hard	hard	rr
+now	now	rt
+because	because	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+new	new	jj
+Muslim	muslim	jj_nn1@
+.		.
+It	it	pph1
+'ll	will	vm
+take	take	vvi
+sometime	sometime	jj_rt
+to	to	to
+learn	learn	vvi
+how	how	rrq
+to	to	to
+pray	pray	vvi
+,		,
+but	but	ccb
+It	it	pph1
+'ll	will	vm
+be	be	vbi
+very	very	rg
+easy	easy	jj_rr@
+once	once	cs@_rr
+you	you	ppy
+learn	learn	vv0
+all	all	db
+the	the	at
+rules	rule	nn2
+.		.
+<p>		null
+Once	once	cs@_rr
+you	you	ppy
+learn	learn	vv0
+,		,
+you	you	ppy
+must	must	vm
+excuse	excuse	vvi
+yourself	yourself	ppx1
+from	from	ii
+class	class	nn1
+to	to	to
+pray	pray	vvi
+.		.
+Who	who	pnqs
+cares	care	vvz
+if	if	cs_csw@
+no	no	pn121
+one	one	pn122
+knows	know	vvz
+that	that	cst
+you	you	ppy
+'re	be	vbr
+a	a	at1
+Muslim	muslim	jj_nn1@
+.		.
+Just	just	rr
+tell	tell	vv0
+them	them	ppho2
+,		,
+and	and	cc
+if	if	cs_csw@
+they	they	pphs2
+do	do	vd0
+nt		xx
+understand	understand	vvi
+,		,
+tough	tough	jj_nn1@
+.		.
+Tell	tell	vv0
+the	the	at
+teacher	teacher	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+be	be	vbi
+excused	excuse	vvn
+to	to	to
+pray	pray	vvi
+for	for	if
+5	5	mc
+minutes	minute	nnt2
+.		.
+Do	do	vd0
+wudu		nn1
+in	in	ii
+the	the	at
+bathroom	bathroom	nn1
+,		,
+or	or	cc
+do	do	vd0
+wudhu	wudhu	nn1
+before	before	ii
+leaving	leave	vvg
+for	for	if
+school	school	nn1
+and	and	cc
+keep	keep	vv0
+it	it	pph1
+throughout	throughout	ii
+the	the	at
+day	day	nnt1
+.		.
+Find	find	vv0
+an	a	at1
+empty	empty	jj
+room	room	nn1
+,		,
+and	and	cc
+start	start	vv0_nn1
+praying	pray	vvg_nn1@
+.		.
+Thats		vvz_nn2
+all	all	db_rr@
+.		.
+You	you	ppy
+could	could	vm
+even	even	rr
+ask	ask	vvi
+the	the	at
+principal	principal	nn1_jj
+if	if	cs
+there	there	ex
+is	be	vbz
+an	a	at1
+empty	empty	jj
+room	room	nn1
+you	you	ppy
+can	can	vm
+use	use	vvi
+to	to	to
+pray	pray	vvi
+.		.
+<p>		null
+You	you	ppy
+need	need	vv0
+to	to	to
+change	change	vvi
+this	this	dd1
+attitude	attitude	nn1
+then	then	rt
+.		.
+Start	start	vv0_nn1
+becoming	become	vvg
+less	less	rgr_dar
+dominant	dominant	jj
+,		,
+and	and	cc
+more	more	rgr
+humble	humble	jj
+and	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+When	when	cs
+your	your	appge
+mother	mother	nn1
+tells	tell	vvz
+you	you	ppy
+to	to	to
+do	do	vdi
+something	something	pn1
+,		,
+do	do	vd0
+it	it	pph1
+for	for	if
+the	the	at
+sake	sake	nn1
+of	of	io
+Allah	allah	np1
+,		,
+if	if	cs
+not	not	xx
+for	for	if
+her	her	ppho1
+.		.
+<p>		null
+If	if	cs
+you	you	ppy
+have	have	vh0
+a	a	at1
+bad	bad	jj
+habit	habit	nn1
+of	of	io
+lying	lie	vvg_nn1@
+,		,
+then	then	rt
+you	you	ppy
+need	need	vv0
+to	to	to
+get	get	vvi
+rid	rid	vvn
+of	of	io
+that	that	dd1
+too	too	rr@
+.		.
+Here	here	rl
+'s	be	vbz
+what	what	ddq
+you	you	ppy
+can	can	vm
+do	do	vdi
+:		:
+Every	every	at1
+time	time	nnt1
+you	you	ppy
+lie	lie	vv0
+,		,
+give	give	vv0
+some	some	dd
+money	money	nn1
+in	in	ii
+charity	charity	nn1
+as	as	csa_ii@
+expiation	expiation	nn1
+,		,
+and	and	cc
+repent	repent	vv0
+immediately	immediately	rr
+.		.
+Also	also	rr
+,		,
+correct	correct	vv0@
+it	it	pph1
+immediately	immediately	rr
+by	by	ii
+telling	tell	vvg
+the	the	at
+truth	truth	nn1
+(		(
+"		"
+Did	do	vdd
+you	you	ppy
+get	get	vvi
+the	the	at
+e-mail	e-mail	nn1
+?		?
+"		"
+"		"
+No	no	uh
+...		...
+Wait	wait	vv0
+,		,
+yes	yes	uh
+I	i	ppis1
+did	do	vdd
+!		!
+"		"
+)		)
+.		.
+And	and	cc
+there	there	ex
+'s	be	vbz
+no	no	at
+such	such	da
+thing	thing	nn1
+as	as	csa
+a	a	at1
+"		"
+white	white	jj
+lie	lie	nn1@
+"		"
+.		.
+Lying	lie	vvg_nn1@
+is	be	vbz
+lying	lie	vvg
+,		,
+no	no	rgqv31
+matter	matter	rgqv32
+how	how	rgqv33
+big	big	jj
+or	or	cc
+small	small	jj_rr%
+the	the	at
+lie	lie	nn1@
+is	be	vbz
+.		.
+Do	do	vd0
+nt		xx
+think	think	vvi
+of	of	io
+it	it	pph1
+as	as	ii_csa
+a	a	at1
+"		"
+white	white	jj
+lie	lie	nn1@
+"		"
+,		,
+because	because	cs
+then	then	rt
+you	you	ppy
+'ll	will	vm
+stop	stop	vvi
+taking	take	vvg
+it	it	pph1
+seriously	seriously	rr
+.		.
+<p>		null
+Again	again	rt
+,		,
+you	you	ppy
+should	should	vm
+stop	stop	vvi
+saying	say	vvg
+things	thing	nn2
+like	like	ii
+this	this	dd1
+.		.
+Its	its	appge
+a	a	at1
+sin	sin	nn1
+to	to	to
+question	question	vvi
+the	the	at
+will	will	nn1@
+of	of	io
+God	god	np1_nn1@
+.		.
+Just	just	rr
+accept	accept	vv0
+it	it	pph1
+,		,
+have	have	vh0
+sabr	sabr	nn1
+,		,
+and	and	cc
+move	move	vv0
+on	on	rp@
+.		.
+If	if	cs
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+handle	handle	vvi
+your	your	appge
+puppy	puppy	nn1
+dying	die	vvg_jj
+,		,
+how	how	rrq
+will	will	vm
+you	you	ppy
+handle	handle	vvi
+it	it	pph1
+when	when	cs
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+hadith	hadith	nn1
+to	to	to
+motivate	motivate	vvi
+you	you	ppy
+:		:
+<p>		null
+Allah	allah	np1
+(		(
+mighty	mighty	jj
+and	and	cc
+sublime	sublime	jj
+be	be	vbi
+He	he	pphs1
+)		)
+says	say	vvz
+:		:
+?		?
+My	my	appge
+faithful	faithful	jj
+servant	servant	nn1
+'s	's	ge
+reward	reward	nn1
+from	from	ii
+Me	me	ppio1
+,		,
+if	if	cs
+I	i	ppis1
+have	have	vh0
+taken	take	vvn
+to	to	ii
+Me	me	ppio1
+his	his	appge
+best	best	jjt
+friend	friend	nn1
+from	from	ii
+amongst	amongst	ii
+the	the	at
+inhabitants	inhabitant	nn2
+of	of	io
+the	the	at
+world	world	nn1
+and	and	cc
+he	he	pphs1
+has	have	vhz
+then	then	rt
+borne	bear	vvn
+it	it	pph1
+patiently	patiently	rr
+for	for	if
+My	my	appge
+sake	sake	nn1
+,		,
+shall	shall	vm
+be	be	vbi
+nothing	nothing	pn1
+less	less	dar
+than	than	csn
+Paradise.		np1
+?		?
+"		"
+<p>		null
+It	it	pph1
+was	be	vbdz
+related	relate	vvn
+by	by	ii
+al-Bukhari	al-bukhari	np1
+.		.
+<p>		null
+May	may	np1%_npm1
+Allah	allah	np1
+make	make	vvi
+it	it	pph1
+easy	easy	jj_rr@
+for	for	if
+you	you	ppy
+to	to	to
+learn	learn	vvi
+the	the	at
+essence	essence	nn1
+of	of	io
+Islam	islam	nn1
+.		.
+Ameen		nn1_jj_np1@
+.		.
+<p>		null
+There	there	ex
+are	be	vbr
+a	a	at1
+few	few	da2
+that	that	cst
+I	i	ppis1
+definitely	definitely	rr
+will	will	vm
+never	never	rr
+stop	stop	vvi
+being	be	vbg
+friends	friend	nn2
+with	with	iw
+..	...	...
+they	they	pphs2
+wo	will	vm
+n't	n't	xx
+lead	lead	vvi
+me	me	ppio1
+to	to	ii
+evil	evil	nn1_jj
+and	and	cc
+I	i	ppis1
+will	will	vm
+just	just	rr
+make	make	vvi
+sure	sure	jj
+I	i	ppis1
+have	have	vh0
+a	a	at1
+strong	strong	jj
+imam	imam	nn1
+..	...	...
+but	but	ccb
+a	a	at1
+few	few	da2
+,		,
+I	i	ppis1
+wo	will	vm
+n't	n't	xx
+want	want	vvi
+to	to	to
+be	be	vbi
+around	around	ii_rg@
+no	no	uh_rr%
+..	...	...
+I	i	ppis1
+will	will	vm
+try	try	vvi
+explaining	explain	vvg
+Islam	islam	nn1
+more	more	rrr
+to	to	ii
+them	them	ppho2
+when	when	cs_rrq
+I	i	ppis1
+am	be	vbm
+more	more	rgr
+secure	secure	jj
+in	in	ii
+my	my	appge
+faith	faith	nn1
+..	...	...
+and	and	cc
+when	when	cs_rrq
+they	they	pphs2
+are	be	vbr
+a	a	rr21
+little	little	rr22
+older	old	jjr
+.		.
+Next	next	md
+year	year	nnt1
+maybe	maybe	rr
+<p>		null
+I	i	ppis1
+have	have	vh0
+read	read	vvn
+books	book	nn2
+and	and	cc
+things	thing	nn2
+and	and	cc
+I	i	ppis1
+can	can	vm
+almost	almost	rr
+do	do	vdi
+wudu		nn1
+but	but	ccb
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+started	start	vvn
+to	to	to
+pray	pray	vvi
+..	...	...
+it	it	pph1
+'s	be	vbz
+so	so	rg_rr
+hard	hard	jj
+Words	word	nn2
+to	to	to
+say	say	vvi
+,		,
+wearing	wear	vvg
+right	right	jj_nn1
+clothes	clothes	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+..	...	...
+certain	certain	jj
+amount	amount	nn1
+of	of	io
+times	time	nnt2
+.		.
+So	so	rg
+many	many	da2
+things	thing	nn2
+invalidate	invalidate	vv0
+prayer	prayer	nn1
+and	and	cc
+I	i	ppis1
+am	be	vbm
+bound	bind	vvnk
+to	to	to
+do	do	vdi
+at	at	rr21
+least	least	rr22
+one	one	mc1
+of	of	io
+them	them	ppho2
+..	...	...
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+a	a	at1
+teacher	teacher	nn1
+no	no	uh
+.		.
+The	the	at
+mosque	mosque	nn1
+I	i	ppis1
+took	take	vvd
+the	the	at
+shahadah	shahadah	nn1
+at	at	ii
+is	be	vbz
+3	3	mc
+hours	hour	nnt2
+from	from	ii
+my	my	appge
+house	house	nn1
+...		...
+The	the	at
+mosque	mosque	nn1
+where	where	cs_rrq
+I	i	ppis1
+live	live	vv0
+is	be	vbz
+for	for	if
+males	male	nn2
+only	only	rr_jj
+(		(
+it	it	pph1
+'s	be	vbz
+very	very	rg
+very	very	rg
+small	small	jj
+)		)
+.		.
+<p>		null
+The	the	at
+muslims	muslim	nn2
+at	at	ii
+my	my	appge
+school	school	nn1
+do	do	vd0
+n't	n't	xx
+do	do	vdi
+that	that	dd1
+..	...	...
+I	i	ppis1
+think	think	vv0
+they	they	pphs2
+just	just	rr
+make	make	vv0
+up	up	rp
+for	for	if
+it	it	pph1
+at	at	ii
+home	home	nn1
+.		.
+I	i	ppis1
+wo	will	vm
+n't	n't	xx
+be	be	vbi
+excused	excuse	vvn
+from	from	ii
+class	class	nn1
+nor	nor	cc
+do	do	vd0
+I	i	ppis1
+want	want	vvi
+to	to	to
+miss	miss	vvi
+anything	anything	pn1
+..	...	...
+it	it	pph1
+'s	be	vbz
+a	a	at1
+really	really	rr
+important	important	jj
+year	year	nnt1
+Also	also	rr
+,		,
+there	there	ex
+'s	be	vbz
+nowhere	nowhere	rl
+to	to	to
+pray	pray	vvi
+at	at	ii
+school	school	nn1
+...		...
+I	i	ppis1
+am	be	vbm
+really	really	rr
+really	really	rr
+not	not	xx
+ready	ready	jj_rr@
+to	to	to
+start	start	vvi
+praying	pray	vvg
+outside	outside	ii
+my	my	appge
+home	home	nn1
+yet	yet	rr
+..	...	...
+so	so	rr_rg
+what	what	ddq
+do	do	vd0
+I	i	ppis1
+do	do	vdi
+then	then	rt
+..	...	...
+I	i	ppis1
+can	can	vm
+do	do	vdi
+the	the	at
+first	first	md
+prayer	prayer	nn1
+,		,
+for	for	if
+the	the	at
+2nd	2nd	md
+and	and	cc
+3rd	3rd	md
+i	i	mc1
+am	am	ra@
+in	in	ii
+class	class	nn1
+,		,
+for	for	if
+the	the	at
+4th	4th	md
+i	i	mc1_zz1
+am	am	ra@_vbm
+travelling	travel	vvg_nn1
+and	and	cc
+for	for	if
+the	the	at
+5th	5th	md
+I	i	ppis1
+am	be	vbm
+at	at	ii
+home	home	nn1
+.		.
+So	so	rr
+how	how	rrq
+do	do	vd0
+I	i	ppis1
+make	make	vvi
+up	up	rp
+for	for	if
+the	the	at
+2nd	2nd	md
+3rd	3rd	md
+and	and	cc
+4th	4th	md
+?		?
+?		?
+?		?
+<p>		null
+I	i	ppis1
+will	will	vm
+really	really	rr
+really	really	rr
+try	try	vvi
+.		.
+We	we	ppis2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+'s	be	vbz
+just	just	rr
+how	how	rrq
+our	our	appge
+relationship	relationship	nn1
+is	be	vbz
+...		...
+I	i	ppis1
+'m	be	vbm
+more	more	rgr
+dominant	dominant	jj
+.		.
+I	i	ppis1
+will	will	vm
+really	really	rr
+try	try	vvi
+but	but	ccb
+I	i	ppis1
+feel	feel	vv0
+so	so	rg_rr
+weak	weak	jj
+and	and	cc
+stupid	stupid	jj
+being	be	vbg
+a	a	at1
+suck-up	suck-up	nn1
+..	...	...
+that	that	dd1_cst
+'s	be	vbz
+just	just	rr
+my	my	appge
+horrible	horrible	jj
+character	character	nn1
+..	...	...
+I	i	ppis1
+'m	be	vbm
+not	not	xx
+a	a	at1
+good	good	jj
+enough	enough	dd_rr
+person	person	nn1
+to	to	to
+be	be	vbi
+a	a	at1
+muslim	muslim	nn1
+and	and	cc
+me	me	ppio1
+and	and	cc
+my	my	appge
+dad	dad	nn1
+.		.
+well	well	rr
+...		...
+we	we	ppis2
+are	be	vbr
+more	more	rgr_rrr
+like	like	jj@_ii
+mates	mate	nn2
+,		,
+honestly	honestly	rr
+..	...	...
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+see	see	vvi
+him	him	ppho1
+enough	enough	rr
+(		(
+he	he	pphs1
+and	and	cc
+my	my	appge
+mum	mum	nn1
+split	split	vvn_vvd_nn1_vv0
+when	when	cs_rrq
+I	i	ppis1
+was	be	vbdz
+a	a	at1
+toddler	toddler	nn1
+and	and	cc
+we	we	ppis2
+see	see	vv0
+him	him	ppho1
+every	every	at1
+now	now	rt
+and	and	cc
+then	then	rt
+)		)
+..	...	...
+so	so	cs@_rr
+we	we	ppis2
+'re	be	vbr
+really	really	rr
+just	just	rr
+like	like	ii_jj@
+mates	mate	nn2
+..	...	...
+<p>		null
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+any	any	dd
+money	money	nn1
+..	...	...
+we	we	ppis2
+are	be	vbr
+really	really	rr
+really	really	rr
+struggling	struggle	vvg_jj
+at	at	ii
+the	the	at
+moment	moment	nn1
+..	...	...
+But	but	ccb
+I	i	ppis1
+will	will	vm
+try	try	vvi
+something	something	pn1
+similar	similar	jj
+.		.
+Thanks	thanks	nn2
+that	that	cst_dd1
+'s	be	vbz
+a	a	at1
+really	really	rr
+good	good	jj
+idea	idea	nn1
+.		.
+<p>		null
+I	i	ppis1
+wo	will	vm
+n't	n't	xx
+be	be	vbi
+able	able	jk
+to	to	to
+handle	handle	vvi
+it	it	pph1
+:		:
+'	'	ge
+(		(
+It	it	pph1
+terrifies	terrify	vvz
+me	me	ppio1
+thinking	thinking	nn1_vvg
+of	of	io
+it	it	pph1
+.		.
+But	but	ccb
+Allah	allah	np1
+does	do	vdz
+n't	n't	xx
+burden	burden	vvi
+you	you	ppy
+with	with	iw
+more	more	dar
+than	than	csn
+you	you	ppy
+can	can	vm
+bear	bear	vvi
+right	right	rr_nn1_jj
+?		?
+?		?
+But	but	ccb
+anyway	anyway	rr
+I	i	ppis1
+'d	have	vm
+rather	rather	rr
+just	just	rr
+not	not	xx
+even	even	rr
+talk	talk	vv0
+about	about	ii
+that	that	dd1
+..	...	...
+it	it	pph1
+makes	make	vvz
+me	me	ppio1
+cry	cry	nn1
+<h>		null
+Re	re	ii_np1@
+:		:
+Help	help	vv0_nn1
+:		:
+(		(
+<p>		null
+Assalaamu		nn1_np1@
+alaykum	alaykum	nn1
+ww	ww	nnu
+sister	sister	nn1
+.		.
+Welcome	welcome	vv0_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	ii
+Islam	islam	nn1
+.		.
+May	may	np1%_npm1
+Allah	allah	np1
+keep	keep	vvi
+us	us	ppio2
+all	all	db
+steadfast	steadfast	jj
+.		.
+<p>		null
+The	the	at
+advice	advice	nn1
+I	i	ppis1
+can	can	vm
+think	think	vvi
+of	of	io
+masha-Allah		np1
+is	be	vbz
+already	already	rr
+given	give	vvn
+but	but	ccb
+i	i	zz1_mc1
+'ll	will	vm
+jump	jump	vvi
+in	in	rp@_ii
+anyway	anyway	rr
+;		;
+<p>		null
+about	about	ii
+your	your	appge
+puppy	puppy	nn1
+;		;
+it	it	pph1
+'s	be	vbz
+natural	natural	jj
+to	to	to
+feel	feel	vvi
+sad	sad	jj
+and	and	cc
+upset	upset	vvi
+when	when	rrq_cs
+we	we	ppis2
+lose	lose	vv0
+someone/something		pn1
+that	that	cst_dd1
+is	be	vbz
+dear	dear	jj_rr@
+to	to	ii
+us	us	ppio2
+.		.
+We	we	ppis2
+all	all	db
+have	have	vh0
+to	to	to
+part	part	nn1
+one	one	mc1
+day	day	nnt1
+.		.
+Everyone	everyone	pn1
+around	around	ii_rp
+you	you	ppy
+was	be	vbdz
+disappointing	disappoint	vvg@_jj
+you	you	ppy
+but	but	ccb
+it	it	pph1
+seems	seem	vvz
+you	you	ppy
+took	take	vvd
+solace	solace	nn1_vv0
+in	in	ii
+your	your	appge
+puppy	puppy	nn1
+who	who	pnqs
+was	be	vbdz
+the	the	at
+only	only	jj
+being	being	nn1%_vbg
+that	that	cst_dd1
+accepted	accept	vvd_jj
+you	you	ppy
+for	for	if_cs%
+who	who	pnqs
+you	you	ppy
+are.Now		nnu
+he	he	pphs1
+is	be	vbz
+gone	go	vvn
+,		,
+you	you	ppy
+are	be	vbr
+devastated	devastate	vvn
+.		.
+At	at	ii
+this	this	dd1
+point	point	nn1
+I	i	ppis1
+think	think	vv0
+it	it	pph1
+is	be	vbz
+imperative	imperative	jj_nn1
+we	we	ppis2
+find	find	vv0
+someone	someone	pn1
+that	that	cst
+you	you	ppy
+can	can	vm
+go	go	vvi
+to	to	to
+talk	talk	vvi
+to.All		nnu
+these	these	dd2
+pent	pent	jj_nn1
+up	up	ii@_rp
+feelings	feeling	nn2
+,		,
+emotions	emotion	nn2
+and	and	cc
+despondency	despondency	nn1
+is	be	vbz
+not	not	xx
+going	go	vvgk
+to	to	to
+do	do	vdi
+anyone	anyone	pn1
+any	any	rr%
+good	good	jj
+,		,
+especially	especially	rr
+you	you	ppy
+.		.
+<p>		null
+Sister	sister	nn1
+are	be	vbr
+there	there	rl
+no	no	at
+muslimahs		nn2
+at	at	ii
+your	your	appge
+school	school	nn1
+whom	whom	pnqo
+you	you	ppy
+can	can	vm
+befriend	befriend	vvi
+or	or	cc
+anyone	anyone	pn1
+at	at	ii
+the	the	at
+masjid	masjid	nn1_jj
+,		,
+where	where	cs_rrq
+you	you	ppy
+took	take	vvd
+the	the	at
+shahaadah		nn1
+,		,
+who	who	pnqs
+you	you	ppy
+can	can	vm
+talk	talk	vvi
+to	to	ii
+?		?
+<p>		null
+Also	also	rr
+,		,
+it	it	pph1
+is	be	vbz
+important	important	jj
+you	you	ppy
+continue	continue	vv0
+to	to	to
+be	be	vbi
+educated	educate	vvn
+about	about	ii
+Islam	islam	nn1
+.		.
+Have	have	vh0
+you	you	ppy
+a	a	at1
+teacher	teacher	nn1
+who	who	pnqs
+is	be	vbz
+teaching	teach	vvg
+you	you	ppy
+how	how	rrq
+to	to	to
+pray	pray	vvi
+and	and	cc
+about	about	ii
+matters	matter	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+understanding	understanding	nn1
+is	be	vbz
+that	that	cst
+you	you	ppy
+are	be	vbr
+learning	learn	vvg
+about	about	ii
+islam	islam	nn1
+by	by	ii
+yourself	yourself	ppx1
+with	with	iw
+no	no	at
+assistance	assistance	nn1
+?		?
+?		?
+correct	correct	vv0@
+me	me	ppio1
+if	if	cs
+i	i	zz1_mc1
+'m	be	vbm
+wrong	wrong	jj_rr@
+.		.
+<p>		null
+I	i	ppis1
+am	be	vbm
+more	more	rgr
+upset	upset	jj
+because	because	ii21
+of	of	ii22
+how	how	rrq
+upset	upset	vv0_vvn
+my	my	appge
+mum	mum	nn1
+has	have	vhz
+been	be	vbn
+too	too	rg_rr@
+..	...	...
+the	the	at
+puppy	puppy	nn1
+was	be	vbdz
+her	her	appge
+little	little	jj
+boy	boy	nn1
+.		.
+Plus	plus	nn1@_rr%_ii
+,		,
+I	i	ppis1
+just	just	rr
+love	love	vv0
+them	them	ppho2
+and	and	cc
+was	be	vbdz
+really	really	rr
+excited	excited	jj_vvn@_vvd@
+to	to	to
+have	have	vhi
+him	him	ppho1
+as	as	ii_csa
+a	a	at1
+part	part	nn1
+of	of	io
+the	the	at
+family	family	nn1
+.		.
+He	he	pphs1
+was	be	vbdz
+lovely	lovely	jj
+and	and	cc
+did	do	vdd
+n't	n't	xx
+deserve	deserve	vvi
+to	to	to
+die	die	vvi
+so	so	rg
+young	young	jj
+.		.
+Will	will	vm
+he	he	pphs1
+go	go	vvi
+to	to	ii
+heaven	heaven	nn1
+?		?
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+who	who	pnqs
+to	to	to
+talk	talk	vvi
+to	to	ii
+..	...	...
+I	i	ppis1
+just	just	rr
+feel	feel	vv0
+overly	overly	rr
+stressed	stress	vvn_vvd
+at	at	ii
+the	the	at
+moment	moment	nn1
+...		...
+<p>		null
+A	a	at1
+few	few	da2
+..	...	...
+and	and	cc
+one	one	pn1
+has	have	vhz
+lent	lend	vvn
+me	me	ppio1
+a	a	at1
+few	few	da2
+books	book	nn2
+and	and	cc
+things	thing	nn2
+but	but	ccb
+I	i	ppis1
+still	still	rr
+feel	feel	vv0
+a	a	rr21
+bit	bit	rr22
+odd	odd	jj
+just	just	rr
+talking	talk	vvg
+to	to	ii
+them	them	ppho2
+because	because	cs
+they	they	pphs2
+'re	be	vbr
+muslim		nn1_vv0
+...		...
+they	they	pphs2
+already	already	rr
+have	have	vh0
+a	a	at1
+friendship	friendship	nn1
+##3860552		fo
+<p>		null
+Alhamdulillah		uh
+,		,
+the	the	at
+masterplan	masterplan	nn1
+for	for	if
+Masjid	masjid	np1
+Ilyas	ilya	np2
+(		(
+London	london	np1
+Markaz	markaz	np1
+/	/	fo
+Riverine		jj_nn1_np1
+Centre	center	nn1
+)		)
+was	be	vbdz
+submitted	submit	vvn
+on	on	ii
+5th	5th	md
+Spetember		nn1
+2012	2012	mc
+.		.
+They	they	pphs2
+are	be	vbr
+now	now	rt
+in	in	ii
+the	the	at
+last	last	md
+stages	stage	nn2
+of	of	io
+the	the	at
+planning	planning	nn1
+application	application	nn1
+.		.
+therefore	therefore	rr
+Newham	newham	np1
+Council	council	nn1
+have	have	vh0
+started	start	vvn
+a	a	at1
+PUBLIC	public	jj_nn1
+CONSULTATION	consultation	nn1
+.		.
+<p>		null
+No	no	ddqv31
+matter	matter	ddqv32
+what	what	ddqv33
+school	school	nn1
+of	of	io
+thought	thought	nn1
+you	you	ppy
+follow	follow	vv0
+(		(
+if	if	cs_csw@
+any	any	dd
+)		)
+and	and	cc
+what	what	ddq
+opinions	opinion	nn2
+you	you	ppy
+hold	hold	vv0
+with	with	iw
+regards	regard	vvz
+to	to	ii
+Tabligh		np1
+Jamaat	jamaat	np1_nn1
+,		,
+i	i	mc1_zz1
+call	call	nn1_vv0
+on	on	ii
+the	the	at
+Ummah	ummah	np1_nn1@
+to	to	to
+stand	stand	vvi
+side-by-side	side-by-side	rr
+with	with	iw
+fellow	fellow	jj
+Muslims	muslim	nn2
+(		(
+yes	yes	uh
+TJ	tj	np1
+'s	's	ge
+are	be	vbr
+Muslims	muslim	nn2
+)		)
+and	and	cc
+unite	unite	vv0
+in	in	ii_rp@
+the	the	at
+face	face	nn1
+of	of	io
+opposition	opposition	nn1
+from	from	ii
+Newham	newham	np1
+Council	council	nn1
+,		,
+politicians	politician	nn2
+,		,
+journalists	journalist	nn2
+and	and	cc
+other	other	jj
+prominent	prominent	jj
+non-Muslims	non-muslim	nn2
+.		.
+Those	those	dd2
+who	who	pnqs
+oppose	oppose	vv0
+Islam	islam	nn1
+do	do	vd0
+not	not	xx
+distinguish	distinguish	vvi
+which	which	ddq
+school	school	nn1
+of	of	io
+thought	thought	nn1
+you	you	ppy
+follow	follow	vv0
+,		,
+they	they	pphs2
+oppose	oppose	vv0
+Islam	islam	nn1
+,		,
+full	full	jj
+stop	stop	nn1_vv0
+!		!
+<p>		null
+Newham	newham	np1
+Council	council	nn1
+have	have	vh0
+a	a	at1
+very	very	rg
+hostile	hostile	jj
+policy	policy	nn1
+to	to	ii
+Muslims	muslim	nn2
+when	when	cs_rrq
+it	it	pph1
+come	come	vv0_vvn@
+to	to	ii
+planning	plan	vvg_nn1
+permission	permission	nn1
+for	for	if
+Masjids		np2
+,		,
+Islamic	islamic	jj
+schools	school	nn2
+,		,
+etc	etc	ra
+.		.
+They	they	pphs2
+have	have	vh0
+been	be	vbn
+clear	clear	jj
+policies	policy	nn2
+of	of	io
+ensuring	ensure	vvg
+Islamic	islamic	jj
+institutions	institution	nn2
+do	do	vd0
+not	not	xx
+thrive	thrive	vvi
+in	in	ii_rp@
+their	their	appge
+area	area	nn1
+.		.
+Their	their	appge
+opposition	opposition	nn1
+is	be	vbz
+not	not	xx
+hidden	hide	vvn
+,		,
+they	they	pphs2
+openly	openly	rr
+show	show	vv0
+this	this	dd1
+.		.
+<p>		null
+Please	please	rr
+be	be	vb0
+aware	aware	jj
+that	that	cst
+the	the	at
+opposition	opposition	nn1
+have	have	vh0
+gone	go	vvn
+to	to	ii
+great	great	jj
+lengths	length	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii
+local	local	jj
+newspapers	newspaper	nn2
+)		)
+to	to	to
+create	create	vvi
+fear	fear	nn1_vv0
+in	in	ii
+the	the	at
+local	local	jj
+community	community	nn1
+and	and	cc
+will	will	vm
+hope	hope	vvi
+that	that	cst
+this	this	dd1
+fear	fear	nn1
+will	will	vm
+force	force	vvi
+the	the	at
+locals	local	nn2
+to	to	to
+speak	speak	vvi
+against	against	ii
+this	this	dd1
+planning	planning	nn1
+application	application	nn1
+.		.
+With	with	iw
+this	this	dd1
+in	in	ii
+mind	mind	nn1
+we	we	ppis2
+need	need	vv0
+to	to	to
+make	make	vvi
+sure	sure	jj
+as	as	rg
+many	many	da2
+Muslims	muslim	nn2
+as	as	csa
+possible	possible	jj
+show	show	nn1
+support	support	nn1_vv0
+for	for	if
+this	this	dd1
+application	application	nn1
+.		.
+<p>		null
+A	a	at1
+part	part	nn1
+of	of	io
+the	the	at
+Ummah	ummah	np1_nn1@
+need	need	vv0
+your	your	appge
+help	help	nn1
+.		.
+Help	help	vv0_nn1
+meaning	meaning	nn1_vvg
+we	we	ppis2
+need	need	vv0
+you	you	ppy
+to	to	to
+take	take	vvi
+some	some	dd
+action	action	nn1
+(		(
+firing	fire	vvg
+out	out	rp
+some	some	dd
+emails	e-mail	nn2
+-	-	-
+it	it	pph1
+will	will	vm
+take	take	vvi
+10	10	mc
+minutes	minute	nnt2
+of	of	io
+your	your	appge
+time	time	nnt1
+,		,
+Insha-Allah		np1
+)		)
+.		.
+Please	please	rr
+do	do	vd0
+n't	n't	xx
+only	only	rr
+forward	forward	rl_vv0%
+this	this	dd1
+email	e-mail	nn1
+to	to	ii
+your	your	appge
+list	list	nn1
+of	of	io
+contacts	contact	nn2
+and	and	cc
+forget	forget	vv0
+about	about	ii
+doing	do	vdg
+your	your	appge
+bit	bit	nn1
+(		(
+which	which	ddq
+usually	usually	rr
+happens	happen	vvz
+)		)
+,		,
+please	please	rr
+make	make	vv0
+sure	sure	jj
+you	you	ppy
+show	show	vv0
+your	your	appge
+support	support	nn1
+personally	personally	rr
+.		.
+<p>		null
+It	it	pph1
+would	would	vm
+be	be	vbi
+good	good	jj
+if	if	cs_csw@
+you	you	ppy
+can	can	vm
+do	do	vdi
+this	this	dd1
+for	for	if
+every	every	at1
+member	member	nn1
+of	of	io
+you	you	ppy
+household	household	nn1
+ove	ove	vv0_nn1
+the	the	at
+age	age	nn1
+of	of	io
+16	16	mc
+.		.
+If	if	cs
+these	these	dd2
+can	can	vm
+be	be	vbi
+sent	send	vvn
+from	from	ii
+different	different	jj
+emaill		nn1
+addresses	address	vvz_nn2
+then	then	rt
+even	even	rr
+better	better	rrr_jjr
+.		.
+Please	please	rr
+try	try	vv0
+your	your	appge
+best	best	jjt
+to	to	to
+send	send	vvi
+a	a	at1
+separate	separate	jj
+email	e-mail	nn1
+for	for	if
+each	each	dd1
+member	member	nn1
+of	of	io
+the	the	at
+family	family	nn1
+.		.
+If	if	cs
+you	you	ppy
+are	be	vbr
+writing	write	vvg
+on	on	ii31
+behalf	behalf	ii32
+of	of	ii33
+some	some	dd
+please	please	rr
+mention	mention	vv0
+this	this	dd1
+(		(
+that	that	cst_dd1
+you	you	ppy
+are	be	vbr
+writing	write	vvg
+on	on	ii31
+behalf	behalf	ii32
+of	of	ii33
+such	such	da
+and	and	cc
+such	such	da
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+)		)
+.		.
+<p>		null

@@ -1,0 +1,8316 @@
+##3472650		fo
+<h>		null
+Its	its	appge
+About	about	ii
+Gadgets	gadget	nn2
+--		zz
+What	what	ddq
+'s	be	vbz
+New	new	jj
+This	this	dd1
+Month	month	nnt1
+<p>		null
+Not	not	xx
+to	to	to
+be	be	vbi
+out	out	rp
+done	do	vdn
+by	by	ii
+Amazon	amazon	np1
+'s	's	ge
+Kindle	kindle	vv0
+Fire	fire	nn1
+,		,
+Barnes	barnes	np1
+and	and	cc
+Noble	noble	np1
+unveiled	unveil	vvd
+their	their	appge
+new	new	jj
+Nooks	nook	nn2
+--		zz
+the	the	at
+HD	hd	np1
+and	and	cc
+the	the	at
+HD+		fo
+.		.
+Like	like	ii
+the	the	at
+Kindle	kindle	vv0
+--		zz
+they	they	pphs2
+include	include	vv0
+a	a	at1
+new	new	jj
+B+N		fo
+video	video	nn1
+service	service	nn1
+,		,
+high-resolution	high-resolution	jj_nn1
+displays	display	nn2
+and	and	cc
+well-performing	well-performing	jj_nn1
+processors	processor	nn2
+.		.
+<p>		null
+Though	though	cs
+it	it	pph1
+is	be	vbz
+easier	easy	jjr
+on	on	ii
+the	the	at
+pockets	pocket	nn2
+in	in	ii31
+terms	terms	ii32
+of	of	ii33
+price	price	nn1
+,		,
+the	the	at
+question	question	nn1
+still	still	rr
+hangs	hang	vvz
+as	as	ii21
+to	to	ii22
+whether	whether	csw
+the	the	at
+Nooks	nook	nn2
+can	can	vm
+unsurp	unsurp	vvi
+the	the	at
+king	king	nn1
+of	of	io
+the	the	at
+tablet	tablet	nn1
+market	market	nn1_vv0
+--		zz
+the	the	at
+iPad	ipad	nn1
+.		.
+<p>		null
+iPod	ipod	vv0_nn1
+Nano	nano	nn1_np1
+--		zz
+the	the	at
+next	next	md
+instalment	instalment	nn1
+<p>		null
+Not	not	xx
+satisfied	satisfy	vvn@_jj
+with	with	iw
+the	the	at
+launch	launch	nn1
+of	of	io
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+,		,
+Apple	apple	nn1
+has	have	vhz
+also	also	rr
+released	release	vvn
+the	the	at
+next	next	md
+installment	installment	nn1
+in	in	ii
+the	the	at
+iPod	ipod	nn1
+line	line	nn1
+.		.
+Slimmer	slimmer	nn1_jjr
+and	and	cc
+taller	tall	jjr
+,		,
+the	the	at
+new	new	jj
+Nano	nano	nn1_np1
+boasts	boast	vvz_nn2
+16GB	16gb	fo
+of	of	io
+storage	storage	nn1
+.		.
+It	it	pph1
+also	also	rr
+has	have	vhz
+Bluetooth	bluetooth	nn1_np1
+to	to	to
+connect	connect	vvi
+to	to	ii
+headphones	headphone	nn2
+and	and	cc
+this	this	dd1
+Bluetooth	bluetooth	nn1
+connectivity	connectivity	nn1
+extends	extend	vvz
+to	to	ii
+a	a	at1
+plethora	plethora	nn1
+of	of	io
+speaker	speaker	nn1
+docks	dock	nn2
+as	as	rr21_rg
+well	well	rr22_rr
+.		.
+Throw	throw	vv0_nn1
+in	in	ii
+Nike	nike	np1
++	+	fo
+support	support	nn1_vv0
+and	and	cc
+a	a	at1
+2.5-inch	2.5-inch	nnu1_jj
+multitouch	multitouch	nn1
+display	display	nn1_vv0
+for	for	if
+easy	easy	jj
+navigation	navigation	nn1
+.		.
+T	t	zz1_np1@
+here	here	rl
+is	be	vbz
+a	a	at1
+5	5	mc
+mega	mega	jj
+pixel	pixel	nn1
+camera	camera	nn1
+and	and	cc
+shares	share	vvz@_nn2
+the	the	at
+longer	long	jjr
+retina-enabled		jj_nn1
+display	display	nn1
+of	of	io
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+.		.
+<p>		null
+No	no	at
+more	more	rgr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+also	also	rr
+raised	raise	vvn
+eyebrows	eyebrow	nn2
+with	with	iw
+its	its	appge
+striking	striking	jj
+resemblance	resemblance	nn1
+to	to	ii
+the	the	at
+Nokia	nokia	np1
+'s	's	ge
+Lumina	lumina	np1_nn1@
+920	920	mc
+.		.
+Is	be	vbz
+that	that	dd1
+another	another	dd1
+court	court	nn1
+battle	battle	nn1_vv0@
+we	we	ppis2
+sniff	sniff	vv0
+?		?
+Available	available	jj
+in	in	ii
+a	a	at1
+variety	variety	nn1
+of	of	io
+colours	color	nn2
+,		,
+including	including	ii_vvg@
+blue	blue	jj_nn1@
+,		,
+yellow	yellow	jj_nn1@
+,		,
+green	green	jj_nn1
+and	and	cc
+red	red	jj
+--		zz
+Apple	apple	nn1
+seems	seem	vvz
+to	to	to
+be	be	vbi
+saying	say	vvg
+that	that	dd1_cst
+slimmer	slimmer	nn1
+is	be	vbz
+the	the	at
+new	new	jj
+must	must	vm
+have	have	vhi
+!		!
+<p>		null
+Not	not	xx
+satisfied	satisfy	vvn@_jj
+with	with	iw
+the	the	at
+launch	launch	nn1
+of	of	io
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+,		,
+Apple	apple	nn1
+has	have	vhz
+also	also	rr
+released	release	vvn
+the	the	at
+next	next	md
+instalment	instalment	nn1
+in	in	ii
+the	the	at
+iPod	ipod	nn1
+line	line	nn1
+.		.
+Slimmer	slimmer	nn1_jjr
+and	and	cc
+taller	tall	jjr
+,		,
+the	the	at
+new	new	jj
+Nano	nano	nn1_np1
+has	have	vhz
+16GB	16gb	fo
+of	of	io
+storage	storage	nn1
+,		,
+Bluetooth	bluetooth	np1_nn1
+to	to	to
+connect	connect	vvi
+to	to	ii
+headphones	headphone	nn2
+and	and	cc
+a	a	at1
+plethora	plethora	nn1
+of	of	io
+speaker	speaker	nn1
+docks	dock	nn2
+,		,
+Nike	nike	np1
++	+	fo
+support	support	nn1_vv0
+and	and	cc
+a	a	at1
+2.5-inch	2.5-inch	nnu1_jj
+multitouch	multitouch	nn1
+display	display	nn1_vv0
+for	for	if
+easy	easy	jj
+navigation	navigation	nn1
+.		.
+There	there	ex
+is	be	vbz
+a	a	at1
+5	5	mc
+mega	mega	jj
+pixel	pixel	nn1
+camera	camera	nn1
+and	and	cc
+retina	retina	nn1
+display	display	nn1
+.		.
+<p>		null
+No	no	at
+more	more	rgr
+possible	possible	jj
+to	to	to
+attach	attach	vvi
+to	to	ii
+your	your	appge
+wristwatch	wristwatch	nn1
+,		,
+the	the	at
+Nano	nano	nn1_np1
+has	have	vhz
+also	also	rr
+raised	raise	vvn
+eyebrows	eyebrow	nn2
+with	with	iw
+its	its	appge
+striking	striking	jj
+resemblance	resemblance	nn1
+to	to	ii
+the	the	at
+Nokia	nokia	np1
+'s	's	ge
+Lumina	lumina	np1_nn1@
+920	920	mc
+.		.
+Is	be	vbz
+that	that	dd1
+another	another	dd1
+court	court	nn1
+battle	battle	nn1_vv0@
+we	we	ppis2
+sniff	sniff	vv0
+?		?
+<p>		null
+Available	available	jj
+in	in	ii
+seven	seven	mc
+colours	color	nn2
+--		zz
+Apple	apple	nn1
+has	have	vhz
+already	already	rr
+sold	sell	vvn
+more	more	dar
+than	than	csn
+350	350	mc
+million	million	nno
+,		,
+perhaps	perhaps	rr
+the	the	at
+slimmer	slimmer	nn1
+is	be	vbz
+the	the	at
+new	new	jj
+must	must	vm
+have	have	vhi
+!		!
+<p>		null
+Samsung	samsung	np1@
+adds	add	vvz
+to	to	ii
+the	the	at
+product	product	nn1
+line	line	nn1
+<p>		null
+Samsung	samsung	np1@
+announced	announce	vvd
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+early	early	rr
+this	this	dd1
+month	month	nnt1
+.		.
+<p>		null
+The	the	at
+S	s	zz1_np1@_nn1%
+Duos	duo	nn2
+is	be	vbz
+considered	consider	vvn
+to	to	to
+be	be	vbi
+the	the	at
+Korean	korean	jj
+giants	giant	nn2
+best	best	rrt
+dual-SIM		jj
+droid	droid	jj_nn1
+up	up	jj31
+to	to	jj32
+date	date	jj33
+,		,
+running	run	vvg
+1GHz	1ghz	fo
+ARM	arm	nn1
+Cortex-A5		nn1_jj
+processor	processor	nn1
+with	with	iw
+Adreno		np1_nn1
+200	200	mc
+graphics	graphic	nn
+,		,
+and	and	cc
+packs	pack	nn2
+a	a	at1
+4-inch	4-inch	nnu1_jj
+WVGA		np1_nn1
+TFT	tft	np1
+touchscreen	touchscreen	nn1_jj
+,		,
+5MP	5mp	fo
+camera	camera	nn1
+,		,
+768MB	768mb	nnu
+RAM	ram	nn1
+,		,
+4GB	4gb	fo
+storage	storage	nn1
+and	and	cc
+running	run	vvg_nn1
+on	on	ii
+Android	android	nn1
+4.0	4.0	mc
+Ice	ice	nn1
+Cream	cream	nn1
+Sandwich	sandwich	nn1_np1
+.		.
+3G	3g	nnu
+is	be	vbz
+supported	support	vvn
+on	on	ii
+both	both	db2
+SIMs	sim	np1
+and	and	cc
+has	have	vhz
+the	the	at
+Smart	smart	jj@_np1
+Dual	dual	jj
+SIM	sim	nn1
+function	function	nn1
+.		.
+<p>		null
+The	the	at
+Galaxy	galaxy	nn1
+Y	y	zz1
+Duos	duo	nn2
+Lite	lite	nn1
+is	be	vbz
+essentially	essentially	rr
+the	the	at
+Indian	indian	jj
+version	version	nn1
+of	of	io
+the	the	at
+Galaxy	galaxy	nn1
+Pocket	pocket	nn1
+Duos	duo	nn2
+.		.
+A	a	at1_zz1
+slight	slight	jj
+comedown	comedown	nn1
+from	from	ii
+the	the	at
+S	s	zz1_np1@_nn1%
+Duos	duo	nn2
+,		,
+its	its	appge
+has	have	vhz
+a	a	at1
+2.8-inch	2.8-inch	nnu1_jj
+QVGA		nn1_np1
+capacitive	capacitive	jj
+touchscreen	touchscreen	nn1_jj
+,		,
+an	a	at1
+832MHz		fo
+processor	processor	nn1
+,		,
+a	a	at1
+2MP		fo
+camera	camera	nn1
+,		,
+3GB	3gb	fo
+internal	internal	jj
+storage	storage	nn1
+and	and	cc
+3G	3g	nnu
+support	support	nn1_vv0
+only	only	rr
+on	on	ii
+the	the	at
+primary	primary	jj_nn1
+SIM	sim	nn1
+card	card	nn1
+.		.
+Running	run	vvg_nn1_jj
+on	on	ii
+2.3	2.3	mc
+Gingerbread	gingerbread	nn1
+,		,
+it	it	pph1
+also	also	rr
+supports	support	vvz
+the	the	at
+Smart	smart	jj@_np1
+Dual	dual	jj
+SIM	sim	nn1
+function	function	nn1
+.		.
+<p>		null
+Nokia	nokia	np1
+has	have	vhz
+something	something	pn1
+for	for	if
+budget	budget	nn1
+users	user	nn2
+!		!
+<p>		null
+Keeping	keep	vvg
+in	in	rp@
+with	with	iw
+their	their	appge
+excellent	excellent	jj
+reputation	reputation	nn1
+with	with	iw
+cheaper	cheap	jjr
+phones	phone	nn2
+--		zz
+Nokia	nokia	np1
+has	have	vhz
+announced	announce	vvn
+the	the	at
+two	two	mc
+new	new	jj
+budget	budget	nn1
+phones	phone	nn2
+called	call	vvn_vvd@
+the	the	at
+Asha	asha	np1_nn1@
+308	308	mc
+and	and	cc
+the	the	at
+Asha	asha	np1_nn1@
+309	309	mc
+,		,
+their	their	appge
+cheapest	cheap	jjt
+with	with	iw
+a	a	at1
+capacitive	capacitive	jj
+touchscreen	touchscreen	nn1
+.		.
+<p>		null
+Both	both	db2
+phones	phone	nn2
+are	be	vbr
+2G-enable		vv0
+and	and	cc
+can	can	vm
+boast	boast	vvi
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+camera	camera	nn1
+,		,
+multiple	multiple	jj_nn1
+home	home	nn1
+screens	screen	nn2
+,		,
+stereo	stereo	nn1
+loudspeaker	loudspeaker	nn1
+,		,
+FM	fm	nn1
+radio	radio	nn1
+and	and	cc
+have	have	vh0
+up	up	ii21
+to	to	ii22
+32GB	32gb	fo
+microSD	microsd	nn1_vv0
+card	card	nn1
+support	support	nn1
+.		.
+Also	also	rr
+included	include	vvn
+are	be	vbr
+the	the	at
+usual	usual	jj
+social	social	jj
+networking	networking	nn1
+applications	application	nn2
+,		,
+Youtube	youtube	np1
+and	and	cc
+40	40	mc
+games	game	nn2
+from	from	ii
+EA	ea	np1
+.		.
+<p>		null
+Asha	asha	nn1_np1@
+380	380	mc
+is	be	vbz
+a	a	at1
+dual	dual	jj
+SIM	sim	nn1
+phone	phone	nn1
+while	while	cs
+the	the	at
+309	309	mc
+is	be	vbz
+a	a	at1
+single	single	jj
+SIM	sim	nn1
+phone	phone	nn1
+with	with	iw
+built	build	vvn_vvd
+in	in	ii
+Wi-Fi	wi-fi	np1
+<p>		null
+Huawei		np1@_nn2
+gives	give	vvz
+us	us	ppio2
+the	the	at
+Windows	windows	np1_nn2
+Phone	phone	nn1_vv0@
+8	8	mc
+<p>		null
+After	after	cs_ii
+Samsung	samsung	np1_vvn
+,		,
+Nokia	nokia	np1
+and	and	cc
+HTC	htc	np1
+have	have	vh0
+shown	show	vvn
+us	us	ppio2
+their	their	appge
+WP8		fo
+smartphone	smartphone	vv0_nn1
+offerings	offering	nn2
+--		zz
+all	all	db
+that	that	dd1
+is	be	vbz
+left	leave	vvn_jj
+is	be	vbz
+Huawei	huawei	np1
+.		.
+<p>		null
+News	news	nn1
+is	be	vbz
+limited	limit	vvn
+here	here	rl
+however	however	rr
+,		,
+all	all	db_rr@
+we	we	ppis2
+know	know	vv0
+via	via	ii
+rumours	rumor	nn2
+is	be	vbz
+that	that	cst
+it	it	pph1
+will	will	vm
+be	be	vbi
+called	call	vvn
+W1	w1	fo
+--		zz
+with	with	iw
+details	detail	nn2
+coming	come	vvg
+from	from	ii
+the	the	at
+Huawei	huawei	np1
+'s	's	ge
+Chairman	chairman	nn1
+.		.
+We	we	ppis2
+know	know	vv0
+nothing	nothing	pn1
+else	else	rr
+but	but	ccb
+the	the	at
+##3472651		fo
+<h>		null
+New	new	jj
+gadgets	gadget	nn2
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+--		zz
+2012	2012	mc
+November	november	npm1
+<p>		null
+Here	here	rl
+are	be	vbr
+some	some	dd
+of	of	io
+the	the	at
+hottest	hot	jjt
+gadgets	gadget	nn2
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+--		zz
+Note	note	nn1
+II	ii	mc
+,		,
+iPhone5		fo
+and	and	cc
+the	the	at
+Samsung	samsung	np1
+S	s	zz1_np1@
+Duos	duo	nn2
+--		zz
+All	all	db_rr@
+available	available	jj
+with	with	iw
+Etisalat		np1_nn1
+--		zz
+Read	read	vvn_vv0_vvd_np1@
+&;		null
+watch	watch	vv0
+the	the	at
+reviews	review	nn2
+about	about	ii
+the	the	at
+newest	new	jjt
+devices	device	nn2
+below	below	rl
+.		.
+<p>		null
+Samsung	samsung	jj@_np1@_vvn
+Galaxy	galaxy	nn1
+Note	note	nn1_vv0
+II	ii	mc
+With	with	iw
+a	a	at1
+larger	large	jjr
+screen	screen	nn1
+than	than	csn
+the	the	at
+first	first	md
+note	note	nn1
+,		,
+the	the	at
+Note	note	nn1
+II	ii	mc
+is	be	vbz
+keeping	keep	vvg
+in	in	rp@
+with	with	iw
+the	the	at
+world-wide	worldwide	jj
+trend	trend	nn1
+of	of	io
+looks	look	nn2@
+for	for	if
+smart	smart	jj
+phones	phone	nn2
+and	and	cc
+sports	sport	nn2_vvz%
+a	a	at1
+slimmer	slimmer	nn1_jjr
+,		,
+narrower	narrow	jjr
+body	body	nn1
+.		.
+In	in	rr21
+addition	addition	rr22
+it	it	pph1
+runs	run	vvz
+on	on	ii_rp@
+Androids	android	nn2
+4.1	4.1	mc
+Jelly	jelly	nn1
+Bean	bean	nn1
+operating	operating	nn1
+system	system	nn1
+which	which	ddq
+includes	include	vvz
+the	the	at
+Siri		nn1_jj
+like	like	ii_jj@
+function	function	nn1
+--		zz
+Google	google	nn1_np1_vv0
+Now	now	rt
+.		.
+<p>		null
+The	the	at
+features	feature	nn2
+available	available	jj
+on	on	ii
+the	the	at
+Note	note	nn1
+II	ii	mc
+builds	build	vvz
+on	on	ii
+those	those	dd2
+that	that	cst
+were	be	vbdr
+available	available	jj
+in	in	ii
+the	the	at
+first	first	md
+instalment	instalment	nn1
+and	and	cc
+borrows	borrow	vvz
+a	a	at1
+few	few	da2
+from	from	ii
+the	the	at
+S	s	zz1_np1@
+III	iii	mc
+--		zz
+such	such	ii21
+as	as	ii22
+the	the	at
+eight	eight	mc
+megapixel	megapixel	vv0_nn1
+rear	rear	jj_nn1
+camera	camera	nn1
+and	and	cc
+1.9	1.9	mc
+megapixel	megapixel	vv0_nn1
+front	front	jj_nn1
+camera	camera	nn1
+.		.
+<p>		null
+Available	available	jj
+in	in	ii
+white	white	jj_nn1@
+and	and	cc
+titanium	titanium	nn1
+grey	gray	nn1@_jj
+,		,
+online	online	jj_rr
+reviews	review	nn2_vvz
+marvel	marvel	vv0_nn1
+at	at	ii
+the	the	at
+phones	phone	nn2
+incredible	incredible	jj
+HD	hd	np1
+display	display	nn1_vv0
+,		,
+colour	color	nn1
+and	and	cc
+clarity	clarity	nn1
+.		.
+Weighing	weigh	vvg_nn1
+just	just	rr
+over	over	rg
+6	6	mc
+ounces	ounce	nnu2
+,		,
+the	the	at
+phone	phone	nn1
+was	be	vbdz
+an	a	at1
+instant	instant	nnt1_jj
+hit	hit	vvn
+.		.
+<p>		null
+We	we	ppis2
+have	have	vh0
+Thameera		np1_nn1@
+who	who	pnqs
+had	have	vhd
+been	be	vbn
+using	use	vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+He	he	pphs1
+says	say	vvz
+it	it	pph1
+'s	be	vbz
+a	a	at1
+"		"
+resounding	resounding	jj
+success	success	nn1
+"		"
+in	in	ii
+his	his	appge
+blog	blog	nn1
+.		.
+Watch	watch	vv0
+the	the	at
+video	video	nn1
+review	review	vvi
+on	on	ii_rp@
+youtube		nn1_vv0
+below	below	rl
+.		.
+<p>		null
+iPhone	iphone	vv0_nn1
+5	5	mc
+<p>		null
+Apple	apple	nn1
+'s	's	ge
+first	first	md
+phone	phone	nn1
+launch	launch	nn1_vv0
+since	since	cs_ii@
+the	the	at
+death	death	nn1
+of	of	io
+founder	founder	nn1
+and	and	cc
+former	former	da
+CEO	ceo	nn1
+Steve	steve	np1
+Jobs	job	nn2
+--		zz
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+has	have	vhz
+been	be	vbn
+making	make	vvg
+headlines	headline	nn2
+,		,
+and	and	cc
+setting	set	vvg_nn1_jj@
+tongues	tongue	nn2
+wagging	wag	vvg
+since	since	cs_ii@
+rumours	rumor	nn2
+of	of	io
+its	its	appge
+release	release	nn1
+began	begin	vvd
+surfacing	surface	vvg
+earlier	early	rrr
+this	this	dd1
+year	year	nnt1
+.		.
+<p>		null
+Slimmer	slimmer	nn1_jjr
+,		,
+taller	tall	jjr
+and	and	cc
+selling	sell	vvg_nn1
+5	5	mc
+million	million	nno
+units	unit	nn2
+within	within	ii
+3	3	mc
+days	day	nnt2
+of	of	io
+it	it	pph1
+'s	be	vbz
+release	release	nn1
+--		zz
+the	the	at
+device	device	nn1
+is	be	vbz
+easily	easily	rr
+one	one	mc1
+of	of	io
+the	the	at
+hottest	hot	jjt
+new	new	jj
+things	thing	nn2
+on	on	ii
+the	the	at
+market	market	nn1
+today	today	rt
+.		.
+Apple	apple	nn1
+is	be	vbz
+renowned	renowned	jj
+for	for	if
+creating	create	vvg
+a	a	at1
+user	user	nn1
+experience	experience	nn1_vv0
+unlike	unlike	ii@
+any	any	dd
+other	other	jj
+--		zz
+and	and	cc
+it	it	pph1
+seems	seem	vvz
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+is	be	vbz
+n't	n't	xx
+any	any	dd
+different	different	jj
+.		.
+<p>		null
+Running	run	vvg_nn1_jj
+on	on	ii
+iOS6		fo
+,		,
+and	and	cc
+8	8	mc
+mega	mega	jj
+pixel	pixel	nn1
+camera	camera	nn1
+--		zz
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+has	have	vhz
+received	receive	vvn
+rave	rave	nn1
+reviews	review	vvz_nn2
+from	from	ii
+users	user	nn2
+all	all	db_rr@
+around	around	ii_rp
+the	the	at
+world	world	nn1
+.		.
+Apple	apple	nn1
+'s	's	ge
+user	user	nn1
+experience	experience	nn1_vv0
+never	never	rr
+disappoints	disappoint	vvz
+--		zz
+and	and	cc
+fans	fan	nn2
+claim	claim	vv0
+"		"
+once	once	cs@_rr
+you	you	ppy
+go	go	vv0
+Apple	apple	nn1
+,		,
+you	you	ppy
+never	never	rr
+go	go	vv0
+back	back	rp
+!		!
+"		"
+.		.
+Watch	watch	vv0
+the	the	at
+iPhone	iphone	nn1
+5	5	mc
+review	review	nn1_vv0
+from	from	ii
+@Chamara		fo
+<p>		null
+Samsung	samsung	jj@_np1@_vvn
+Galaxy	galaxy	nn1
+S	s	zz1
+Duos	duo	nn2
+In	in	ii
+August	august	npm1
+,		,
+Samsung	samsung	np1
+added	add	vvd
+the	the	at
+Samsung	samsung	np1
+S	s	zz1_np1@
+Duos	duo	nn2
+to	to	ii
+its	its	appge
+product	product	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+gorgeous	gorgeous	jj
+phone	phone	nn1
+comes	come	vvz
+with	with	iw
+the	the	at
+ability	ability	nn1
+to	to	to
+support	support	vvi
+two	two	mc
+sims	sim	vvz_nn2
+--		zz
+a	a	at1
+feature	feature	nn1
+not	not	xx
+very	very	rg
+common	common	jj
+in	in	ii
+most	most	dat
+smart	smart	jj
+phones	phone	nn2
+.		.
+<p>		null
+"		"
+Its	its	appge
+unique	unique	jj
+'	'	ge
+Dual	dual	jj
+SIM	sim	nn1
+Always	always	rr
+On	on	ii
+'	'	ge
+feature	feature	nn1
+allows	allow	vvz
+you	you	ppy
+to	to	to
+receive	receive	vvi
+calls	call	nn2
+on	on	ii
+one	one	mc1
+SIM	sim	nn1
+number	number	nn1
+while	while	cs
+taking	take	vvg
+a	a	at1
+call	call	nn1
+from	from	ii
+the	the	at
+other	other	jj_nn1@
+,		,
+ensuring	ensure	vvg
+that	that	cst
+you	you	ppy
+can	can	vm
+manage	manage	vvi
+both	both	rr_db2
+personal	personal	jj
+and	and	cc
+work	work	vvi
+commitments	commitment	nn2
+without	without	iw
+ever	ever	rr
+missing	miss	vvg
+a	a	at1
+call	call	nn1
+.		.
+"		"
+Samsung	samsung	np1@
+said	say	vvd
+in	in	ii_rp@
+a	a	at1
+blog	blog	nn1
+post	post	nn1_ii@
+announcing	announce	vvg
+the	the	at
+phone	phone	nn1
+.		.
+"		"
+You	you	ppy
+also	also	rr
+have	have	vh0
+the	the	at
+flexibility	flexibility	nn1
+of	of	io
+selecting	select	vvg
+different	different	jj
+billing	billing	nn1
+plans	plan	nn2_vvz
+for	for	if
+either	either	dd1_rr
+SIM	sim	nn1
+,		,
+switching	switch	vvg
+between	between	ii
+them	them	ppho2
+at	at	ii
+your	your	appge
+convenience	convenience	nn1
+.		.
+"		"
+<p>		null
+The	the	at
+phone	phone	nn1
+runs	run	vvz_nn2
+on	on	ii
+the	the	at
+Android	android	nn1
+4.0	4.0	mc
+Ice	ice	nn1
+Cream	cream	nn1
+Sandwich	sandwich	nn1_np1
+operating	operating	nn1
+system	system	nn1
+and	and	cc
+a	a	at1
+4-inch	4-inch	jj
+480x		fo
+800	800	mc
+TFT	tft	np1
+touchscreen	touch-screen	jj_nn1
+display	display	nn1
+.		.
+Throw	throw	vv0_nn1
+in	in	ii_rp@
+a	a	at1
+1GHz	1ghz	fo
+processor	processor	nn1
+,		,
+4GB	4gb	fo
+of	of	io
+built	build	vvn
+in	in	ii
+storage	storage	nn1
+and	and	cc
+a	a	at1
+5-megapixel	5-megapixel	jj
+rear-facing	rear-facing	jj_nn1
+camera	camera	nn1
+--		zz
+you	you	ppy
+have	have	vh0
+a	a	at1
+real	real	jj
+winner	winner	nn1
+.		.
+<h>		null
+One	one	pn1_mc1
+Thought	think	vvd_vvn_nn1
+on	on	ii
+"		"
+New	new	jj
+gadgets	gadget	nn2
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+--		zz
+2012	2012	mc
+November	november	npm1
+"		"
+<p>		null
+I	i	ppis1
+am	be	vbm
+interested	interested	jj
+in	in	ii
+buying	buy	vvg
+the	the	at
+Samsung	samsung	np1
+s	s	zz1
+duos	duo	nn2
+but	but	ccb
+now	now	rt
+I	i	ppis1
+am	be	vbm
+worried	worried	jj_vvn@
+after	after	ii
+reading	read	vvg
+the	the	at
+more	more	dar_rrr
+than	than	csn
+usual	usual	jj
+bad	bad	jj
+reviews	review	nn2
+on	on	ii
+the	the	at
+net	net	nn1_jj
+.		.
+Can	can	vm_vv0%
+some	some	pn121
+one	one	pn122
+in	in	ii
+Sri	sri	np1
+lanka		nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+##3472652		fo
+<h>		null
+Let	let	vm21
+'s	be	vm22
+Roar	roar	nn1
+<p>		null
+The	the	at
+most	most	rgt
+anticipated	anticipated	jj
+event	event	nn1
+in	in	ii
+the	the	at
+Cricketing	cricketing	jj_nn1
+calendar	calendar	nn1
+this	this	dd1
+year	year	nnt1
+'	'	ge
+The	the	at
+T20	t20	fo
+Cricket	cricket	nn1
+World	world	nn1
+Cup	cup	nn1
+'	'	ge
+has	have	vhz
+just	just	rr
+ended	end	vvn
+with	with	iw
+the	the	at
+energetic	energetic	jj
+West	west	np1
+Indians	indian	nn2
+grabbing	grab	vvg
+the	the	at
+trophy	trophy	nn1
+from	from	ii
+the	the	at
+spirited	spirited	jj
+Sri	sri	np1
+Lankans	lankans	nn2
+in	in	ii
+the	the	at
+Finals	final	nn2
+held	hold	vvn_vvd
+on	on	ii_rp@
+07th		md
+of	of	io
+October	october	npm1
+at	at	ii
+RPS	rps	np1
+in	in	ii
+Gangnam		np1
+Style	style	nn1
+.		.
+<p>		null
+Despite	despite	ii
+the	the	at
+disappointment	disappointment	nn1
+in	in	ii
+loosing	loose	vvg
+the	the	at
+big	big	jj
+final	final	nn1_jj
+for	for	if
+the	the	at
+4th	4th	md
+time	time	nnt1
+as	as	ii_csa
+a	a	at1
+Sri	sri	np1
+Lankan	lankan	jj_nn1@
+We	we	ppis2
+all	all	db
+should	should	vm
+proud	proud	rr%
+about	about	ii
+our	our	appge
+boys	boy	nn2
+performance	performance	nn1
+and	and	cc
+fighting	fight	vvg_nn1
+spirit	spirit	nn1
+to	to	to
+make	make	vvi
+it	it	pph1
+all	all	db
+the	the	at
+way	way	nn1
+to	to	ii
+the	the	at
+finals	final	nn2
+to	to	to
+become	become	vvi
+the	the	at
+runners	runner	nn2
+up	up	rp
+in	in	ii
+the	the	at
+World	world	nn1
+T20	t20	fo
+2012	2012	mc
+.		.
+However	however	rr
+watching	watch	vvg
+some	some	dd
+quality	quality	nn1
+cricket	cricket	nn1
+is	be	vbz
+something	something	pn1
+that	that	cst
+we	we	ppis2
+all	all	db_rr@
+enjoyed	enjoy	vvd_vvn
+through	through	rp@_ii
+out	out	rp
+past	past	ii_jj
+couple	couple	nn1
+of	of	io
+weeks	week	nnt2
+.		.
+We	we	ppis2
+are	be	vbr
+all	all	db
+fans	fan	nn2
+of	of	io
+cricket	cricket	nn1
+.		.
+And	and	cc
+for	for	if
+this	this	dd1
+special	special	jj
+event	event	nn1
+,		,
+since	since	cs
+Etisalat		np1_nn1
+is	be	vbz
+about	about	ii
+you	you	ppy
+..	...	...
+we	we	ppis2
+went	go	vvd
+on	on	ii
+the	the	at
+theme	theme	nn1
+of	of	io
+being	be	vbg
+"		"
+Officially	officially	rr
+Yours	yours	ppge
+"		"
+this	this	rg%
+T20	t20	fo
+season	season	nnt1
+.		.
+Everything	everything	pn1
+that	that	cst
+we	we	ppis2
+did	do	vdd
+in	in	ii
+this	this	dd1
+season	season	nnt1
+is	be	vbz
+for	for	if
+the	the	at
+Cricket	cricket	nn1
+Fan	fan	nn1
+.		.
+Here	here	rl
+are	be	vbr
+few	few	da2
+of	of	io
+them	them	ppho2
+..	...	...
+<p>		null
+To	to	to
+kick	kick	vvi
+things	thing	nn2
+off	off	rp
+with	with	iw
+an	a	at1
+event	event	nn1
+at	at	ii
+the	the	at
+Galle	galle	np1_nn1@
+Face	face	nn1_vv0
+green	green	nn1_jj
+along	along	ii21
+with	with	ii22
+Dilantha		np1
+Malegamuwa		np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Lankan	lankan	jj
+Cricketers	cricketer	nn2
+.		.
+It	it	pph1
+was	be	vbdz
+good	good	jj
+to	to	to
+see	see	vvi
+so	so	rg
+many	many	da2
+of	of	io
+you	you	ppy
+attend	attend	vv0
+.		.
+The	the	at
+night	night	nnt1
+was	be	vbdz
+concluded	conclude	vvn
+with	with	iw
+lighting	lighting	nn1
+of	of	io
+several	several	da2
+hundred	hundred	nno
+lanterns	lantern	nn2
+and	and	cc
+sending	send	vvg
+them	them	ppho2
+to	to	ii
+the	the	at
+air	air	nn1
+.		.
+On	on	ii
+the	the	at
+Internet	internet	nn1_np1
+too	too	rr@
+we	we	ppis2
+were	be	vbdr
+able	able	jk
+to	to	to
+gather	gather	vvi
+wishes	wish	nn2
+via	via	ii
+an	a	at1
+app	app	nn1
+that	that	cst_dd1
+can	can	vm
+be	be	vbi
+found	find	vvn
+at	at	ii
+**25;8035;TOOLONG		fo
+Being	be	vbg
+"		"
+Officially	officially	rr
+Yours	yours	ppge
+"		"
+we	we	ppis2
+are	be	vbr
+looking	look	vvg
+for	for	if
+20,000	20,000	mc
+profile	profile	nn1
+pictures	picture	nn2_vvz@
+on	on	ii31
+behalf	behalf	ii32
+of	of	ii33
+20	20	mc
+Million	million	nno
+Sri	sri	np1
+Lankans	lankans	nn2
+!		!
+Taking	take	vvg
+things	thing	nn2
+to	to	ii
+a	a	at1
+different	different	jj
+level	level	nn1_jj
+we	we	ppis2
+launched	launch	vvd
+the	the	at
+T20	t20	fo
+winner	winner	nn1
+prediction	prediction	nn1
+app	app	vv0_nn1
+that	that	cst_dd1
+can	can	vm
+be	be	vbi
+used	use	vvn
+to	to	to
+predict	predict	vvi
+and	and	cc
+compete	compete	vvi
+with	with	iw
+your	your	appge
+friends	friend	nn2
+on	on	ii
+Facebook	facebook	np1_nn1
+as	as	csa_rg@
+too	too	rr@
+see	see	vv0
+who	who	pnqs
+would	would	vm
+win	win	vvi
+the	the	at
+T20	t20	fo
+World	world	nn1
+Cup	cup	nn1
+.		.
+Oh	oh	uh
+,		,
+BTW	btw	np1
+we	we	ppis2
+are	be	vbr
+giving	give	vvg
+away	away	rl
+a	a	at1
+cool	cool	jj
+Tab	tab	nn1
+for	for	if
+the	the	at
+lucky	lucky	jj
+winner	winner	nn1
+which	which	ddq
+we	we	ppis2
+will	will	vm
+be	be	vbi
+announcing	announce	vvg
+through	through	ii_rp@
+our	our	appge
+Facebook	facebook	nn1
+page	page	nn1
+.		.
+<p>		null
+Have	have	vh0
+you	you	ppy
+ever	ever	rr
+wondered	wonder	vvn
+what	what	ddq
+the	the	at
+best	best	jjt
+moments	moment	nn2
+in	in	ii
+T20	t20	fo
+cricket	cricket	nn1
+were	be	vbdr
+?		?
+We	we	ppis2
+thought	think	vvd
+that	that	cst
+we	we	ppis2
+'d	have	vm
+ask	ask	vvi
+Russel	russel	np1
+Arnold	arnold	np1
+.		.
+Being	be	vbg
+a	a	at1
+former	former	da
+Sri	sri	np1
+Lankan	lankan	jj
+cricketer	cricketer	nn1
+commentating	commentate	vvg
+alongside	alongside	ii_rl
+greats	great	nn2
+like	like	ii
+Tony	tony	np1
+Grieg	grieg	np1_nn1
+and	and	cc
+Ramiz	ramiz	np1
+Raja	raja	np1
+we	we	ppis2
+are	be	vbr
+sure	sure	jj
+he	he	pphs1
+knows	know	vvz
+!		!
+You	you	ppy
+can	can	vm
+listen	listen	vvi
+to	to	ii
+him	him	ppho1
+talk	talk	vv0_nn1
+about	about	ii
+the	the	at
+best	best	jjt
+twenty	twenty	mc
+T20	t20	fo
+moments	moment	nn2
+on	on	ii
+Yes	yes	uh
+FM	fm	nn1
+,		,
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+YouTube	youtube	nn1@_np1
+channel	channel	nn1
+.		.
+<p>		null
+We	we	ppis2
+also	also	rr
+acquired	acquire	vvd
+exclusive	exclusive	jj
+rights	right	nn2
+and	and	cc
+broadcast	broadcast	vv0
+the	the	at
+T20	t20	fo
+world	world	nn1
+cup	cup	nn1
+on	on	ii
+our	our	appge
+Mobile	mobile	jj@_nn1@
+TV	tv	nn1
+platform	platform	nn1
+.		.
+Yes	yes	uh
+!		!
+We	we	ppis2
+gave	give	vvd
+the	the	at
+opportunity	opportunity	nn1
+to	to	ii
+our	our	appge
+customers	customer	nn2
+to	to	to
+watch	watch	vvi
+the	the	at
+cricket	cricket	nn1
+live	live	vv0_jj_rr@
+while	while	cs_nnt1@
+on	on	ii
+the	the	at
+go	go	nn1
+at	at	ii
+www.tv.etisalat.lk		nnu
+on	on	ii
+their	their	appge
+etisalat		nn1
+mobile.Last		nnu
+but	but	ccb
+not	not	xx
+least	least	rrt
+,		,
+We	we	ppis2
+would	would	vm
+like	like	vvi
+take	take	vv0
+this	this	dd1
+opportunity	opportunity	nn1
+to	to	to
+wish	wish	vvi
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+Cricket	cricket	nn1
+team	team	nn1
+for	for	if
+being	be	vbg
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+consistent	consistent	jj
+team	team	nn1
+in	in	ii
+the	the	at
+world	world	nn1
+cricket	cricket	nn1
+and	and	cc
+and	and	cc
+##3475650		fo
+<h>		null
+when	when	rrq
+will	will	vm
+be	be	vbi
+A/L		zz1
+result	result	vv0_nn1
+in	in	ii
+2011	2011	mc
+out	out	rp
+?		?
+<h>		null
+I	i	ppis1
+appeared	appear	vvd
+for	for	if
+A/L		zz1
+2011	2011	mc
+and	and	cc
+waiting	wait	vvg
+for	for	if
+results	result	nn2
+.		.
+There	there	ex
+are	be	vbr
+rumors	rumor	nn2
+about	about	ii
+the	the	at
+results	result	nn2
+date	date	nn1_vv0@
+but	but	ccb
+I	i	ppis1
+have	have	vh0
+not	not	xx
+heard	hear	vvn
+from	from	ii
+a	a	at1
+reliable	reliable	jj
+source	source	nn1
+.		.
+I	i	ppis1
+would	would	vm
+be	be	vbi
+thankful	thankful	jj
+if	if	cs_csw@
+some	some	dd
+body	body	nn1
+can	can	vm
+tell	tell	vvi
+me	me	ppio1
+when	when	rrq_cs
+A/L		zz1
+2011	2011	mc
+results	result	nn2
+will	will	vm
+be	be	vbi
+out	out	rp
+.		.
+<h>		null
+email	e-mail	nn1_vv0@
+<h>		null
+In	in	ii
+the	the	at
+year	year	nnt1
+2011	2011	mc
+more	more	dar_rrr
+first	first	md
+timers	timer	nn2
+have	have	vh0
+sat	sit	vvn
+for	for	if
+the	the	at
+advanced	advanced	jj
+level	level	jj_nn1
+examination	examination	nn1
+,		,
+51.33	51.33	mc
+percent	percent	nnu
+from	from	ii
+the	the	at
+new	new	jj
+syllabus	syllabus	nn1
+that	that	cst_dd1
+is	be	vbz
+in	in	ii
+the	the	at
+first	first	md
+attempt	attempt	nn1
+and	and	cc
+48.67	48.67	mc
+percent	percent	nnu
+from	from	ii
+the	the	at
+second	second	md_nnt1
+and	and	cc
+third	third	md
+attempts	attempt	nn2
+.		.
+All	all	db
+facts	fact	nn2
+regarding	regarding	ii
+2011	2011	mc
+examinations	examination	nn2
+seem	seem	vv0
+to	to	to
+be	be	vbi
+clear	clear	jj
+and	and	cc
+straightforward	straightforward	jj
+.		.
+Universities	university	nn2
+have	have	vh0
+conducted	conduct	vvn
+several	several	da2
+scientific	scientific	jj
+research	research	nn1
+studies	study	nn2
+to	to	to
+assess	assess	vvi
+the	the	at
+performance	performance	nn1
+of	of	io
+university	university	nn1
+students	student	nn2
+.		.
+Research	research	nn1_vv0@
+evidence	evidence	nn1
+clearly	clearly	rr
+indicates	indicate	vvz
+that	that	cst
+students	student	nn2
+who	who	pnqs
+qualify	qualify	vv0
+in	in	ii_rp@
+the	the	at
+first	first	md
+attempt	attempt	nn1
+at	at	ii
+the	the	at
+advanced	advanced	jj
+level	level	jj_nn1
+examination	examination	nn1
+perform	perform	vv0
+better	better	rrr_jjr
+than	than	csn
+the	the	at
+second	second	md_nnt1
+and	and	cc
+third	third	md
+attempt	attempt	nn1
+students	student	nn2
+.		.
+Selection	selection	nn1
+criteria	criteria	nn2
+need	need	vv0
+to	to	to
+be	be	vbi
+productive	productive	jj
+and	and	cc
+cost	cost	vv0_nn1_vvd@
+effective	effective	jj
+for	for	if
+the	the	at
+government	government	nn1
+and	and	cc
+universities	university	nn2
+.		.
+<h>		null
+Results	result	nn2_vvz@
+ready	ready	jj_rr@
+.		.
+Examination	examination	nn1
+department	department	nn1
+has	have	vhz
+completed	complete	vvn
+marking	marking	nn1_vvg
+.		.
+there	there	ex
+is	be	vbz
+a	a	at1
+delay	delay	nn1
+in	in	ii
+releasing	release	vvg
+.		.
+Z	z	zz1_np1@
+score	score	nn1
+has	have	vhz
+been	be	vbn
+used	use	vvn
+effectively	effectively	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Only	only	jj
+way	way	nn1
+to	to	to
+present	present	vvi
+marks	mark	nn2
+regardless	regardless	rr
+of	of	io
+differences	difference	nn2
+in	in	ii
+degree	degree	nn1
+of	of	io
+difficulty	difficulty	nn1
+in	in	ii
+two	two	mc
+examinations	examination	nn2
+is	be	vbz
+though	though	cs_rr@
+standardization	standardization	nn1
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+Z	z	zz1_np1@
+score	score	nn1_vv0
+.		.
+Whatever	whatever	ddqv
+the	the	at
+other	other	jj
+arguments	argument	nn2
+made	make	vvn_vvd
+and	and	cc
+trying	try	vvg
+to	to	to
+convince	convince	vvi
+one	one	mc1
+examination	examination	nn1
+is	be	vbz
+difficult	difficult	jj
+and	and	cc
+the	the	at
+other	other	jj
+one	one	pn1
+is	be	vbz
+easy	easy	jj_rr@
+is	be	vbz
+not	not	xx
+valid	valid	jj
+and	and	cc
+such	such	da
+arguments	argument	nn2
+are	be	vbr
+not	not	xx
+acceptable	acceptable	jj
+on	on	ii
+evidence	evidence	nn1
+based	base	vvn_vvd@
+scientific	scientific	jj
+analysis	analysis	nn1
+.		.
+All	all	db_rr@
+subjective	subjective	jj
+arguments	argument	nn2
+made	make	vvn_vvd
+on	on	ii
+two	two	mc
+different	different	jj
+examinations	examination	nn2
+becomes	become	vvz
+invalid	invalid	jj_nn1
+when	when	cs_rrq
+the	the	at
+Z	z	np1@_zz1
+score	score	nn1_vv0
+is	be	vbz
+taken	take	vvn
+instead	instead	ii21
+of	of	ii22
+marks	mark	nn2
+for	for	if
+selection	selection	nn1
+criteria	criteria	nn2
+.		.
+Universities	university	nn2
+have	have	vh0
+conducted	conduct	vvn
+several	several	da2
+scientific	scientific	jj
+studies	study	nn2
+to	to	to
+assess	assess	vvi
+the	the	at
+performance	performance	nn1
+of	of	io
+university	university	nn1
+students	student	nn2
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+their	their	appge
+number	number	nn1
+of	of	io
+attempts	attempt	nn2
+they	they	pphs2
+had	have	vhd
+to	to	to
+sit	sit	vvi
+for	for	if
+the	the	at
+advanced	advanced	jj
+level	level	jj_nn1
+examinations	examination	nn2
+.		.
+Z	z	zz1_np1@
+score	score	nn1
+standardizes	standardizes	vvz
+marks	mark	nn2
+and	and	cc
+place	place	vv0_nn1
+two	two	mc
+exams	exam	nn2
+on	on	ii
+an	a	at1
+equal	equal	jj
+setting	setting	nn1
+.		.
+Z-score	z-score	nn1
+is	be	vbz
+a	a	at1
+scientifically	scientifically	rr
+proven	proven	jj_vvn
+yardstick	yardstick	nn1
+to	to	to
+standardize	standardize	vvi
+different	different	jj
+examinations	examination	nn2
+and	and	cc
+their	their	appge
+marks	mark	nn2
+.		.
+Each	each	dd1
+z-score	z-score	nn1
+corresponds	correspond	vvz
+to	to	ii
+a	a	at1
+point	point	nn1
+in	in	ii
+a	a	at1
+normal	normal	jj
+distribution	distribution	nn1
+and	and	cc
+that	that	dd1_cst
+can	can	vm
+be	be	vbi
+described	describe	vvn
+as	as	ii
+a	a	at1
+normal	normal	jj
+deviate	deviate	vv0
+,		,
+z-score	z-score	nn1
+describes	describe	vvz
+how	how	rgq@_rrq
+much	much	da1_rr
+the	the	at
+marks	mark	nn2
+deviate	deviate	vv0
+from	from	ii
+a	a	at1
+mean	mean	jj_nn1@
+.		.
+It	it	pph1
+is	be	vbz
+a	a	at1
+matter	matter	nn1
+of	of	io
+getting	get	vvg
+the	the	at
+z	z	zz1
+scores	score	nn2_vvz@
+from	from	ii
+both	both	db2
+examinations	examination	nn2
+and	and	cc
+releasing	release	vvg
+the	the	at
+results	result	nn2
+that	that	cst_dd1
+would	would	vm
+be	be	vbi
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+standardize	standardize	vvi
+data	data	nn
+,		,
+there	there	ex
+were	be	vbdr
+no	no	at
+discrepancies	discrepancy	nn2
+since	since	ii
+then	then	rt
+.		.
+What	what	ddq
+is	be	vbz
+the	the	at
+delay	delay	nn1
+,		,
+it	it	pph1
+is	be	vbz
+only	only	rr
+a	a	at1
+matter	matter	nn1
+of	of	io
+releasing	release	vvg
+Z	z	zz1
+scores	score	nn2_vvz@
+.		.
+If	if	cs
+the	the	at
+mean	mean	jj_nn1@
+and	and	cc
+standard	standard	jj_nn1
+deviations	deviation	nn2
+were	be	vbdr
+already	already	rr
+given	give	vvn
+from	from	ii
+the	the	at
+examination	examination	nn1
+department	department	nn1
+,		,
+no	no	at
+need	need	nn1
+to	to	to
+have	have	vhi
+any	any	dd
+delay	delay	nn1_vv0
+in	in	ii
+releasing	release	vvg
+results	result	nn2
+.		.
+Using	use	vvg
+the	the	at
+Z	z	np1@_zz1
+score	score	nn1_vv0
+is	be	vbz
+the	the	at
+standardard		nn1
+and	and	cc
+universily		rr
+accepted	accept	vvn_jj_vvd
+t	t	zz1
+procedure	procedure	nn1
+.		.
+That	that	dd1
+is	be	vbz
+the	the	at
+statistically	statistically	rr
+accepted	accepted	jj_vvn
+procedure	procedure	nn1
+in	in	ii
+analyzing	analyze	vvg
+results	result	nn2
+.		.
+If	if	cs
+the	the	at
+authorities	authority	nn2
+stick	stick	vv0
+to	to	ii
+the	the	at
+accurate	accurate	jj
+and	and	cc
+internationally	internationally	rr
+accepted	accept	vvn_jj_vvd
+standard	standard	jj_nn1
+procedure	procedure	nn1
+results	result	nn2
+can	can	vm
+be	be	vbi
+released	release	vvn
+without	without	iw
+any	any	dd
+delay	delay	nn1_vv0
+without	without	iw
+having	have	vhg
+to	to	to
+face	face	vvi
+criticisms	criticism	nn2
+made	make	vvn_vvd
+on	on	ii
+examination	examination	nn1
+papers	paper	nn2
+.		.
+Examinations	examination	nn2
+are	be	vbr
+difficult	difficult	jj
+,		,
+there	there	ex
+are	be	vbr
+ambiguous	ambiguous	jj
+questions	question	nn2
+in	in	ii
+all	all	db
+examinations	examination	nn2
+that	that	cst_dd1
+is	be	vbz
+the	the	at
+exact	exact	jj
+reason	reason	nn1
+why	why	rrq
+Z	z	zz1
+score	score	nn1_vv0
+is	be	vbz
+used	use	vvn
+to	to	to
+determine	determine	vvi
+performance	performance	nn1
+.		.
+Only	only	jj
+solution	solution	nn1
+is	be	vbz
+to	to	to
+release	release	vvi
+results	result	nn2
+on	on	ii
+the	the	at
+basis	basis	nn1
+of	of	io
+Z	z	zz1_np1@
+score	score	nn1_vv0
+.		.
+<h>		null
+No	no	at
+need	need	nn1
+to	to	to
+have	have	vhi
+further	far	jjr@_rrr
+delay	delay	nn1_vv0
+,		,
+whatever	whatever	ddqv
+statistical	statistical	jj
+methodology	methodology	nn1
+used	use	vvd_vvn
+more	more	rgr
+or	or	cc
+less	less	rgr
+equal	equal	jj
+proportions	proportion	nn2
+from	from	ii
+each	each	dd1
+examination	examination	nn1
+qualify	qualify	vv0
+for	for	if
+university	university	nn1
+education	education	nn1
+at	at	ii
+the	the	at
+end	end	nn1
+.		.
+Giving	give	vvg
+results	result	nn2
+in	in	ii
+two	two	mc
+different	different	jj
+z	z	zz1
+scores	score	nn2
+and	and	cc
+selecting	select	vvg
+equal	equal	jj
+portions	portion	nn2
+from	from	ii
+each	each	dd1
+examination	examination	nn1
+is	be	vbz
+easier	easy	jjr
+,		,
+or	or	cc
+else	else	rr
+putting	put	vvg
+two	two	mc
+sets	set	nn2
+of	of	io
+z	z	zz1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+selecting	select	vvg
+equal	equal	jj
+proportions	proportion	nn2
+for	for	if
+further	far	jjr@
+education	education	nn1
+.		.
+Research	research	nn1_vv0@
+oriented	orient	vvd_jj@
+University	university	nn1
+academics	academic	nn2
+are	be	vbr
+generally	generally	rr
+familiar	familiar	jj
+with	with	iw
+statistical	statistical	jj
+analysis	analysis	nn1
+,		,
+hope	hope	vv0_nn1
+results	result	nn2
+would	would	vm
+be	be	vbi
+available	available	jj
+soon	soon	rr
+.		.
+<h>		null
+What	what	ddq
+is	be	vbz
+the	the	at
+reason	reason	nn1
+for	for	if
+delay	delay	nn1
+now	now	rt
+?		?
+Ca	can	vm
+n't	n't	xx
+understand	understand	vvi
+reasons	reason	nn2
+for	for	if
+further	far	jjr@_rrr
+delay	delay	nn1_vv0
+?		?
+They	they	pphs2
+said	say	vvd
+they	they	pphs2
+will	will	vm
+release	release	vvi
+in	in	ii
+two	two	mc
+days	day	nnt2
+.		.
+<h>		null
+Still	still	jj@_rr
+Department	department	nn1
+of	of	io
+Examination	examination	nn1
+has	have	vhz
+not	not	xx
+announced	announce	vvn
+the	the	at
+date	date	nn1
+for	for	if
+release	release	nn1
+of	of	io
+results	result	nn2
+.		.
+2011-11-16		mcmc
+<h>		null
+This	this	dd1
+time	time	nnt1
+similar	similar	jj
+proportions	proportion	nn2
+have	have	vh0
+attempted	attempt	vvn
+advanced	advanced	jj
+level	level	jj_nn1
+examinations	examination	nn2
+.		.
+51	51	mc
+percent	percent	nnu
+from	from	ii
+one	one	mc1
+examination	examination	nn1
+and	and	cc
+49%	49%	nnu
+from	from	ii
+the	the	at
+other	other	jj_nn1@
+(		(
+new	new	jj
+)		)
+examination	examination	nn1
+sat	sit	vvd
+for	for	if
+the	the	at
+advanced	advanced	jj
+level	level	jj_nn1
+examinations	examination	nn2
+in	in	ii
+the	the	at
+year	year	nnt1
+2011	2011	mc
+.		.
+Statistically	statistically	rr
+more	more	rgr
+or	or	cc
+less	less	rgr
+equal	equal	jj
+numbers	number	nn2
+of	of	io
+students	student	nn2
+from	from	ii
+each	each	dd1
+examination	examination	nn1
+needs	need	vvz_nn2
+to	to	to
+enter	enter	vvi
+the	the	at
+universities	university	nn2
+.		.
+Nearly	nearly	rr
+50	50	mc
+percent	percent	nnu
+from	from	ii
+old	old	jj
+syllabus	syllabus	nn1
+second	second	nnt1_md
+third	third	md
+attempts	attempt	nn2
+and	and	cc
+new	new	jj
+syllabus	syllabus	nn1
+that	that	cst_dd1
+is	be	vbz
+first	first	md
+attempt	attempt	nn1
+have	have	vh0
+to	to	to
+qualify	qualify	vvi
+for	for	if
+university	university	nn1
+education	education	nn1
+according	according	ii21
+to	to	ii22
+Z	z	zz1_np1@
+score	score	vv0_nn1
+methodology	methodology	nn1
+at	at	ii
+the	the	at
+end	end	nn1
+.		.
+If	if	cs
+the	the	at
+correct	correct	jj
+methodology	methodology	nn1
+is	be	vbz
+used	use	vvn
+there	there	rl_ex
+will	will	vm
+be	be	vbi
+no	no	at
+further	far	jjr@
+uncertainties	uncertainty	nn2
+.		.
+According	according	ii21
+to	to	ii22
+the	the	at
+examination	examination	nn1
+department	department	nn1
+Z	z	zz1
+scores	score	nn2
+can	can	vm
+be	be	vbi
+released	release	vvn
+in	in	ii
+two	two	mc
+days	day	nnt2
+'	'	ge
+time	time	nnt1
+.		.
+<h>		null
+Examinations	examination	nn2
+department	department	nn1
+said	say	vvd
+results	result	nn2
+will	will	vm
+be	be	vbi
+given	give	vvn
+before	before	ii
+December	december	npm1
+9	9	mc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+takes	take	vvz
+candidates	candidate	nn2
+grades	grade	nn2
+and	and	cc
+z	z	zz1
+value	value	nn1
+stay	stay	vv0
+unaffected	unaffected	jj
+and	and	cc
+identical	identical	jj
+.		.
+There	there	ex
+is	be	vbz
+only	only	rr
+one	one	mc1
+standard	standard	nn1_jj
+and	and	cc
+undisputed	undisputed	jj
+statute	statute	nn1
+to	to	to
+release	release	vvi
+results	result	nn2
+there	there	ex_rl
+are	be	vbr
+no	no	at
+different	different	jj
+methods	method	nn2
+.		.
+There	there	ex
+is	be	vbz
+only	only	rr
+one	one	mc1
+way	way	nn1
+of	of	io
+calculating	calculate	vvg
+the	the	at
+Z	z	np1@_zz1
+score	score	nn1_vv0
+,		,
+there	there	ex
+are	be	vbr
+no	no	at
+different	different	jj
+methods	method	nn2
+of	of	io
+feeding	feed	vvg_jj@
+data	data	nn
+.		.
+Results	result	nn2
+need	need	vv0
+to	to	to
+come	come	vvi
+as	as	csa
+they	they	pphs2
+reflect	reflect	vv0
+the	the	at
+performance	performance	nn1
+of	of	io
+students	student	nn2
+with	with	iw
+the	the	at
+same	same	da
+Z	z	zz1_np1@
+score	score	vv0_nn1
+on	on	ii
+December	december	npm1
+19	19	mc
+.		.
+There	there	ex
+is	be	vbz
+an	a	at1
+unnecessary	unnecessary	jj
+delay	delay	nn1
+for	for	if
+the	the	at
+students	student	nn2
+.		.
+However	however	rgqv
+much	much	rr
+it	it	pph1
+is	be	vbz
+delayed	delay	vvn
+different	different	jj
+result	result	nn1
+can	can	vm
+not	not	xx
+be	be	vbi
+issued	issue	vvn
+.		.
+So	so	rr
+the	the	at
+results	result	nn2
+need	need	vv0
+to	to	to
+be	be	vbi
+out	out	rp
+You	you	ppy
+must	must	vm
+be	be	vbi
+logged	log	vvn
+in	in	rp@
+to	to	ii
+post	post	nn1_ii@
+an	a	at1
+answer	answer	nn1
+.		.
+Signup		vv0
+Here	here	rl
+,		,
+it	it	pph1
+takes	take	vvz
+5	5	mc
+seconds	second	nnt2
+:		:
+)		)
+<h>		null
+Search	search	vv0
+this	this	dd1
+Site	site	nn1
+&;		null
+Web	web	nn1
+<p>		null
+Please	please	rr
+note	note	vv0
+that	that	cst_dd1
+currently	currently	rr
+we	we	ppis2
+have	have	vh0
+close	close	rr@
+the	the	at
+easy	easy	jj
+registration	registration	nn1
+due	due	ii21
+to	to	ii22
+recent	recent	jj
+increase	increase	nn1
+in	in	ii
+spammers	spammer	nn2
+.		.
+Now	now	rt
+registration	registration	nn1
+are	be	vbr
+on	on	ii
+invitation	invitation	nn1
+only	only	rr
+.		.
+You	you	ppy
+can	can	vm
+send	send	vvi
+us	us	ppio2
+a	a	at1
+request	request	nn1
+by	by	ii
+using	use	vvg
+the	the	at
+Contact	contact	vv0_nn1
+Us	us	ppio2_np1@
+Page	page	nn1
+We	we	ppis2
+apologize	apologize	vv0
+for	for	if
+the	the	at
+inconvenience	inconvenience	nn1
+and	and	cc
+we	we	ppis2
+kindly	kindly	rr
+request	request	vv0
+you	you	ppy
+to	to	to
+be	be	vbi
+an	a	at1
+active	active	jj
+participant	participant	nn1
+of	of	io
+this	this	dd1
+community	community	nn1
+.		.
+You	you	ppy
+##3480950		fo
+<p>		null
+Sri	sri	np1
+Lanka	lanka	np1
+'s	's	ge
+state-run	state-run	jj
+oil	oil	nn1
+company	company	nn1
+has	have	vhz
+lost	lose	vvn
+a	a	at1
+$60	$60	nnu
+million	million	nno
+hedging	hedging	jj%_nn1@
+case	case	nn1
+against	against	ii
+Deutsche	deutsche	np1
+Bank	bank	nn1_np1@
+after	after	ii_cs
+a	a	at1
+U.S.-based	us-based	jj_nn1
+arbitrator	arbitrator	nn1
+ruled	rule	vvn_vvd
+in	in	ii31
+favour	favour	ii32
+of	of	ii33
+the	the	at
+bank	bank	nn1
+,		,
+officials	official	nn2
+said	say	vvd_vvn@
+on	on	ii
+Friday	friday	npd1
+.		.
+<p>		null
+A	a	at1
+source	source	nn1
+familiar	familiar	jj_nn1%
+with	with	iw
+the	the	at
+ruling	ruling	nn1
+said	say	vvd
+Ceylon	ceylon	np1
+Petroleum	petroleum	nn1
+Corporation	corporation	nn1
+(		(
+Ceypetco		np1
+)		)
+would	would	vm
+have	have	vhi
+to	to	to
+pay	pay	vvi
+Deutsche	deutsche	np1
+$60.3	$60.3	nnu
+million	million	nno
+plus	plus	ii
+interest	interest	nn1
+for	for	if
+non-payment	nonpayment	nn1
+of	of	io
+dues	dues	nn2
+.		.
+<p>		null
+"		"
+It	it	pph1
+'s	be	vbz
+against	against	ii
+us	us	ppio2
+,		,
+"		"
+Sri	sri	np1
+Lanka	lanka	np1
+'s	's	ge
+Attorney	attorney	nn1
+General	general	nnb
+Palitha		np1
+Fernando	fernando	np1
+told	tell	vvd
+Reuters	reuters	np1
+.		.
+"		"
+Now	now	rt
+we	we	ppis2
+are	be	vbr
+considering	consider	vvg_ii
+what	what	ddq
+actions	action	vvz@
+to	to	to
+be	be	vbi
+taken	take	vvn
+to	to	to
+annul	annul	vvi
+this	this	dd1
+.		.
+"		"
+<p>		null
+Oil	oil	nn1
+Minister	minister	nn1
+Sisil		np1
+Premajayantha		np1
+told	tell	vvd
+Reuters	reuters	np1
+he	he	pphs1
+was	be	vbdz
+not	not	xx
+aware	aware	jj
+of	of	io
+the	the	at
+ruling	ruling	nn1_jj
+but	but	ccb
+would	would	vm
+appeal	appeal	vvi
+if	if	csw@_cs
+the	the	at
+case	case	nn1
+went	go	vvd
+against	against	ii
+the	the	at
+company	company	nn1
+.		.
+<p>		null
+Three	three	mc
+foreign	foreign	jj
+banks	bank	nn2
+,		,
+Standard	standard	jj_nn1
+Chartered	chartered	jj_vvd_vvn
+,		,
+Citigroup	citigroup	np1_nn1_vv0
+and	and	cc
+Deutsche	deutsche	np1
+,		,
+took	take	vvd
+legal	legal	jj
+action	action	nn1
+after	after	ii_cs
+Ceypetco		np1
+refused	refuse	vvd
+to	to	to
+make	make	vvi
+hedging	hedge	vvg
+payments	payment	nn2
+of	of	io
+more	more	dar
+than	than	csn
+$460	$460	nnu
+million	million	nno
+,		,
+including	include	vvg@
+to	to	ii
+two	two	mc
+local	local	jj
+banks	bank	nn2
+.		.
+Deutsche	deutsche	np1
+had	have	vhd
+asked	ask	vvn
+the	the	at
+Washington-based	washington-based	jj_nn1
+International	international	jj
+Centre	center	nn1
+for	for	if
+Settlement	settlement	nn1
+of	of	io
+Investment	investment	nn1
+Disputes	dispute	nn2
+to	to	to
+arbitrate	arbitrate	vvi
+.		.
+Ceypetco		nn1_np1@
+,		,
+which	which	ddq
+imported	import	vvd
+some	some	dd
+26	26	mc
+million	million	nno
+barrels	barrel	nn2
+at	at	ii
+a	a	at1
+cost	cost	nn1
+of	of	io
+$2	$2	nnu
+billion	billion	nno
+in	in	ii
+2007	2007	mc
+,		,
+needed	need	vvd_vvn
+to	to	to
+hedge	hedge	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+international	international	jj
+market	market	nn1
+.		.
+<p>		null
+It	it	pph1
+was	be	vbdz
+exposed	expose	vvn
+to	to	ii
+the	the	at
+oil	oil	nn1
+rally	rally	nn1
+of	of	io
+2008	2008	mc
+,		,
+when	when	cs_rrq
+oil	oil	nn1
+hit	hit	vvd_vvn
+a	a	at1
+record	record	jj
+high	high	nn1
+above	above	ii
+$147	$147	nnu
+a	a	at1
+barrel	barrel	nn1
+in	in	ii
+July	july	npm1
+before	before	ii
+crashing	crash	vvg
+to	to	ii
+less	less	dar
+than	than	csn
+$40	$40	nnu
+a	a	at1
+barrel	barrel	nn1
+in	in	ii
+December	december	npm1
+.		.
+<p>		null
+In	in	ii
+July	july	npm1
+,		,
+Ceypetco		np1
+lost	lose	vvd
+an	a	at1
+appeal	appeal	nn1
+against	against	ii
+a	a	at1
+London	london	np1
+court	court	nn1
+ruling	ruling	nn1
+which	which	ddq
+ordered	order	vvd
+it	it	pph1
+to	to	to
+pay	pay	vvi
+nearly	nearly	rr
+$162	$162	nnu
+million	million	nno
+plus	plus	ii
+interest	interest	nn1
+for	for	if
+non-payment	nonpayment	nn1
+of	of	io
+dues	dues	nn2
+to	to	ii
+Standard	standard	jj_nn1
+Chartered	chartered	jj
+Bank	bank	nn1
+linked	link	vvn
+to	to	ii
+hedging	hedge	vvg
+deals	deal	nn2
+.		.
+Standard	standard	jj_nn1
+Chartered	chartered	jj_vvd_vvn
+argued	argue	vvd_vvn
+that	that	cst
+Ceypetco		np1
+had	have	vhd
+always	always	rr
+been	be	vbn
+aware	aware	jj
+that	that	cst
+a	a	at1
+fall	fall	nn1
+in	in	ii
+oil	oil	nn1
+prices	price	nn2
+would	would	vm
+have	have	vhi
+made	make	vvn
+it	it	pph1
+liable	liable	jj
+to	to	to
+make	make	vvi
+payments	payment	nn2
+to	to	ii
+the	the	at
+UK-based	uk-based	jj
+bank	bank	nn1
+.		.
+<h>		null
+Comments	comment	nn2
+<p>		null
+what	what	ddq
+are	be	vbr
+these	these	dd2
+politicians	politician	nn2
+doing	do	vdg
+to	to	ii
+our	our	appge
+country	country	nn1
+?		?
+they	they	pphs2
+are	be	vbr
+irresponsibly	irresponsibly	rr
+playing	play	vvg
+with	with	iw
+public	public	jj
+money	money	nn1
+..	...	...
+thus	thus	rr
+money	money	nn1
+taken	take	vvn
+from	from	ii
+taxing	tax	vvg
+the	the	at
+people	people	nn
+for	for	if
+mobile	mobile	jj_nn1
+usage	usage	nn1
+,		,
+vehicle	vehicle	nn1
+imports	import	nn2
+,		,
+sunlight	sunlight	nn1
+,		,
+crude	crude	jj_nn1@
+,		,
+rice	rice	nn1
+,		,
+vegetable	vegetable	nn1
+imports	import	nn2
+etc	etc	ra
+are	be	vbr
+going	go	vvgk
+to	to	to
+be	be	vbi
+paid	pay	vvn
+to	to	to
+close	close	vvi
+these	these	dd2
+hedging	hedge	vvg_nn1@
+loses	lose	vvz
+...		...
+aney		jj@_nn1
+people	people	nn
+why	why	rrq
+are	be	vbr
+you	you	ppy
+still	still	rr
+voting	vote	vvg
+MR	mr	nnb
+?		?
+are	be	vbr
+you	you	ppy
+really	really	rr
+wise	wise	jj
+?		?
+<p>		null
+Why	why	rrq
+the	the	at
+culprits	culprit	nn2
+who	who	pnqs
+were	be	vbdr
+responsible	responsible	jj
+for	for	if
+these	these	dd2
+huge	huge	jj
+hedging	hedging	nn1@_vvg_jj%
+losses	loss	nn2
+were	be	vbdr
+not	not	xx
+brought	bring	vvn
+before	before	ii_cs
+courts	court	nn2
+or	or	cc
+bribery	bribery	nn1
+commission	commission	nn1
+like	like	ii
+what	what	ddq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+this	this	dd1
+what	what	ddq
+called	call	vvd@_jj%
+selectivity	selectivity	nn1
+?		?
+?		?
+TFC	tfc	np1
+loss	loss	nn1
+was	be	vbdz
+##3480951		fo
+<p>		null
+Another	another	dd1
+oil	oil	nn1
+leak	leak	nn1
+was	be	vbdz
+reported	report	vvn
+in	in	ii
+one	one	mc1
+of	of	io
+the	the	at
+pipelines	pipeline	nn2
+at	at	ii
+Meethotamulla		np1
+carrying	carry	vvg_nn1@
+oil	oil	nn1
+to	to	ii
+Sapugaskanda		np1
+Oil	oil	nn1
+Refinery	refinery	nn1
+.		.
+<p>		null
+The	the	at
+leak	leak	nn1
+from	from	ii
+a	a	at1
+pipeline	pipeline	nn1
+that	that	cst_dd1
+carries	carry	vvz
+airline	airline	nn1
+fuel	fuel	nn1
+between	between	ii
+Sapugaskanda		np1
+and	and	cc
+Colombo	colombo	np1
+Port	port	nn1
+was	be	vbdz
+due	due	ii21
+to	to	ii22
+a	a	at1
+blast	blast	nn1
+on	on	ii
+Sunday	sunday	npd1
+night	night	nnt1
+,		,
+an	a	at1
+official	official	nn1_jj
+said	say	vvd
+.		.
+<p>		null
+He	he	pphs1
+said	say	vvd
+that	that	cst
+there	there	ex
+was	be	vbdz
+no	no	at
+major	major	jj
+loss	loss	nn1
+as	as	ii_csa
+the	the	at
+pipeline	pipeline	nn1
+was	be	vbdz
+not	not	xx
+in	in	ii
+use	use	nn1
+at	at	ii
+the	the	at
+time	time	nnt1
+of	of	io
+the	the	at
+damage	damage	nn1
+.		.
+The	the	at
+residents	resident	nn2
+around	around	ii
+the	the	at
+area	area	nn1
+had	have	vhd
+been	be	vbn
+collecting	collect	vvg
+the	the	at
+remaining	remaining	jj
+oil	oil	nn1
+that	that	cst_dd1
+was	be	vbdz
+leaking	leak	vvg
+throughout	throughout	ii
+the	the	at
+night	night	nnt1
+.		.
+<p>		null
+On	on	ii
+Oct	oct	npm1
+30	30	mc
+another	another	dd1
+pipeline	pipeline	nn1
+carrying	carry	vvg_nn1@
+fuel	fuel	nn1
+from	from	ii
+the	the	at
+Oil	oil	nn1
+Refinery	refinery	nn1
+was	be	vbdz
+damaged	damage	vvn
+in	in	ii
+Orugodawatta		np1
+and	and	cc
+it	it	pph1
+was	be	vbdz
+repaired	repair	vvn
+##3480952		fo
+<p>		null
+The	the	at
+C	c	np1
+olombo		nn1
+Chief	chief	nn1_jj
+Magistrate	magistrate	nn1
+directed	direct	vvd_vvn
+the	the	at
+Sri	sri	np1
+Jayawardenapura		np1
+Hospital	hospital	nn1
+Director	director	nn1
+to	to	to
+submit	submit	vvi
+a	a	at1
+report	report	nn1
+on	on	ii
+the	the	at
+sections	section	nn2
+of	of	io
+the	the	at
+skull	skull	nn1
+that	that	cst
+were	be	vbdr
+removed	remove	vvn
+during	during	ii
+the	the	at
+surgical	surgical	jj
+operation	operation	nn1
+on	on	ii
+Mr.		nnb
+Duminda		np1
+Silva	silva	np1
+'s	's	ge
+head	head	nn1
+,		,
+which	which	ddq
+had	have	vhd
+gunshot	gunshot	nn1
+injuries	injury	nn2
+during	during	ii
+the	the	at
+Mulleriyawa		np1_nn1@
+shooting	shooting	nn1_vvg
+on	on	ii
+October	october	npm1
+8	8	mc
+,		,
+2011	2011	mc
+.		.
+<p>		null
+Magistrate	magistrate	nn1
+Prasanna	prasanna	np1
+Alwis		np1
+gave	give	vvd
+this	this	dd1
+order	order	nn1
+when	when	cs_rrq
+Mr.		nnb
+Silva	silva	np1
+'s	's	ge
+bodyguard	bodyguard	nn1
+in	in	ii
+his	his	appge
+evidence	evidence	nn1
+said	say	vvd
+Mr.		nnb
+Silva	silva	np1
+was	be	vbdz
+operated	operate	vvn
+on	on	rp@
+at	at	ii
+the	the	at
+Sri	sri	np1
+Jayawardenapura		np1
+Hospital	hospital	nn1
+after	after	ii_cs
+the	the	at
+shooting	shooting	nn1
+,		,
+which	which	ddq
+killed	kill	vvd
+presidential	presidential	jj
+adviser	adviser	nn1
+Baratha		np1
+Lakshman	lakshman	np1
+Premachandra		np1
+.		.
+<p>		null
+You	you	ppy
+know	know	vv0
+What	what	ddq
+?		?
+I	i	ppis1
+just	just	rr
+realized	realize	vvd
+that	that	cst
+this	this	dd1
+case	case	nn1
+is	be	vbz
+about	about	ii
+Hirunikas		np2
+father	father	nn1
+.		.
+and	and	cc
+who	who	pnqs
+ever	ever	rr
+wins	win	vvz_nn2
+(		(
+im		vv0_nn1
+banking	banking	nn1_vvg@
+on	on	ii
+duminda		nn1
+escaping	escape	vvg_jj
+)		)
+we	we	ppis2
+really	really	rr
+do	do	vd0
+n't	n't	xx
+get	get	vvi
+anything	anything	pn1
+.		.
+so	so	rr
+why	why	rrq
+waste	waste	jj@_nn1_vv0
+time	time	nnt1
+on	on	ii
+this	this	dd1
+issue	issue	nn1
+?		?
+besides	besides	ii
+Hirunika		np1
+seems	seem	vvz
+to	to	to
+be	be	vbi
+in	in	ii
+love	love	nn1
+with	with	iw
+the	the	at
+snake	snake	nn1
+charmer	charmer	nn1
+but	but	ccb
+wants	want	vvz
+to	to	to
+one	one	mc1
+of	of	io
+kill	kill	vv0
+the	the	at
+snakes	snake	nn2
+.		.
+so	so	rr
+why	why	rrq
+should	should	vm
+we	we	ppis2
+waste	waste	vvi
+our	our	appge
+time	time	nnt1
+<p>		null
+Everybody	everybody	pn1
+was	be	vbdz
+aware	aware	jj
+that	that	cst
+Duminda		np1
+Silva	silva	np1
+was	be	vbdz
+treated	treat	vvn
+at	at	ii
+Sri	sri	np1
+Jayewardene	jayewardene	np1
+Hospital	hospital	nn1
+after	after	ii_cs
+the	the	at
+shooting	shooting	nn1_jj@
+incident	incident	nn1
+.		.
+Surprise	surprise	vv0@_nn1
+to	to	to
+note	note	vvi
+that	that	cst
+the	the	at
+Courts	court	nn2
+actually	actually	rr
+has	have	vhz
+taken	take	vvn
+such	such	da
+a	a	at1
+long	long	jj
+time	time	nnt1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+details	detail	nn2
+of	of	io
+treatments	treatment	nn2
+and	and	cc
+surgeries	surgery	nn2
+he	he	pphs1
+underwent	undergo	vvd
+in	in	ii
+the	the	at
+Hospital	hospital	nn1
+?		?
+<p>		null
+seriously	seriously	rr
+why	why	rrq
+waste	waste	vvi
+public	public	jj_nn1
+funds	fund	nn2
+on	on	ii
+this	this	dd1
+waste	waste	nn1
+of	of	io
+space	space	nn1
+case	case	nn1
+we	we	ppis2
+all	all	db
+know	know	vv0
+the	the	at
+verdict	verdict	nn1
+..	...	...
+just	just	rr
+let	let	vv0
+the	the	at
+fellow	fellow	jj_nn1
+go	go	nn1
+and	and	cc
+donate	donate	vv0
+the	the	at
+money	money	nn1
+that	that	cst_dd1
+will	will	vm
+be	be	vbi
+wasted	waste	vvn
+to	to	ii
+a	a	at1
+rural	rural	jj
+school	school	nn1
+..	...	...
+every	every	at1
+hearing	hearing	nn1
+is	be	vbz
+equal	equal	jj
+to	to	ii
+a	a	at1
+couple	couple	nn1
+##3483051		fo
+<p>		null
+LTTE	ltte	np1
+assasinated		vvd
+Lakshman	lakshman	np1
+Kadirgamar	kadirgamar	np1_nn1
+on	on	ii
+August	august	npm1
+12	12	mc
+,		,
+2005	2005	mc
+(		(
+exactly	exactly	rr
+3	3	mc
+years	year	nnt2
+earlier	early	rrr
+for	for	if
+today	today	rt
+)		)
+.		.
+This	this	dd1
+is	be	vbz
+a	a	at1
+perfect	perfect	jj
+example	example	nn1
+for	for	if
+the	the	at
+claim	claim	nn1
+--		zz
+"		"
+LTTE	ltte	nn1_np1
+is	be	vbz
+NOT	not	xx
+the	the	at
+sole	sole	jj
+representative	representative	nn1
+of	of	io
+Tamils	tamil	nn2
+"		"
+.		.
+<p>		null
+I	i	ppis1
+can	can	vm
+still	still	rr
+remember	remember	vvi
+how	how	rgq@_rrq
+well	well	rr
+,		,
+he	he	pphs1
+faced	face	vvd
+a	a	at1
+hostile	hostile	jj
+interview	interview	nn1
+with	with	iw
+BBC	bbc	np1
+.		.
+Also	also	rr
+I	i	ppis1
+remember	remember	vv0
+the	the	at
+following	following	jj
+after-dinner	after-dinner	jj
+speech	speech	nn1
+,		,
+one	one	mc1
+of	of	io
+the	the	at
+great	great	jj
+speeches	speech	nn2
+I	i	ppis1
+came	come	vvd
+across	across	rl@
+.		.
+At	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+this	this	dd1
+blog	blog	nn1_vv0
+you	you	ppy
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+<p>		null
+Captain	captain	nnb
+Atapattu		np1
+and	and	cc
+members	member	nn2
+of	of	io
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+team	team	nn1
+;		;
+<p>		null
+Members	member	nn2
+of	of	io
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+community	community	nn1
+;		;
+<p>		null
+Friends	friend	nn2
+of	of	io
+Sri	sri	np1
+Lanka	lanka	np1
+;		;
+<p>		null
+Ladies	lady	nn2
+and	and	cc
+Gentlemen	gentleman	nn2
+.		.
+<p>		null
+Some	some	dd
+historians	historian	nn2
+say	say	vv0
+,		,
+I	i	ppis1
+think	think	vv0
+uncharitably	uncharitably	rr
+,		,
+that	that	dd1
+cricket	cricket	nn1
+is	be	vbz
+really	really	rr
+a	a	at1
+diabolical	diabolical	jj
+political	political	jj
+strategy	strategy	nn1
+,		,
+disguised	disguise	vvn_vvd
+as	as	ii
+a	a	at1
+game	game	nn1
+,		,
+in	in	ii
+fact	fact	nn1
+a	a	at1
+substitute	substitute	nn1_jj
+for	for	if
+war	war	nn1
+,		,
+invented	invent	vvn
+by	by	ii
+the	the	at
+ingenious	ingenious	jj
+British	british	jj
+to	to	to
+confuse	confuse	vvi
+the	the	at
+natives	native	nn2
+by	by	ii
+encouraging	encourage	vvg@
+them	them	ppho2
+to	to	to
+fight	fight	vvi
+each	each	ppx221
+other	other	ppx222
+instead	instead	ii21
+of	of	ii22
+their	their	appge
+imperial	imperial	jj
+rulers	ruler	nn2
+.		.
+<p>		null
+The	the	at
+world	world	nn1
+is	be	vbz
+divided	divide	vvn
+into	into	ii
+two	two	mc
+camps	camp	nn2
+--		zz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+who	who	pnqs
+are	be	vbr
+totally	totally	rr
+baffled	baffle	vvn
+by	by	ii
+it	it	pph1
+,		,
+who	who	pnqs
+can	can	vm
+not	not	xx
+figure	figure	vvi
+out	out	rp
+why	why	rrq
+a	a	at1
+group	group	nn1
+of	of	io
+energetic	energetic	jj
+young	young	jj
+men	man	nn2
+should	should	vm
+spend	spend	vvi
+days	day	nnt2
+,		,
+often	often	rr
+in	in	ii
+the	the	at
+hot	hot	jj
+sun	sun	nn1
+or	or	cc
+bitter	bitter	jj
+cold	cold	nn1_jj
+,		,
+chasing	chase	vvg
+a	a	at1
+round	round	jj
+object	object	nn1
+across	across	ii
+an	a	at1
+open	open	jj
+field	field	nn1
+,		,
+hitting	hit	vvg
+it	it	pph1
+from	from	rr41
+time	time	rr42
+to	to	rr43
+time	time	rr44
+with	with	iw
+a	a	at1
+stick	stick	nn1
+--		zz
+all	all	db_rr@
+to	to	ii
+the	the	at
+rapturous	rapturous	jj
+applause	applause	nn1
+of	of	io
+thousands	thousand	nno2
+,		,
+now	now	rt
+millions	million	nno2
+,		,
+of	of	io
+ecstatic	ecstatic	jj
+spectators	spectator	nn2
+across	across	ii
+the	the	at
+world	world	nn1
+.		.
+<p>		null
+The	the	at
+game	game	nn1
+has	have	vhz
+developed	develop	vvn
+a	a	at1
+mystical	mystical	jj
+language	language	nn1
+of	of	io
+its	its	appge
+own	own	da
+that	that	dd1_cst
+further	far	rrr_jjr@
+bewilders	bewilder	vvz_nn2
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+already	already	rr
+befuddled	befuddled	jj_vvd@_vvn%
+by	by	ii
+its	its	appge
+complexities	complexity	nn2
+.		.
+<p>		null
+In	in	ii
+the	the	at
+course	course	nn1
+of	of	io
+my	my	appge
+travels	travel	nn2
+,		,
+I	i	ppis1
+have	have	vh0
+a	a	at1
+hard	hard	jj
+time	time	nnt1
+explaining	explain	vvg
+to	to	ii
+the	the	at
+non-cricketing		jj_nn1
+world	world	nn1
+in	in	ii
+America	america	np1
+,		,
+China	china	np1
+,		,
+Europe	europe	np1
+and	and	cc
+Russia	russia	np1
+that	that	cst
+a	a	at1
+googly	googly	rr_jj@
+is	be	vbz
+not	not	xx
+an	a	at1
+Indian	indian	jj
+sweetmeat	sweetmeat	nn1
+;		;
+t	t	zz1
+hat	hat	nn1
+a	a	at1
+square	square	jj_nn1
+cut	cut	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+choice	choice	nn1_jj@
+selection	selection	nn1
+of	of	io
+prime	prime	jj
+beef	beef	nn1
+;		;
+t	t	zz1
+hat	hat	nn1
+a	a	at1
+cover	cover	nn1
+drive	drive	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+secluded	secluded	jj
+part	part	nn1
+of	of	io
+the	the	at
+garden	garden	nn1
+;		;
+t	t	zz1
+hat	hat	nn1
+a	a	at1
+bouncer	bouncer	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+muscular	muscular	jj
+janitor	janitor	nn1
+at	at	ii
+a	a	at1
+night	night	nnt1
+club	club	nn1
+,		,
+t	t	zz1
+hat	hat	nn1
+a	a	at1
+yorker	yorker	nn1
+is	be	vbz
+not	not	xx
+some	some	dd
+exotic	exotic	jj
+cocktail	cocktail	nn1
+mixed	mix	vvn_vvd
+in	in	ii
+Yorkshire	yorkshire	np1
+;		;
+t	t	zz1
+hat	hat	nn1
+a	a	at1
+leg-break		nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+sinister	sinister	jj
+manoeuvre	manoeuvre	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+<p>		null
+Ladies	lady	nn2
+and	and	cc
+Gentlemen	gentleman	nn2
+,		,
+let	let	vv0
+me	me	ppio1
+see	see	vvi
+whether	whether	csw
+politics	politics	nn1
+and	and	cc
+cricket	cricket	nn1
+have	have	vh0
+anything	anything	pn1
+in	in	rr21
+common	common	rr22
+.		.
+Both	both	db2
+are	be	vbr
+games	game	nn2
+.		.
+Politicians	politician	nn2
+and	and	cc
+cricketers	cricketer	nn2
+are	be	vbr
+superficially	superficially	rr
+similar	similar	jj
+,		,
+and	and	cc
+yet	yet	rr
+very	very	rg
+different	different	jj
+.		.
+Both	both	db2
+groups	group	nn2
+are	be	vbr
+wooed	woo	vvn
+by	by	ii
+the	the	at
+cruel	cruel	jj
+public	public	nn1
+who	who	pnqs
+embrace	embrace	vv0
+them	them	ppho2
+today	today	rt
+and	and	cc
+reject	reject	vv0
+them	them	ppho2
+tomorrow	tomorrow	rt
+.		.
+<p>		null
+Cricketers	cricketer	nn2
+work	work	vv0
+hard	hard	rr_jj
+;		;
+politicians	politician	nn2
+only	only	rr
+pretend	pretend	vv0
+to	to	to
+do	do	vdi
+so	so	rr
+.		.
+Cricketers	cricketer	nn2
+are	be	vbr
+disciplined	discipline	vvn_jj
+;		;
+discipline	discipline	nn1
+is	be	vbz
+a	a	at1
+word	word	nn1
+unknown	unknown	jj
+to	to	ii
+most	most	dat
+politicians	politician	nn2
+in	in	ii
+any	any	dd
+language	language	nn1
+.		.
+Cricketers	cricketer	nn2
+risk	risk	vv0
+their	their	appge
+own	own	da
+limbs	limb	nn2
+in	in	ii
+the	the	at
+heat	heat	nn1
+of	of	io
+honourable	honourable	jj
+play	play	nn1
+,		,
+politicians	politician	nn2
+encourage	encourage	vv0
+others	others	nn2
+to	to	to
+risk	risk	vvi
+their	their	appge
+limbs	limb	nn2
+in	in	ii31
+pursuit	pursuit	ii32
+of	of	ii33
+fruitless	fruitless	jj
+causes	cause	nn2
+while	while	cs
+they	they	pphs2
+remain	remain	vv0
+secure	secure	jj_vv0
+in	in	ii
+the	the	at
+safety	safety	nn1
+of	of	io
+their	their	appge
+pavilions	pavilion	nn2
+.		.
+Cricketers	cricketer	nn2
+deserve	deserve	vv0
+the	the	at
+rewards	reward	nn2
+they	they	pphs2
+get	get	vv0
+;		;
+the	the	at
+people	people	nn
+get	get	vv0
+the	the	at
+politicians	politician	nn2
+they	they	pphs2
+deserve	deserve	vv0
+.		.
+Cricketers	cricketer	nn2
+retire	retire	vv0
+young	young	jj
+;		;
+politicians	politician	nn2
+go	go	vv0
+on	on	rp@_ii
+for	for	rr21
+ever	ever	rr22
+.		.
+Cricketers	cricketer	nn2
+unite	unite	vv0
+the	the	at
+country	country	nn1
+;		;
+politicians	politician	nn2
+divide	divide	vv0
+it	it	pph1
+.		.
+Cricketers	cricketer	nn2
+accept	accept	vv0
+the	the	at
+umpire	umpire	nn1
+'s	's	ge
+verdict	verdict	nn1
+even	even	cs21
+if	if	cs22
+they	they	pphs2
+disagree	disagree	vv0
+with	with	iw
+it	it	pph1
+;		;
+politicians	politician	nn2
+who	who	pnqs
+disagree	disagree	vv0
+with	with	iw
+an	a	at1
+umpire	umpire	nn1
+usually	usually	rr
+get	get	vv0
+him	him	ppho1
+transferred	transfer	vvn
+.		.
+Cricketers	cricketer	nn2
+stick	stick	vv0
+to	to	ii
+their	their	appge
+team	team	nn1
+through	through	ii
+victory	victory	nn1
+and	and	cc
+defeat	defeat	nn1_vv0
+,		,
+politicians	politician	nn2
+in	in	ii
+a	a	at1
+losing	losing	jj@_nn1@
+team	team	nn1
+cross	cross	vv0_nn1
+over	over	rp
+and	and	cc
+join	join	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+breed	breed	nn1
+.		.
+<p>		null
+It	it	pph1
+is	be	vbz
+said	say	vvn@
+that	that	cst
+the	the	at
+task	task	nn1
+of	of	io
+a	a	at1
+foreign	foreign	jj
+minister	minister	nn1
+is	be	vbz
+to	to	to
+lie	lie	vvi
+effusively	effusively	rr
+for	for	if
+his	his	appge
+country	country	nn1
+abroad	abroad	rl
+.		.
+That	that	dd1
+may	may	vm
+be	be	vbi
+true	true	jj
+,		,
+but	but	ccb
+it	it	pph1
+is	be	vbz
+certainly	certainly	rr
+true	true	jj_vv0%
+that	that	cst
+he	he	pphs1
+has	have	vhz
+to	to	to
+fight	fight	vvi
+for	for	if
+his	his	appge
+country	country	nn1
+and	and	cc
+defend	defend	vvi
+it	it	pph1
+at	at	ii
+all	all	db
+times	time	nnt2
+.		.
+Our	our	appge
+cricketers	cricketer	nn2
+may	may	vm
+recall	recall	vvi
+that	that	cst_dd1
+in	in	ii
+the	the	at
+run-up	run-up	nn1
+to	to	ii
+the	the	at
+1995	1995	mc
+World	world	nn1
+Cup	cup	nn1
+Australia	australia	np1
+refused	refuse	vvd
+to	to	to
+play	play	vvi
+a	a	at1
+match	match	nn1
+in	in	ii
+Colombo	colombo	np1
+,		,
+citing	cite	vvg
+security	security	nn1
+reasons	reason	nn2
+.		.
+Shane	shane	np1
+Warne	warne	np1
+said	say	vvd
+he	he	pphs1
+would	would	vm
+n't	n't	xx
+come	come	vvi
+to	to	ii
+Colombo	colombo	np1
+because	because	cs
+he	he	pphs1
+could	could	vm
+n't	n't	xx
+do	do	vdi
+any	any	dd
+shopping	shopping	nn1_vvg
+there	there	rl
+.		.
+The	the	at
+press	press	nn1
+asked	ask	vvd
+me	me	ppio1
+for	for	if
+a	a	at1
+comment	comment	nn1
+.		.
+I	i	ppis1
+said	say	vvd
+:		:
+"		"
+Shopping	shopping	nn1_vvg
+is	be	vbz
+for	for	if
+sissies	sissies	nn2
+"		"
+.		.
+<p>		null
+There	there	ex
+was	be	vbdz
+a	a	at1
+storm	storm	nn1
+of	of	io
+protest	protest	nn1
+in	in	ii
+Australia	australia	np1
+.		.
+A	a	at1
+TV	tv	nn1
+interviewer	interviewer	nn1
+asked	ask	vvd
+me	me	ppio1
+whether	whether	csw
+I	i	ppis1
+had	have	vhd
+ever	ever	rr
+played	play	vvn
+cricket	cricket	nn1
+.		.
+I	i	ppis1
+said	say	vvd
+I	i	ppis1
+had	have	vhd
+played	play	vvn
+before	before	cs
+he	he	pphs1
+was	be	vbdz
+born	born	vvn_jj@
+--		zz
+without	without	iw
+helmets	helmet	nn2
+and	and	cc
+thigh	thigh	nn1
+guards	guard	nn2
+,		,
+on	on	ii
+matting	matting	nn1_vvg@
+wickets	wicket	nn2
+that	that	cst
+were	be	vbdr
+full	full	jj
+of	of	io
+holes	hole	nn2
+and	and	cc
+stones	stone	nn2
+,		,
+and	and	cc
+I	i	ppis1
+had	have	vhd
+my	my	appge
+share	share	nn1
+of	of	io
+broken	broken	jj
+bones	bone	nn2
+to	to	to
+show	show	vvi
+for	for	if
+it	it	pph1
+.		.
+My	my	appge
+friend	friend	nn1
+the	the	at
+Australian	australian	jj
+foreign	foreign	jj
+minister	minister	nn1
+was	be	vbdz
+drawn	draw	vvn
+into	into	ii
+the	the	at
+fray	fray	nn1
+.		.
+He	he	pphs1
+phoned	phone	vvd
+me	me	ppio1
+.		.
+We	we	ppis2
+decided	decide	vvd
+to	to	to
+cool	cool	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Colombo	colombo	np1
+at	at	ii
+very	very	rg
+short	short	jj_rr@
+notice	notice	nn1_vv0
+to	to	to
+play	play	vvi
+an	a	at1
+exhibition	exhibition	nn1
+match	match	nn1_vv0
+in	in	ii31
+place	place	ii32
+of	of	ii33
+the	the	at
+Australian	australian	jj
+match	match	nn1
+.		.
+It	it	pph1
+was	be	vbdz
+a	a	at1
+magnificent	magnificent	jj
+gesture	gesture	nn1
+of	of	io
+South	south	np1
+Asian	asian	jj
+solidarity	solidarity	nn1
+.		.
+Against	against	ii
+strong	strong	jj
+security	security	nn1
+advice	advice	nn1
+I	i	ppis1
+went	go	vvd
+on	on	rp_ii21
+to	to	ii_ii22
+the	the	at
+field	field	nn1
+to	to	to
+greet	greet	vvi
+and	and	cc
+thank	thank	vvi
+our	our	appge
+friends	friend	nn2
+from	from	ii
+India	india	np1
+and	and	cc
+Pakistan	pakistan	np1
+.		.
+When	when	cs
+the	the	at
+whole	whole	jj
+episode	episode	nn1
+was	be	vbdz
+over	over	rp
+I	i	ppis1
+sent	send	vvd
+a	a	at1
+bouquet	bouquet	nn1
+of	of	io
+flowers	flower	nn2
+to	to	ii
+my	my	appge
+Australian	australian	jj
+counterpart	counterpart	nn1
+.		.
+Flowers	flower	nn2
+are	be	vbr
+also	also	rr
+for	for	if
+sissies	sissies	nn2
+.		.
+<p>		null
+I	i	ppis1
+remember	remember	vv0
+vividly	vividly	rr
+the	the	at
+incident	incident	nn1
+that	that	cst
+occurred	occur	vvd
+in	in	ii
+Australia	australia	np1
+when	when	rrq
+Murali	murali	np1_nn1
+was	be	vbdz
+called	call	vvn
+for	for	if
+throwing	throw	vvg
+and	and	cc
+Arjuna	arjuna	np1
+led	lead	vvd
+his	his	appge
+team	team	nn1
+to	to	ii
+the	the	at
+boundary	boundary	nn1
+,		,
+in	in	ii
+protest	protest	nn1
+,		,
+but	but	ccb
+cleverly	cleverly	rr
+refrained	refrain	vvd_vvn@
+from	from	ii
+crossing	cross	vvg
+it	it	pph1
+.		.
+I	i	ppis1
+was	be	vbdz
+watching	watch	vvg
+TV	tv	nn1
+in	in	ii
+Colombo	colombo	np1
+.		.
+As	as	ii_csa
+a	a	at1
+past	past	jj_nn1
+captain	captain	nn1
+I	i	ppis1
+asked	ask	vvd
+myself	myself	ppx1
+what	what	ddq
+I	i	ppis1
+would	would	vm
+have	have	vhi
+done	do	vdn
+in	in	ii
+Arjuna	arjuna	np1
+'s	's	ge
+place	place	nn1
+.		.
+In	in	ii
+my	my	appge
+mind	mind	nn1
+I	i	ppis1
+had	have	vhd
+no	no	at
+hesitation	hesitation	nn1
+in	in	ii
+supporting	support	vvg
+his	his	appge
+decision	decision	nn1
+.		.
+A	a	at1
+few	few	da2
+minutes	minute	nnt2
+later	later	rrr
+the	the	at
+phone	phone	nn1
+rang	ring	vvd
+.		.
+The	the	at
+President	president	nn1
+of	of	io
+the	the	at
+Board	board	nn1
+called	call	vvn_vvd@
+to	to	to
+ask	ask	vvi
+for	for	if
+advice	advice	nn1
+.		.
+I	i	ppis1
+said	say	vvd
+Arjuna	arjuna	np1
+was	be	vbdz
+right	right	rr_jj
+because	because	cs
+a	a	at1
+captain	captain	nn1
+must	must	vm
+,		,
+on	on	ii
+the	the	at
+field	field	nn1
+,		,
+stand	stand	vv0
+up	up	rp
+for	for	if
+his	his	appge
+men	man	nn2
+and	and	cc
+protect	protect	vv0
+them	them	ppho2
+,		,
+but	but	ccb
+the	the	at
+consequences	consequence	nn2
+must	must	vm
+not	not	xx
+be	be	vbi
+allowed	allow	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+and	and	cc
+a	a	at1
+reasonable	reasonable	jj
+compromise	compromise	nn1
+must	must	vm
+be	be	vbi
+reached	reach	vvn
+.		.
+That	that	dd1
+was	be	vbdz
+done	do	vdn
+.		.
+<p>		null
+During	during	ii
+that	that	dd1
+tour	tour	nn1
+I	i	ppis1
+paid	pay	vvd
+an	a	at1
+official	official	jj_nn1
+visit	visit	nn1
+to	to	ii
+Australia	australia	np1
+.		.
+My	my	appge
+friend	friend	nn1
+the	the	at
+Australian	australian	jj
+foreign	foreign	jj
+minister	minister	nn1
+in	in	ii
+the	the	at
+course	course	nn1
+of	of	io
+a	a	at1
+dinner	dinner	nn1
+speech	speech	nn1
+invited	invite	vvd
+me	me	ppio1
+to	to	to
+go	go	vvi
+with	with	iw
+him	him	ppho1
+the	the	at
+next	next	md
+day	day	nnt1
+to	to	ii
+Adelaide	adelaide	np1
+,		,
+his	his	appge
+home	home	nn1
+town	town	nn1
+,		,
+to	to	to
+watch	watch	vvi
+the	the	at
+final	final	jj
+day	day	nnt1
+'s	's	ge
+play	play	nn1
+.		.
+I	i	ppis1
+knew	know	vvd
+what	what	ddq
+the	the	at
+result	result	nn1
+was	be	vbdz
+going	go	vvgk
+to	to	to
+be	be	vbi
+.		.
+In	in	ii
+my	my	appge
+reply	reply	nn1
+I	i	ppis1
+said	say	vvd
+that	that	cst_dd1
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+match	match	nn1
+I	i	ppis1
+did	do	vdd
+not	not	xx
+want	want	vvi
+to	to	to
+be	be	vbi
+the	the	at
+one	one	pn1
+to	to	to_ii
+tell	tell	vvi
+him	him	ppho1
+that	that	cst
+Australia	australia	np1
+had	have	vhd
+"		"
+won	win	vvn
+by	by	ii
+a	a	at1
+Hair	hair	nn1
+,		,
+'	'	ge_"@
+.		.
+Accordingly	accordingly	rr
+,		,
+I	i	ppis1
+went	go	vvd
+back	back	rp
+home	home	rl
+,		,
+as	as	csa
+planned	plan	vvn
+,		,
+to	to	to
+maintain	maintain	vvi
+the	the	at
+good	good	jj
+relations	relation	nn2
+that	that	cst
+we	we	ppis2
+have	have	vh0
+with	with	iw
+Australia	australia	np1
+.		.
+<p>		null
+Foreign	foreign	jj
+ministers	minister	nn2
+sometimes	sometimes	rt
+find	find	vv0
+themselves	themselves	ppx2
+in	in	ii_rp@
+very	very	rg
+difficult	difficult	jj
+situations	situation	nn2
+.		.
+Take	take	vv0
+pity	pity	nn1
+on	on	ii
+the	the	at
+Foreign	foreign	jj
+Minister	minister	nn1
+of	of	io
+Uganda	uganda	np1
+.		.
+President	president	nnb
+Idi	idi	np1
+Amin	amin	np1
+had	have	vhd
+told	tell	vvn
+him	him	ppho1
+that	that	cst
+he	he	pphs1
+wanted	want	vvd
+to	to	to
+change	change	vvi
+the	the	at
+name	name	nn1
+of	of	io
+Uganda	uganda	np1
+to	to	ii
+Idi	idi	np1
+.		.
+The	the	at
+minister	minister	nn1
+was	be	vbdz
+told	tell	vvn
+to	to	ii
+canvas	canvas	nn1
+world	world	nn1
+opinion	opinion	nn1
+and	and	cc
+return	return	vv0_nn1
+in	in	ii
+two	two	mc
+weeks	week	nnt2
+.		.
+He	he	pphs1
+did	do	vdd
+not	not	xx
+do	do	vdi
+so	so	rr
+.		.
+He	he	pphs1
+was	be	vbdz
+summoned	summon	vvn
+to	to	to
+come	come	vvi
+.		.
+He	he	pphs1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+<p>		null
+He	he	pphs1
+said	say	vvd
+:		:
+"		"
+Mr.		nnb
+President	president	np1
+,		,
+I	i	ppis1
+have	have	vh0
+been	be	vbn
+informed	inform	vvn
+that	that	cst
+there	there	ex
+is	be	vbz
+a	a	at1
+country	country	nn1
+called	call	vvn
+Cyprus	cyprus	np1
+.		.
+Its	its	appge
+citizens	citizen	nn2
+are	be	vbr
+called	call	vvn
+Cypriots	cypriot	nn2
+,		,
+If	if	cs
+we	we	ppis2
+change	change	vv0
+the	the	at
+name	name	nn1
+of	of	io
+our	our	appge
+country	country	nn1
+to	to	ii
+Idi	idi	np1
+our	our	appge
+citizens	citizen	nn2
+would	would	vm
+be	be	vbi
+called	call	vvn
+...		...
+Idiots	idiot	nn2
+"		"
+.		.
+Reason	reason	nn1
+prevailed	prevail	vvd_vvn
+.		.
+<p>		null
+A	a	at1
+shark	shark	nn1
+was	be	vbdz
+asked	ask	vvn@
+why	why	rrq
+diplomats	diplomat	nn2
+were	be	vbdr
+his	his	appge
+preferred	preferred	jj
+food	food	nn1
+.		.
+He	he	pphs1
+replied	reply	vvd
+because	because	cs
+their	their	appge
+brains	brain	nn2
+being	be	vbg
+small	small	jj
+are	be	vbr
+a	a	at1
+tasty	tasty	jj
+morsel	morsel	nn1
+,		,
+their	their	appge
+spines	spine	nn2
+being	be	vbg
+supple	supple	jj
+I	i	ppis1
+can	can	vm
+chew	chew	vvi
+on	on	ii
+them	them	ppho2
+at	at	ii
+leisure	leisure	nn1
+--		zz
+and	and	cc
+they	they	pphs2
+come	come	vv0
+delightfully	delightfully	rr
+marinated	marinate	vvd_vvn@
+in	in	ii
+alcohol	alcohol	nn1
+.		.
+<p>		null
+Ladies	lady	nn2
+and	and	cc
+Gentlemen	gentleman	nn2
+,		,
+as	as	csa
+I	i	ppis1
+approach	approach	vv0@
+the	the	at
+close	close	nn1@_jj
+of	of	io
+this	this	dd1
+brief	brief	jj
+address	address	nn1
+I	i	ppis1
+wish	wish	vv0
+to	to	to
+speak	speak	vvi
+directly	directly	rr
+to	to	ii
+our	our	appge
+Sri	sri	np1
+Lankan	lankan	jj
+team	team	nn1
+.		.
+Today	today	rt
+we	we	ppis2
+lost	lose	vvd
+a	a	at1
+match	match	nn1
+.		.
+But	but	ccb
+you	you	ppy
+lost	lose	vvd
+to	to	ii
+the	the	at
+rain	rain	nn1
+and	and	cc
+M/s	m/s	zz1
+Duckworth	duckworth	np1
+and	and	cc
+Lewis	lewis	np1
+.		.
+You	you	ppy
+did	do	vdd
+not	not	xx
+lose	lose	vvi
+to	to	ii
+England	england	np1
+.		.
+<p>		null
+Only	only	rr
+a	a	at1
+few	few	da2
+weeks	week	nnt2
+ago	ago	ra
+you	you	ppy
+had	have	vhd
+a	a	at1
+resounding	resounding	jj
+victory	victory	nn1
+against	against	ii
+South	south	np1
+Africa	africa	np1
+.		.
+You	you	ppy
+will	will	vm
+win	win	vvi
+again	again	rt
+tomorrow	tomorrow	rt
+.		.
+What	what	ddq
+is	be	vbz
+important	important	jj
+is	be	vbz
+to	to	to
+keep	keep	vvi
+up	up	rp
+your	your	appge
+confidence	confidence	nn1
+and	and	cc
+spirits	spirit	nn2
+.		.
+<p>		null
+All	all	db
+of	of	io
+us	us	ppio2
+,		,
+your	your	appge
+fellow	fellow	jj_nn1
+countrymen	countryman	nn2
+,		,
+and	and	cc
+countrywomen	countrywomen	nn2
+,		,
+have	have	vh0
+been	be	vbn
+enormously	enormously	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+athleticism	athleticism	nn1
+and	and	cc
+determination	determination	nn1
+that	that	cst
+you	you	ppy
+have	have	vh0
+displayed	display	vvn
+in	in	ii
+the	the	at
+field	field	nn1
+.		.
+The	the	at
+people	people	nn
+are	be	vbr
+with	with	iw
+you	you	ppy
+.		.
+We	we	ppis2
+all	all	db
+know	know	vv0
+that	that	cst
+you	you	ppy
+try	try	vv0
+hard	hard	rr_jj
+.		.
+All	all	db
+of	of	io
+you	you	ppy
+,		,
+each	each	dd1
+and	and	cc
+every	every	at1
+one	one	mc1
+of	of	io
+you	you	ppy
+,		,
+are	be	vbr
+constantly	constantly	rr
+busy	busy	vv0@_jj
+honing	hone	vvg
+your	your	appge
+skills	skill	nn2
+.		.
+We	we	ppis2
+can	can	vm
+see	see	vvi
+that	that	cst
+you	you	ppy
+are	be	vbr
+maintaining	maintain	vvg
+a	a	at1
+high	high	jj
+standard	standard	nn1
+of	of	io
+physical	physical	jj
+fitness	fitness	nn1
+.		.
+When	when	cs
+the	the	at
+people	people	nn
+see	see	vv0
+this	this	dd1
+it	it	pph1
+gives	give	vvz
+them	them	ppho2
+not	not	xx
+only	only	rr
+immense	immense	jj
+pleasure	pleasure	nn1
+but	but	ccb
+the	the	at
+moral	moral	jj
+uplift	uplift	nn1
+that	that	cst
+Sri	sri	np1
+Lankans	lankans	nn2
+are	be	vbr
+capable	capable	jj
+of	of	io
+rising	rise	vvg
+to	to	ii
+the	the	at
+challenge	challenge	nn1
+of	of	io
+sustained	sustained	jj
+performance	performance	nn1
+.		.
+<p>		null
+Every	every	at1
+team	team	nn1
+loses	lose	vvz
+.		.
+It	it	pph1
+takes	take	vvz
+two	two	mc
+to	to	to
+play	play	vvi
+a	a	at1
+game	game	nn1
+.		.
+One	one	pn1_mc1
+has	have	vhz
+to	to	to
+lose	lose	vvi
+.		.
+It	it	pph1
+is	be	vbz
+the	the	at
+manner	manner	nn1
+in	in	ii
+which	which	ddq
+you	you	ppy
+play	play	vv0
+the	the	at
+game	game	nn1
+which	which	ddq
+gives	give	vvz
+the	the	at
+promise	promise	nn1
+of	of	io
+success	success	nn1
+to	to	to
+come	come	vvi
+.		.
+It	it	pph1
+is	be	vbz
+a	a	at1
+great	great	jj
+pleasure	pleasure	nn1
+to	to	to
+see	see	vvi
+how	how	rrq
+youngsters	youngster	nn2
+are	be	vbr
+being	be	vbg
+drafted	draft	vvn
+into	into	ii
+the	the	at
+national	national	jj
+team	team	nn1
+.		.
+Our	our	appge
+team	team	nn1
+is	be	vbz
+united	unite	vvn_jj
+;		;
+it	it	pph1
+reflects	reflect	vvz
+all	all	db
+the	the	at
+races	race	nn2
+and	and	cc
+religions	religion	nn2
+of	of	io
+our	our	appge
+country	country	nn1
+.		.
+Cricket	cricket	nn1
+,		,
+like	like	ii
+all	all	db
+international	international	jj
+sport	sport	nn1
+today	today	rt
+,		,
+is	be	vbz
+highly	highly	rr
+competitive	competitive	jj
+;		;
+and	and	cc
+so	so	rr_cs@
+it	it	pph1
+must	must	vm
+be	be	vbi
+,		,
+and	and	cc
+so	so	rr_cs@
+it	it	pph1
+must	must	vm
+remain	remain	vvi
+.		.
+<p>		null
+It	it	pph1
+must	must	vm
+always	always	rr
+be	be	vbi
+regarded	regard	vvn
+as	as	ii
+a	a	at1
+very	very	rg
+high	high	jj_rr@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+All	all	db
+of	of	io
+you	you	ppy
+are	be	vbr
+role	role	nn1
+models	model	nn2
+for	for	if
+our	our	appge
+youth	youth	nn1
+.		.
+They	they	pphs2
+will	will	vm
+be	be	vbi
+looking	look	vvg
+to	to	to
+see	see	vvi
+how	how	rrq
+you	you	ppy
+take	take	vv0
+defeat	defeat	nn1_vv0
+.		.
+To	to	to
+exult	exult	vvi
+in	in	ii
+victory	victory	nn1
+is	be	vbz
+easy	easy	jj
+,		,
+to	to	to
+remain	remain	vvi
+well	well	rr
+balanced	balance	vvn
+in	in	ii
+defeat	defeat	nn1
+is	be	vbz
+a	a	at1
+mark	mark	nn1
+of	of	io
+maturity	maturity	nn1
+.		.
+<p>		null
+Do	do	vd0
+not	not	xx
+allow	allow	vvi
+yourselves	yourself	ppx2
+to	to	to
+be	be	vbi
+disturbed	disturb	vvn
+by	by	ii
+the	the	at
+arm	arm	nn1
+cha	cha	nn1
+ir	ir	nn1
+critics	critic	nn2
+who	who	pnqs
+will	will	vm
+no	no	at_rr%
+doubt	doubt	nn1_vv0
+engage	engage	vvi
+in	in	ii_rp@
+a	a	at1
+display	display	nn1
+of	of	io
+theoretical	theoretical	jj
+learning	learning	nn1
+on	on	ii
+how	how	rrq
+the	the	at
+game	game	nn1
+was	be	vbdz
+played	play	vvn
+.		.
+Many	many	da2
+of	of	io
+these	these	dd2
+critics	critic	nn2
+have	have	vh0
+never	never	rr
+put	put	vvn
+bat	bat	nn1
+to	to	ii
+ball	ball	nn1
+.		.
+It	it	pph1
+makes	make	vvz
+them	them	ppho2
+feel	feel	vvi
+good	good	jj
+to	to	to
+indulge	indulge	vvi
+in	in	ii
+the	the	at
+pastime	pastime	nn1
+of	of	io
+amateur	amateur	jj_nn1
+criticism	criticism	nn1
+.		.
+They	they	pphs2
+do	do	vd0
+not	not	xx
+know	know	vvi
+what	what	ddq
+it	it	pph1
+is	be	vbz
+to	to	to
+face	face	vvi
+fast	fast	jj_rr
+bowling	bowling	nn1_vvg@
+in	in	ii
+fading	fade	vvg_jj@
+light	light	nn1_jj
+;		;
+to	to	to
+engage	engage	vvi
+in	in	ii_rp@
+a	a	at1
+run	run	nn1
+race	race	nn1
+against	against	ii
+daunting	daunting	jj
+odds	odds	nn2
+;		;
+to	to	to
+find	find	vvi
+the	the	at
+stamina	stamina	nn1
+and	and	cc
+sheer	sheer	jj_rr@
+physical	physical	jj
+endurance	endurance	nn1
+to	to	to
+spend	spend	vvi
+concentrated	concentrated	jj
+hours	hour	nnt2
+in	in	ii
+the	the	at
+field	field	nn1
+of	of	io
+play	play	nn1
+.		.
+They	they	pphs2
+know	know	vv0
+nothing	nothing	pn1
+of	of	io
+the	the	at
+psychological	psychological	jj
+pressure	pressure	nn1
+that	that	cst_dd1
+modern	modern	jj
+sportsmen	sportsman	nn2
+are	be	vbr
+subject	subject	ii21
+to	to	ii22
+.		.
+Therefore	therefore	rr
+,		,
+my	my	appge
+advice	advice	nn1
+to	to	ii
+you	you	ppy
+is	be	vbz
+--		zz
+ignore	ignore	vv0
+them	them	ppho2
+.		.
+Go	go	vv0
+your	your	appge
+way	way	nn1
+with	with	iw
+customary	customary	jj
+discipline	discipline	nn1
+and	and	cc
+methodical	methodical	jj
+preparation	preparation	nn1
+for	for	if
+the	the	at
+next	next	md
+game	game	nn1
+,		,
+the	the	at
+next	next	md
+series	series	nn
+in	in	ii
+different	different	jj
+parts	part	nn2
+of	of	io
+the	the	at
+world	world	nn1
+under	under	ii_rg@
+different	different	jj
+conditions	condition	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+and	and	cc
+an	a	at1
+honour	honor	nn1
+to	to	to
+be	be	vbi
+here	here	rl
+with	with	iw
+you	you	ppy
+tonight	tonight	rt
+.		.
+When	when	cs_rrq
+I	i	ppis1
+was	be	vbdz
+invited	invite	vvn
+to	to	to
+be	be	vbi
+the	the	at
+Chief	chief	jj_nn1
+Guest	guest	nn1
+at	at	ii
+this	this	dd1
+occasion	occasion	nn1
+on	on	ii
+my	my	appge
+way	way	nn1
+to	to	ii
+New	new	np1
+York	york	np1
+for	for	if
+the	the	at
+General	general	jj_nn1
+Assembly	assembly	nn1
+of	of	io
+the	the	at
+United	united	jj
+Nations	nation	nn2
+,		,
+I	i	ppis1
+accepted	accept	vvd
+with	with	iw
+eager	eager	jj
+anticipation	anticipation	nn1
+of	of	io
+meeting	meet	vvg
+our	our	appge
+cricketers	cricketer	nn2
+and	and	cc
+relaxing	relax	vvg_jj
+for	for	if
+a	a	at1
+moment	moment	nn1
+.		.
+Nobody	nobody	pn1
+told	tell	vvd
+me	me	ppio1
+that	that	cst
+I	i	ppis1
+had	have	vhd
+to	to	to
+make	make	vvi
+a	a	at1
+speech	speech	nn1
+,		,
+until	until	cs
+last	last	md
+night	night	nnt1
+.		.
+It	it	pph1
+came	come	vvd
+home	home	rl
+to	to	ii
+me	me	ppio1
+then	then	rt
+that	that	cst
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+--		zz
+<p>		null
+About	about	ii
+Lakshman	lakshman	np1
+Kadirgamar	kadirgamar	np1_nn1
+.		.
+<p>		null
+Extracted	extract	vvn_vvd
+from	from	ii
+Wikipedia	wikipedia	np1
+,		,
+<p>		null
+Sri	sri	np1
+Lankabhimanya		np1
+Lakshman	lakshman	np1
+Kadirgamar	kadirgamar	np1_nn1
+PC	pc	nn1
+(		(
+April	april	npm1
+12	12	mc
+,		,
+1932	1932	mc
+--		zz
+August	august	npm1
+12	12	mc
+,		,
+2005	2005	mc
+)		)
+was	be	vbdz
+a	a	at1
+Sri	sri	np1
+Lankan	lankan	jj
+diplomat	diplomat	nn1
+,		,
+politician	politician	nn1
+and	and	cc
+lawyer	lawyer	nn1
+.		.
+After	after	cs_ii
+a	a	at1
+distinguished	distinguished	jj
+career	career	nn1
+as	as	ii_csa
+a	a	at1
+lawyer	lawyer	nn1
+and	and	cc
+international	international	jj
+humanitarian	humanitarian	jj
+,		,
+he	he	pphs1
+was	be	vbdz
+appointed	appoint	vvn
+as	as	csa_rg@_ii@
+foreign	foreign	jj
+minister	minister	nn1
+of	of	io
+Sri	sri	np1
+Lanka	lanka	np1
+in	in	ii
+1994	1994	mc
+by	by	ii
+President	president	nnb
+Chandrika	chandrika	np1
+Kumaratunga	kumaratunga	np1
+.		.
+He	he	pphs1
+achieved	achieve	vvd
+international	international	jj
+prominence	prominence	nn1
+in	in	ii
+this	this	dd1
+position	position	nn1
+due	due	ii21
+to	to	ii22
+his	his	appge
+wide	wide	jj
+ranging	ranging	jj@_vvg
+condemnation	condemnation	nn1
+of	of	io
+the	the	at
+LTTE	ltte	nn1_np1
+and	and	cc
+his	his	appge
+efforts	effort	nn2
+to	to	to
+have	have	vhi
+them	them	ppho2
+banned	ban	vvn
+internationally	internationally	rr
+.		.
+He	he	pphs1
+served	serve	vvd
+as	as	rg@_csa
+Foreign	foreign	jj
+Minister	minister	nn1
+until	until	ii@_cs
+2001	2001	mc
+,		,
+and	and	cc
+then	then	rt
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,		,
+which	which	ddq
+was	be	vbdz
+carried	carry	vvn
+out	out	rp
+by	by	ii
+an	a	at1
+LTTE	ltte	nn1
+sniper	sniper	nn1
+team	team	nn1
+.		.
+<p>		null
+Can	can	vv0%_vm
+the	the	at
+world	world	nn1
+,		,
+the	the	at
+nature	nature	nn1
+,		,
+fate	fate	nn1
+,		,
+whatever	whatever	ddqv
+,		,
+be	be	vbi
+so	so	rg
+cruel	cruel	jj
+.		.
+We	we	ppis2
+lost	lose	vvd
+him	him	ppho1
+.		.
+Think-	think--	nn1_jj
+how	how	rrq_rgq@
+many	many	da2
+WONDERFUL	wonderful	jj
+speeches	speech	nn2
+like	like	ii
+this	this	dd1
+,		,
+would	would	vm
+he	he	pphs1
+have	have	vhi
+made	make	vvn
+by	by	rt21
+now	now	rt22
+?		?
+Not	not	xx
+##3484352		fo
+<h>		null
+Tuesday	tuesday	npd1
+,		,
+December	december	npm1
+27	27	mc
+,		,
+2011	2011	mc
+<p>		null
+Got	get	vvd_vvn
+the	the	at
+chance	chance	nn1
+to	to	to
+have	have	vhi
+a	a	at1
+chat	chat	nn1
+with	with	iw
+a	a	at1
+tuk	tuk	nn1
+tuk	tuk	nn1_vv0
+driver	driver	nn1
+from	from	ii
+"		"
+Budget	budget	nn1
+Taxi	taxi	nn1
+"		"
+company	company	nn1
+who	who	pnqs
+had	have	vhd
+been	be	vbn
+with	with	iw
+the	the	at
+service	service	nn1
+for	for	if
+a	a	at1
+long	long	jj
+time	time	nnt1
+.		.
+Following	follow	vvg_nn1@
+is	be	vbz
+a	a	at1
+brief	brief	jj
+situation	situation	nn1
+analysis	analysis	nn1
+of	of	io
+such	such	da
+a	a	at1
+company	company	nn1
+gathered	gather	vvn_vvd
+from	from	ii
+his	his	appge
+words	word	nn2
+about	about	ii
+the	the	at
+history	history	nn1
+and	and	cc
+from	from	ii
+what	what	ddq
+i	i	zz1_mc1
+learnt	learn	vvn_vvd
+from	from	ii
+customers	customer	nn2
+of	of	io
+the	the	at
+service	service	nn1
+(		(
+Special	special	jj
+thanks	thanks	nn2
+to	to	ii
+Hasitha		np1
+ayya		nnu
+-	-	-
+who	who	pnqs
+shared	share	vvd
+his	his	appge
+experience	experience	nn1
+in	in	ii
+using	use	vvg
+metered	metered	jj@
+tuks	tuks	nn2
+)		)
+-	-	-
+The	the	at
+post	post	nn1
+is	be	vbz
+for	for	if
+the	the	at
+benefit	benefit	nn1
+of	of	io
+entrepreneurs	entrepreneur	nn2
+in	in	ii
+taxi	taxi	nn1
+business	business	nn1
+,		,
+for	for	if
+customers	customer	nn2
+and	and	cc
+business/marketing		nn1
+students	student	nn2
+like	like	vv0@_ii
+you	you	ppy
+and	and	cc
+me	me	ppio1
+to	to	to
+know	know	vvi
+.		.
+<p>		null
+Apparently	apparently	rr
+the	the	at
+metered	metered	jj@
+three	three	mc
+wheel	wheel	nn1
+services	service	nn2
+had	have	vhd
+started	start	vvn
+about	about	rg
+3	3	mc
+years	year	nnt2
+back	back	rp_nn1
+.		.
+At	at	ii
+that	that	dd1
+time	time	nnt1
+which	which	ddq
+was	be	vbdz
+only	only	rr
+a	a	at1
+differentiation	differentiation	nn1
+factor	factor	nn1
+from	from	ii
+"		"
+badly	badly	rr
+looked	look	vvn_vvd
+upon	upon	ii
+"		"
+normal	normal	jj
+three	three	mc
+wheelers	wheeler	nn2
+.		.
+After	after	cs_rt%
+that	that	cst
+the	the	at
+"		"
+on	on	ii
+call	call	nn1
+"		"
+tuk	tuk	nn1_vv0
+tuk	tuk	nn1_vv0
+companies	company	nn2
+started	start	vvd
+forming	form	vvg
+like	like	ii_jj@
+Taxi	taxi	nn1
+services	service	nn2
+in	in	ii
+the	the	at
+past	past	jj_nn1
+Sri	sri	np1
+Lanka	lanka	np1
+(		(
+There	there	ex_rl
+was	be	vbdz
+a	a	at1
+joke	joke	nn1
+in	in	ii
+a	a	at1
+paper	paper	nn1
+so	so	rg
+many	many	da2
+years	year	nnt2
+back	back	rp_nn1
+that	that	cst
+if	if	cs
+you	you	ppy
+dialled	dialled	vvd
+any	any	dd
+pattern	pattern	nn1
+in	in	ii
+a	a	at1
+Sri	sri	np1
+Lankan	lankan	jj
+phone	phone	nn1
+-	-	-
+a	a	at1
+taxi	taxi	nn1
+will	will	vm
+come	come	vvi
+to	to	ii
+you	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+"		"
+has	have	vhz
+build	build	nn1@_vv0
+a	a	at1
+very	very	rg
+sustainable	sustainable	jj
+customer	customer	nn1
+segment	segment	nn1
+who	who	pnqs
+travels	travel	vvz
+daily	daily	rr_jj
+.		.
+The	the	at
+driver	driver	nn1
+said	say	vvd
+there	there	ex_rl
+are	be	vbr
+people	people	nn
+who	who	pnqs
+goes	go	vvz
+to	to	ii
+office	office	nn1
+,		,
+travel	travel	vv0_nn1
+during	during	ii
+office	office	nn1
+hours	hour	nnt2
+,		,
+come	come	vv0
+home	home	rl
+,		,
+go	go	vv0
+around	around	rp
+for	for	if
+home	home	nn1
+needs	need	vvz
+all	all	db_rr@
+in	in	ii
+the	the	at
+same	same	da
+tuk	tuk	nn1
+tuk	tuk	nn1
+.		.
+This	this	dd1
+is	be	vbz
+the	the	at
+biggest	big	jjt
+strength	strength	nn1
+of	of	io
+the	the	at
+service	service	nn1
+as	as	csa
+it	it	pph1
+protects	protect	vvz
+the	the	at
+business	business	nn1
+,		,
+assures	assure	vvz
+survival	survival	nn1
+and	and	cc
+creates	create	vvz
+growth	growth	nn1
+specially	specially	rr
+by	by	ii
+word	word	nn1
+of	of	io
+mouth	mouth	nn1
+marketing	marketing	nn1
+.		.
+<p>		null
+Pricing	price	vvg_nn1_jj@
+model	model	nn1
+-	-	-
+is	be	vbz
+a	a	at1
+big	big	jj
+strength	strength	nn1
+as	as	csa
+it	it	pph1
+is	be	vbz
+a	a	at1
+key	key	jj
+factor	factor	nn1
+when	when	cs
+differentiating	differentiate	vvg
+their	their	appge
+service	service	nn1
+as	as	csa
+compared	compare	vvn
+below	below	rl
+with	with	iw
+the	the	at
+normal	normal	jj
+three	three	mc
+wheel	wheel	nn1
+pricing	pricing	nn1_vvg
+mechanism	mechanism	nn1
+(		(
+Bit	bit	nn1
+of	of	io
+humour	humor	nn1
+)		)
+.		.
+<p>		null
+Weaknesses	weakness	nn2
+<p>		null
+The	the	at
+current	current	jj
+technology	technology	nn1
+used	use	vmk
+to	to	to
+track	track	vvi
+tuk	tuk	nn1
+tuks		nn2_vvz
+is	be	vbz
+beneficial	beneficial	jj
+to	to	ii
+the	the	at
+drivers	driver	nn2
+side	side	nn1_vv0%
+as	as	csa
+he	he	pphs1
+can	can	vm
+switch	switch	vvi
+off	off	rp
+location	location	nn1
+tracking	tracking	nn1
+and	and	cc
+go	go	vvi
+on	on	ii_rp@
+private	private	jj
+hires	hire	nn2
+.		.
+This	this	dd1
+happened	happen	vvd
+to	to	ii@
+me	me	ppio1
+where	where	rrq_cs
+i	i	zz1
+called	call	vvn_vvd@
+the	the	at
+service	service	nn1
+&;		null
+there	there	ex_rl
+was	be	vbdz
+no	no	at
+tuk	tuk	nn1
+tuk	tuk	nn1
+but	but	ccb
+on	on	ii
+the	the	at
+road	road	nn1
+i	i	zz1_mc1
+could	could	vm
+find	find	vvi
+one	one	pn1
+who	who	pnqs
+had	have	vhd
+switched	switch	vvn
+off	off	rp
+location	location	nn1
+tracking	tracking	nn1
+.		.
+<p>		null
+No	no	at
+geographical	geographical	jj
+presence	presence	nn1
+is	be	vbz
+a	a	at1
+weakness	weakness	nn1
+because	because	cs
+you	you	ppy
+can	can	vm
+not	not	xx
+find	find	vvi
+a	a	at1
+taxi	taxi	nn1
+instantly	instantly	rr
+.		.
+<p>		null
+Opportunities	opportunity	nn2
+<p>		null
+Well	well	rr
+seriously	seriously	rr
+the	the	at
+economy	economy	nn1
+is	be	vbz
+improving	improving	jj_vvg
+and	and	cc
+the	the	at
+people	people	nn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Living	living	nn1
+standards	standard	nn2
+are	be	vbr
+increasing	increase	vvg_jj
+and	and	cc
+thus	thus	rr
+people	people	nn
+prefer	prefer	vv0
+to	to	to
+travel	travel	vvi
+by	by	ii
+tuks	tuks	nn2
+than	than	csn
+in	in	ii
+the	the	at
+past	past	nn1
+.		.
+<p>		null
+Technological	technological	jj
+advancements	advancement	nn2
+have	have	vh0
+enabled	enable	vvn
+tuk	tuk	nn1
+tuks		vvz_nn2
+to	to	to
+have	have	vhi
+meters	meter	nn2
+,		,
+have	have	vh0
+location	location	nn1
+tracking	tracking	nn1
+(		(
+Even	even	rr
+manual	manual	jj
+tracking	tracking	nn1_jj
+)		)
+.		.
+But	but	ccb
+the	the	at
+advancements	advancement	nn2
+are	be	vbr
+great	great	jj
+that	that	cst
+companies	company	nn2
+can	can	vm
+go	go	vvi
+for	for	if
+better	better	jjr
+technologies	technology	nn2
+such	such	ii21
+as	as	ii22
+GPS	gp	nn2
+tracking	tracking	nn1
+of	of	io
+tuk	tuk	nn1
+tuks		nn2_vvz
+.		.
+Even	even	rr
+the	the	at
+customer	customer	nn1
+end	end	nn1
+can	can	vm
+be	be	vbi
+improved	improve	vvn
+by	by	ii
+better	better	jjr_rrr
+CRM	crm	np1
+systems	system	nn2
+such	such	ii21
+as	as	ii22
+an	a	at1
+improved	improved	jj
+Taxico		nn1@_np1
+android	android	nn1
+app	app	nn1
+.		.
+<p>		null
+Threats	threat	nn2
+<p>		null
+There	there	ex
+are	be	vbr
+low	low	jj
+cost	cost	nn1
+cars	car	nn2
+like	like	ii
+NANOs		nn2_np2
+coming	come	vvg
+to	to	ii
+the	the	at
+market	market	nn1
+,		,
+making	make	vvg
+travel	travel	nn1_vv0
+by	by	ii
+car	car	nn1
+less	less	rgr
+costly	costly	jj
+.		.
+And	and	cc
+this	this	dd1
+can	can	vm
+effect	effect	vvi
+the	the	at
+appeal	appeal	nn1
+for	for	if
+tuk	tuk	nn1
+tuks		nn2_vvz
+.		.
+(		(
+Apparently	apparently	rr
+NANO	nano	np1_nn1
+is	be	vbz
+only	only	rr
+about	about	ii
+Rs.10		fo
+more	more	rrr
+expensive	expensive	jj
+)		)
+.		.
+<p>		null
+Threat	threat	nn1
+of	of	io
+new	new	jj
+entrance	entrance	nn1
+is	be	vbz
+very	very	rg
+high	high	jj_rr@
+.		.
+Already	already	rr
+there	there	ex
+are	be	vbr
+half	half	db_rr@
+a	a	at1
+dozen	dozen	nno
+tuk	tuk	nn1
+tuk	tuk	nn1_vv0
+services	service	nn2
+with	with	iw
+the	the	at
+key	key	jj_nn1
+word	word	nn1
+Budget	budget	nn1
+,		,
+For	for	if
+e.g.Budget		nnu
+Lanka	lanka	np1
+,		,
+Budget	budget	nn1_vv0@
+Three	three	mc
+wheel.etc		nnu
+.		.
+<p>		null
+Threat	threat	nn1
+from	from	ii
+the	the	at
+non-metered		jj_nn1@
+three	three	mc
+wheels	wheel	nn2
+are	be	vbr
+very	very	rg
+high	high	jj_rr@
+as	as	csa
+they	they	pphs2
+are	be	vbr
+high	high	jj_rr@
+in	in	ii
+quantity	quantity	nn1
+and	and	cc
+strong	strong	jj
+with	with	iw
+their	their	appge
+associations	association	nn2
+and	and	cc
+influential	influential	jj
+networks	network	nn2
+.		.
+<p>		null
+Overall	overall	rr_nn1_jj
+-	-	-
+It	it	pph1
+is	be	vbz
+a	a	at1
+booming	booming	jj_nn1
+market	market	nn1
+as	as	csa_ii@
+@vidic8d		fo
+tweeted		vvd_vvn@_jj@
+-	-	-
+NANO	nano	np1_nn1
+is	be	vbz
+already	already	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Budget	budget	nn1
+Taxi	taxi	nn1
+.		.
+On	on	ii
+the	the	at
+other	other	jj
+hand	hand	nn1
+the	the	at
+market	market	nn1
+is	be	vbz
+becoming	become	vvg
+fragmented	fragmented	jj
+and	and	cc
+it	it	pph1
+is	be	vbz
+tough	tough	jj
+to	to	to
+battle	battle	vvi
+out	out	rp
+.		.
+<p>		null
+Recommendations	recommendation	nn2
+It	it	pph1
+is	be	vbz
+recommended	recommend	vvn
+to	to	to
+move	move	vvi
+on	on	rp_ii21
+to	to	ii_ii22
+better	better	jjr
+technologies	technology	nn2
+for	for	if
+tracking	tracking	jj_nn1
+location	location	nn1
+and	and	cc
+to	to	to
+come	come	vvi
+up	up	rp
+with	with	iw
+offices	office	nn2
+(		(
+Geographical	geographical	jj
+service	service	nn1
+points	point	nn2_vvz
+)		)
+to	to	to
+fight	fight	vvi
+normal	normal	jj
+three	three	mc
+wheel	wheel	nn1
+services	service	nn2
+better	better	rrr_jjr
+.		.
+<p>		null
+Please	please	rr
+feel	feel	vv0
+free	free	jj
+to	to	to
+comment	comment	vvi
+below	below	rl
+with	with	iw
+your	your	appge
+ideas	idea	nn2
+and	and	cc
+your	your	appge
+points	point	nn2
+to	to	to
+be	be	vbi
+added	add	vvn
+to	to	ii
+the	the	at
+SWOT		nn1_np1
+.		.
+I	i	ppis1
+will	will	vm
+update	update	vvi
+the	the	at
+post	post	nn1
+with	with	iw
+your	your	appge
+name	name	nn1
+.		.
+<h>		null
+6	6	mc
+comments	comment	nn2
+:		:
+<p>		null
+Nice	nice	jj
+post	post	nn1
+bro	bro	nn1
+.		.
+All	all	db
+of	of	io
+above	above	rl_jj@
+are	be	vbr
+so	so	rg_rr
+damn	damn	jj_vv0
+True.Mostly		np1
+I	i	ppis1
+'m	be	vbm
+also	also	rr
+using	use	vvg
+Metered	metered	jj
+Taxi	taxi	nn1
+but	but	ccb
+unfortunately	unfortunately	rr
+Metered	metered	jj
+taxi	taxi	nn1
+so	so	rg_rr
+hard	hard	jj_rr
+to	to	to
+find	find	vvi
+out	out	rp
+on	on	ii
+evening	evening	nnt1
+(		(
+Office	office	nn1
+Time	time	nnt1
+)		)
+and	and	cc
+also	also	rr
+they	they	pphs2
+are	be	vbr
+locating	locate	vvg
+their	their	appge
+taxis	taxi	nn2
+near	near	rl_vv0@
+by	by	ii
+so	so	rg
+crowded	crowded	jj
+towns	town	nn2
+.		.
+:		:
+/	/	fo
+P.S	p.s	nn1
+:		:
+Dude	dude	nn1
+can	can	vm
+you	you	ppy
+remove	remove	vvi
+this	this	dd1
+Word	word	nn1
+Verification	verification	nn1
+Please	please	rr_vv0@
+:		:
+)		)
+<p>		null
+Anjula		nn1_jj_np1@
+-	-	-
+Ca	can	vm
+n't	n't	xx
+you	you	ppy
+call	call	vvi
+them	them	ppho2
+up	up	rp
+and	and	cc
+ask	ask	vvi
+them	them	ppho2
+to	to	to
+come	come	vvi
+at	at	ii
+office	office	nn1
+time	time	nnt1
+?		?
+I	i	ppis1
+heard	hear	vvd
+it	it	pph1
+works	work	vvz
+...		...
+I	i	ppis1
+have	have	vh0
+removed	remove	vvn
+it	it	pph1
+bro	bro	nn1
+...		...
+Tell	tell	vv0
+me	me	ppio1
+if	if	cs_csw@
+it	it	pph1
+still	still	rr
+there	there	rl
+.		.
+Plus	plus	ii
+i	i	zz1_mc1
+need	need	vv0_nn1
+some	some	dd
+advise	advise	vvi
+on	on	ii
+the	the	at
+template	template	nn1
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@hajara		fo
+-	-	-
+Thanks	thanks	nn2
+for	for	if
+the	the	at
+comment	comment	nn1
+...		...
+True	true	jj_vv0%
+that	that	cst
+some	some	dd
+charge	charge	nn1
+Rs.35		fo
+.		.
+Rising	rise	vvg_jj@
+cost	cost	nn1
+of	of	io
+living	living	nn1_vvg
+is	be	vbz
+nt	nt	nnu
+it	it	pph1
+?		?
+<p>		null
+after	after	ii
+10PM	10pm	ra
+No	no	at
+metered	metered	jj@
+tuk	tuk	nn1
+tuks	tuks	nn2
+are	be	vbr
+available	available	jj
+.		.
+I	i	ppis1
+ve	ve	vv0
+called	call	vvn
+many	many	da2
+times	time	nnt2
+..	...	...
+even	even	cs21
+though	though	cs22
+they	they	pphs2
+answer	answer	vv0
+phone	phone	nn1_vv0@
+they	they	pphs2
+dnt		nnu
+have	have	vh0
+any	any	dd
+taxi	taxi	nn1
+to	to	to
+send	send	vvi
+.		.
+even	even	rr
+Nano	nano	np1_nn1
+..	...	...
+soo	soo	nn1
+i	i	zz1_mc1
+guess	guess	vv0_nn1@
+even	even	rr
+we	we	ppis2
+dnt		nnu
+like	like	ii
+it	it	pph1
+,		,
+the	the	at
+only	only	jj
+option	option	nn1
+left	left	nn1@_vvn
+is	be	vbz
+..	...	...
+NORMAL	normal	jj
+TUK	tuk	nn1
+...		...
+:		:
+)		)
+<p>		null
+Dear	dear	jj_rr@_uh
+Anonymous	anonymous	jj
+-	-	-
+Thanks	thanks	nn2
+for	for	if
+your	your	appge
+insight	insight	nn1
+-	-	-
+Its	its	appge
+true	true	jj
+.		.
+I	i	ppis1
+'ve	have	vh0
+heard	hear	vvn
+lots	lots	pn
+of	of	io
+people	people	nn
+travel	travel	vv0_nn1
+in	in	ii_rp@
+Tuks		np1_nn2
+after	after	ii
+10PM	10pm	ra
+most	most	rrt@
+if	if	cs
+not	not	xx
+all	all	db
+of	of	io
+them	them	ppho2
+had	have	vhd
+booked	book	vvn
+in	in	ii
+advance	advance	nn1
+.		.
+So	so	rr
+what	what	ddq
+do	do	vd0
+you	you	ppy
+think	think	vvi
+can	can	vm
+be	be	vbi
+a	a	at1
+solution	solution	nn1
+?		?
+Increasing	increase	vvg_jj
+no.of		nnu
+tuks		nn2_vvz
+?		?
+Or	or	cc
+as	as	csa
+i	i	zz1_mc1
+have	have	vh0
+given	give	vvn
+above	above	rl
+-	-	-
+Have	have	vh0
+geographical	geographical	jj
+locations	location	nn2
+-	-	-
+in	in	ii
+popular	popular	jj
+cities	city	nn2
+##3485850		fo
+<p>		null
+In	in	ii
+the	the	at
+aftermath	aftermath	nn1
+of	of	io
+the	the	at
+screening	screening	nn1
+of	of	io
+the	the	at
+Killing	killing	nn1
+Fields	field	nn2
+on	on	ii
+Wednesday	wednesday	npd1
+14	14	mc
+March	march	npm1
+millions	million	nno2
+across	across	ii
+the	the	at
+world	world	nn1
+will	will	vm
+be	be	vbi
+stunned	stun	vvn_jj
+and	and	cc
+horrified	horrify	vvn
+by	by	ii
+the	the	at
+images	image	nn2
+of	of	io
+the	the	at
+bloody	bloody	jj
+massacre	massacre	nn1
+of	of	io
+Tamil	tamil	jj
+people	people	nn
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+.		.
+Most	most	dat
+will	will	vm
+draw	draw	vvi
+the	the	at
+conclusion	conclusion	nn1
+that	that	cst_dd1
+what	what	ddq
+took	take	vvd
+place	place	nn1
+is	be	vbz
+nothing	nothing	pn1
+short	short	jj_rr@
+of	of	io
+genocide	genocide	nn1
+.		.
+And	and	cc
+,		,
+once	once	cs@_rr
+the	the	at
+shock	shock	nn1
+fades	fade	vvz
+,		,
+every	every	at1
+viewer	viewer	nn1
+will	will	vm
+ask	ask	vvi
+:		:
+what	what	ddq
+can	can	vm
+be	be	vbi
+done	do	vdn
+now	now	rt
+?		?
+<p>		null
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+continues	continue	vvz
+to	to	to
+stand	stand	vvi
+out	out	rp
+as	as	ii
+a	a	at1
+campaign	campaign	nn1
+that	that	cst_dd1
+has	have	vhz
+exposed	expose	vvn
+the	the	at
+horrendous	horrendous	jj
+nature	nature	nn1
+of	of	io
+what	what	ddq
+took	take	vvd
+place	place	nn1
+,		,
+both	both	rr_db2
+during	during	ii
+and	and	cc
+since	since	cs
+the	the	at
+so-called	so-called	jj
+end	end	nn1
+of	of	io
+the	the	at
+war	war	nn1
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+.		.
+But	but	ccb
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+commentating	commentating	jj@_nn1@
+organisation	organisation	nn1
+--		zz
+we	we	ppis2
+are	be	vbr
+about	about	ii
+fighting	fight	vvg
+to	to	to
+defend	defend	vvi
+the	the	at
+rights	right	nn2
+of	of	io
+all	all	db
+oppressed	oppressed	jj
+people	people	nn
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+.		.
+<p>		null
+The	the	at
+Killing	killing	nn1
+Fields	field	nn2
+documents	document	nn2_vvz@
+how	how	rrq
+tens	tens	mc2
+of	of	io
+thousands	thousand	nno2
+of	of	io
+Tamil	tamil	jj
+people	people	nn
+were	be	vbdr
+cornered	corner	vvn@
+in	in	ii
+a	a	at1
+tiny	tiny	jj
+area	area	nn1
+in	in	ii
+the	the	at
+north	north	nd1
+of	of	io
+Sri	sri	np1
+Lanka	lanka	np1
+,		,
+bombed	bomb	vvd_vvn_jj
+,		,
+then	then	rt
+chased	chase	vvd_vvn
+away	away	rl
+to	to	ii
+another	another	dd1
+place	place	nn1
+,		,
+and	and	cc
+bombed	bomb	vvd_vvn
+again	again	rt
+.		.
+They	they	pphs2
+were	be	vbdr
+hunted	hunt	vvn
+down	down	rp
+while	while	cs
+fleeing	flee	vvg_jj
+,		,
+deprived	deprive	vvd_vvn_jj
+of	of	io
+food	food	nn1
+and	and	cc
+denied	deny	vvd_vvn_jj@
+medical	medical	jj
+supplies	supply	nn2
+.		.
+Forced	forced	jj
+starvation	starvation	nn1
+alone	alone	rr
+claimed	claim	vvn_vvd
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+immense	immense	jj
+torture	torture	nn1
+were	be	vbdr
+meted	mete	vvn
+out	out	rp
+to	to	ii
+those	those	dd2
+who	who	pnqs
+surrendered	surrender	vvd
+.		.
+Refugees	refugee	nn2
+were	be	vbdr
+treated	treat	vvn
+worse	bad	rrr@_jjr
+than	than	csn
+cattle	cattle	nn2
+.		.
+All	all	db
+this	this	dd1
+took	take	vvd
+place	place	nn1
+under	under	ii
+the	the	at
+watchful	watchful	jj
+eye	eye	nn1
+of	of	io
+the	the	at
+United	united	jj
+Nations	nation	nn2
+(		(
+UN	un	np1_fw%
+)		)
+and	and	cc
+its	its	appge
+member	member	nn1
+states	state	nn2_vvz
+.		.
+<p>		null
+The	the	at
+second	second	md
+part	part	nn1
+Channel	channel	nn1
+4	4	mc
+'s	be	vbz_ge
+'	'	ge
+Killing	killing	nn1
+Fields	field	nn2_np@
+'	'	ge
+documentary	documentary	nn1
+by	by	ii
+Callum	callum	np1
+McCrae	mccrae	np1
+captures	capture	vvz
+some	some	dd
+of	of	io
+this	this	dd1
+horror	horror	nn1
+.		.
+To	to	to
+find	find	vvi
+out	out	rp
+about	about	ii
+more	more	dar_rrr
+about	about	ii
+how	how	rrq
+events	event	nn2
+unfolded	unfold	vvd_vvn
+please	please	rr
+also	also	rr
+read	read	vv0_vvd_vvn
+the	the	at
+review	review	nn1
+of	of	io
+UN	un	np1
+spokesperson	spokesperson	nn1
+Gordon	gordon	np1
+Weiss	weis	np1
+'s	's	ge
+book	book	nn1
+The	the	at
+Cage	cage	nn1
+here	here	rl
+.		.
+<p>		null
+The	the	at
+documentary	documentary	nn1
+includes	include	vvz
+UN	un	np1
+footage	footage	nn1_vv0
+,		,
+and	and	cc
+eye-witness	eyewitness	nn1
+reports	report	vvz_nn2
+from	from	ii
+UN	un	np1
+officials	official	nn2
+.		.
+The	the	at
+UN	un	np1
+refused	refuse	vvd
+to	to	to
+take	take	vvi
+any	any	dd
+action	action	nn1
+.		.
+In	in	ii
+the	the	at
+interest	interest	nn1
+of	of	io
+finishing	finish	vvg
+off	off	rp
+the	the	at
+LTTE	ltte	nn1_np1
+many	many	da2
+kept	keep	vvd_vvn
+their	their	appge
+silence	silence	nn1
+on	on	ii
+the	the	at
+massacre	massacre	nn1
+by	by	ii
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+government	government	nn1
+.		.
+And	and	cc
+now	now	rt
+they	they	pphs2
+are	be	vbr
+all	all	db_rr@
+complacent	complacent	jj
+in	in	ii
+the	the	at
+covering	cover	vvg_nn1@
+up	up	rp
+of	of	io
+the	the	at
+continued	continued	jj
+killing	killing	nn1
+,		,
+repression	repression	nn1
+and	and	cc
+trampling	trampling	nn1@_vvg
+of	of	io
+democratic	democratic	jj
+rights	right	nn2
+by	by	ii
+Sri	sri	np1
+Lankan	lankan	jj
+government	government	nn1
+.		.
+The	the	at
+reprehensible	reprehensible	jj
+resolution	resolution	nn1
+that	that	cst_dd1
+has	have	vhz
+been	be	vbn
+put	put	vvn
+forward	forward	rl
+by	by	ii
+the	the	at
+US	us	np1
+in	in	ii
+the	the	at
+UN	un	np1
+exposes	expose	vvz
+this	this	dd1
+continued	continued	jj
+complicity	complicity	nn1
+.		.
+The	the	at
+Indian	indian	jj_nn1@
+and	and	cc
+Chinese	chinese	jj
+states	state	nn2
+,		,
+which	which	ddq
+both	both	db2_rr
+supported	support	vvd_vvn
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+government	government	nn1
+with	with	iw
+these	these	dd2
+horrendous	horrendous	jj
+killings	killing	nn2
+(		(
+fundamentally	fundamentally	rr
+to	to	to
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+)		)
+,		,
+are	be	vbr
+still	still	rr
+protecting	protect	vvg
+the	the	at
+genocidal	genocidal	jj
+regime	regime	nn1
+.		.
+<p>		null
+The	the	at
+documentary	documentary	nn1
+also	also	rr
+exposes	expose	vvz
+the	the	at
+poor	poor	jj
+role	role	nn1
+played	play	vvn
+by	by	ii
+the	the	at
+Red	red	jj
+Cross	cross	nn1
+which	which	ddq
+claimed	claim	vvd
+that	that	cst
+the	the	at
+government	government	nn1
+'s	's	ge
+action	action	nn1
+to	to	to
+'	'	"@
+save	save	vvi
+the	the	at
+people	people	nn
+'	'	ge
+was	be	vbdz
+enough	enough	rr
+.		.
+The	the	at
+film	film	nn1
+footage	footage	nn1_vv0
+also	also	rr
+details	detail	vvz%_nn2
+powerful	powerful	jj
+evidence	evidence	nn1
+of	of	io
+war	war	nn1
+crimes	crime	nn2
+;		;
+the	the	at
+unconceivable	unconceivable	jj
+cruelty	cruelty	nn1
+revealed	reveal	vvn_vvd
+in	in	ii
+the	the	at
+murder	murder	nn1
+of	of	io
+Balachandran	balachandran	np1_nn1
+Prabhakaran	prabhakaran	np1_nn1
+is	be	vbz
+one	one	mc1
+example	example	nn1
+.		.
+The	the	at
+12	12	mc
+year-old	year-old	jj
+boy	boy	nn1
+was	be	vbdz
+shot	shoot	vvn
+seven	seven	mc
+times	time	nnt2
+at	at	ii
+close	close	jj
+range	range	nn1
+after	after	cs
+he	he	pphs1
+was	be	vbdz
+forced	force	vvn
+to	to	to
+watch	watch	vvi
+the	the	at
+torture	torture	nn1
+and	and	cc
+execution	execution	nn1
+of	of	io
+others	others	nn2
+.		.
+A	a	at1_zz1
+huge	huge	jj
+amount	amount	nn1
+of	of	io
+video	video	nn1
+and	and	cc
+photographic	photographic	jj
+evidence	evidence	nn1
+proves	prove	vvz
+beyond	beyond	rl@_ii
+doubt	doubt	vv0_nn1
+that	that	dd1_cst
+summary	summary	nn1
+killings	killing	nn2
+and	and	cc
+torture	torture	nn1
+took	take	vvd
+place	place	nn1
+.		.
+<p>		null
+The	the	at
+Killing	killing	nn1
+Fields	field	nn2
+also	also	rr
+attacks	attack	vvz@
+the	the	at
+ridiculous	ridiculous	jj
+counter-documentary		nn1
+produced	produce	vvn
+by	by	ii
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+government	government	nn1
+.		.
+The	the	at
+only	only	jj
+basis	basis	nn1
+for	for	if
+that	that	dd1
+'		vbz
+documentary	documentary	nn1
+'	'	ge
+is	be	vbz
+doctors	doctor	nn2
+speaking	speak	vvg
+against	against	ii
+the	the	at
+LTTE	ltte	nn1_np1
+under	under	ii
+duress	duress	nn1
+!		!
+<p>		null
+'	'	ge
+British	british	jj
+interest	interest	nn1
+'	'	ge
+in	in	ii
+former	former	da
+colony	colony	nn1
+The	the	at
+programme	program	nn1
+concluded	conclude	vvn
+by	by	ii
+asking	ask	vvg
+how	how	rrq
+,		,
+in	in	ii
+the	the	at
+midst	midst	nn1
+of	of	io
+this	this	dd1
+wealth	wealth	nn1
+of	of	io
+bloody	bloody	jj
+evidence	evidence	nn1
+,		,
+Sri	sri	np1
+Lanka	lanka	np1
+has	have	vhz
+been	be	vbn
+chosen	choose	vvn
+to	to	to
+host	host	vvi
+the	the	at
+Commonwealth	commonwealth	nn1
+Games	game	nn2
+in	in	ii
+2013	2013	mc
+.		.
+This	this	dd1
+highlights	highlight	vvz
+the	the	at
+conciliatory	conciliatory	jj
+role	role	nn1
+of	of	io
+the	the	at
+British	british	jj
+ruling	ruling	jj_nn1
+class	class	nn1
+in	in	ii
+the	the	at
+whole	whole	jj
+affair	affair	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+current	current	jj
+Con-Dem		fw
+government	government	nn1
+and	and	cc
+the	the	at
+Labour	labour	jj
+government	government	nn1
+before	before	cs
+it	it	pph1
+refused	refuse	vvd
+to	to	to
+take	take	vvi
+any	any	dd
+action	action	nn1
+in	in	ii31
+defence	defence	ii32
+of	of	ii33
+the	the	at
+Tamils	tamil	nn2
+.		.
+The	the	at
+Tories	tory	nn2
+'	'	ge
+role	role	nn1
+was	be	vbdz
+partly	partly	rr
+exposed	expose	vvn_vvd
+in	in	ii
+the	the	at
+Bell	bell	np1
+Pottinger	pottinger	np1
+scandal	scandal	nn1
+(		(
+http		nnu
+:		:
+**26;6759;TOOLONG		vv0_jj_nn1
+?		?
+p=1971		fo
+)		)
+.		.
+Disgraced	disgraced	jj
+former	former	da
+Tory	tory	jj
+Defence	defence	nn1
+Minister	minister	nn1
+Liam	liam	np1
+Fox	fox	np1
+was	be	vbdz
+a	a	at1
+close	close	jj
+friend	friend	nn1
+of	of	io
+Rajapaksa	rajapaksa	np1
+(		(
+http		nnu
+:		:
+**26;6787;TOOLONG		vv0_jj_nn1
+?		?
+p=1907		fo
+)		)
+.		.
+<p>		null
+Furthermore	furthermore	rr
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+has	have	vhz
+evidence	evidence	nn1
+in	in	ii31
+relation	relation	ii32
+to	to	ii33
+the	the	at
+position	position	nn1
+of	of	io
+the	the	at
+Foreign	foreign	jj
+and	and	cc
+Commonwealth	commonwealth	nn1
+Office	office	nn1
+.		.
+There	there	ex
+are	be	vbr
+secret	secret	jj
+talks	talk	nn2
+taking	take	vvg
+place	place	nn1
+to	to	to
+seek	seek	vvi
+out	out	rp
+investment	investment	nn1
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+,		,
+even	even	rr
+now	now	rt
+.		.
+The	the	at
+work	work	nn1
+of	of	io
+Paul	paul	np1
+Murphy	murphy	np1
+MEP	mep	np1
+for	for	if
+Dublin	dublin	np1
+,		,
+Ireland	ireland	np1
+,		,
+(		(
+http		nnu
+:		:
+//www.paulmurphymep.eu/		jj_vv0_nn1
+)		)
+,		,
+a	a	at1
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+supporter	supporter	nn1
+,		,
+in	in	ii
+the	the	at
+European	european	jj
+Parliament	parliament	nn1
+has	have	vhz
+been	be	vbn
+systematically	systematically	rr
+opposed	oppose	vvn
+by	by	ii
+Tory	tory	jj_nn1@
+and	and	cc
+the	the	at
+rest	rest	nn1
+of	of	io
+the	the	at
+right	right	jj_nn1
+wing	wing	nn1
+MEPs	meps	nn2
+.		.
+<p>		null
+At	at	ii
+times	time	nnt2
+Tory	tory	jj
+MEPs	meps	nn2
+have	have	vh0
+argued	argue	vvn
+in	in	ii
+the	the	at
+interest	interest	nn1
+of	of	io
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+regime	regime	nn1
+more	more	rgr_rrr
+vigorously	vigorously	rr
+than	than	csn
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+officials	official	nn2
+.		.
+There	there	ex
+are	be	vbr
+a	a	at1
+number	number	nn1
+of	of	io
+Tory	tory	jj
+MEPs	meps	nn2
+who	who	pnqs
+still	still	rr
+deny	deny	vv0
+the	the	at
+scale	scale	nn1
+of	of	io
+the	the	at
+massacre	massacre	nn1
+that	that	cst
+took	take	vvd
+place	place	nn1
+.		.
+Of	of	rr21
+course	course	rr22
+they	they	pphs2
+try	try	vv0
+to	to	to
+give	give	vvi
+the	the	at
+impression	impression	nn1
+that	that	cst
+the	the	at
+British	british	jj
+government	government	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+but	but	ccb
+that	that	dd1
+is	be	vbz
+an	a	at1
+absolute	absolute	jj
+lie	lie	nn1@
+.		.
+To	to	to
+advance	advance	vvi
+UK	uk	np1
+big	big	jj
+business	business	nn1
+'s	's	ge
+interests	interest	nn2
+they	they	pphs2
+seek	seek	vv0
+a	a	at1
+kind	kind	nn1
+of	of	io
+peace	peace	nn1
+(		(
+and	and	cc
+might	might	vm
+even	even	rr
+contemplate	contemplate	vvi
+a	a	at1
+change	change	nn1
+of	of	io
+president	president	nn1
+to	to	to
+achieve	achieve	vvi
+this	this	dd1
+)		)
+.		.
+They	they	pphs2
+have	have	vh0
+no	no	at
+interest	interest	nn1
+in	in	ii
+solving	solve	vvg
+the	the	at
+national	national	jj
+question	question	nn1
+of	of	io
+the	the	at
+Tamil-speaking	tamil-speaking	jj_nn1
+people	people	nn
+or	or	cc
+even	even	rr
+improving	improve	vvg
+their	their	appge
+lives	life	nn2
+in	in	rr21
+general	general	rr22
+.		.
+The	the	at
+cold	cold	jj_nn1
+cruelty	cruelty	nn1
+they	they	pphs2
+display	display	vv0
+towards	towards	ii
+the	the	at
+suffering	suffering	nn1
+inflicted	inflict	vvn
+by	by	ii
+their	their	appge
+cuts	cut	nn2
+on	on	ii
+the	the	at
+vulnerable	vulnerable	jj
+in	in	ii
+Britain	britain	np1
+is	be	vbz
+not	not	xx
+spared	spare	vvn
+the	the	at
+Tamil	tamil	jj
+masses	mass	nn2
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+.		.
+<p>		null
+Defence	defence	nn1
+spending	spending	nn1
+Three	three	mc
+years	year	nnt2
+has	have	vhz
+passed	pass	vvn
+since	since	cs_ii@
+the	the	at
+so-called	so-called	jj
+end	end	nn1
+of	of	io
+the	the	at
+war	war	nn1
+.		.
+But	but	ccb
+,		,
+with	with	iw
+IMF	imf	np1
+support	support	nn1_vv0
+,		,
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+regime	regime	nn1
+is	be	vbz
+now	now	rt
+spending	spend	vvg
+more	more	dar
+money	money	nn1
+on	on	ii
+defence	defence	nn1
+than	than	csn
+ever	ever	rr
+before	before	rt
+.		.
+The	the	at
+military	military	nn1@_jj
+'s	's	ge
+role	role	nn1
+is	be	vbz
+linked	link	vvn
+to	to	ii
+the	the	at
+bigger	big	jjr
+question	question	nn1
+of	of	io
+strategic	strategic	jj
+and	and	cc
+business	business	nn1
+interests	interest	nn2_vvz@
+in	in	ii
+the	the	at
+region	region	nn1
+--		zz
+not	not	xx
+the	the	at
+wellbeing	well-being	nn1
+of	of	io
+ordinary	ordinary	jj
+working	working	jj@_nn1%_vvg
+and	and	cc
+poor	poor	jj
+people	people	nn
+.		.
+<p>		null
+Miliband		vv0_nn1
+Tamils	tamil	nn2
+and	and	cc
+other	other	jj
+human	human	jj_nn1
+rights	right	nn2
+activists	activist	nn2
+were	be	vbdr
+,		,
+no	no	rr21
+doubt	doubt	rr22
+,		,
+shocked	shock	vvd_jj
+to	to	to
+see	see	vvi
+the	the	at
+prominent	prominent	jj
+role	role	nn1
+given	give	vvn
+to	to	ii
+former	former	da
+Labour	labour	jj
+MP	mp	nn1
+David	david	np1
+Miliband	miliband	np1
+in	in	ii
+the	the	at
+Killing	killing	nn1
+Fields	field	nn2_np@
+documentary	documentary	nn1
+.		.
+Miliband		nn1_np1@_vv0
+was	be	vbdz
+the	the	at
+Secretary	secretary	nn1
+of	of	io
+State	state	nn1
+for	for	if
+Foreign	foreign	jj
+and	and	cc
+Commonwealth	commonwealth	nn1
+Affairs	affair	nn2
+from	from	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+position	position	vvi
+himself	himself	ppx1
+as	as	csa
+on	on	ii
+'	'	"@_ge
+our	our	appge
+'	'	ge
+side	side	nn1
+.		.
+But	but	ccb
+it	it	pph1
+was	be	vbdz
+his	his	appge
+Labour	labour	jj
+government	government	nn1
+in	in	ii
+power	power	nn1
+during	during	ii
+the	the	at
+massacre	massacre	nn1
+.		.
+Desperate	desperate	jj
+chants	chant	nn2
+of	of	io
+"		"
+Gordon	gordon	np1
+Brown	brown	np1
+,		,
+Gordon	gordon	np1
+Brown	brown	np1
+,		,
+Save	save	vv0_ii@
+the	the	at
+Tamils	tamil	nn2
+"		"
+rang	ring	vvd
+through	through	ii
+the	the	at
+streets	street	nn2
+of	of	io
+London	london	np1
+on	on	ii
+demonstrations	demonstration	nn2
+numbering	number	vvg
+over	over	rg
+100,000	100,000	mc
+.		.
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+had	have	vhd
+to	to	to
+sadly	sadly	rr
+warn	warn	vvi
+that	that	cst
+this	this	dd1
+chant	chant	nn1
+would	would	vm
+fall	fall	vvi
+on	on	ii_rp@
+deaf	deaf	jj
+ears	ear	nn2
+.		.
+Nonetheless	nonetheless	rr
+a	a	at1
+number	number	nn1
+of	of	io
+Tamils	tamil	nn2
+clung	cling	vvn_vvd
+to	to	ii
+their	their	appge
+illusions	illusion	nn2
+that	that	cst_dd1
+Labour	labor	nn1@_jj
+would	would	vm
+act	act	vvi
+,		,
+at	at	rr21
+least	least	rr22
+in	in	ii
+the	the	at
+interest	interest	nn1
+of	of	io
+human	human	jj_nn1
+rights	right	nn2
+.		.
+But	but	ccb
+the	the	at
+experience	experience	nn1
+of	of	io
+police	police	nn2
+repression	repression	nn1
+of	of	io
+peaceful	peaceful	jj
+Tamil	tamil	jj
+protests	protest	nn2
+in	in	ii
+Parliament	parliament	np1
+Square	square	nnl1
+proved	prove	vvd
+the	the	at
+opposite	opposite	jj_nn1@
+.		.
+<p>		null
+Lib	lib	nn1
+Dem	dem	fw
+MP	mp	nn1
+Simon	simon	np1
+Hughes	hughes	np1
+came	come	vvd
+to	to	to
+talk	talk	vvi
+to	to	ii
+hunger	hunger	nn1
+strikers	striker	nn2
+in	in	ii
+Parliament	parliament	np1
+Square	square	nnl1
+and	and	cc
+made	make	vvd_vvn
+various	various	jj
+vague	vague	jj
+pledges	pledge	nn2
+.		.
+We	we	ppis2
+have	have	vh0
+seen	see	vvn
+no	no	at
+action	action	nn1
+yet	yet	rr
+.		.
+Miliband		vv0
+now	now	rt
+accepts	accept	vvz
+that	that	cst
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+regime	regime	nn1
+is	be	vbz
+full	full	jj
+of	of	io
+liars	liar	nn2
+and	and	cc
+acknowledges	acknowledge	vvz
+the	the	at
+horrendous	horrendous	jj
+scale	scale	nn1
+of	of	io
+the	the	at
+massacre	massacre	nn1
+.		.
+But	but	ccb
+what	what	ddq
+opposition	opposition	nn1
+does	do	vdz
+he	he	pphs1
+put	put	vvi
+forward	forward	rl_jj@
+--		zz
+even	even	rr
+in	in	ii31
+terms	terms	ii32
+of	of	ii33
+opposing	oppose	vvg
+the	the	at
+Commonwealth	commonwealth	nn1
+Games	game	nn2
+in	in	ii
+Sri	sri	np1
+Lanka	lanka	np1
+or	or	cc
+openly	openly	rr
+supporting	support	vvg
+the	the	at
+call	call	nn1
+for	for	if
+an	a	at1
+international	international	jj
+investigation	investigation	nn1
+into	into	ii
+war	war	nn1
+crimes	crime	nn2
+?		?
+Why	why	rrq
+did	do	vdd
+n't	n't	xx
+he	he	pphs1
+act	act	vvi
+to	to	to
+expose	expose	vvi
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+?		?
+If	if	cs
+he	he	pphs1
+and	and	cc
+Labour	labour	jj
+genuinely	genuinely	rr
+want	want	vv0
+to	to	to
+win	win	vvi
+the	the	at
+hearts	heart	nn2
+and	and	cc
+minds	mind	nn2
+of	of	io
+Tamil-speaking	tamil-speaking	jj_nn1
+people	people	nn
+strongly	strongly	rr
+opposing	oppose	vvg
+the	the	at
+cuts	cut	nn2
+and	and	cc
+attacks	attack	nn2_vvz@
+on	on	ii
+the	the	at
+NHS	nhs	np1
+would	would	vm
+also	also	rr
+be	be	vbi
+a	a	at1
+good	good	jj
+start	start	nn1
+.		.
+<p>		null
+Unite	unite	vv0
+the	the	at
+struggles	struggle	nn2
+Miliband		np1_nn1@
+recognises	recognize	vvz
+that	that	cst
+things	thing	nn2
+are	be	vbr
+changing	change	vvg_jj
+.		.
+Labour	labor	nn1
+can	can	vm
+not	not	xx
+continue	continue	vvi
+to	to	to
+take	take	vvi
+the	the	at
+electoral	electoral	jj
+support	support	nn1
+of	of	io
+the	the	at
+Tamil	tamil	jj
+population	population	nn1
+for	for	if
+granted	grant	vvn
+,		,
+as	as	csa
+it	it	pph1
+has	have	vhz
+done	do	vdn
+.		.
+The	the	at
+impact	impact	nn1
+of	of	io
+this	this	dd1
+documentary	documentary	nn1
+and	and	cc
+the	the	at
+ongoing	ongoing	jj
+debate	debate	nn1
+among	among	ii
+Tamils	tamil	nn2
+is	be	vbz
+not	not	xx
+an	a	at1
+isolated	isolated	jj
+process	process	nn1
+.		.
+Tamils	tamil	nn2
+'	'	ge
+understanding	understanding	nn1
+of	of	io
+the	the	at
+the	the	at
+'	'	"@
+them	them	ppho2
+and	and	cc
+us	us	ppio2
+'	'	ge
+nature	nature	nn1
+of	of	io
+society	society	nn1
+and	and	cc
+how	how	rrq
+the	the	at
+oppression	oppression	nn1
+of	of	io
+Tamil-speaking	tamil-speaking	jj_nn1
+people	people	nn
+is	be	vbz
+part	part	nn1
+of	of	io
+that	that	dd1
+is	be	vbz
+increasing	increase	vvg_jj
+.		.
+<p>		null
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+has	have	vhz
+always	always	rr
+explained	explain	vvn
+that	that	cst
+any	any	dd
+government	government	nn1
+that	that	cst_dd1
+oppresses	oppress	vvz
+or	or	cc
+attacks	attack	vvz@_nn2
+its	its	appge
+own	own	da
+people	people	nn
+can	can	vm
+not	not	xx
+be	be	vbi
+trusted	trust	vvn
+to	to	to
+take	take	vvi
+any	any	dd
+interest	interest	nn1
+in	in	ii
+challenging	challenging	jj_vvg
+oppression	oppression	nn1
+elsewhere	elsewhere	rl
+.		.
+Time	time	rr31
+and	and	rr32
+again	again	rr33
+it	it	pph1
+has	have	vhz
+been	be	vbn
+shown	show	vvn
+that	that	cst_dd1
+corporate	corporate	jj
+interests	interest	nn2
+lie	lie	vv0
+behind	behind	ii
+government	government	nn1
+actions	action	nn2
+.		.
+<p>		null
+How	how	rrq
+can	can	vm
+any	any	dd_rr%
+serious	serious	jj
+activist	activist	nn1
+,		,
+for	for	rex21
+example	example	rex22
+,		,
+hope	hope	vv0
+that	that	cst
+the	the	at
+Indian	indian	jj
+government	government	nn1
+,		,
+which	which	ddq
+continues	continue	vvz
+to	to	to
+viciously	viciously	rr
+crush	crush	vvi
+the	the	at
+right	right	nn1
+to	to	ii
+self	self	nn1
+determination	determination	nn1
+of	of	io
+the	the	at
+Kashmiris	kashmiris	np1_nn1@
+,		,
+would	would	vm
+act	act	vvi
+decisively	decisively	rr
+for	for	if
+democratic	democratic	jj
+rights	right	nn2
+elsewhere	elsewhere	rl
+?		?
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+hypocrisy	hypocrisy	nn1
+of	of	io
+the	the	at
+UN	un	np1
+resolution	resolution	nn1
+.		.
+Please	please	rr
+read	read	vv0_vvd_vvn
+the	the	at
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+contribution	contribution	nn1
+to	to	ii
+the	the	at
+debate	debate	nn1
+opened	open	vvd_vvn
+up	up	rp
+by	by	ii
+Tamilnet	tamilnet	np1_nn1
+,		,
+which	which	ddq
+we	we	ppis2
+warmly	warmly	rr
+welcomed	welcome	vvn_vvd
+,		,
+here	here	rl
+.		.
+<p>		null
+To	to	to
+watch	watch	vvi
+the	the	at
+Killing	killing	nn1
+Fields	field	nn2_np@
+documentary	documentary	nn1
+,		,
+particularly	particularly	rr
+when	when	cs_rrq
+you	you	ppy
+can	can	vm
+speak	speak	vvi
+the	the	at
+language	language	nn1
+and	and	cc
+listen	listen	vvi
+to	to	ii
+horrific	horrific	jj
+helpless	helpless	jj
+cry	cry	nn1_vv0
+out	out	rp
+in	in	ii
+Tamil	tamil	jj_nn1@
+,		,
+is	be	vbz
+nothing	nothing	pn1
+short	short	jj_rr@
+of	of	io
+heartbreaking	heartbreaking	jj
+.		.
+Its	its	appge
+impact	impact	nn1
+will	will	vm
+stay	stay	vvi
+with	with	iw
+us	us	ppio2
+forever	forever	rt
+.		.
+No	no	at_uh
+human	human	nn1
+should	should	vm
+be	be	vbi
+reduced	reduce	vvn
+to	to	ii
+this	this	dd1
+level	level	nn1_jj
+.		.
+<p>		null
+We	we	ppis2
+should	should	vm
+not	not	xx
+,		,
+however	however	rr
+,		,
+be	be	vbi
+silenced	silence	vvn
+by	by	ii
+the	the	at
+genocide	genocide	nn1
+.		.
+In	in	ii
+the	the	at
+aftermath	aftermath	nn1
+of	of	io
+George	george	np1
+W	w	np1@_zz1
+Bush	bush	np1
+unleashing	unleash	vvg
+the	the	at
+'	'	ge
+war	war	nn1
+on	on	ii
+terror	terror	nn1
+'	'	ge
+the	the	at
+Sri	sri	np1
+Lankan	lankan	jj
+government	government	nn1
+is	be	vbz
+trying	try	vvg
+to	to	to
+make	make	vvi
+the	the	at
+massacre	massacre	nn1
+into	into	ii
+an	a	at1
+internationally	internationally	rr
+renowned	renowned	jj
+example	example	nn1
+of	of	io
+'	'	"@
+how	how	rrq
+best	best	rrt
+to	to	to
+solve	solve	vvi
+the	the	at
+national	national	jj
+question	question	nn1
+'	'	ge
+.		.
+There	there	ex
+are	be	vbr
+reports	report	nn2
+that	that	cst
+the	the	at
+Turkish	turkish	jj
+government	government	nn1
+is	be	vbz
+taking	take	vvg
+the	the	at
+'	'	ge
+Sri	sri	np1
+Lankan	lankan	jj
+route	route	nn1
+'	'	ge
+to	to	to
+solve	solve	vvi
+the	the	at
+Kurdish	kurdish	jj
+question	question	nn1
+!		!
+<p>		null
+Tamil	tamil	jj
+Solidarity	solidarity	nn1
+argues	argue	vvz
+that	that	cst
+we	we	ppis2
+can	can	vm
+also	also	rr
+provide	provide	vvi
+an	a	at1
+example	example	nn1
+--		zz
+of	of	io
+fight	fight	nn1_vv0
+back	back	nn1_rp
+.		.
+We	we	ppis2
+must	must	vm
+not	not	xx
+let	let	vvi
+the	the	at
+enormous	enormous	jj
+anger	anger	nn1
+,		,
+at	at	ii
+the	the	at
+massacre	massacre	nn1
+and	and	cc
+the	the	at
+evoking	evoking	nn1@
+of	of	io
+it	it	pph1
+by	by	ii
+the	the	at
+Killing	killing	nn1
+Fields	field	nn2
+,		,
+go	go	vv0
+to	to	to
+waste	waste	vvi
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+future	future	jj_nn1
+generations	generation	nn2
+that	that	cst_dd1
+horror	horror	nn1
+of	of	io
+this	this	dd1
+nature	nature	nn1
+will	will	vm
+not	not	xx
+go	go	vvi
+unanswered	unanswered	jj
+;		;
+rather	rather	rr@
+it	it	pph1
+will	will	vm
+further	far	rrr
+intensify	intensify	vvi
+the	the	at
+fightback		nn1
+.		.
+To	to	to
+effectively	effectively	rr
+resist	resist	vvi
+the	the	at
+continued	continued	jj
+repression	repression	nn1
+there	there	ex_rl
+can	can	vm
+be	be	vbi
+not	not	xx
+one	one	mc1
+iota	iota	nn1
+of	of	io
+faith	faith	nn1
+placed	place	vvn
+in	in	ii
+the	the	at
+so-called	so-called	jj
+'	'	ge
+international	international	jj
+community	community	nn1
+'	'	ge
+,		,
+either	either	rr
+the	the	at
+governments	government	nn2
+of	of	io
+the	the	at
+West	west	nd1
+or	or	cc
+of	of	io
+India	india	np1
+.		.
+<p>		null
+Through	through	ii
+democratic	democratic	jj
+,		,
+open	open	jj_vv0
+and	and	cc
+serious	serious	jj
+discussion	discussion	nn1
+,		,
+debate	debate	nn1
+,		,
+united	united	jj_vvd
+action	action	nn1
+and	and	cc
+studying	study	vvg_nn1%
+of	of	io
+history	history	nn1
+we	we	ppis2
+can	can	vv0%_vm
+together	together	rl
+learn	learn	vvi
+to	to	to
+understand	understand	vvi
+what	what	ddq
+is	be	vbz
+required	require	vvn
+to	to	to
+win	win	vvi
+.		.
+Let	let	vv0
+us	us	ppio2
+fight	fight	vvi
+to	to	to
+unite	unite	vvi
+all	all	db
+those	those	dd2
+suffer	suffer	vv0
+to	to	to
+create	create	vvi
+a	a	at1
+strength	strength	nn1
+that	that	cst_dd1
+will	will	vm
+make	make	vvi
+sure	sure	jj
+that	that	cst
+this	this	dd1
+sort	sort	nn1
+of	of	io
+##3486150		fo
+<p>		null
+Short	short	jj_np1
+legs	leg	nn2
+and	and	cc
+two	two	mc
+front	front	jj_nn1
+,		,
+two	two	mc
+rear	rear	nn1_jj
+has	have	vhz
+four	four	mc
+fingers	finger	nn2
+.		.
+Bottom	bottom	nn1
+of	of	io
+the	the	at
+front	front	nn1
+of	of	io
+the	the	at
+fingers	finger	nn2
+are	be	vbr
+connected	connect	vvn
+with	with	iw
+a	a	at1
+short	short	jj
+membrane	membrane	nn1
+.		.
+Back	back	nn1_rp
+towards	towards	ii
+the	the	at
+rear	rear	nn1
+of	of	io
+the	the	at
+first	first	md
+and	and	cc
+fourth	fourth	md
+fingers	finger	nn2
+to	to	to
+grasp	grasp	vvi
+and	and	cc
+can	can	vm
+climb	climb	vvi
+with	with	iw
+agility	agility	nn1
+with	with	iw
+the	the	at
+help	help	nn1
+of	of	io
+the	the	at
+beak	beak	nn1
+.		.
+A	a	at1
+third	third	md
+time	time	nnt1
+climbing	climb	vvg_nn1
+up	up	ii21
+to	to	ii22
+their	their	appge
+bill	bill	nn1
+due	due	ii21
+to	to	ii22
+the	the	at
+properties	property	nn2
+such	such	ii21
+as	as	ii22

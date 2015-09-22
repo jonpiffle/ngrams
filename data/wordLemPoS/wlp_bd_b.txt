@@ -1,0 +1,13035 @@
+##3509550		fo
+<h>		null
+GET	get	vv0
+A	a	at1@_zz1
+PART	part	nn1
+TIME	time	nnt1
+WEB	web	nn1
+DESIGN	design	nn1
+JOB	job	nn1
+<p>		null
+To	to	to
+venture	venture	vvi
+in	in	rp@
+to	to	ii
+the	the	at
+world	world	nn1
+of	of	io
+web	web	nn1
+design	design	nn1
+is	be	vbz
+simple	simple	jj
+and	and	cc
+quick	quick	jj_rr@
+.		.
+What	what	ddq
+you	you	ppy
+only	only	rr
+need	need	vv0
+to	to	to
+ask	ask	vvi
+yourself	yourself	ppx1
+is	be	vbz
+;		;
+do	do	vd0
+you	you	ppy
+know	know	vvi
+how	how	rrq
+to	to	to
+get	get	vvi
+freelance	freelance	nn1
+jobs	job	nn2
+?		?
+In	in	ii
+freelance	freelance	nn1
+,		,
+it	it	pph1
+is	be	vbz
+all	all	db_rr@
+about	about	ii
+offering	offering	nn1_vvg
+and	and	cc
+selling	sell	vvg_nn1
+services	service	nn2
+to	to	ii
+various	various	jj
+employers	employer	nn2
+without	without	iw
+any	any	dd
+commitment	commitment	nn1
+that	that	cst_dd1
+will	will	vm
+categorize	categorize	vvi
+the	the	at
+designer	designer	nn1
+as	as	ii_csa
+a	a	at1
+regular	regular	jj
+and	and	cc
+common	common	jj
+employee	employee	nn1
+.		.
+Therefore	therefore	rr
+the	the	at
+web	web	nn1
+designer	designer	nn1
+is	be	vbz
+free	free	jj
+to	to	to
+provide	provide	vvi
+services	service	nn2
+to	to	ii
+all	all	db
+clients	client	nn2
+without	without	iw
+limits	limit	nn2
+while	while	cs
+an	a	at1
+employer	employer	nn1
+can	can	vm
+higher	high	rrr@_jjr
+the	the	at
+services	service	nn2
+of	of	io
+the	the	at
+designer	designer	nn1
+at	at	ii
+the	the	at
+time	time	nnt1
+of	of	io
+need	need	nn1
+.		.
+When	when	cs_rrq
+it	it	pph1
+comes	come	vvz
+to	to	ii
+freelancing	freelance	vvg_nn1@
+,		,
+it	it	pph1
+can	can	vm
+be	be	vbi
+a	a	at1
+temporary	temporary	jj
+job	job	nn1
+as	as	csa
+you	you	ppy
+wait	wait	vv0
+to	to	to
+be	be	vbi
+hired	hire	vvn
+permanently	permanently	rr
+in	in	ii
+any	any	dd
+given	given	jj@
+company	company	nn1
+of	of	io
+your	your	appge
+area	area	nn1
+of	of	io
+specialization	specialization	nn1
+.		.
+The	the	at
+job	job	nn1
+can	can	vm
+become	become	vvi
+a	a	at1
+permanent	permanent	jj
+job	job	nn1
+if	if	cs
+the	the	at
+designer	designer	nn1
+wants	want	vvz
+to	to	to
+become	become	vvi
+a	a	at1
+boss	boss	nn1
+of	of	io
+his	his	appge
+own	own	da
+.		.
+<p>		null
+Chances	chance	nn2
+are	be	vbr
+not	not	xx
+given	give	vvn
+to	to	ii
+all	all	db
+freelance	freelance	vv0_nn1
+web	web	nn1
+designers	designer	nn2
+to	to	to@_ii
+work	work	vvi_nn1
+on	on	ii_rp@
+a	a	at1
+per	per	ii
+project	project	nn1
+basis	basis	nn1
+for	for	if
+a	a	at1
+company	company	nn1
+.		.
+Most	most	dat
+and	and	cc
+only	only	rr_jj
+reputable	reputable	jj
+companies	company	nn2
+will	will	vm
+choose	choose	vvi
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+basing	base	vvg
+on	on	ii
+what	what	ddq
+they	they	pphs2
+see	see	vv0
+as	as	csa
+in	in	ii
+the	the	at
+portfolio	portfolio	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+from	from	ii
+other	other	jj
+clients	client	nn2
+,		,
+and	and	cc
+their	their	appge
+feeling	feeling	nn1
+as	as	csa
+in	in	ii
+the	the	at
+manner	manner	nn1
+of	of	io
+business	business	nn1
+working	work	vvg
+.		.
+The	the	at
+ability	ability	nn1
+of	of	io
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+to	to	to
+anticipate	anticipate	vvi
+a	a	at1
+client	client	nn1
+'s	's	ge
+need	need	nn1
+is	be	vbz
+a	a	at1
+characteristic	characteristic	nn1_jj
+that	that	cst_dd1
+is	be	vbz
+favorable	favorable	jj
+to	to	to
+convince	convince	vvi
+him	him	ppho1
+or	or	cc
+her	her	ppho1
+of	of	io
+the	the	at
+best	best	jjt
+intentions	intention	nn2
+of	of	io
+a	a	at1
+designer	designer	nn1
+for	for	if
+the	the	at
+company	company	nn1
+customers	customer	nn2
+.		.
+<h>		null
+Get	get	vv0
+a	a	at1
+part	part	nn1
+time	time	nnt1
+web	web	nn1
+design	design	nn1
+job	job	nn1
+<p>		null
+Clients	client	nn2
+prefer	prefer	vv0
+web	web	nn1
+designers	designer	nn2
+who	who	pnqs
+meet	meet	vv0
+deadlines	deadline	nn2
+.		.
+Does	do	vdz
+n't	n't	xx
+promise	promise	vvi
+the	the	at
+unrealistic	unrealistic	jj
+and	and	cc
+explains	explain	vvz
+fully	fully	rr
+to	to	ii
+the	the	at
+client	client	nn1
+what	what	ddq
+can	can	vm
+and	and	cc
+can	can	vm
+not	not	xx
+be	be	vbi
+accomplished	accomplish	vvn
+based	base	vvn
+on	on	ii
+their	their	appge
+set	set	nn1_jj@
+requirements	requirement	nn2
+.		.
+Therefore	therefore	rr
+regardless	regardless	rr
+of	of	io
+how	how	rgq@_rrq
+many	many	da2
+clients	client	nn2
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+may	may	vm
+be	be	vbi
+simultaneously	simultaneously	rr
+attending	attend	vvg
+to	to	ii
+at	at	ii
+a	a	at1
+particular	particular	jj
+period	period	nn1
+,		,
+setting	set	vvg
+aside	aside	rl
+time	time	nnt1_vv0%
+for	for	if
+each	each	dd1
+individual	individual	nn1_jj
+for	for	if
+consultations	consultation	nn2
+with	with	iw
+them	them	ppho2
+and	and	cc
+update	update	vv0
+them	them	ppho2
+with	with	iw
+the	the	at
+order	order	nn1
+status	status	nn1
+should	should	vm
+be	be	vbi
+arranged	arrange	vvn
+for	for	if
+.		.
+If	if	cs
+the	the	at
+clients	client	nn2
+feel	feel	vv0
+important	important	jj
+,		,
+respected	respected	jj_vvn_vvd
+and	and	cc
+valued	value	vvd_vvn
+,		,
+they	they	pphs2
+will	will	vm
+always	always	rr
+keep	keep	vvi
+coming	come	vvg
+back	back	rp
+.		.
+<h>		null
+Ways	way	nn2
+of	of	io
+Broadening	broadening	jj_vvg_nn1
+job	job	nn1
+opportunities	opportunity	nn2
+as	as	ii_csa
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+:		:
+<p>		null
+It	it	pph1
+is	be	vbz
+not	not	xx
+being	be	vbg
+assured	assure	vvn
+of	of	io
+regular	regular	jj
+work	work	nn1
+and	and	cc
+corresponding	corresponding	jj_vvg
+pay	pay	nn1
+like	like	ii
+web	web	nn1
+designers	designer	nn2
+that	that	cst
+are	be	vbr
+employed	employ	vvn
+that	that	dd1_cst
+is	be	vbz
+a	a	at1
+setback	setback	nn1
+of	of	io
+freelancing	freelance	vvg_nn1@
+.		.
+Thus	thus	rr
+web	web	nn1_vv0%
+designers	designer	nn2
+in	in	ii
+freelance	freelance	nn1
+should	should	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+can	can	vm
+emerge	emerge	vvi
+from	from	ii
+.		.
+<p>		null
+Web	web	nn1
+designers	designer	nn2
+in	in	ii
+freelance	freelance	nn1
+should	should	vm
+be	be	vbi
+in	in	ii
+a	a	at1
+position	position	nn1
+to	to	to
+promote	promote	vvi
+themselves	themselves	ppx2
+in	in	ii
+their	their	appge
+supposed	supposed	jj@
+area	area	nn1
+of	of	io
+expertise	expertise	nn1
+.		.
+Thus	thus	rr
+,		,
+their	their	appge
+own	own	da
+websites	website	nn2
+have	have	vh0
+to	to	to
+be	be	vbi
+easy	easy	jj
+to	to	to
+navigate	navigate	vvi
+and	and	cc
+understood	understand	vvn
+by	by	ii_rp%
+technically	technically	rr
+inclined	inclined	jj
+people	people	nn
+.		.
+Through	through	ii
+the	the	at
+client	client	nn1
+'s	's	ge
+eye	eye	nn1
+,		,
+a	a	at1
+good	good	jj
+web	web	nn1
+designer	designer	nn1
+can	can	vm
+see	see	vvi
+a	a	at1
+project	project	nn1
+and	and	cc
+do	do	vd0
+not	not	xx
+force	force	vvi
+what	what	ddq
+he	he	pphs1
+wants	want	vvz
+to	to	to
+them	them	ppho2
+.		.
+He	he	pphs1
+will	will	vm
+work	work	vvi
+with	with	iw
+the	the	at
+client	client	nn1
+to	to	to
+come	come	vvi
+up	up	rp
+with	with	iw
+a	a	at1
+satisfactory	satisfactory	jj
+result	result	nn1
+.		.
+<p>		null
+Promoting	promote	vvg
+his	his	appge
+skills	skill	nn2
+and	and	cc
+achievements	achievement	nn2
+whenever	whenever	rrqv
+probable	probable	jj
+and	and	cc
+appropriate	appropriate	jj_vv0@
+is	be	vbz
+what	what	ddq
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+should	should	vm
+be	be	vbi
+ready	ready	jj
+for	for	if
+.		.
+They	they	pphs2
+should	should	vm
+know	know	vvi
+that	that	cst
+clients	client	nn2
+come	come	vv0_vvn@
+to	to	ii
+them	them	ppho2
+for	for	if
+solutions	solution	nn2
+and	and	cc
+not	not	xx
+to	to	to
+be	be	vbi
+presented	present	vvn
+with	with	iw
+more	more	dar
+tribulations	tribulation	nn2
+at	at	ii
+hand	hand	nn1
+.		.
+<p>		null
+Web	web	nn1
+designer	designer	nn1
+always	always	rr
+use	use	vv0
+the	the	at
+social	social	jj
+media	media	nn
+and	and	cc
+directory	directory	nn1
+sites	site	nn2
+primarily	primarily	rr
+to	to	to
+draw	draw	vvi
+attention	attention	nn1
+for	for	if
+their	their	appge
+owned	owned	jj@
+sites	site	nn2
+.		.
+They	they	pphs2
+do	do	vd0
+make	make	vvi
+sure	sure	jj
+that	that	cst
+they	they	pphs2
+convince	convince	vv0
+users	user	nn2
+to	to	to
+visit	visit	vvi
+their	their	appge
+sites	site	nn2
+and	and	cc
+do	do	vd0
+n't	n't	xx
+disappoint	disappoint	vvi
+them	them	ppho2
+or	or	cc
+it	it	pph1
+becomes	become	vvz
+just	just	rr
+a	a	at1
+waste	waste	nn1
+of	of	io
+time	time	nnt1
+.		.
+Web	web	nn1
+designers	designer	nn2
+should	should	vm
+be	be	vbi
+able	able	jk
+to	to	to
+draw	draw	vvi
+attention	attention	nn1
+of	of	io
+users	user	nn2
+and	and	cc
+do	do	vd0
+retain	retain	vvi
+them	them	ppho2
+too	too	rr@
+.		.
+<p>		null
+Designers	designer	nn2
+work	work	vv0_nn1
+and	and	cc
+abilities	ability	nn2
+are	be	vbr
+got	get	vvn
+also	also	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+targeting	target	vvg
+or	or	cc
+membership	membership	nn1
+.		.
+As	as	ii_csa
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+,		,
+you	you	ppy
+should	should	vm
+stand	stand	vvi
+to	to	to
+gain	gain	vvi
+from	from	ii
+new	new	jj
+business	business	nn1
+using	use	vvg
+freelancers	freelancers	nn2
+and	and	cc
+other	other	jj
+people	people	nn
+in	in	ii
+forums	forum	nn2
+.		.
+Therefore	therefore	rr
+you	you	ppy
+should	should	vm
+welcome	welcome	vvi
+other	other	jj
+peoples	people	nn2
+proves	prove	vvz
+though	though	cs
+it	it	pph1
+is	be	vbz
+not	not	xx
+very	very	rg
+common	common	jj
+to	to	to
+get	get	vvi
+work	work	nn1_vv0
+from	from	ii
+other	other	jj
+freelance	freelance	nn1
+web	web	nn1
+designers	designer	nn2
+.		.
+<h>		null
+To	to	to
+start	start	vvi
+working	work	vvg
+as	as	ii
+a	a	at1
+web	web	nn1
+designer	designer	nn1
+<p>		null
+There	there	ex
+should	should	vm
+be	be	vbi
+no	no	at
+emphasis	emphasis	nn1
+for	for	if
+an	a	at1
+excellent	excellent	jj
+portfolio	portfolio	nn1
+when	when	cs
+applying	apply	vvg
+for	for	if
+this	this	dd1
+place	place	nn1
+of	of	io
+web	web	nn1
+design	design	nn1
+.		.
+It	it	pph1
+is	be	vbz
+part	part	nn1
+of	of	io
+the	the	at
+application	application	nn1
+.		.
+With	with	iw
+a	a	at1
+carefully	carefully	rr
+written	write	vvn_jj@
+cover	cover	nn1_vv0
+letter	letter	nn1
+and	and	cc
+resume	resume	vv0
+,		,
+the	the	at
+factor	factor	nn1
+can	can	vm
+be	be	vbi
+;		;
+that	that	dd1
+portfolio	portfolio	nn1
+submitted	submit	vvd_vvn
+in	in	rp@
+.		.
+It	it	pph1
+can	can	vm
+make	make	vvi
+the	the	at
+employer	employer	nn1
+decide	decide	vvi
+to	to	to
+further	far	rrr
+entertain	entertain	vvi
+your	your	appge
+application	application	nn1
+.		.
+It	it	pph1
+##3509551		fo
+<h>		null
+Lose	lose	vv0
+Weight	weight	nn1
+Fast	fast	rr_nn1@
+In	in	ii
+10	10	mc
+councils	council	nn2
+<p>		null
+This	this	dd1
+article	article	nn1
+explains	explain	vvz
+the	the	at
+10	10	mc
+ways	way	nn2
+we	we	ppis2
+can	can	vm
+lose	lose	vvi
+weight	weight	nn1
+fast	fast	rr_jj_nn1@
+and	and	cc
+how	how	rrq
+we	we	ppis2
+must	must	vm
+change	change	vvi
+some	some	dd
+habits	habit	nn2
+and	and	cc
+achieve	achieve	vvi
+the	the	at
+goal	goal	nn1
+.		.
+is	be	vbz
+a	a	at1
+very	very	rg
+interesting	interesting	jj
+and	and	cc
+above	above	ii
+all	all	db
+very	very	rg
+practical	practical	jj
+.		.
+<p>		null
+Before	before	ii
+starting	start	vvg
+a	a	at1
+diet	diet	nn1
+,		,
+you	you	ppy
+must	must	vm
+determine	determine	vvi
+your	your	appge
+ideal	ideal	jj
+weight	weight	nn1
+.		.
+This	this	dd1
+will	will	vm
+be	be	vbi
+Your	your	appge
+guide	guide	nn1
+in	in	ii
+the	the	at
+journey	journey	nn1
+of	of	io
+weight	weight	nn1
+loss	loss	nn1
+.		.
+"		"
+Fast	fast	jj
+"		"
+weight	weight	nn1
+loss	loss	nn1
+does	do	vdz
+not	not	xx
+mean	mean	vvi
+that	that	cst
+you	you	ppy
+take	take	vv0
+off	off	ii_rp
+50	50	mc
+kilos	kilo	nnu2
+in	in	ii
+one	one	mc1
+night	night	nnt1
+.		.
+Remember	remember	vv0
+to	to	to
+drop	drop	vvi
+a	a	at1
+few	few	da2
+kilos	kilo	nnu2
+may	may	vm
+take	take	vvi
+several	several	da2
+months	month	nnt2
+to	to	to
+remove	remove	vvi
+them	them	ppho2
+.		.
+And	and	cc
+for	for	if
+obese	obese	jj
+people	people	nn
+,		,
+may	may	vm
+take	take	vvi
+years	year	nnt2
+to	to	to
+lose	lose	vvi
+the	the	at
+number	number	nn1
+of	of	io
+kilos	kilo	nnu2
+you	you	ppy
+have	have	vh0
+other	other	jj
+and	and	cc
+reach	reach	vv0
+the	the	at
+desired	desired	jj@
+weight	weight	nn1
+.		.
+<p>		null
+Lose	lose	vv0
+weight	weight	nn1
+is	be	vbz
+critical	critical	jj
+.		.
+Not	not	xx
+wanting	want	vvg_jj
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+fast	fast	rr_jj
+advisable	advisable	jj
+not	not	xx
+do	do	vd0
+so	so	rr
+in	in	ii
+a	a	at1
+sense	sense	nn1
+decontrolled	decontrol	vvd_jj@
+system	system	nn1
+.		.
+It	it	pph1
+is	be	vbz
+necessary	necessary	jj
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+but	but	ccb
+need	need	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+healthily	healthily	rr
+.		.
+<p>		null
+How	how	rgq@_rrq
+long	long	rr_jj
+will	will	vm_vv0%
+you	you	ppy
+lose	lose	vvi
+weight	weight	nn1
+?		?
+It	it	pph1
+depends	depend	vvz
+on	on	ii
+how	how	rgq@_rrq
+dietary	dietary	jj
+approaches	approach	nn2
+and	and	cc
+will	will	vm
+also	also	rr
+depend	depend	vvi
+on	on	ii
+how	how	rgq@
+much	much	da1
+weight	weight	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+get	get	vvi
+off	off	rp
+.		.
+Remember	remember	vv0
+that	that	dd1_cst
+obesity	obesity	nn1
+is	be	vbz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+solution	solution	nn1
+to	to	ii
+all	all	db
+problems	problem	nn2
+of	of	io
+this	this	dd1
+disease	disease	nn1
+.		.
+The	the	at
+controlled	controlled	jj@
+diet	diet	nn1
+is	be	vbz
+always	always	rr
+positive	positive	jj
+if	if	cs_csw@
+we	we	ppis2
+try	try	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+and	and	cc
+control	control	vvi
+time	time	nnt1
+.		.
+<h>		null
+Lose	lose	vv0
+Weight	weight	nn1
+Fast	fast	rr_nn1@
+In	in	ii
+10	10	mc
+councils	council	nn2
+<p>		null
+Here	here	rl
+are	be	vbr
+some	some	dd
+simple	simple	jj
+steps	step	nn2
+to	to	to
+help	help	vvi
+you	you	ppy
+Lose	lose	vv0
+Weight	weight	nn1
+Fast	fast	rr_nn1@_jj
+:		:
+<p>		null
+1	1	mc1
+.		.
+The	the	at
+starting	start	vvg_nn1
+the	the	at
+diet	diet	nn1
+,		,
+you	you	ppy
+know	know	vv0
+how	how	rgq
+many	many	da2
+calories	calorie	nnu2
+you	you	ppy
+need	need	vv0
+for	for	if
+a	a	at1
+normal	normal	jj
+day	day	nnt1
+.		.
+You	you	ppy
+must	must	vm
+set	set	vvi
+your	your	appge
+weight	weight	nn1
+when	when	cs
+starting	start	vvg
+the	the	at
+system	system	nn1
+and	and	cc
+take	take	vv0
+into	into	ii
+account	account	nn1
+that	that	cst
+these	these	dd2
+leading	leading	jj_vvg
+lifestyle	lifestyle	nn1
+at	at	ii
+that	that	dd1
+time	time	nnt1
+,		,
+if	if	cs
+sedentary	sedentary	jj
+,		,
+moderately	moderately	rr
+active	active	jj
+,		,
+or	or	cc
+if	if	cs
+u	u	zz1
+are	be	vbr
+otherwise	otherwise	rr
+active	active	jj
+person	person	nn1
+.		.
+This	this	dd1
+is	be	vbz
+very	very	rg
+important	important	jj
+not	not	xx
+to	to	to
+get	get	vvi
+your	your	appge
+body	body	nn1
+the	the	at
+daily	daily	jj
+energy	energy	nn1
+need	need	nn1
+.		.
+Remember	remember	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+should	should	vm
+not	not	xx
+do	do	vdi
+this	this	dd1
+without	without	iw
+control	control	nn1
+or	or	cc
+weight	weight	nn1
+loss	loss	nn1
+diet	diet	nn1_vv0@
+harmful	harmful	jj
+to	to	ii
+your	your	appge
+health	health	nn1
+.		.
+<p>		null
+2	2	mc
+.		.
+Remember	remember	vv0
+to	to	to
+eat	eat	vvi
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+.		.
+You	you	ppy
+need	need	vv0_vm@
+at	at	rr21
+least	least	rr22
+five	five	mc
+servings	serving	nn2
+of	of	io
+them	them	ppho2
+cadada		nn1
+.		.
+By	by	ii
+doing	do	vdg
+this	this	dd1
+,		,
+anger	anger	vv0_nn1
+on	on	ii
+the	the	at
+right	right	jj_nn1
+track	track	nn1
+to	to	ii
+a	a	at1
+healthy	healthy	jj
+body	body	nn1
+,		,
+because	because	cs
+fruits	fruit	nn2
+and	and	cc
+vegetables	vegetable	nn2
+have	have	vh0
+beneficial	beneficial	jj
+fibers	fiber	nn2
+,		,
+vitamins	vitamin	nn2
+and	and	cc
+antioxidants	antioxidant	nn2
+.		.
+Also	also	rr
+fill	fill	vv0
+the	the	at
+stomach	stomach	nn1
+quickly	quickly	rr
+,		,
+so	so	rr
+do	do	vd0
+not	not	xx
+overeat	overeat	vvi
+and	and	cc
+have	have	vhi
+few	few	da2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	ii
+your	your	appge
+weight	weight	nn1
+loss	loss	nn1
+diet	diet	nn1
+intake	intake	nn1
+of	of	io
+6	6	mc
+to	to	ii
+8	8	mc
+glasses	glass	nn2
+of	of	io
+water	water	nn1
+a	a	at1
+day	day	nnt1
+.		.
+<p>		null
+3	3	mc
+.		.
+Controls	control	vvz_nn2
+the	the	at
+amount	amount	nn1
+of	of	io
+food	food	nn1
+you	you	ppy
+eat	eat	vv0
+.		.
+Avoid	avoid	vv0
+high	high	jj
+calorie	calorie	nnu1
+foods	food	nn2
+and	and	cc
+eat	eat	vv0
+in	in	ii_rp@
+small	small	jj
+portions	portion	nn2
+.		.
+A	a	at1_zz1
+helpful	helpful	jj
+tip	tip	nn1
+is	be	vbz
+to	to	to
+chew	chew	vvi
+your	your	appge
+food	food	nn1
+slowly	slowly	rr
+because	because	cs
+this	this	dd1
+makes	make	vvz
+digestion	digestion	nn1
+easier	easy	rrr_jjr
+for	for	if
+your	your	appge
+body	body	nn1
+and	and	cc
+less	less	rgr
+likely	likely	jj
+to	to	to
+overeat	overeat	vvi
+.		.
+In	in	rr21
+short	short	rr22
+for	for	if
+our	our	appge
+weight	weight	nn1
+loss	loss	nn1
+program	program	nn1
+is	be	vbz
+important	important	jj
+to	to	ii
+more	more	dar
+number	number	nn1
+of	of	io
+meals	meal	nn2
+a	a	at1
+day	day	nnt1
+but	but	ccb
+much	much	rr_da1
+more	more	rgr_dar
+healthy	healthy	jj
+and	and	cc
+chewed	chew	vvd_vvn
+.		.
+So	so	rr
+we	we	ppis2
+'ll	will	vm
+start	start	vvi
+to	to	to
+notice	notice	vvi
+that	that	cst
+lose	lose	vv0
+weight	weight	nn1
+is	be	vbz
+entirely	entirely	rr
+possible	possible	jj
+.		.
+<p>		null
+4	4	mc
+.		.
+Do	do	vd0
+not	not	xx
+skip	skip	vvi
+meals	meal	nn2
+.		.
+When	when	cs_rrq
+you	you	ppy
+want	want	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+you	you	ppy
+may	may	vm
+be	be	vbi
+tempted	tempt	vvn
+to	to	to
+starve	starve	vvi
+.		.
+But	but	ccb
+eating	eat	vvg
+small	small	jj
+amounts	amount	nn2
+of	of	io
+food	food	nn1
+frequently	frequently	rr
+can	can	vm
+help	help	vvi
+maintain	maintain	vvi
+healthy	healthy	jj
+eating	eating	nn1
+and	and	cc
+balanced	balanced	jj_vvn
+calories	calorie	nnu2
+throughout	throughout	ii
+the	the	at
+day.Also		nnu
+,		,
+your	your	appge
+level	level	nn1
+of	of	io
+blood	blood	nn1
+sugar	sugar	nn1
+,		,
+will	will	vm
+be	be	vbi
+adversely	adversely	rr
+affected	affect	vvn
+if	if	cs
+you	you	ppy
+do	do	vd0
+not	not	xx
+eat	eat	vvi
+often	often	rr
+.		.
+You	you	ppy
+can	can	vm
+even	even	rr
+divide	divide	vvi
+the	the	at
+standard	standard	jj_nn1
+assignment	assignment	nn1
+of	of	io
+three	three	mc
+meals	meal	nn2
+into	into	ii
+five	five	mc
+or	or	cc
+six	six	mc
+smaller	small	jjr
+meals	meal	nn2
+.		.
+To	to	to
+lose	lose	vvi
+weight	weight	nn1
+with	with	iw
+some	some	dd
+rapided		vvd
+this	this	dd1
+step	step	nn1
+is	be	vbz
+important	important	jj
+.		.
+6	6	mc
+meals	meal	nn2
+a	a	at1
+day	day	nnt1
+are	be	vbr
+equal	equal	jj
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+safely	safely	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+Packaged	package	vvn_jj@
+and	and	cc
+processed	processed	jj
+foods	food	nn2
+are	be	vbr
+high	high	jj_rr@
+in	in	ii
+sodium	sodium	nn1
+and	and	cc
+fat	fat	nn1_jj
+.		.
+You	you	ppy
+have	have	vh0
+more	more	dar
+chances	chance	nn2
+of	of	io
+losing	lose	vvg_jj@
+weight	weight	nn1
+if	if	cs
+you	you	ppy
+eat	eat	vv0
+foods	food	nn2
+that	that	cst
+are	be	vbr
+fresh	fresh	jj
+.		.
+Lower	low	jjr
+weight	weight	nn1
+means	mean	vvz_nn
+eating	eat	vvg_nn1
+healthily	healthily	rr
+and	and	cc
+healthy	healthy	jj
+products	product	nn2
+in	in	ii
+this	this	dd1
+section	section	nn1
+fall	fall	nn1_vv0
+vegetables	vegetable	nn2
+and	and	cc
+fruits	fruit	nn2
+.		.
+<p>		null
+6	6	mc
+.		.
+Do	do	vd0
+not	not	xx
+limit	limit	vvi
+your	your	appge
+food	food	nn1
+intake	intake	nn1
+too	too	rr@
+.		.
+Go	go	vv0
+ahead	ahead	rl
+and	and	cc
+enjoy	enjoy	vv0
+eating	eat	vvg
+your	your	appge
+favorite	favorite	jj_nn1
+food	food	nn1
+.		.
+It	it	pph1
+is	be	vbz
+nice	nice	jj
+to	to	to
+have	have	vhi
+that	that	dd1
+slice	slice	nn1
+of	of	io
+birthday	birthday	nn1
+cake	cake	nn1
+at	at	ii
+the	the	at
+party	party	nn1
+from	from	rr41
+time	time	rr42
+to	to	rr43
+time	time	rr44
+.		.
+Just	just	rr
+make	make	vv0
+sure	sure	jj
+you	you	ppy
+eat	eat	vv0
+in	in	ii_rp@
+moderation	moderation	nn1
+and	and	cc
+do	do	vd0
+not	not	xx
+abuse	abuse	vvi
+those	those	dd2
+special	special	jj
+desserts	dessert	nn2
+as	as	csa_ii@
+rewards	reward	nn2
+are	be	vbr
+actually	actually	rr
+enemies	enemy	nn2
+,		,
+for	for	if
+weight	weight	nn1
+loss	loss	nn1
+.		.
+To	to	to
+lose	lose	vvi
+weight	weight	nn1
+fast	fast	jj_rr
+sweets	sweet	nn2
+,		,
+desserts	dessert	nn2
+and	and	cc
+pastries	pastry	nn2
+indutrial		jj
+are	be	vbr
+not	not	xx
+good	good	jj
+companions	companion	nn2
+.		.
+Lower	low	jjr
+weight	weight	nn1
+means	mean	vvz_nn
+we	we	ppis2
+have	have	vh0
+to	to	to
+have	have	vhi
+some	some	dd
+discipline	discipline	nn1
+.		.
+<p>		null
+7	7	mc
+.		.
+Not	not	xx
+always	always	rr
+believe	believe	vv0
+everything	everything	pn1
+you	you	ppy
+read	read	vv0_vvd
+on	on	ii
+food	food	nn1
+labels	label	nn2
+.		.
+"		"
+Fat	fat	jj_nn1
+free	free	jj
+"		"
+does	do	vdz
+not	not	xx
+necessarily	necessarily	rr
+mean	mean	vvi
+low	low	jj_rr@
+in	in	ii
+calories	calorie	nnu2
+.		.
+Wisdom	wisdom	nn1_np1@
+suggests	suggest	vvz
+that	that	cst
+the	the	at
+same	same	da
+goes	go	vvz_nn2%
+for	for	if
+foods	food	nn2
+that	that	cst
+say	say	vv0
+"		"
+low	low	jj
+carb	carbohydrate	nn1
+.		.
+"		"
+Remember	remember	vv0
+not	not	xx
+believe	believe	vv0
+much	much	rr_da1
+in	in	ii
+"		"
+low	low	jj
+sugar	sugar	nn1
+"		"
+You	you	ppy
+better	better	rrr
+take	take	vvi
+a	a	at1
+look	look	nn1
+at	at	ii
+the	the	at
+nutrition	nutrition	nn1
+label	label	nn1_vv0
+--		zz
+there	there	ex_rl
+is	be	vbz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+weight	weight	nn1
+quickly	quickly	rr
+we	we	ppis2
+have	have	vh0
+always	always	rr
+seen	see	vvn
+the	the	at
+products	product	nn2
+we	we	ppis2
+buy	buy	vv0
+and	and	cc
+that	that	dd1_cst
+diet	diet	nn1
+products	product	nn2
+sometimes	sometimes	rt
+need	need	vv0
+a	a	rr21_at1
+little	little	rr22_jj
+special	special	jj
+.		.
+<p>		null
+8	8	mc
+.		.
+Try	try	vv0
+to	to	to
+limit	limit	vvi
+the	the	at
+number	number	nn1
+of	of	io
+juices	juice	nn2
+and	and	cc
+sugary	sugary	jj_nn1
+beverages	beverage	nn2
+you	you	ppy
+consume	consume	vv0
+.		.
+Instead	instead	rr
+,		,
+the	the	at
+water	water	nn1
+you	you	ppy
+can	can	vm
+drink	drink	vvi
+eight	eight	mc
+glasses	glass	nn2
+a	a	at1
+day	day	nnt1
+--		zz
+this	this	dd1
+flushes	flush	vvz
+toxins	toxin	nn2
+from	from	ii
+your	your	appge
+body	body	nn1
+and	and	cc
+waste	waste	nn1_vv0
+.		.
+Besides	besides	ii_rr
+the	the	at
+more	more	rrr
+hydrated	hydrate	vvd
+your	your	appge
+body	body	nn1
+this	this	dd1
+all	all	db
+the	the	at
+better	better	jjr_rrr
+.		.
+To	to	to
+lose	lose	vvi
+weight	weight	nn1
+fast	fast	rr_nn1@
+is	be	vbz
+essential	essential	jj
+to	to	to
+drink	drink	vvi
+plenty	plenty	pn
+of	of	io
+water	water	nn1
+.		.
+A	a	at1
+diet	diet	nn1
+without	without	iw
+water	water	nn1
+is	be	vbz
+almost	almost	rr
+certainly	certainly	rr
+a	a	at1
+sterile	sterile	jj
+diet	diet	nn1
+and	and	cc
+no	no	at
+results	result	nn2
+.		.
+<p>		null
+9	9	mc
+.		.
+If	if	cs
+possible	possible	jj
+,		,
+keep	keep	vv0
+a	a	at1
+food	food	nn1
+diary	diary	nn1
+.		.
+This	this	dd1
+will	will	vm
+help	help	vvi
+you	you	ppy
+track	track	vvi
+your	your	appge
+calorie	calorie	nnu1
+intake	intake	nn1
+and	and	cc
+will	will	vm
+be	be	vbi
+a	a	at1
+daily	daily	jj
+reminder	reminder	nn1
+of	of	io
+the	the	at
+types	type	nn2
+of	of	io
+food	food	nn1
+you	you	ppy
+need	need	vv0
+.		.
+Losing	lose	vvg_jj@
+weight	weight	nn1
+is	be	vbz
+not	not	xx
+only	only	rr
+the	the	at
+work	work	nn1
+of	of	io
+food	food	nn1
+,		,
+but	but	ccb
+we	we	ppis2
+also	also	rr
+need	need	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+for	for	if
+control	control	nn1
+exhaustive	exhaustive	jj
+of	of	io
+all	all	db
+food	food	nn1
+and	and	cc
+all	all	db
+the	the	at
+exercises	exercise	nn2
+we	we	ppis2
+do	do	vd0
+each	each	dd1
+day	day	nnt1
+.		.
+<p>		null
+10	10	mc
+.		.
+Do	do	vd0
+not	not	xx
+forget	forget	vvi
+to	to	to
+exercise	exercise	vvi
+!		!
+From	from	ii
+Thirty	thirty	mc
+to	to	ii
+sixty	sixty	mc
+minutes	minute	nnt2
+of	of	io
+physical	physical	jj
+activity	activity	nn1
+a	a	at1
+day	day	nnt1
+will	will	vm
+be	be	vbi
+sufficient	sufficient	jj
+to	to	to
+protect	protect	vvi
+your	your	appge
+health	health	nn1
+and	and	cc
+help	help	vvi
+you	you	ppy
+lose	lose	vvi
+weight	weight	nn1
+(		(
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Work	work	vv0_nn1
+and	and	cc
+exercises	exercise	nn2
+are	be	vbr
+especially	especially	rr
+great	great	jj
+ways	way	nn2
+to	to	to
+burn	burn	vvi
+those	those	dd2
+calories	calorie	nnu2
+and	and	cc
+other	other	jj
+pesky	pesky	jj
+kilos	kilo	nnu2
+bother	bother	vv0
+us	us	ppio2
+so	so	rg
+much	much	da1
+to	to	to
+see	see	vvi
+us	us	ppio2
+.		.
+<p>		null
+In	in	rr21
+short	short	rr22
+,		,
+if	if	cs
+we	we	ppis2
+want	want	vv0
+to	to	to
+lose	lose	vvi
+weight	weight	nn1
+and	and	cc
+make	make	vvi
+it	it	pph1
+more	more	rgr
+or	or	cc
+less	less	rgr
+quickly	quickly	rr
+have	have	vh0
+to	to	to
+change	change	vvi
+certain	certain	jj
+habits	habit	nn2
+that	that	cst
+we	we	ppis2
+##3509552		fo
+<h>		null
+National	national	jj
+University	university	nn1
+3rd	3rd	md
+Year	year	nnt1
+Result	result	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+<p>		null
+2009	2009	mc
+National	national	jj
+University	university	nn1
+3rd	3rd	md
+Year	year	nnt1
+Result	result	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+.		.
+The	the	at
+National	national	jj
+University	university	nn1
+(		(
+NU	nu	nn1
+)		)
+was	be	vbdz
+established	establish	vvn
+in	in	ii
+1992	1992	mc
+below	below	ii
+an	a	at1
+act	act	nn1
+of	of	io
+Parliament	parliament	nn1
+of	of	io
+the	the	at
+govt	govt	nn1
+of	of	io
+the	the	at
+people	people	nn
+'s	's	ge
+republic	republic	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+with	with	iw
+options	option	nn2
+distinct	distinct	jj
+from	from	ii
+those	those	dd2
+of	of	io
+the	the	at
+traditional	traditional	jj
+Universities	university	nn2
+of	of	io
+the	the	at
+country	country	nn1
+.		.
+The	the	at
+National	national	jj
+University	university	nn1
+caters	cater	vvz
+the	the	at
+overall	overall	jj_nn1
+education	education	nn1
+at	at	ii
+graduate	graduate	nn1
+and	and	cc
+post-graduate	postgraduate	nn1
+level	level	nn1
+in	in	ii
+colleges/institutions		nn2
+that	that	cst
+were	be	vbdr
+affiliated	affiliate	vvn
+to	to	ii_to
+completely	completely	rr
+different	different	jj
+public	public	jj_nn1
+universities	university	nn2
+since	since	cs_ii@
+independence	independence	nn1
+.		.
+About	about	rg
+a	a	at1
+million	million	nno
+students	student	nn2
+are	be	vbr
+studying	study	vvg
+in	in	ii_rp@
+additional	additional	jj
+than	than	csn
+1600	1600	mc
+colleges/institutions		nn2
+affiliated	affiliate	vvn
+to	to	ii
+the	the	at
+current	current	jj
+university	university	nn1
+.		.
+<h>		null
+National	national	jj
+University	university	nn1
+3rd	3rd	md
+Year	year	nnt1
+Result	result	nn1
+Of	of	io
+Bangladesh	bangladesh	np1
+<p>		null
+The	the	at
+National	national	jj
+University	university	nn1
+is	be	vbz
+expanding	expand	vvg_jj
+in	in	ii31
+terms	terms	ii32
+of	of	ii33
+range	range	nn1
+of	of	io
+students	student	nn2
+,		,
+courses	course	nn2
+and	and	cc
+establishments	establishment	nn2
+day	day	nnt1
+by	by	ii
+day	day	nnt1
+.		.
+To	to	ii
+day	day	nnt1
+this	this	dd1
+university	university	nn1
+plays	play	vvz
+the	the	at
+most	most	rgt
+important	important	jj
+role	role	nn1
+to	to	to
+supply	supply	vvi
+opportunities	opportunity	nn2
+for	for	if
+higher	high	jjr
+education	education	nn1
+among	among	ii
+the	the	at
+scholars	scholar	nn2
+living	live	vvg
+particularly	particularly	rr
+in	in	ii
+rural	rural	jj
+and	and	cc
+semi-urban	semi-urban	jj
+areas	area	nn2
+.		.
+The	the	at
+university	university	nn1
+has	have	vhz
+taken	take	vvn
+plenty	plenty	pn
+of	of	io
+necessary	necessary	jj
+steps	step	nn2
+to	to	to
+enhance	enhance	vvi
+the	the	at
+quality	quality	nn1
+of	of	io
+education	education	nn1
+by	by	ii
+formulating	formulate	vvg
+a	a	at1
+contemporary	contemporary	jj
+uniform	uniform	jj_nn1
+curriculum	curriculum	nn1
+,		,
+providing	provide	vvg
+training	training	nn1
+of	of	io
+the	the	at
+lecturers	lecturer	nn2
+and	and	cc
+supplying	supply	vvg
+teaching	teaching	nn1_vvg
+materials	material	nn2
+to	to	ii
+the	the	at
+##3518150		fo
+<p>		null
+Shakib		vv0_np1@
+Al	al	np1
+Hasan	hasan	np1
+,		,
+who	who	pnqs
+was	be	vbdz
+axed	axe	vvn
+as	as	csa_ii@
+Bangladesh	bangladesh	np1
+captain	captain	nn1
+on	on	ii
+Monday	monday	npd1
+,		,
+has	have	vhz
+said	say	vvn
+that	that	cst
+though	though	cs
+he	he	pphs1
+was	be	vbdz
+surprised	surprised	jj_vvn%
+by	by	ii
+the	the	at
+decision	decision	nn1
+,		,
+it	it	pph1
+was	be	vbdz
+n't	n't	xx
+entirely	entirely	rr
+unexpected	unexpected	jj
+.		.
+Both	both	rr
+Shakib		np1_vv0@
+and	and	cc
+vice-captain	vice-captain	nn1
+Tamim	tamim	np1_nn1
+Iqbal	iqbal	np1
+were	be	vbdr
+stripped	strip	vvn_jj
+of	of	io
+their	their	appge
+leadership	leadership	nn1
+posts	post	nn2
+by	by	ii
+the	the	at
+Bangladesh	bangladesh	np1
+board	board	nn1
+after	after	ii_cs
+the	the	at
+team	team	nn1
+'s	's	ge
+defeat	defeat	nn1
+in	in	ii
+both	both	db2
+the	the	at
+Test	test	nn1
+and	and	cc
+the	the	at
+one-day	one-day	jj
+series	series	nn
+in	in	ii
+Zimbabwe	zimbabwe	np1
+last	last	md
+month	month	nnt1
+.		.
+<p>		null
+"		"
+I	i	ppis1
+am	be	vbm
+surprised	surprised	jj
+by	by	ii
+the	the	at
+sudden	sudden	jj
+decision	decision	nn1
+but	but	ccb
+I	i	ppis1
+am	be	vbm
+not	not	xx
+shocked	shocked	jj_vvn@
+.		.
+I	i	ppis1
+can	can	vm
+take	take	vvi
+things	thing	nn2
+easy	easy	rr@_jj
+which	which	ddq
+is	be	vbz
+my	my	appge
+strength	strength	nn1
+,		,
+"		"
+Shakib	shakib	np1
+told	tell	vvd
+the	the	at
+Dhaka-based	dhaka-based	jj_nn1
+newspaper	newspaper	nn1
+Daily	daily	jj
+Star	star	nn1
+.		.
+"		"
+The	the	at
+board	board	nn1
+definitely	definitely	rr
+took	take	vvd
+this	this	dd1
+decision	decision	nn1
+for	for	if
+betterment	betterment	nn1
+of	of	io
+the	the	at
+game	game	nn1
+,		,
+so	so	cs@_rr
+I	i	ppis1
+must	must	vm
+accept	accept	vvi
+it	it	pph1
+.		.
+"		"
+<p>		null
+Shakib		vv0_nn1_np1@
+,		,
+25	25	mc
+,		,
+has	have	vhz
+been	be	vbn
+Bangladesh	bangladesh	np1
+'s	's	ge
+captain	captain	nn1
+for	for	if
+two	two	mc
+years	year	nnt2
+,		,
+except	except	ii21
+for	for	ii22
+brief	brief	jj
+spells	spell	nn2
+when	when	rrq_cs
+the	the	at
+frequently	frequently	rr
+injured	injured	jj_vvn_vvd
+fast	fast	jj
+bowler	bowler	nn1
+Mashrafe		np1
+Mortaza		np1
+took	take	vvd
+charge	charge	nn1
+.		.
+Shakib		nn1_np1@_vv0
+was	be	vbdz
+named	name	vvn_jj@
+captain	captain	nn1
+for	for	if
+2011	2011	mc
+after	after	ii
+leading	lead	vvg
+the	the	at
+side	side	nn1
+to	to	ii
+an	a	at1
+impressive	impressive	jj
+4-0	4-0	mcmc
+one-day	one-day	jj
+series	series	nn
+win	win	vv0
+over	over	ii_rp
+New	new	np1
+Zealand	zealand	np1
+at	at	ii
+home	home	nn1
+and	and	cc
+following	follow	vvg
+it	it	pph1
+up	up	rp
+with	with	iw
+a	a	at1
+victory	victory	nn1
+over	over	ii
+Zimbabwe	zimbabwe	np1
+late	late	jj_rr
+last	last	md
+year	year	nnt1
+.		.
+<p>		null
+It	it	pph1
+has	have	vhz
+n't	n't	xx
+been	be	vbn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+2010	2010	mc
+,		,
+soon	soon	rr
+after	after	cs
+he	he	pphs1
+was	be	vbdz
+named	name	vvn
+full-time	full-time	jj
+captain	captain	nn1
+,		,
+he	he	pphs1
+complained	complain	vvd
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+n't	n't	xx
+prepared	prepare	vvn
+for	for	if
+the	the	at
+job	job	nn1
+and	and	cc
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+not	not	xx
+getting	get	vvg
+a	a	at1
+free	free	jj
+hand	hand	nn1
+in	in	ii
+selecting	select	vvg
+the	the	at
+team	team	nn1
+.		.
+He	he	pphs1
+also	also	rr
+demanded	demand	vvd
+a	a	at1
+long	long	jj
+run	run	nn1_vvn
+as	as	csa_ii@
+captain	captain	nn1
+and	and	cc
+did	do	vdd
+n't	n't	xx
+want	want	vvi
+to	to	to
+take	take	vvi
+over	over	rp
+on	on	ii
+a	a	at1
+"		"
+series-by-series		jj
+"		"
+basis	basis	nn1
+as	as	ii_csa
+the	the	at
+board	board	nn1
+wanted	want	vvd
+him	him	ppho1
+to	to	ii_to
+.		.
+He	he	pphs1
+also	also	rr
+had	have	vhd
+a	a	at1
+strained	strained	jj
+relationship	relationship	nn1
+with	with	iw
+the	the	at
+new	new	jj
+selection	selection	nn1
+panel	panel	nn1
+headed	head	vvn
+by	by	ii
+former	former	da
+captain	captain	nn1
+Akram	akram	np1
+Khan	khan	nna
+,		,
+with	with	iw
+Shakib		np1_nn1@
+saying	say	vvg_nn1@
+he	he	pphs1
+was	be	vbdz
+n't	n't	xx
+consulted	consult	vvn
+when	when	cs_rrq
+the	the	at
+side	side	nn1
+to	to	ii
+tour	tour	nn1
+Zimbabwe	zimbabwe	np1
+was	be	vbdz
+picked	pick	vvn
+,		,
+while	while	cs
+Akram	akram	np1
+insisted	insist	vvd
+Shakib	shakib	np1
+was	be	vbdz
+.		.
+<p>		null
+The	the	at
+controversies	controversy	nn2
+and	and	cc
+the	the	at
+loss	loss	nn1
+to	to	ii
+Zimbabwe	zimbabwe	np1
+,		,
+a	a	at1
+team	team	nn1
+which	which	ddq
+was	be	vbdz
+making	make	vvg
+its	its	appge
+return	return	nn1
+to	to	ii
+the	the	at
+Test	test	nn1
+arena	arena	nn1
+after	after	ii
+five	five	mc
+years	year	nnt2
+,		,
+seem	seem	vv0
+to	to	to
+have	have	vhi
+led	lead	vvn
+to	to	ii
+Shakib	shakib	np1
+'s	's	ge
+sacking	sacking	nn1
+.		.
+"		"
+As	as	ii_csa
+a	a	at1
+captain	captain	nn1
+I	i	ppis1
+must	must	vm
+take	take	vvi
+the	the	at
+responsibility	responsibility	nn1
+for	for	if
+the	the	at
+poor	poor	jj
+showing	showing	nn1@_vvg
+in	in	ii
+Zimbabwe	zimbabwe	np1
+,		,
+"		"
+he	he	pphs1
+said	say	vvd
+.		.
+"		"
+But	but	ccb
+still	still	rr
+I	i	ppis1
+believe	believe	vv0
+that	that	cst
+we	we	ppis2
+had	have	vhd
+lack	lack	nn1
+of	of	io
+preparation	preparation	nn1
+and	and	cc
+that	that	dd1
+was	be	vbdz
+one	one	mc1
+of	of	io
+the	the	at
+main	main	jj
+reasons	reason	nn2
+behind	behind	ii
+the	the	at
+debacle	debacle	nn1
+.		.
+"		"
+<p>		null
+Shakib		np1@_nn1
+said	say	vvd
+the	the	at
+board	board	nn1
+needs	need	vvz_nn2
+to	to	to
+investigate	investigate	vvi
+the	the	at
+reasons	reason	nn2
+behind	behind	ii
+the	the	at
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+we	we	ppis2
+make	make	vv0
+someone	someone	pn1
+scapegoat	scapegoat	nn1
+for	for	if
+any	any	dd
+failure	failure	nn1
+because	because	cs
+we	we	ppis2
+do	do	vd0
+n't	n't	xx
+want	want	vvi
+to	to	to
+dig	dig	vvi
+deep	deep	rr
+to	to	to
+find	find	vvi
+out	out	rp
+the	the	at
+real	real	jj
+problem	problem	nn1
+and	and	cc
+this	this	dd1
+is	be	vbz
+no	no	at
+exception	exception	nn1
+,		,
+"		"
+he	he	pphs1
+said	say	vvd
+.		.
+"		"
+This	this	dd1
+is	be	vbz
+our	our	appge
+system	system	nn1
+.		.
+We	we	ppis2
+always	always	rr
+try	try	vv0
+to	to	to
+solve	solve	vvi
+problems	problem	nn2
+casually	casually	rr
+.		.
+"		"
+<p>		null
+For	for	if
+the	the	at
+betterment	betterment	nn1
+of	of	io
+cricket	cricket	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+,		,
+Shakib	shakib	np1
+is	be	vbz
+the	the	at
+guy	guy	nn1
+that	that	cst_dd1
+needs	need	vvz
+to	to	to
+be	be	vbi
+at	at	ii
+the	the	at
+helm	helm	nn1
+.		.
+This	this	dd1
+decision	decision	nn1
+to	to	to
+remove	remove	vvi
+him	him	ppho1
+from	from	ii
+captaincy	captaincy	nn1
+is	be	vbz
+still	still	rr
+okay	okay	jj
+if	if	cs_csw@
+they	they	pphs2
+wanted	want	vvd
+a	a	at1
+message	message	nn1
+sent	send	vvn_vvd
+to	to	ii
+him	him	ppho1
+.		.
+But	but	ccb
+he	he	pphs1
+must	must	vm
+be	be	vbi
+brought	bring	vvn
+back	back	rp
+in	in	ii
+some	some	dd
+time	time	nnt1
+,		,
+in	in	ii_rp@
+say	say	vv0
+a	a	at1
+year	year	nnt1
+.		.
+Like	like	ii_vv0@
+some	some	pn121
+one	one	pn122
+else	else	rr
+mentioned	mention	vvn_vvd
+here	here	rl
+,		,
+people	people	nn
+get	get	vv0
+emotional	emotional	jj
+with	with	iw
+wins	win	nn2
+and	and	cc
+losses.The		nnu
+bigger	big	jjr
+picture	picture	nn1
+is	be	vbz
+that	that	cst
+Bangladesh	bangladesh	np1
+is	be	vbz
+still	still	rr
+growing	grow	vvg_jj
+as	as	ii_csa
+a	a	at1
+cricket	cricket	nn1
+nation	nation	nn1
+and	and	cc
+shakib		nn1_vv0
+is	be	vbz
+the	the	at
+man	man	nn1
+that	that	cst_dd1
+will	will	vm
+lead	lead	vvi
+the	the	at
+growth	growth	nn1
+.		.
+So	so	rr
+this	this	dd1
+should	should	vm
+be	be	vbi
+temporary	temporary	jj
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+shafiqo		nn1
+on	on	ii
+(		(
+September	september	npm1
+07	07	mc
+2011	2011	mc
+,		,
+09:06		mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+Vice	vice	jj_ii_nn1
+captaincy	captaincy	nn1
+can	can	vm
+be	be	vbi
+of	of	io
+makeshift	makeshift	jj
+appointment	appointment	nn1
+basis	basis	nn1
+.		.
+One	one	mc1
+series	series	nn
+Kayes	kayes	np1
+may	may	vm
+be	be	vbi
+tried	try	vvn@
+,		,
+another	another	dd1
+series	series	nn
+may	may	vm
+be	be	vbi
+Ryad		np1_nn1@
+or	or	cc
+Razzak		np1_vv0@_nn1@
+provided	provided	cs21
+that	that	cs22
+they	they	pphs2
+are	be	vbr
+selected	select	vvn
+for	for	if
+the	the	at
+match	match	nn1
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+ensure	ensure	vvi
+his	his	appge
+place	place	nn1
+in	in	ii
+the	the	at
+squad	squad	nn1
+,		,
+best	best	jjt_vv0%
+11	11	mc
+,		,
+perform	perform	vv0
+consistently	consistently	rr
+,		,
+earn	earn	vv0
+popularity/respect		nn1
+among	among	ii
+the	the	at
+current	current	jj
+players/performers		nn2
+.		.
+Then	then	rt
+he	he	pphs1
+may	may	vm
+be	be	vbi
+a	a	at1
+good	good	jj
+choice	choice	nn1
+for	for	if
+captaincy	captaincy	nn1
+.		.
+It	it	pph1
+is	be	vbz
+always	always	rr
+difficult	difficult	jj
+for	for	if
+the	the	at
+returnees	returnee	nn2
+.		.
+Persistence	persistence	nn1
+is	be	vbz
+the	the	at
+key	key	jj_nn1
+quality	quality	nn1
+required	require	vvn
+in	in	ii
+all	all	db
+these	these	dd2
+players	player	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+shafiqo		nn1
+on	on	ii
+(		(
+September	september	npm1
+07	07	mc
+2011	2011	mc
+,		,
+08:46		mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+A	a	at1_zz1
+difficult	difficult	jj
+decision	decision	nn1
+was	be	vbdz
+made	make	vvn
+,		,
+hopefully	hopefully	rr
+to	to	to
+save	save	vvi
+the	the	at
+team	team	nn1
+from	from	ii
+further	far	jjr@_rrr
+future	future	nn1_jj
+debacles	debacle	nn2
+.		.
+This	this	dd1
+is	be	vbz
+not	not	xx
+probably	probably	rr
+a	a	at1
+permanent	permanent	jj
+resolve	resolve	nn1@_vv0
+from	from	ii
+this	this	dd1
+type	type	nn1
+of	of	io
+school	school	nn1
+boyish	boyish	jj
+grouping	grouping	nn1
+games	game	nn2
+.		.
+BD	bd	np1
+coaching	coach	vvg_nn1
+staff	staff	nn
+&;		null
+board	board	nn1_vv0@
+elders	elder	nn2
+will	will	vm
+have	have	vhi
+to	to	to
+ensurer	ensurer	nn1
+skills	skill	nn2
+on	on	ii
+how	how	rrq
+to	to	to
+motivate	motivate	vvi
+young	young	jj
+cricketers	cricketer	nn2
+&;		null
+be	be	vbi
+respected	respected	jj_vvn
+guardians	guardian	nn2
+.		.
+This	this	dd1
+seems	seem	vvz
+like	like	ii
+the	the	at
+"		"
+Shoeb		np1
+Malik	malik	np1_nn1
+incedent		nn1_jj
+"		"
+in	in	ii
+Pakistan	pakistan	np1
+team	team	nn1
+.		.
+Plz		np1
+do	do	vd0
+n't	n't	xx
+let	let	vvi
+shakib		nn1_vv0
+fade	fade	vvi
+out	out	rp
+like	like	ii
+Shoeb		np1
+.		.
+He	he	pphs1
+may	may	vm
+have	have	vhi
+made	make	vvn
+some	some	dd
+childish	childish	jj
+mistakes	mistake	nn2
+which	which	ddq
+he	he	pphs1
+may	may	vm
+not	not	xx
+realize	realize	vvi
+fully	fully	rr
+due	due	ii21
+to	to	ii22
+his	his	appge
+age	age	nn1
+but	but	ccb
+he	he	pphs1
+needs	need	vvz
+to	to	to
+be	be	vbi
+kept	keep	vvn
+inspired	inspire	vvn_jj_vvd
+as	as	ii_csa
+the	the	at
+best	best	jjt
+performer	performer	nn1
+of	of	io
+the	the	at
+team	team	nn1
+.		.
+He	he	pphs1
+'ll	will	vm
+probably	probably	rr
+be	be	vbi
+a	a	at1
+good	good	jj
+captain	captain	nn1
+in	in	ii
+couple	couple	nn1
+of	of	io
+years	year	nnt2
+time	time	nnt1
+.		.
+Tamim	tamim	nn1_vv0_np1@
+needs	need	vvz_nn2
+to	to	to
+be	be	vbi
+talked	talk	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+become	become	vv0_vvn@
+like	like	ii
+Shehwag		np1_nn1
+.		.
+Shehwag		np1@_nn1
+'s	's	ge
+arrogance	arrogance	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+positve		nn1
+quality	quality	nn1
+from	from	ii
+a	a	at1
+sports	sport	nn2
+person	person	nn1
+.		.
+Tamim	tamim	nn1_vv0_np1@
+will	will	vm
+also	also	rr
+do	do	vdi
+better	better	rrr
+in	in	ii
+future	future	nn1_jj
+.		.
+Mushfiqur		nn1_np1@
+seems	seem	vvz
+the	the	at
+best	best	jjt
+choice	choice	nn1
+for	for	if
+now	now	rt
+who	who	pnqs
+can	can	vm
+keep	keep	vvi
+the	the	at
+BKSP		np1
+buddies	buddy	nn2
+&;		null
+the	the	at
+under-19	under-19	jj
+team	team	nn1
+mates	mate	nn2
+in	in	ii
+harmony	harmony	nn1
+with	with	iw
+the	the	at
+rest	rest	nn1
+of	of	io
+the	the	at
+bunch	bunch	nn1
+with	with	iw
+his	his	appge
+matured	matured	jj@
+JU	ju	nn1_np1
+educated	educated	jj_vvn
+exposure	exposure	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+Quddus-Mamu		np1
+on	on	ii
+(		(
+September	september	npm1
+07	07	mc
+2011	2011	mc
+,		,
+03:20	03:20	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+Let	let	vm21
+'s	be	vm22
+make	make	vvi
+Nafees		nn2_np1
+as	as	ii_csa
+a	a	at1
+Captain	captain	nn1
+and	and	cc
+Mushfiq		np1_vv0@_jj@_nn1@
+as	as	csa_ii@
+his	his	appge
+deputy	deputy	nn1
+.		.
+These	these	dd2
+two	two	mc
+guys	guy	nn2
+are	be	vbr
+cool	cool	jj_rr@
+,		,
+at	at	rr21
+least	least	rr22
+they	they	pphs2
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+any	any	dd
+attitude	attitude	nn1
+problems	problem	nn2
+like	like	ii
+Shakib	shakib	np1
+and	and	cc
+Tamim		np1_nn1_vv0
+.		.
+Go	go	vv0
+Tiger	tiger	nn1
+Go	go	vv0
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+September	september	npm1
+07	07	mc
+2011	2011	mc
+,		,
+01:24	01:24	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+A	a	at1
+bunch	bunch	nn1
+of	of	io
+jokers	joker	nn2
+...		...
+in	in	ii
+BCB	bcb	np1
+.....	......	...
+As	as	csa_ii@
+captain	captain	nn1
+and	and	cc
+vice	vice	jj_nn1
+captain	captain	nn1
+Shakib		np1_nn1@
+and	and	cc
+Tamim		vv0_np1_nn1
+both	both	rr
+has	have	vhz
+shown	show	vvn
+immaturity	immaturity	nn1
+and	and	cc
+they	they	pphs2
+have	have	vh0
+shown	show	vvn
+lacks	lack	vvz
+in	in	ii
+leadership	leadership	nn1
+traits	trait	nn2
+...		...
+So	so	rr
+do	do	vd0
+the	the	at
+BCB	bcb	np1
+.		.
+They	they	pphs2
+should	should	vm
+have	have	vhi
+nurtured	nurture	vvn
+and	and	cc
+allowed	allow	vvn
+them	them	ppho2
+to	to	to
+grow	grow	vvi
+.		.
+how	how	rgq@
+many	many	da2
+captains	captain	nn2
+in	in	ii
+last	last	md
+ten	ten	mc
+years	year	nnt2
+?		?
+ca	can	vm
+n't	n't	xx
+remember	remember	vvi
+!		!
+!		!
+It	it	pph1
+'s	be	vbz
+not	not	xx
+a	a	at1
+musical	musical	jj
+chair	chair	nn1
+!		!
+!		!
+allow	allow	vv0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+science	science	nn1
+and	and	cc
+needs	need	vvz_nn2
+to	to	to
+learn	learn	vvi
+...		...
+it	it	pph1
+does	do	vdz
+not	not	xx
+come	come	vvi
+naturally	naturally	rr
+....	....	...
+Immature	immature	jj
+decision	decision	nn1
+and	and	cc
+behavior	behavior	nn1
+by	by	ii
+the	the	at
+board	board	nn1
+and	and	cc
+selectors	selector	nn2
+actually	actually	rr
+hurting	hurt	vvg
+BD	bd	np1
+cricket	cricket	nn1
+....	....	...
+I	i	ppis1
+recall	recall	vv0
+,		,
+Al	al	np1
+Shariar	shariar	np1
+Rokon		np1
+,		,
+once	once	rr
+considered	consider	vvn
+as	as	ii_csa
+the	the	at
+most	most	rgt
+talented	talented	jj
+batsman	batsman	nn1
+of	of	io
+the	the	at
+country	country	nn1
+and	and	cc
+thrown	throw	vvn
+away	away	rl
+by	by	ii
+the	the	at
+selectors	selector	nn2
+and	and	cc
+BCB	bcb	np1
+(		(
+Farooq	farooq	np1
+and	and	cc
+gang	gang	nn1
+)		)
+.		.
+Now	now	rt
+he	he	pphs1
+is	be	vbz
+in	in	ii
+NZ	nz	np1
+as	as	csa_ii@
+player	player	nn1
+and	and	cc
+coach	coach	nn1_vv0
+(		(
+Napier	napier	np1
+?		?
+)		)
+....	....	...
+hope	hope	vv0
+this	this	dd1_rg%
+two	two	mc
+will	will	vm
+not	not	xx
+follow	follow	vvi
+the	the	at
+same	same	da
+path	path	nn1
+....	....	...
+A	a	at1_zz1
+grim	grim	jj
+future	future	nn1_jj
+for	for	if
+BD	bd	np1
+cricket	cricket	nn1
+?		?
+?		?
+?		?
+board	board	nn1
+should	should	vm
+concentrate	concentrate	vvi
+more	more	rrr_dar
+on	on	ii
+developing	develop	vvg
+the	the	at
+first	first	md
+class	class	nn1
+infrastructure	infrastructure	nn1
+rather	rather	ii21
+than	than	ii22
+a	a	at1
+search	search	nn1
+for	for	if
+a	a	at1
+spineless	spineless	jj
+captain	captain	nn1
+!		!
+!		!
+!		!
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+September	september	npm1
+06	06	mc
+2011	2011	mc
+,		,
+16:06	16:06	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Mashrafee		nn1_np1@
+and	and	cc
+Shahriar		np1_vv0_nn1
+mifht		nn1
+be	be	vbi
+the	the	at
+choice	choice	nn1_jj@
+forODI		nn1_jj
+and	and	cc
+Test	test	nn1_vv0
+.		.
+Very	very	rg
+good	good	jj
+decision	decision	nn1
+by	by	ii
+BCB	bcb	np1
+.		.
+WE	we	ppis2
+want	want	vv0
+these	these	dd2
+two	two	mc
+player	player	nn1
+in	in	ii
+their	their	appge
+best	best	jjt_rrt
+form	form	nn1_vv0
+now	now	rt
+.		.
+After	after	ii_cs
+5	5	mc
+years	year	nnt2
+about	about	ii
+captaincy	captaincy	nn1
+....................	.....................	...
+<p>		null
+Posted	post	vvn
+by	by	ii
+sameer111111		fo
+on	on	ii
+(		(
+September	september	npm1
+06	06	mc
+2011	2011	mc
+,		,
+15:33	15:33	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Am	be	vbm
+an	a	at1
+Indian	indian	jj
+and	and	cc
+like	like	ii_vv0@
+the	the	at
+way	way	nn1
+Sakib		np1_nn1@
+carries	carry	vvz
+himself	himself	ppx1
+on	on	ii
+the	the	at
+field	field	nn1
+.		.
+He	he	pphs1
+seems	seem	vvz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+Hope	hope	vv0
+this	this	dd1
+inspires	inspire	vvz
+him	him	ppho1
+to	to	to
+do	do	vdi
+well	well	rr
+as	as	ii_csa
+a	a	at1
+player	player	nn1
+.		.
+The	the	at
+same	same	da
+can	can	vm
+not	not	xx
+be	be	vbi
+said	say	vvn@
+about	about	ii
+Tamim	tamim	np1_nn1
+.		.
+A	a	at1_zz1
+average	average	jj_nn1
+player	player	nn1
+,		,
+albeit	albeit	cs
+an	a	at1
+entertaining	entertaining	jj
+one	one	pn1
+,		,
+he	he	pphs1
+thinks	think	vvz
+too	too	rg
+much	much	da1
+of	of	io
+himself	himself	ppx1
+.		.
+A	a	at1
+couple	couple	nn1
+of	of	io
+flashy	flashy	jj
+innings	innings	nn
+and	and	cc
+he	he	pphs1
+thinks	think	vvz
+of	of	io
+himself	himself	ppx1
+as	as	ii_csa
+the	the	at
+next	next	md
+Sehwag		nn1
+.		.
+Unlucky	unlucky	jj
+to	to	to
+get	get	vvi
+out	out	rp
+,		,
+LOL	lol	np1_vv0_nn1
+.		.
+Wake	wake	vv0
+up	up	rp
+man	man	nn1
+,		,
+u	u	zz1
+are	be	vbr
+going	go	vvgk
+to	to	to
+get	get	vvi
+unlucky	unlucky	jj
+a	a	at1
+lot	lot	nn1
+of	of	io
+times	time	nnt2
+in	in	ii
+the	the	at
+future	future	nn1_jj
+,		,
+by	by	ii
+the	the	at
+look	look	nn1
+of	of	io
+things	thing	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+StraightHit		np1_nn1
+on	on	ii
+(		(
+September	september	npm1
+06	06	mc
+2011	2011	mc
+,		,
+12:29	12:29	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+My	my	appge
+be	be	vbi
+unrealistic	unrealistic	jj
+,		,
+but	but	ccb
+I	i	ppis1
+hope	hope	vv0
+BD	bd	np1
+selectors	selector	nn2
+can	can	vm
+pick	pick	vvi
+some	some	dd
+good	good	jj
+batsmen	batsman	nn2
+from	from	ii
+the	the	at
+lower	low	jjr
+leagues	league	nn2
+.		.
+The	the	at
+current	current	jj
+lot	lot	nn1
+seems	seem	vvz
+to	to	to
+think	think	vvi
+assured	assured	jj_vvn
+of	of	io
+their	their	appge
+places	place	nn2
+,		,
+consequently	consequently	rr
+,		,
+not	not	xx
+putting	put	vvg
+in	in	ii_rp@
+their	their	appge
+best	best	jjt
+efforts	effort	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+September	september	npm1
+06	06	mc
+2011	2011	mc
+,		,
+12:16	12:16	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+The	the	at
+best	best	jjt
+thing	thing	nn1
+has	have	vhz
+been	be	vbn
+done	do	vdn
+for	for	if
+Shakib	shakib	np1
+&;		null
+Tamim	tamim	np1
+'s	's	ge
+cricket	cricket	nn1
+career	career	nn1
+by	by	ii
+this	this	dd1
+decision	decision	nn1
+.		.
+Now	now	rt
+,		,
+both	both	db2
+of	of	io
+them	them	ppho2
+can	can	vm
+forget	forget	vvi
+their	their	appge
+tiny	tiny	jj
+previous	previous	jj
+role	role	nn1
+as	as	ii_csa
+a	a	at1
+captain	captain	nn1
+&;		null
+a	a	at1
+deputy	deputy	nn1
+and	and	cc
+concentrate	concentrate	vv0
+on	on	ii_rp@
+their	their	appge
+individual	individual	jj_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+will	will	vm
+eventually	eventually	rr
+help	help	vvi
+these	these	dd2
+two	two	mc
+buy	buy	vv0
+some	some	dd
+t20	t20	fo
+tickets	ticket	nn2
+world	world	nn1
+wide	wide	jj_rr@_nn1%
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+hasib9		fo
+on	on	ii
+(		(
+September	september	npm1
+06	06	mc
+2011	2011	mc
+,		,
+12:03	12:03	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Shakib		nn1_vv0_np1@
+is	be	vbz
+the	the	at
+best	best	jjt
+player	player	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+team	team	nn1
+;		;
+no	no	at
+doubt	doubt	nn1
+about	about	ii
+that	that	dd1
+.		.
+But	but	ccb
+thought	think	vvd
+I	i	ppis1
+highly	highly	rr
+doubt	doubt	vv0
+he	he	pphs1
+is	be	vbz
+the	the	at
+best	best	jjt
+choice	choice	nn1
+for	for	if
+a	a	at1
+captain	captain	nn1
+.		.
+He	he	pphs1
+is	be	vbz
+too	too	rg
+young	young	jj
+for	for	if
+this	this	dd1
+job	job	nn1
+.		.
+Take	take	vv0
+Shahariar		np1_nn1
+Nafees		np1_nn2
+or	or	cc
+Mahmudullah		np1
+,		,
+both	both	db2
+of	of	io
+them	them	ppho2
+are	be	vbr
+very	very	rg
+mature	mature	jj
+and	and	cc
+calm	calm	nn1_vv0_jj
+##3518151		fo
+<p>		null
+Stuart	stuart	np1
+Law	law	nn1_np1%
+,		,
+the	the	at
+outgoing	outgoing	jj
+Bangladesh	bangladesh	np1
+coach	coach	nn1_vv0
+,		,
+has	have	vhz
+said	say	vvn
+the	the	at
+future	future	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+cricket	cricket	nn1
+is	be	vbz
+bright	bright	jj
+with	with	iw
+young	young	jj
+players	player	nn2
+such	such	ii21
+as	as	ii22
+Nasir	nasir	np1_nn1
+Hossain	hossain	nn1_jj
+in	in	ii
+the	the	at
+national	national	jj
+team	team	nn1
+and	and	cc
+exciting	exciting	jj
+talent	talent	nn1
+waiting	wait	vvg
+in	in	ii
+the	the	at
+wings	wing	nn2
+.		.
+However	however	rr
+,		,
+he	he	pphs1
+pointed	point	vvd
+out	out	rp
+that	that	cst
+the	the	at
+youngsters	youngster	nn2
+would	would	vm
+need	need	vvi
+to	to	to
+be	be	vbi
+handled	handle	vvn
+properly	properly	rr
+.		.
+<p>		null
+Law	law	nn1
+,		,
+who	who	pnqs
+resigned	resign	vvd
+recently	recently	rr
+after	after	ii
+being	be	vbg
+in-charge	in-charge	jj_nn1
+of	of	io
+the	the	at
+Bangladesh	bangladesh	np1
+team	team	nn1
+for	for	if
+nine	nine	mc
+months	month	nnt2
+,		,
+was	be	vbdz
+particularly	particularly	rr
+pleased	pleased	jj
+with	with	iw
+Anamul		np1
+Haque	haque	np1_nn1
+,		,
+the	the	at
+top-order	top-order	jj_nn1
+batsman	batsman	nn1
+who	who	pnqs
+was	be	vbdz
+part	part	nn1
+of	of	io
+the	the	at
+Asia	asia	np1
+Cup	cup	nn1
+squad	squad	nn1
+but	but	ccb
+did	do	vdd
+n't	n't	xx
+make	make	vvi
+his	his	appge
+international	international	jj
+debut	debut	nn1
+.		.
+"		"
+Young	young	np1@_jj
+Anamul		np1_nn1
+Haque		np1_jj
+Bijoy	bijoy	np1_nn1
+is	be	vbz
+a	a	at1
+quality	quality	nn1
+player	player	nn1
+,		,
+"		"
+he	he	pphs1
+said	say	vvd
+,		,
+"		"
+Especially	especially	rr
+during	during	ii
+the	the	at
+BPL	bpl	np1
+,		,
+he	he	pphs1
+looked	look	vvd
+like	like	cs
+he	he	pphs1
+was	be	vbdz
+born	born	vvn
+to	to	to
+perform	perform	vvi
+.		.
+"		"
+<p>		null
+The	the	at
+19-year-old	19-year-old	jj
+Khulna		nn1@_np1
+batsman	batsman	nn1
+has	have	vhz
+scored	score	vvn
+heavily	heavily	rr
+in	in	ii
+domestic	domestic	jj
+cricket	cricket	nn1
+this	this	dd1
+season	season	nnt1
+,		,
+topping	top	vvg
+the	the	at
+first-class	first-class	jj
+batting	batting	nn1
+charts	chart	nn2
+with	with	iw
+816	816	mc
+runs	run	nn2_vvz
+,		,
+apart	apart	ii21
+from	from	ii22
+five	five	mc
+centuries	century	nnt2
+in	in	ii
+all	all	db
+formats	format	nn2
+.		.
+Anamul		np1@_nn1
+'s	's	ge
+form	form	nn1
+won	win	vvd_vvn
+him	him	ppho1
+a	a	at1
+place	place	nn1
+in	in	ii
+the	the	at
+Asia	asia	np1
+Cup	cup	nn1
+squad	squad	nn1
+in	in	ii
+March	march	npm1
+but	but	ccb
+he	he	pphs1
+could	could	vm
+n't	n't	xx
+find	find	vvi
+a	a	at1
+place	place	nn1
+in	in	ii
+the	the	at
+eleven	eleven	mc
+.		.
+During	during	ii
+one	one	mc1
+of	of	io
+those	those	dd2
+days	day	nnt2
+,		,
+something	something	pn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+one	one	mc1
+thing	thing	nn1
+he	he	pphs1
+said	say	vvd
+to	to	ii
+me	me	ppio1
+which	which	ddq
+I	i	ppis1
+will	will	vm
+never	never	rr
+forget	forget	vvi
+.		.
+We	we	ppis2
+were	be	vbdr
+sitting	sit	vvg
+in	in	ii
+the	the	at
+dugout	dugout	nn1
+during	during	ii
+one	one	mc1
+of	of	io
+the	the	at
+Asia	asia	np1
+Cup	cup	nn1
+matches	match	nn2_vvz
+and	and	cc
+I	i	ppis1
+asked	ask	vvd
+him	him	ppho1
+,		,
+'	'	"@
+Where	where	rrq
+would	would	vm
+you	you	ppy
+like	like	vvi
+to	to	to
+bat	bat	vvi
+?		?
+'	'	"@_ge
+He	he	pphs1
+said	say	vvd
+,		,
+'	'	"@_ge
+I	i	ppis1
+want	want	vv0
+to	to	to
+be	be	vbi
+No.		nn1
+3	3	mc
+,		,
+I	i	ppis1
+want	want	vv0
+to	to	to
+be	be	vbi
+the	the	at
+best	best	jjt
+player	player	nn1
+in	in	ii
+the	the	at
+world	world	nn1
+.		.
+'	'	"@_ge
+And	and	cc
+I	i	ppis1
+said	say	vvd
+,		,
+if	if	cs_csw@
+that	that	dd1
+comes	come	vvz
+across	across	rl@
+,		,
+good	good	jj
+on	on	ii
+you	you	ppy
+.		.
+"		"
+<p>		null
+Law	law	nn1
+also	also	rr
+praised	praise	vvd_vvn
+two	two	mc
+other	other	jj
+youngsters	youngster	nn2
+.		.
+"		"
+I	i	ppis1
+have	have	vh0
+been	be	vbn
+trying	try	vvg
+to	to	to
+see	see	vvi
+Mominul		np1_nn1
+Haque	haque	np1_nn1
+get	get	vv0
+into	into	ii
+the	the	at
+team	team	nn1
+.		.
+He	he	pphs1
+'s	be	vbz_vhz@
+scored	score	vvn
+runs	run	nn2_vvz
+in	in	ii
+the	the	at
+A	a	zz1
+team	team	nn1
+tours	tour	nn2
+.		.
+We	we	ppis2
+'ve	have	vh0
+been	be	vbn
+discussing	discuss	vvg
+him	him	ppho1
+at	at	ii
+lengths	length	nn2
+in	in	ii
+selection	selection	nn1
+meetings	meeting	nn2
+.		.
+He	he	pphs1
+looked	look	vvd
+like	like	ii
+a	a	at1
+quality	quality	nn1
+young	young	jj
+player	player	nn1
+.		.
+Abul	abul	vv0_np1@
+Hasan	hasan	np1
+Raju	raju	np1
+,		,
+I	i	ppis1
+love	love	vv0
+him	him	ppho1
+.		.
+Bowls	bowl	nn2_vvz@
+quick	quick	rr@_jj
+,		,
+140-plus		jj_nn1@
+,		,
+has	have	vhz
+the	the	at
+slower	slower	jjr
+ball	ball	nn1
+and	and	cc
+will	will	vm
+get	get	vvi
+better	better	jjr
+as	as	csa
+he	he	pphs1
+plays	play	vvz
+more	more	rrr_dar
+.		.
+"		"
+<p>		null
+The	the	at
+growth	growth	nn1
+of	of	io
+the	the	at
+youngsters	youngster	nn2
+was	be	vbdz
+the	the	at
+underlying	underlying	jj
+theme	theme	nn1
+of	of	io
+Law	law	nn1
+'s	's	ge
+reign	reign	nn1
+as	as	ii_csa
+the	the	at
+head	head	jj
+coach	coach	nn1
+as	as	csa
+he	he	pphs1
+wanted	want	vvd
+a	a	at1
+few	few	da2
+more	more	dar
+performers	performer	nn2
+within	within	ii
+the	the	at
+team	team	nn1
+apart	apart	ii21
+from	from	ii22
+Shakib	shakib	np1
+Al	al	np1
+Hasan	hasan	np1
+and	and	cc
+Tamim	tamim	np1_vv0
+Iqbal	iqbal	np1
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Law	law	nn1_np1%
+'s	's	ge
+first	first	md
+series	series	nn
+in	in	ii
+charge	charge	nn1
+and	and	cc
+since	since	ii
+then	then	rt
+he	he	pphs1
+has	have	vhz
+scored	score	vvn
+a	a	at1
+Test	test	nn1
+fifty	fifty	mc
+,		,
+made	make	vvd_vvn
+an	a	at1
+ODI	odi	np1
+hundred	hundred	nno
+and	and	cc
+seen	see	vvn
+Bangladesh	bangladesh	np1
+through	through	rp@_ii
+to	to	ii
+a	a	at1
+win	win	nn1@
+against	against	ii
+Sri	sri	np1
+Lanka	lanka	np1
+.		.
+<p>		null
+"		"
+You	you	ppy
+look	look	vv0
+for	for	if
+the	the	at
+standout	standout	nn1
+players	player	nn2
+and	and	cc
+those	those	dd2
+two	two	mc
+Shakib	shakib	np1
+and	and	cc
+Tamim	tamim	np1_nn1
+have	have	vh0
+been	be	vbn
+carrying	carry	vvg
+Bangladesh	bangladesh	np1
+for	for	if
+a	a	at1
+while	while	nnt1@
+.		.
+I	i	ppis1
+told	tell	vvd
+the	the	at
+rest	rest	nn1
+of	of	io
+the	the	at
+team	team	nn1
+that	that	cst
+it	it	pph1
+is	be	vbz
+not	not	xx
+about	about	rg
+two	two	mc
+players	player	nn2
+.		.
+It	it	pph1
+'s	be	vbz
+about	about	ii_rg%
+other	other	jj
+people	people	nn
+sticking	stick	vvg
+their	their	appge
+hand	hand	nn1
+up	up	rp
+and	and	cc
+doing	do	vdg
+well	well	rr
+.		.
+Guys	guys	np1_nn2
+like	like	ii
+Nasir	nasir	np1_nn1
+have	have	vh0
+come	come	vvn
+through	through	rp@_ii
+,		,
+he	he	pphs1
+'s	be	vbz_vhz@
+basically	basically	rr
+up	up	rp
+there	there	rl
+with	with	iw
+Shakib	shakib	np1
+and	and	cc
+Tamim		np1_nn1_vv0
+.		.
+"		"
+<p>		null
+But	but	ccb
+Law	law	nn1_np1%
+made	make	vvd_vvn
+it	it	pph1
+clear	clear	jj
+that	that	cst
+he	he	pphs1
+was	be	vbdz
+n't	n't	xx
+looking	look	vvg
+to	to	to
+alienate	alienate	vvi
+the	the	at
+big	big	jj
+performers	performer	nn2
+who	who	pnqs
+had	have	vhd
+to	to	to
+do	do	vdi
+well	well	rr_jj@
+day	day	nnt1
+in	in	ii
+day	day	nnt1
+out	out	rp
+.		.
+He	he	pphs1
+especially	especially	rr
+had	have	vhd
+gracious	gracious	jj
+words	word	nn2
+for	for	if
+the	the	at
+world	world	nn1
+'s	's	ge
+No.		nn1
+1	1	mc1
+allrounder		nn1
+though	though	cs
+he	he	pphs1
+reminded	remind	vvd
+Shakib	shakib	np1
+to	to	to
+take	take	vvi
+care	care	nn1
+of	of	io
+his	his	appge
+fitness	fitness	nn1
+.		.
+<p>		null
+"		"
+He	he	pphs1
+'s	be	vbz
+professional	professional	jj
+on	on	ii
+the	the	at
+field	field	nn1
+but	but	ccb
+off	off	ii
+the	the	at
+field	field	nn1
+he	he	pphs1
+'s	be	vbz
+different	different	jj
+.		.
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+mean	mean	vvi
+this	this	dd1
+in	in	ii
+a	a	at1
+bad	bad	jj
+way	way	nn1
+,		,
+but	but	ccb
+he	he	pphs1
+could	could	vm
+be	be	vbi
+fitter	fit	jjr
+.		.
+He	he	pphs1
+'s	be	vbz_vhz@
+admitted	admit	vvn
+that	that	cst
+he	he	pphs1
+can	can	vm
+work	work	vvi
+a	a	rr21
+bit	bit	rr22
+harder	hard	rrr_jjr
+on	on	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+on	on	ii
+the	the	at
+cricket	cricket	nn1
+field	field	nn1
+,		,
+he	he	pphs1
+creates	create	vvz
+something	something	pn1
+out	out	ii21
+of	of	ii22
+nothing	nothing	pn1
+.		.
+He	he	pphs1
+'s	be	vbz
+a	a	at1
+beautiful	beautiful	jj
+player	player	nn1
+to	to	to
+watch	watch	vvi
+when	when	rrq_cs
+he	he	pphs1
+'s	be	vbz
+going	go	vvg
+great	great	jj
+with	with	iw
+the	the	at
+bat	bat	nn1
+.		.
+I	i	ppis1
+was	be	vbdz
+probably	probably	rr
+in	in	ii
+that	that	dd1
+boat	boat	nn1
+as	as	rr21_rg
+well	well	rr22_rr
+,		,
+so	so	cs@_rr
+I	i	ppis1
+can	can	vm
+understand	understand	vvi
+.		.
+I	i	ppis1
+did	do	vdd
+n't	n't	xx
+like	like	vvi
+training	training	nn1
+,		,
+I	i	ppis1
+liked	like	vvd
+playing	play	vvg
+.		.
+"		"
+<p>		null
+The	the	at
+reason	reason	nn1
+for	for	if
+Law	law	nn1
+leaving	leave	vvg
+in	in	ii
+May	may	npm1
+rather	rather	ii21
+than	than	ii22
+the	the	at
+end	end	nn1
+of	of	io
+June	june	npm1_np1@
+was	be	vbdz
+Bangladesh	bangladesh	np1
+'s	's	ge
+lack	lack	nn1
+of	of	io
+international	international	jj
+cricket	cricket	nn1
+.		.
+In	in	ii
+fact	fact	nn1
+,		,
+Bangladesh	bangladesh	np1
+wo	will	vm
+n't	n't	xx
+be	be	vbi
+seeing	see	vvg
+Test	test	nn1
+match	match	nn1
+action	action	nn1
+till	till	ii
+November	november	npm1
+,		,
+which	which	ddq
+will	will	vm
+be	be	vbi
+eleven	eleven	mc
+months	month	nnt2
+since	since	cs_ii@
+their	their	appge
+last	last	md
+Test	test	nn1_vv0
+in	in	ii
+December	december	npm1
+2011	2011	mc
+.		.
+<p>		null
+Law	law	nn1
+believes	believe	vvz
+this	this	dd1
+would	would	vm
+hurt	hurt	vvi
+the	the	at
+team	team	nn1
+and	and	cc
+requested	request	vvd@_vvn
+the	the	at
+Bangladesh	bangladesh	np1
+Cricket	cricket	nn1
+Board	board	nn1
+to	to	to
+plan	plan	vvi
+well	well	rr
+ahead	ahead	ii21
+of	of	ii22
+time	time	nnt1
+.		.
+"		"
+What	what	ddq
+they	they	pphs2
+need	need	vv0
+to	to	to
+do	do	vdi
+is	be	vbz
+to	to	to
+play	play	vvi
+more	more	rrr_dar
+.		.
+Let	let	vm21
+'s	be	vm22
+target	target	vvi
+West	west	np1
+Indies	indies	np2
+,		,
+New	new	np1
+Zealand	zealand	np1
+and	and	cc
+teams	team	nn2
+like	like	ii
+Ireland	ireland	np1
+and	and	cc
+Scotland	scotland	np1
+.		.
+Let	let	vm21
+'s	be	vm22
+oblige	oblige	vvi
+to	to	ii
+the	the	at
+Associate	associate	jj_nn1
+countries	country	nn2
+and	and	cc
+play	play	vvi
+four-dayers		nn2
+with	with	iw
+them	them	ppho2
+,		,
+whenever	whenever	rrqv
+we	we	ppis2
+get	get	vv0
+time	time	nnt1
+between	between	ii
+international	international	jj
+commitments	commitment	nn2
+.		.
+"		"
+<p>		null
+Law	law	nn1
+,		,
+who	who	pnqs
+leaves	leave	vvz
+the	the	at
+country	country	nn1
+on	on	ii
+Sunday	sunday	npd1
+,		,
+said	say	vvd
+that	that	cst_dd1
+for	for	if
+providing	provide	vvg
+ample	ample	jj
+opportunities	opportunity	nn2
+to	to	ii
+cricketers	cricketer	nn2
+,		,
+Bangladesh	bangladesh	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+cricket	cricket	nn1
+here	here	rl
+is	be	vbz
+a	a	at1
+structure	structure	nn1
+of	of	io
+which	which	ddq
+there	there	ex
+'s	be	vbz
+no	no	at
+blueprint	blueprint	nn1
+anywhere	anywhere	rl
+else	else	rr
+in	in	ii
+the	the	at
+world	world	nn1
+.		.
+It	it	pph1
+stops	stop	vvz
+,		,
+it	it	pph1
+starts	start	vvz
+.		.
+It	it	pph1
+would	would	vm
+be	be	vbi
+nice	nice	jj
+to	to	to
+see	see	vvi
+these	these	dd2
+games	game	nn2
+taking	take	vvg
+place	place	nn1
+in	in	ii
+these	these	dd2
+days	day	nnt2
+,		,
+rather	rather	ii21
+than	than	ii22
+two	two	mc
+teams	team	nn2
+have	have	vh0
+a	a	at1
+fall-out	fallout	nn1
+and	and	cc
+the	the	at
+whole	whole	jj
+tournament	tournament	nn1
+is	be	vbz
+suspended	suspend	vvn_jj
+.		.
+That	that	dd1
+'s	be	vbz
+not	not	xx
+good	good	jj
+for	for	if
+cricket	cricket	nn1
+in	in	ii
+this	this	dd1
+country	country	nn1
+.		.
+<p>		null
+"		"
+I	i	ppis1
+know	know	vv0
+it	it	pph1
+'s	be	vbz
+a	a	at1
+different	different	jj
+culture	culture	nn1
+but	but	ccb
+as	as	ii_csa
+an	a	at1
+outsider	outsider	nn1
+looking	look	vvg
+in	in	rp@
+,		,
+it	it	pph1
+ca	can	vm
+n't	n't	xx
+be	be	vbi
+good	good	jj
+for	for	if
+cricket	cricket	nn1
+.		.
+We	we	ppis2
+are	be	vbr
+all	all	db_rr@
+trying	try	vvg
+to	to	to
+say	say	vvi
+that	that	dd1_cst
+domestic	domestic	jj
+cricket	cricket	nn1
+is	be	vbz
+where	where	rrq_cs
+we	we	ppis2
+want	want	vv0
+our	our	appge
+cricketers	cricketer	nn2
+to	to	to
+learn	learn	vvi
+,		,
+they	they	pphs2
+'re	be	vbr
+learning	learn	vvg
+by	by	ii
+sitting	sit	vvg
+back	back	rp
+.		.
+That	that	dd1
+'s	be	vbz
+not	not	xx
+helping	help	vvg
+them	them	ppho2
+at	at	rr21
+all	all	rr22
+.		.
+"		"
+<p>		null
+@		ii
+Dashgar		np1_nn1
+-	-	-
+IMO	imo	np1
+Ireland	ireland	np1
+are	be	vbr
+better	better	rrr
+prepared	prepare	vvn
+now	now	rt
+comapred		vvd_vvn@
+to	to	ii
+Bangladesh	bangladesh	np1
+in	in	ii
+1999	1999	mc
+or	or	cc
+even	even	rr
+2001/2002	2001/2002	mf
+.		.
+Over	over	ii
+time	time	nnt1
+Ireland	ireland	np1
+v	zz_v	zz1_ii@
+Bangladesh	bangladesh	np1
+,		,
+the	the	at
+Banga	banga	np1_nn1@
+boys	boy	nn2
+should	should	vm
+win	win	vvi
+2/3rds	2/3rds	fu
+of	of	io
+the	the	at
+matches	match	nn2
+,		,
+that	that	dd1
+being	be	vbg
+said	say	vvn@
+Ireland	ireland	np1
+is	be	vbz
+a	a	rr21@
+lot	lot	rr22
+better	better	rrr_jjr
+than	than	csn
+you	you	ppy
+have	have	vh0
+shown	show	vvn
+.		.
+Ireland	ireland	np1
+very	very	rg
+rarely	rarely	rr
+capitulates	capitulate	vvz
+like	like	ii_jj@
+bangladesh		nn1
+does	do	vdz
+remember	remember	vvi
+the	the	at
+Banga	banga	np1_nn1@
+score	score	nn1_vv0
+cards	card	nn2
+in	in	ii
+the	the	at
+W/Cup		fu
+against	against	ii
+the	the	at
+WIndies	windie	nn2
+&;		null
+I	i	ppis1
+think	think	vv0
+NZ	nz	np1
+.		.
+Anyways	anyways	nn2_np1@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+yes	yes	uh
+,		,
+under	under	ii
+the	the	at
+assumption	assumption	nn1
+that	that	cst
+Bangladesh	bangladesh	np1
+'s	's	ge
+economy	economy	nn1
+can	can	vm
+grow	grow	vvi
+like	like	ii_jj@
+(		(
+or	or	cc
+similar	similar	jj
+to	to	ii
+)		)
+the	the	at
+way	way	nn1
+India	india	np1
+'s	's	ge
+economy	economy	nn1
+has	have	vhz
+grown	grow	vvn
+,		,
+Bangladesh	bangladesh	np1
+'s	's	ge
+population	population	nn1
+will	will	vm
+eventually	eventually	rr
+provide	provide	vvi
+a	a	at1
+decent	decent	jj
+economy	economy	nn1
+to	to	to
+grow	grow	vvi
+the	the	at
+game	game	nn1
+.		.
+I	i	mc1@_zz1@_ppis1
+just	just	jj
+wish	wish	nn1
+people	people	nn
+did	do	vdd
+n't	n't	xx
+have	have	vhi
+to	to	to
+bag	bag	nn1
+Banga	banga	np1_nn1@
+to	to	to
+support	support	vvi
+Ireland	ireland	np1
+or	or	cc
+Afghan	afghan	jj_nn1@
+,		,
+ca	can	vm
+n't	n't	xx
+people	people	nn
+wish	wish	vv0
+them	them	ppho2
+ALLthe	allthe	vv0
+best	best	rrt
+?		?
+@Ahmed		fo
+Hossain	hossain	nn1_jj
+-	-	-
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+you	you	ppy
+need	need	vv0
+to	to	ii
+bag	bag	nn1
+Ireland	ireland	np1
+&;		null
+Afghan	afghan	jj_nn1@
+to	to	to
+support	support	vvi
+Banga	banga	np1_nn1@
+.		.
+Afghan	afghan	nn1@_jj
+has	have	vhz
+done	do	vdn
+amazingly	amazingly	rr
+well	well	rr
+from	from	ii
+not	not	xx
+even	even	rr
+playing	play	vvg
+cricket	cricket	nn1
+at	at	ii
+all	all	db_rr@
+10yrs		nnu2
+ago	ago	ra
+to	to	ii
+where	where	rrq
+they	they	pphs2
+are	be	vbr
+today	today	rt
+.		.
+They	they	pphs2
+have	have	vh0
+done	do	vdn
+well	well	rr
+with	with	iw
+a	a	rr21@_at1
+lot	lot	rr22_nn1
+less	less	dar
+matches	match	nn2
+than	than	csn
+Bangladesh	bangladesh	np1
+!		!
+<p>		null
+Posted	post	vvn
+by	by	ii
+Praxis	praxis	np1_nn1
+on	on	ii
+(		(
+May	may	npm1
+07	07	mc
+2012	2012	mc
+,		,
+07:56	07:56	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+So	so	rr
+people	people	nn
+here	here	rl
+who	who	pnqs
+are	be	vbr
+disagreeing	disagree	vvg
+with	with	iw
+what	what	ddq
+Law	law	nn1
+has	have	vhz
+said	say	vvn
+,		,
+I	i	ppis1
+would	would	vm
+like	like	vvi
+to	to	to
+ask	ask	vvi
+them	them	ppho2
+something	something	pn1
+.		.
+What	what	ddq
+is	be	vbz
+the	the	at
+solution	solution	nn1
+then	then	rt
+,		,
+strip	strip	nn1_vv0@
+BD	bd	np1
+of	of	io
+their	their	appge
+test	test	nn1
+status	status	nn1
+?		?
+They	they	pphs2
+hardly	hardly	rr
+play	play	vv0
+any	any	dd
+test	test	nn1_vv0
+recently	recently	rr
+!		!
+There	there	ex
+is	be	vbz
+a	a	at1
+reason	reason	nn1
+ICC	icc	np1
+gives	give	vvz
+more	more	dar
+importance	importance	nn1
+to	to	ii
+BD	bd	np1
+cricket	cricket	nn1
+than	than	csn
+Ireland	ireland	np1
+or	or	cc
+Afghanistan	afghanistan	np1
+,		,
+BD	bd	np1
+has	have	vhz
+a	a	at1
+population	population	nn1
+of	of	io
+almost	almost	rr
+180	180	mc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+you	you	ppy
+people	people	nn
+have	have	vh0
+n't	n't	xx
+noticed	notice	vvn
+cricket	cricket	nn1
+is	be	vbz
+n't	n't	xx
+much	much	rr_da1
+popular	popular	jj
+as	as	ii_csa
+a	a	at1
+game	game	nn1
+around	around	ii
+the	the	at
+world	world	nn1
+,		,
+&;		null
+in	in	ii
+most	most	dat
+of	of	io
+the	the	at
+playing	playing	jj%_vvg_nn1%
+nations	nation	nn2
+this	this	dd1
+popularity	popularity	nn1
+is	be	vbz
+declining	decline	vvg_jj
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+Quddus-Mamu		np1
+on	on	ii
+(		(
+May	may	npm1
+07	07	mc
+2012	2012	mc
+,		,
+04:21		mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+@Rahane-fan		fo
+:		:
+how	how	rgq@
+many	many	da2
+times	time	nnt2
+was	be	vbdz
+India	india	np1
+beaten	beat	vvn
+by	by	ii
+Ireland	ireland	np1
+?		?
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+that	that	dd1
+statistics	statistics	nn
+coz	coz	vv0
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+follow	follow	vvi
+Ireland	ireland	np1
+Vs	vs	ii
+India	india	np1
+match	match	nn1_vv0
+.		.
+May	may	vm
+be	be	vbi
+you	you	ppy
+have	have	vh0
+that	that	dd1
+information	information	nn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+23:02	23:02	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+@iNsiDers		fo
+....	....	...
+Ireland	ireland	np1
+and	and	cc
+Afghanistan	afghanistan	np1
+talented	talented	jj
+sides	side	nn2
+than	than	csn
+Bangladesh	bangladesh	np1
+?		?
+haha	haha	uh_nn1
+...		...
+Well	well	rr
+actually	actually	rr
+no	no	uh_rr%
+because	because	cs
+both	both	rr
+Ireland	ireland	np1
+and	and	cc
+Afghanistan	afghanistan	np1
+have	have	vh0
+not	not	xx
+achieved	achieve	vvn
+what	what	ddq
+Bangladesh	bangladesh	np1
+have	have	vh0
+achieved	achieve	vvn
+so	so	rg
+far	far	rr
+I	i	ppis1
+mean	mean	vv0
+have	have	vh0
+both	both	rr
+Ireland	ireland	np1
+and	and	cc
+Afghanistan	afghanistan	np1
+beaten	beaten	jj
+'	'	ge
+every	every	at1
+'	'	ge
+other	other	jj
+top	top	jj_nn1
+full	full	jj
+member	member	nn1
+in	in	ii
+Cricket	cricket	nn1
+?		?
+Nope	nope	uh
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+so	so	rr
+haha	haha	uh
+...		...
+but	but	ccb
+Bangladesh	bangladesh	np1
+have	have	vh0
+beaten	beat	vvn_jj
+top	top	jj_nn1
+teams	team	nn2
+'	'	ge
+many	many	da2
+'	'	ge_"@
+times	time	nnt2
+plus	plus	nn1@
+'	'	ge
+popular	popular	jj
+'	'	ge
+players	player	nn2
+like	like	ii
+Tamim	tamim	np1_nn1
+,		,
+Shakib	shakib	np1
+,		,
+Nasir	nasir	np1_nn1
+,		,
+Rahim	rahim	np1_vv0_nn1
+,		,
+Mortaza		np1
+are	be	vbr
+far	far	rg
+more	more	rgr
+talented	talented	jj
+than	than	csn
+any	any	dd
+player	player	nn1
+of	of	io
+Ireland	ireland	np1
+or	or	cc
+Afghanistan	afghanistan	np1
+in	in	ii
+fact	fact	nn1
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+see	see	vvi
+them	them	ppho2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+said	say	vvd_vvn@_jj%
+end	end	nn1
+of	of	io
+story	story	nn1
+:		:
+)		)
+)		)
+)		)
+)		)
+)		)
+)		)
+"		"
+<p>		null
+Posted	post	vvn
+by	by	ii
+iNsiDers	insider	nn2
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+12:20	12:20	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+Bright	bright	jj
+future	future	nn1_jj
+?		?
+Oh	oh	uh
+yes	yes	uh
+,		,
+they	they	pphs2
+never	never	rr
+had	have	vhd
+their	their	appge
+own	own	da
+future	future	nn1
+...		...
+they	they	pphs2
+were	be	vbdr
+always	always	rr
+supported	support	vvn
+by	by	ii
+other	other	jj
+nations	nation	nn2
+.		.
+Pakistan	pakistan	np1
+helped	help	vvd
+them	them	ppho2
+giving	give	vvg
+test	test	nn1
+status	status	nn1
+.		.
+Ireland	ireland	np1
+and	and	cc
+Afghanistan	afghanistan	np1
+are	be	vbr
+at	at	ii
+their	their	appge
+own	own	da
+and	and	cc
+much	much	rr_da1
+much	much	rr_da1
+talented	talented	jj
+sides	side	nn2
+than	than	csn
+Bangladesh	bangladesh	np1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+Dashgar		np1_nn1
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+10:41	10:41	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+Ireland	ireland	np1
+are	be	vbr
+more	more	rgr
+deserving	deserving	jj
+?		?
+Why	why	rrq
+?		?
+Cos	cos	cs
+they	they	pphs2
+beat	beat	vvd_vv0
+England	england	np1
+in	in	ii
+the	the	at
+world	world	nn1
+cup	cup	nn1
+just	just	rr
+like	like	ii
+Bangladesh	bangladesh	np1
+did	do	vdd
+,		,
+and	and	cc
+then	then	rt
+lost	lose	vvn_vvd
+to	to	ii
+Bangladesh	bangladesh	np1
+?		?
+Or	or	cc
+because	because	cs
+they	they	pphs2
+came	come	vvd
+4th	4th	md
+in	in	ii
+the	the	at
+Intercontinental	intercontinental	jj
+cup	cup	nn1
+behind	behind	ii
+Afghanistan	afghanistan	np1
+,		,
+Scotland	scotland	np1
+and	and	cc
+Zimbabwe	zimbabwe	np1
+XI	xi	nn1
+.		.
+I	i	ppis1
+'m	be	vbm
+sick	sick	jj
+of	of	io
+hearing	hear	vvg_nn1
+how	how	rgq@_rrq
+great	great	jj
+Ireland	ireland	np1
+is	be	vbz
+,		,
+they	they	pphs2
+have	have	vh0
+n't	n't	xx
+done	do	vdn
+anything	anything	pn1
+to	to	to
+suggest	suggest	vvi
+they	they	pphs2
+are	be	vbr
+better	better	rrr_jjr
+than	than	csn
+Bangladesh	bangladesh	np1
+in	in	ii
+any	any	dd
+way	way	nn1
+.		.
+That	that	dd1
+said	say	vvd
+I	i	ppis1
+would	would	vm
+still	still	rr
+consider	consider	vvi
+them	them	ppho2
+and	and	cc
+Afghanistan	afghanistan	np1
+for	for	if
+Test	test	nn1
+status	status	nn1
+in	in	ii
+the	the	at
+near	near	jj@
+future	future	nn1_jj
+,		,
+but	but	ccb
+not	not	xx
+at	at	ii
+the	the	at
+expense	expense	nn1
+of	of	io
+anyone	anyone	pn1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+Sarfin		np1_nn1
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+09:43	09:43	mc
+AM	am	ra@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+matters	matter	vvz@
+nothing	nothing	pn1
+.		.
+And	and	cc
+thanks	thanks	nn2
+to	to	ii
+well	well	jj@_nn1@
+wishers	wisher	nn2
+.		.
+Surely	surely	rr
+we	we	ppis2
+'ll	will	vm
+be	be	vbi
+an	a	at1
+exciting	exciting	jj
+side	side	nn1
+within	within	ii
+two	two	mc
+years	year	nnt2
+.		.
+BCB	bcb	np1
+should	should	vm
+make	make	vvi
+the	the	at
+FC	fc	np1
+tournament	tournament	nn1
+more	more	rgr
+competitive	competitive	jj
+and	and	cc
+should	should	vm
+arrange	arrange	vvi
+more	more	rgr_dar
+international	international	jj
+tours	tour	nn2
+.		.
+Six	six	mc
+moths	moth	nn2
+gap	gap	nn1
+between	between	ii
+ODI	odi	np1
+series	series	nn
+or	or	cc
+one	one	mc1
+year	year	nnt1
+gap	gap	nn1
+between	between	ii
+Tests	test	nn2
+is	be	vbz
+not	not	xx
+helping	help	vvg
+us	us	ppio2
+.		.
+If	if	cs
+you	you	ppy
+ca	can	vm
+n't	n't	xx
+convince	convince	vvi
+India	india	np1
+,		,
+SA	sa	np1
+,		,
+England	england	np1
+,		,
+Australia	australia	np1
+then	then	rt
+concentrate	concentrate	vv0
+on	on	ii
+NZ	nz	np1
+,		,
+WI	wi	np1_nn2_nn1
+,		,
+ZIM	zim	np1_vv0_nn1
+.		.
+Arrange	arrange	vv0
+tri	tri	nn2
+nation	nation	nn1
+series	series	nn
+with	with	iw
+associates	associate	nn2
+and	and	cc
+low	low	jj_rr@
+ranked	ranked	jj@_vvn
+teams	team	nn2
+.		.
+Keep	keep	vv0
+the	the	at
+national	national	jj
+team	team	nn1
+playing	play	vvg
+<p>		null
+Posted	post	vvn
+by	by	ii
+Meety		np1_nn1_jj
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+08:46		mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+@Ahmed		fo
+Hussain	hussain	nn1_jj
+-	-	-
+Bangladesh	bangladesh	np1
+'s	's	ge
+biggest	big	jjt
+problem	problem	nn1
+is	be	vbz
+their	their	appge
+preparation	preparation	nn1
+,		,
+they	they	pphs2
+have	have	vh0
+the	the	at
+talent	talent	nn1
+,		,
+unfortunately	unfortunately	rr
+their	their	appge
+players	player	nn2
+choose	choose	vv0
+the	the	at
+Dhaka	dhaka	np1
+League	league	nn1
+over	over	ii
+the	the	at
+Domestic	domestic	jj
+FC	fc	np1
+comp	comp	nn1
+.		.
+That	that	dd1
+needs	need	vvz
+to	to	to
+change	change	vvi
+straight	straight	rr21
+away	away	rr22
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+abcdef12345		fo
+on	on	ii
+(		(
+May	may	npm1
+06	06	mc
+2012	2012	mc
+,		,
+08:23	08:23	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+@lankanmeoww.You		fo
+buy	buy	vv0
+Mobile	mobile	jj@_np1
+phone	phone	nn1
+with	with	iw
+money.But		nnu
+can	can	vm
+you	you	ppy
+make	make	vvi
+another	another	dd1
+Sanath		nn1_np1
+Jayasuriya	jayasuriya	np1
+or	or	cc
+Chamnda		np1
+Vaas		np2
+with	with	iw
+50-60	50-60	mcmc
+US	us	np1
+dollar	dollar	nnu1
+?		?
+If	if	cs
+you	you	ppy
+can	can	vm
+,		,
+then	then	rt
+do	do	vd0
+it	it	pph1
+and	and	cc
+become	become	vv0
+world	world	nn1
+champion	champion	nn1
+after	after	ii_cs
+a	a	at1
+century	century	nnt1
+..............	...............	...
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+@WickyRoy.paklover.Who		fo
+are	be	vbr
+you	you	ppy
+to	to	to
+suggest	suggest	vvi
+?		?
+More	more	rgr_dar
+deserving	deserving	jj
+Ireland	ireland	np1
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+?		?
+/Do	/do	fu
+ICC	icc	np1
+need	need	vv0_nn1
+to	to	to
+cancel	cancel	vvi
+BD	bd	np1
+'s	's	ge
+test	test	nn1
+status	status	nn1
+to	to	to
+give	give	vvi
+Ireland	ireland	np1
+test	test	nn1
+status	status	nn1
+?		?
+##3518152		fo
+<p>		null
+Mick	mick	np1
+Newell	newell	np1
+,		,
+the	the	at
+Nottinghamshire	nottinghamshire	np1
+director	director	nn1
+of	of	io
+cricket	cricket	nn1
+,		,
+has	have	vhz
+confirmed	confirm	vvn
+that	that	cst
+he	he	pphs1
+has	have	vhz
+held	hold	vvn
+discussions	discussion	nn2
+regarding	regarding	ii
+taking	take	vvg
+up	up	rp_ii@
+the	the	at
+Bangladesh	bangladesh	np1
+coaching	coaching	nn1_vvg
+role	role	nn1
+.		.
+While	while	cs
+Richard	richard	np1
+Pybus		np1
+remains	remain	vvz
+the	the	at
+first	first	md
+choice	choice	nn1
+of	of	io
+the	the	at
+Bangladesh	bangladesh	np1
+Cricket	cricket	nn1
+Board	board	nn1
+(		(
+BCB	bcb	np1
+)		)
+to	to	to
+replace	replace	vvi
+Stuart	stuart	np1
+Law	law	nn1_np1%
+,		,
+ESPNcricinfo		np1_nn1
+understands	understand	vvz
+that	that	cst
+talks	talk	nn2_vvz@
+between	between	ii
+the	the	at
+parties	party	nn2
+have	have	vh0
+hit	hit	vvn
+a	a	at1
+stumbling	stumbling	nn1
+block	block	nn1
+over	over	ii
+financial	financial	jj
+issues	issue	nn2
+and	and	cc
+the	the	at
+BCB	bcb	np1
+has	have	vhz
+been	be	vbn
+in	in	ii31
+touch	touch	ii32
+with	with	ii33
+two	two	mc
+other	other	jj
+candidates	candidate	nn2
+-	-	-
+including	including	ii
+Pybus		np1
+-	-	-
+or	or	cc
+their	their	appge
+agents	agent	nn2
+.		.
+<p>		null
+Newell	newell	np1
+has	have	vhz
+gone	go	vvn
+on	on	ii
+record	record	nn1
+for	for	if
+the	the	at
+first	first	md
+time	time	nnt1
+to	to	to
+confirm	confirm	vvi
+the	the	at
+story	story	nn1
+published	publish	vvn
+by	by	ii
+ESPNcricinfo		np1_nn1
+on	on	ii
+May	may	npm1
+4	4	mc
+linking	link	vvg
+him	him	ppho1
+with	with	iw
+the	the	at
+job	job	nn1
+.		.
+"		"
+It	it	pph1
+would	would	vm
+be	be	vbi
+a	a	at1
+huge	huge	jj
+decision	decision	nn1
+,		,
+"		"
+he	he	pphs1
+told	tell	vvd
+ESPNcricinfo		np1_nn1
+.		.
+"		"
+I	i	ppis1
+would	would	vm
+like	like	vvi
+to	to	to
+coach	coach	vvi
+at	at	ii
+the	the	at
+international	international	jj
+level	level	nn1_jj
+and	and	cc
+,		,
+having	have	vhg
+not	not	xx
+been	be	vbn
+an	a	at1
+international	international	jj
+player	player	nn1
+,		,
+these	these	dd2
+opportunities	opportunity	nn2
+do	do	vd0
+not	not	xx
+arise	arise	vvi
+that	that	cst_dd1
+often	often	rr
+.		.
+I	i	ppis1
+have	have	vh0
+had	have	vhn
+a	a	at1
+couple	couple	nn1
+of	of	io
+conversations	conversation	nn2
+with	with	iw
+an	a	at1
+agent	agent	nn1
+about	about	ii
+the	the	at
+position	position	nn1
+,		,
+but	but	ccb
+I	i	ppis1
+would	would	vm
+need	need	vvi
+a	a	rr31@
+great	great	rr32
+deal	deal	rr33
+more	more	dar
+information	information	nn1
+before	before	ii
+making	make	vvg
+such	such	da
+a	a	at1
+massive	massive	jj
+decision	decision	nn1
+and	and	cc
+I	i	ppis1
+have	have	vh0
+had	have	vhn
+no	no	at
+direct	direct	jj
+contact	contact	nn1
+with	with	iw
+the	the	at
+BCB	bcb	np1
+.		.
+<p>		null
+"		"
+I	i	ppis1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+good	good	jj
+at	at	ii
+Nottinghamshire	nottinghamshire	np1
+.		.
+It	it	pph1
+would	would	vm
+be	be	vbi
+very	very	rg
+difficult	difficult	jj
+to	to	to
+leave	leave	vvi
+here	here	rl
+.		.
+"		"
+<p>		null
+Newell	newell	np1
+was	be	vbdz
+also	also	rr
+considered	consider	vvn
+for	for	if
+the	the	at
+Bangladesh	bangladesh	np1
+coaching	coaching	nn1_vvg
+role	role	nn1
+before	before	ii_cs
+Law	law	nn1
+was	be	vbdz
+appointed	appoint	vvn
+in	in	ii
+July	july	npm1
+2011	2011	mc
+.		.
+Since	since	ii
+then	then	rt
+he	he	pphs1
+has	have	vhz
+coached	coach	vvn
+England	england	np1
+Lions	lion	nn2
+in	in	ii
+the	the	at
+West	west	np1
+Indies	indies	np2
+,		,
+while	while	cs
+it	it	pph1
+is	be	vbz
+understood	understand	vvn
+that	that	cst
+Tamim	tamim	np1_vv0
+Iqbal	iqbal	np1
+,		,
+an	a	at1
+overseas	overseas	jj
+player	player	nn1
+at	at	ii
+Nottinghamshire	nottinghamshire	np1
+in	in	ii
+2011	2011	mc
+,		,
+has	have	vhz
+provided	provide	vvn
+positive	positive	jj
+reports	report	nn2
+about	about	ii
+Newell	newell	np1
+'s	's	ge
+ability	ability	nn1
+to	to	ii
+the	the	at
+BCB	bcb	np1
+.		.
+<p>		null
+BCB	bcb	np1
+media	media	nn
+committee	committee	nn1
+chairman	chairman	nn1
+Jalal	jalal	np1_jj
+Yunus	yunus	np1_nn1
+has	have	vhz
+said	say	vvn
+that	that	cst
+it	it	pph1
+is	be	vbz
+"		"
+difficult	difficult	jj
+"		"
+to	to	to
+name	name	vvi
+a	a	at1
+coach	coach	nn1
+,		,
+particularly	particularly	rr
+at	at	ii
+the	the	at
+moment	moment	nn1
+.		.
+"		"
+It	it	pph1
+is	be	vbz
+still	still	rr
+uncertain	uncertain	jj
+;		;
+till	till	ii
+today	today	rt
+,		,
+it	it	pph1
+will	will	vm
+be	be	vbi
+difficult	difficult	jj
+to	to	to
+name	name	vvi
+someone	someone	pn1
+.		.
+The	the	at
+progress	progress	nn1
+at	at	ii
+this	this	dd1
+stage	stage	nn1
+means	mean	vvz
+that	that	cst
+it	it	pph1
+wo	will	vm
+n't	n't	xx
+be	be	vbi
+completed	complete	vvn
+in	in	ii
+a	a	at1
+week	week	nnt1
+,		,
+probably	probably	rr
+you	you	ppy
+can	can	vm
+say	say	vvi
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+month	month	nnt1
+.		.
+"		"
+<p>		null
+@		ii
+Mujahid		jj_np1_nn1
+Islam	islam	nn1
+,		,
+FYI	fyi	np1_nn2_nn1
+most	most	rrt@_dat
+ex	ex	ii
+Bangladesh	bangladesh	np1
+cricketers	cricketer	nn2
+like	like	ii
+Khaled	khaled	jj
+Mahmud	mahmud	np1_nn1@
+have	have	vh0
+very	very	rg
+little	little	da1
+coaching	coaching	nn1
+experience	experience	nn1
+.		.
+Bringing	bring	vvg
+them	them	ppho2
+into	into	ii
+the	the	at
+side	side	nn1
+would	would	vm
+only	only	rr
+drag	drag	vvi
+the	the	at
+team	team	nn1
+backwards	backwards	rl
+.		.
+Its	its	appge
+high	high	jj
+time	time	nnt1
+,		,
+that	that	cst_dd1
+someone	someone	pn1
+experience	experience	vv0_nn1
+like	like	ii
+Newell/John		np1
+Wright	wright	np1
+takes	take	vvz
+over	over	ii_rp
+the	the	at
+team	team	nn1
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+<p>		null
+Lolx		vv0
+my	my	appge
+comment	comment	nn1
+become	become	vv0_vvn@
+controversial	controversial	jj
+,		,
+im		vv0_nn1
+receiving	receive	vvg_jj@
+hell	hell	nn1
+of	of	io
+a	a	at1
+crap	crap	nn1
+from	from	ii
+bangladeshis	bangladeshi	nn1
+in	in	ii
+my	my	appge
+facebook	facebook	nn1
+,		,
+why	why	rrq
+u	u	zz1
+always	always	rr
+abuses	abuse	vvz
+?		?
+why	why	rrq
+i	i	zz1_mc1
+was	be	vbdz
+just	just	rr
+trying	try	vvg
+to	to	to
+ask	ask	vvi
+some	some	dd
+question	question	nn1
+respectfully	respectfully	rr
+?		?
+and	and	cc
+as	as	cs31
+far	far	cs32
+as	as	cs33
+Legend	legend	nn1
+is	be	vbz
+concern	concern	nn1
+i	i	zz1_mc1
+think	think	vv0
+there	there	ex_rl
+will	will	vm
+be	be	vbi
+two	two	mc
+soon	soon	rr
+,		,
+Tamim		np1_nn1_vv0
+and	and	cc
+Shakib	shakib	np1
+,		,
+if	if	cs
+not	not	xx
+for	for	if
+the	the	at
+world	world	nn1
+but	but	ccb
+for	for	if
+the	the	at
+BDs	bds	np1
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+May	may	npm1
+25	25	mc
+2012	2012	mc
+,		,
+01:00	01:00	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+agree	agree	vv0
+with	with	iw
+Mujahid	mujahid	np1_nn1_jj
+.		.
+Either	either	rr
+bring	bring	vv0
+back	back	rp
+Jamie	jamie	np1
+Seadon		np1
+or	or	cc
+else	else	rr
+appoint	appoint	vv0
+Khaled	khaled	jj
+Mahmud	mahmud	np1_nn1@
+or	or	cc
+Khaled	khaled	jj_vvd@
+Masud		nn1@_np1
+as	as	csa_ii@
+our	our	appge
+head	head	jj
+coach	coach	nn1
+.		.
+I	i	ppis1
+do	do	vd0
+not	not	xx
+see	see	vvi
+any	any	dd
+point	point	nn1
+spending	spending	nn1
+money	money	nn1
+over	over	ii
+foreign	foreign	jj
+coaches	coach	nn2
+any	any	dd_rr%
+more	more	dar
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+15:54	15:54	mc
+PM	pm	np1_ra%
+GMT	gmt	ra
+)		)
+<p>		null
+I	i	ppis1
+think	think	vv0
+Coach	coach	nn1
+has	have	vhz
+very	very	rg
+little	little	da1
+contribution	contribution	nn1
+towards	towards	ii
+the	the	at
+development	development	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+team	team	nn1
+.		.
+What	what	ddq
+Bangladesh	bangladesh	np1
+need	need	nn1
+is	be	vbz
+a	a	at1
+good	good	jj
+motivator	motivator	nn1
+,		,
+who	who	pnqs
+can	can	vm
+motivate	motivate	vvi
+the	the	at
+players	player	nn2
+and	and	cc
+encourage	encourage	vvi
+them	them	ppho2
+.		.
+And	and	cc
+,		,
+that	that	dd1
+role	role	nn1
+can	can	vm
+be	be	vbi
+taken	take	vvn
+by	by	ii
+anyone	anyone	pn1
+.		.
+I	i	ppis1
+would	would	vm
+prefer	prefer	vvi
+an	a	at1
+ex	ex	nn1@
+Bangladeshi	bangladeshi	nn1_jj_np1
+player	player	nn1
+.		.
+Do	do	vd0
+n't	n't	xx
+waste	waste	vvi
+your	your	appge
+money	money	nn1
+on	on	ii
+an	a	at1
+expensive	expensive	jj
+coach	coach	nn1
+.		.
+<p>		null
+Posted	post	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+GMT	gmt	ra
+)		)
+<p>		null
+@WickyRoy.paklover		fo
+:		:
+why	why	rrq
+are	be	vbr
+your	your	appge
+comments	comment	nn2
+so	so	rg_rr
+reckless	reckless	jj
+like	like	ii_jj@
+indians	indian	nn2
+?		?
+pak	pak	nn1
+did	do	vdd
+n't	n't	xx
+beat	beat	vvi
+bd	bd	nnu
+convincigly		rr
+recently	recently	rr
+.		.
+pak	pak	nn1_vv0
+could	could	vm
+have	have	vhi
+been	be	vbn
+beaten	beat	vvn
+by	by	ii
+bd	bd	nnu
+in	in	ii
+two	two	mc
+or	or	cc
+three	three	mc
+matches	match	nn2
+.		.
+try	try	vv0
+to	to	to
+respect	respect	vvi
+other	other	jj
+countries	country	nn2
+.		.
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+09:31	09:31	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+@BangCricfan		fo
+,		,
+common	common	jj
+sense	sense	nn1
+is	be	vbz
+nt	nt	nnu
+that	that	rg
+common	common	jj
+!		!
+,		,
+our	our	appge
+great	great	jj
+legends	legend	nn2
+like	like	ii
+wasim		nn1
+have	have	vh0
+huge	huge	jj
+ego	ego	nn1
+pls	pl	nn2
+these	these	dd2
+legends	legend	nn2
+want	want	vv0
+to	to	to
+be	be	vbi
+chief	chief	jj_nn1
+of	of	io
+al	al	np1_fw
+affairs	affair	nn2
+in	in	ii
+pcb		nnu
+,		,
+2ndly	2ndly	fo
+imran		jj_nn1
+khan	khan	nn1
+(		(
+d	d	mc%_zz1
+greatest	greatest	jjt
+all	all	rr@
+roundr		vv0
+off	off	ii_rp
+al	al	np1
+times	time	vvz%_ii%_nnt2
+pls	pl	nn2
+d	d	zz1_mc%
+best	best	rrt_jjt
+evr		vv0_nn1
+captain	captain	nn1
+in	in	ii
+cric	cric	jj
+wrld		nnu
+)		)
+z	z	zz1
+involvd		vv0_nn1
+in	in	ii
+politics	politics	nn1
+,		,
+also	also	rr
+pcb		nnu
+also	also	rr
+requires	require	vvz
+technical	technical	jj
+background	background	nn1
+,		,
+pls	pl	nn2
+5	5	mc
+yrs	yr	nnu2
+intrnatnl		nn1_vv0
+exposure	exposure	nn1
+as	as	csa_ii@
+coach	coach	nn1
+,		,
+while	while	cs
+most	most	dat
+of	of	io
+our	our	appge
+bating		nn1@_jj@_vvg
+n	zz_n	zz1
+bowlng		vv0_nn1
+legends	legend	nn2
+R	zz_r	zz1
+involvd		vv0_nn1
+in	in	ii_rp@
+serving	serve	vvg
+religion	religion	nn1
+(		(
+inzi		nn2
+,		,
+saqlain		vv0_nn1
+,		,
+saeed	saeed	vv0_nn1
+etc	etc	ra
+)		)
+<p>		null
+Posted	post	vvn
+by	by	ii
+WickyRoy.paklover		np1
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+09:16	09:16	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+**29;3542;TOOLONG		fo
+,		,
+why	why	rrq
+d	d	zz1_mc%
+n't	n't	xx
+u	u	zz1
+present	present	nn1_jj_vv0@
+Urself		ppx1_np1
+as	as	csa_ii@_rg@
+bd	bd	nnu
+coach	coach	nn1_vv0
+?		?
+U	u	zz1_np1@
+seem	seem	vv0
+to	to	ii
+b	b	zz1
+havng		vv0
+gd	gd	jj
+skil		nn1
+as	as	csa_ii@
+fortune	fortune	nn1
+tellr		nn1
+(		(
+bngali		nn2
+baba	baba	nn1
+)		)
+,		,
+u	u	zz1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+d	d	zz1_mc%
+strt		nnu
+of	of	io
+any	any	dd
+tournament	tournament	nn1
+or	or	cc
+series	series	nn
+about	about	ii
+upcming		vvg
+white	white	jj
+washes	wash	nn2
+n	zz_n	zz1
+in	in	ii
+ths	ths	nnu
+way	way	nn1
+can	can	vm
+save	save	vvi
+revenue	revenue	nn1
+as	as	csa_ii@
+wel	wel	nn1
+as	as	csa_ii@
+time	time	nnt1
+of	of	io
+bcb	bcb	nnu
+(		(
+i	i	zz1_mc1
+hope	hope	vv0_nn1
+u	u	zz1
+undrstnd		nn1_vv0
+)		)
+<p>		null
+Posted	post	vvn
+by	by	ii
+borhans		nn2
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+09:16	09:16	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+what	what	ddq
+Bangladesh	bangladesh	np1
+need	need	nn1
+is	be	vbz
+a	a	at1
+good	good	jj
+batting	batting	nn1
+coach	coach	nn1_vv0
+as	as	csa_rg@
+head	head	jj
+coach	coach	nn1
+.		.
+As	as	csa_ii@
+gordon	gordon	nn1
+greenich		nn1_vv0
+time	time	nnt1
+BD	bd	np1
+improved	improve	vvd
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+in	in	ii
+batting	batting	nn1_vvg
+but	but	ccb
+later	later	rrr
+they	they	pphs2
+bring	bring	vv0
+some	some	dd
+coach	coach	nn1
+who	who	pnqs
+did	do	vdd
+n't	n't	xx
+perform	perform	vvi
+that	that	cst_dd1
+well	well	rr_nn1@
+.		.
+<p>		null
+Posted	post	vvn
+by	by	ii
+HappyAusBang		np1_nn1
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+08:25	08:25	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+Why	why	rrq
+not	not	xx
+try	try	vvi
+Shourobh		np1_nn1
+Ganguli	ganguli	np1_nn1
+?		?
+<p>		null
+Posted	post	vvn
+by	by	rp%_ii
+&nbsp;		null
+on	on	ii
+(		(
+May	may	npm1
+24	24	mc
+2012	2012	mc
+,		,
+08:23	08:23	mc
+AM	am	ra@
+GMT	gmt	ra
+)		)
+<p>		null
+##3522150		fo
+<h>		null
+Tunisia	tunisia	np1
+:		:
+The	the	at
+People	people	nn
+'s	's	ge
+Revolution	revolution	nn1
+<p>		null
+The	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+is	be	vbz
+on	on	ii
+the	the	at
+march	march	nn1
+.		.
+When	when	cs
+the	the	at
+freedom-loving	freedom-loving	jj_nn1
+people	people	nn
+march	march	vv0_nn1
+--		zz
+when	when	cs_rrq
+the	the	at
+farmers	farmer	nn2
+have	have	vh0
+an	a	at1
+opportunity	opportunity	nn1
+to	to	to
+buy	buy	vvi
+land	land	nn1
+at	at	ii
+reasonable	reasonable	jj
+prices	price	nn2
+and	and	cc
+to	to	to
+sell	sell	vvi
+the	the	at
+produce	produce	nn1@
+of	of	io
+their	their	appge
+land	land	nn1
+through	through	ii
+their	their	appge
+own	own	da
+organizations	organization	nn2
+,		,
+when	when	cs_rrq
+workers	worker	nn2
+have	have	vh0
+the	the	at
+opportunity	opportunity	nn1
+to	to	to
+form	form	vvi
+unions	union	nn2
+and	and	cc
+bargain	bargain	vvi
+through	through	ii
+them	them	ppho2
+collectively	collectively	rr
+,		,
+and	and	cc
+when	when	cs_rrq
+the	the	at
+children	child	nn2
+of	of	io
+all	all	db
+the	the	at
+people	people	nn
+have	have	vh0
+an	a	at1
+opportunity	opportunity	nn1
+to	to	to
+attend	attend	vvi
+schools	school	nn2
+which	which	ddq
+teach	teach	vv0
+them	them	ppho2
+truths	truth	nn2
+of	of	io
+the	the	at
+real	real	jj
+world	world	nn1
+in	in	ii
+which	which	ddq
+they	they	pphs2
+live	live	vv0
+--		zz
+when	when	cs_rrq
+these	these	dd2
+opportunities	opportunity	nn2
+are	be	vbr
+open	open	jj
+to	to	ii
+everyone	everyone	pn1
+,		,
+then	then	rt
+the	the	at
+world	world	nn1
+moves	move	vvz_nn2
+straight	straight	rr
+ahead	ahead	rl
+...		...
+The	the	at
+people	people	nn
+are	be	vbr
+on	on	ii
+the	the	at
+march	march	nn1
+toward	toward	ii
+ever	ever	rr
+fuller	full	jjr
+freedom	freedom	nn1
+,		,
+toward	toward	ii
+manifesting	manifest	vvg
+here	here	rl
+on	on	ii
+earth	earth	nn1
+the	the	at
+dignity	dignity	nn1
+that	that	cst_dd1
+is	be	vbz
+in	in	ii
+every	every	at1
+human	human	jj_nn1
+soul	soul	nn1
+.		.
+Henry	henry	np1
+A.	a.-a	np1
+Wallace	wallace	np1
+,		,
+Vice-President	vice-president	nn1
+of	of	io
+the	the	at
+United	united	np1
+States	state	np1
+,		,
+setting	set	vvg
+out	out	rp
+US	us	np1
+war	war	nn1
+aims	aim	vvz_nn2
+in	in	ii
+June	june	npm1
+1942	1942	mc
+.		.
+<p>		null
+The	the	at
+wave	wave	nn1
+of	of	io
+the	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+has	have	vhz
+swept	sweep	vvn
+over	over	ii
+Tunisia	tunisia	np1
+and	and	cc
+pushed	push	vvn
+President	president	nnb
+Ben	ben	np1
+Ali	ali	np1
+to	to	to
+exile	exile	vvi
+in	in	ii
+Saudi	saudi	np1
+Arabia	arabia	np1
+.		.
+A	a	at1
+month	month	nnt1
+of	of	io
+popular	popular	jj
+manifestations	manifestation	nn2
+starting	start	vvg
+on	on	ii
+17	17	mc
+December	december	npm1
+2010	2010	mc
+with	with	iw
+the	the	at
+suicide-protest		nn1
+of	of	io
+the	the	at
+young	young	jj
+Mohamed	mohamed	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+repression	repression	nn1
+at	at	ii
+his	his	appge
+funeral	funeral	nn1
+has	have	vhz
+brought	bring	vvn
+to	to	ii
+an	a	at1
+end	end	nn1_vv0
+the	the	at
+23	23	mc
+years	year	nnt2
+of	of	io
+control	control	nn1
+on	on	ii
+Tunisian	tunisian	jj
+political	political	jj
+and	and	cc
+economic	economic	jj
+life	life	nn1
+of	of	io
+President	president	nnb
+Zine	zine	np1
+El-Abidine	el-abidine	np1
+Ben	ben	np1
+Ali	ali	np1
+.		.
+He	he	pphs1
+and	and	cc
+his	his	appge
+powerful	powerful	jj
+wife	wife	nn1
+Leila	leila	np1
+Trabelsi	trabelsi	np1
+left	leave	vvd
+Tunis	tunis	np1
+on	on	ii
+14	14	mc
+January	january	npm1
+for	for	if
+exile	exile	nn1
+in	in	ii
+Saudi	saudi	np1
+Arabia	arabia	np1
+while	while	cs
+other	other	jj
+members	member	nn2
+of	of	io
+the	the	at
+extended	extended	jj@
+family	family	nn1
+,		,
+who	who	pnqs
+controlled	control	vvd
+large	large	jj
+sectors	sector	nn2
+of	of	io
+the	the	at
+economy	economy	nn1
+,		,
+have	have	vh0
+arrived	arrive	vvn
+in	in	ii
+Paris	paris	np1
+,		,
+and	and	cc
+others	others	nn2
+were	be	vbdr
+arrested	arrest	vvn
+within	within	ii
+Tunisia	tunisia	np1
+.		.
+<p>		null
+Tunisia	tunisia	np1
+under	under	ii
+Ben	ben	np1
+Ali	ali	np1
+was	be	vbdz
+a	a	at1
+police-state	police-state	nn1_jj
+in	in	ii
+the	the	at
+literal	literal	jj
+sense	sense	nn1
+of	of	io
+the	the	at
+word	word	nn1
+.		.
+There	there	ex
+was	be	vbdz
+a	a	at1
+constant	constant	jj
+presence	presence	nn1
+of	of	io
+the	the	at
+police	police	nn2
+with	with	iw
+arrests	arrest	nn2
+,		,
+lengthy	lengthy	jj
+interrogations	interrogation	nn2
+,		,
+torture	torture	nn1_vv0
+and	and	cc
+for	for	if
+those	those	dd2
+with	with	iw
+luck	luck	nn1
+,		,
+exile	exile	vv0_nn1
+.		.
+The	the	at
+press	press	nn1
+and	and	cc
+other	other	jj
+media	media	nn
+were	be	vbdr
+closely	closely	rr
+watched	watch	vvn
+and	and	cc
+in	in	ii
+some	some	dd
+cases	case	nn2
+owned	own	vvn
+by	by	ii
+the	the	at
+Ben	ben	np1
+Ali-Trabelsi		np1
+family	family	nn1
+.		.
+<p>		null
+Tunisia	tunisia	np1
+has	have	vhz
+had	have	vhn
+only	only	rr
+two	two	mc
+presidents	president	nn2
+since	since	cs_ii@
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+French	french	jj_nn1
+Protectorate	protectorate	nn1
+in	in	ii
+1956	1956	mc
+.		.
+The	the	at
+first	first	md
+was	be	vbdz
+Habib	habib	np1
+Bourguiba	bourguiba	np1
+and	and	cc
+his	his	appge
+Destourian	destourian	jj
+Socialist	socialist	jj
+Party	party	nn1
+.		.
+At	at	ii
+independence	independence	nn1
+,		,
+the	the	at
+literacy	literacy	nn1
+rate	rate	nn1
+was	be	vbdz
+about	about	rg
+15	15	mc
+percent	percent	nnu
+,		,
+but	but	ccb
+many	many	da2
+of	of	io
+those	those	dd2
+considered	consider	vvn_vvd
+literate	literate	nn1@_jj
+had	have	vhd
+received	receive	vvn
+only	only	rr_jj
+limited	limited	jj
+education	education	nn1
+at	at	ii
+traditional	traditional	jj
+Koranic	koranic	jj
+schools	school	nn2
+and	and	cc
+could	could	vm
+not	not	xx
+read	read	vvi
+secular	secular	jj
+works	works	nn
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+program	program	nn1
+of	of	io
+building	building	nn1_vvg@
+schools	school	nn2
+and	and	cc
+universities	university	nn2
+leading	lead	vvg
+Tunisia	tunisia	np1
+to	to	ii
+having	have	vhg
+today	today	rt
+a	a	at1
+well-educated	well-educated	jj
+Middle	middle	jj
+Class	class	nn1
+.		.
+Bourguiba	bourguiba	nn1_np1@
+also	also	rr
+stressed	stress	vvn_jj@_vvd
+education	education	nn1
+and	and	cc
+employment	employment	nn1
+for	for	if
+women	woman	nn2
+saying	say	vvg
+"		"
+Female	female	jj_nn1
+workers	worker	nn2
+must	must	vm
+be	be	vbi
+trained	train	vvn
+and	and	cc
+given	given	jj@_vvn
+jobs	job	nn2
+.		.
+Work	work	nn1
+contributes	contribute	vvz
+to	to	ii
+female	female	jj_nn1
+emancipation	emancipation	nn1
+.		.
+By	by	ii
+her	her	appge
+labor	labor	nn1
+,		,
+a	a	at1
+woman	woman	nn1
+or	or	cc
+young	young	jj
+girl	girl	nn1
+assumes	assume	vvz
+her	her	appge
+existence	existence	nn1
+and	and	cc
+becomes	become	vvz
+conscious	conscious	jj
+of	of	io
+her	her	appge
+dignity	dignity	nn1
+.		.
+"		"
+<p>		null
+Jobs	job	nn2
+in	in	ii
+government	government	nn1
+and	and	cc
+the	the	at
+private	private	jj
+sector	sector	nn1
+opened	open	vvd_vvn
+to	to	ii
+the	the	at
+newly	newly	rr
+educated	educate	vvn
+by	by	ii
+the	the	at
+departure	departure	nn1
+of	of	io
+the	the	at
+majority	majority	nn1
+of	of	io
+the	the	at
+French	french	nn1_jj
+,		,
+Jewish	jewish	jj
+and	and	cc
+Italian	italian	jj_nn1
+populations	population	nn2
+between	between	ii
+1956	1956	mc
+and	and	cc
+1966	1966	mc
+.		.
+There	there	ex
+was	be	vbdz
+also	also	rr
+a	a	at1
+significant	significant	jj
+possibility	possibility	nn1
+of	of	io
+migration	migration	nn1
+to	to	ii
+Europe	europe	np1
+,		,
+especially	especially	rr
+to	to	ii
+France	france	np1
+,		,
+until	until	cs
+the	the	at
+mid-1970s	mid-1970	nn2
+after	after	ii
+which	which	ddq
+it	it	pph1
+became	become	vvd
+more	more	rgr_dar
+difficult	difficult	jj
+to	to	to
+get	get	vvi
+work	work	nn1
+permits	permit	nn2
+.		.
+<p>		null
+In	in	ii
+November	november	npm1
+1987	1987	mc
+,		,
+Bourguiba	bourguiba	np1
+named	name	vvd
+Ben	ben	np1
+Ali	ali	np1
+Prime	prime	jj
+Minister	minister	nn1
+.		.
+Ben	ben	np1
+Ali	ali	np1
+,		,
+a	a	at1
+General	general	nn1_jj
+,		,
+came	come	vvd
+from	from	ii
+the	the	at
+military	military	jj_nn1@
+and	and	cc
+had	have	vhd_vhn@
+no	no	at
+well-developed	well-developed	jj
+ideology	ideology	nn1
+or	or	cc
+policy	policy	nn1
+.		.
+Thus	thus	rr
+he	he	pphs1
+continued	continue	vvd
+the	the	at
+economic	economic	jj
+and	and	cc
+social	social	jj
+policies	policy	nn2
+of	of	io
+Bourguiba	bourguiba	np1_nn1@
+.		.
+Shortly	shortly	rr
+after	after	ii
+having	have	vhg
+been	be	vbn
+named	name	vvn
+,		,
+in	in	ii
+what	what	ddq
+has	have	vhz
+been	be	vbn
+called	call	vvn
+a	a	at1
+"		"
+medical	medical	jj
+coup	coup	nn1
+"		"
+,		,
+Ben	ben	np1
+Ali	ali	np1
+said	say	vvd
+that	that	cst
+Bourguiba	bourguiba	np1
+'s	's	ge_vbz
+mental	mental	jj
+and	and	cc
+physical	physical	jj
+health	health	nn1
+had	have	vhd
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+president	president	nn1
+promising	promising	jj_vvg@
+to	to	to
+revitalize	revitalize	vvi
+the	the	at
+country	country	nn1
+which	which	ddq
+had	have	vhd
+fallen	fall	vvn
+into	into	ii
+stagnation	stagnation	nn1
+as	as	csa_ii@
+Bourguiba	bourguiba	np1
+had	have	vhd
+become	become	vvn@
+increasingly	increasingly	rr
+senile	senile	jj
+but	but	ccb
+refused	refuse	vvd_vvn
+to	to	to
+delegate	delegate	vvi
+authority	authority	nn1
+.		.
+<p>		null
+Ben	ben	np1
+Ali	ali	np1
+continued	continue	vvd
+Bourguiba	bourguiba	np1
+'s	's	ge
+major	major	jj
+policies	policy	nn2
+.		.
+An	a	at1
+emphasis	emphasis	nn1
+was	be	vbdz
+placed	place	vvn
+on	on	ii
+developing	developing	jj_vvg
+tourism	tourism	nn1
+,		,
+but	but	ccb
+this	this	dd1
+opened	open	vvd_vvn
+relatively	relatively	rr
+few	few	da2
+jobs	job	nn2
+for	for	if
+the	the	at
+educated	educated	jj
+and	and	cc
+led	lead	vvn_vvd
+to	to	ii
+speculation	speculation	nn1
+on	on	ii
+land	land	nn1
+.		.
+The	the	at
+agricultural	agricultural	jj
+sector	sector	nn1
+,		,
+especially	especially	rr
+in	in	ii
+the	the	at
+central	central	jj
+and	and	cc
+south	south	nd1
+of	of	io
+the	the	at
+country	country	nn1
+,		,
+had	have	vhd
+more	more	dar
+people	people	nn
+employed	employ	vvn
+than	than	csn
+needed	need	vvn
+for	for	if
+the	the	at
+level	level	nn1
+of	of	io
+production	production	nn1
+.		.
+From	from	ii
+an	a	at1
+economic	economic	jj
+point	point	nn1
+of	of	io
+view	view	nn1
+,		,
+there	there	ex
+was	be	vbdz
+a	a	at1
+migration	migration	nn1
+to	to	ii
+the	the	at
+cities	city	nn2
+and	and	cc
+larger	large	jjr
+towns	town	nn2
+of	of	io
+the	the	at
+coastal	coastal	jj
+area	area	nn1
+in	in	ii
+a	a	at1
+frustrating	frustrating	jj
+search	search	nn1
+for	for	if
+suitable	suitable	jj
+occupations	occupation	nn2
+.		.
+The	the	at
+unemployment	unemployment	nn1
+rate	rate	nn1
+was	be	vbdz
+high	high	jj_rr@
+,		,
+and	and	cc
+among	among	ii
+the	the	at
+educated	educated	jj
+youth	youth	nn1
+,		,
+unemployment	unemployment	nn1
+,		,
+lack	lack	nn1
+of	of	io
+social	social	jj
+mobility	mobility	nn1
+and	and	cc
+the	the	at
+flashy	flashy	jj
+life-style	lifestyle	nn1
+of	of	io
+those	those	dd2
+with	with	iw
+links	link	nn2
+to	to	ii
+political	political	jj
+power	power	nn1
+led	lead	vvn_vvd
+to	to	ii
+demands	demand	nn2
+for	for	if
+change	change	nn1
+.		.
+<p>		null
+The	the	at
+demonstrations	demonstration	nn2
+of	of	io
+the	the	at
+past	past	jj_nn1
+month	month	nnt1
+seemed	seem	vvd
+to	to	to
+have	have	vhi
+begun	begin	vvn
+spontaneously	spontaneously	rr
+,		,
+led	lead	vvn
+by	by	ii
+the	the	at
+young	young	jj
+but	but	ccb
+with	with	iw
+no	no	at
+previously	previously	rr
+known	know	vvn_jj@
+leaders	leader	nn2
+.		.
+The	the	at
+demonstrations	demonstration	nn2
+had	have	vhd
+no	no	at
+links	link	nn2
+to	to	ii
+opposition	opposition	nn1
+political	political	jj
+parties	party	nn2
+,		,
+most	most	dat
+of	of	io
+whose	whose	ddqge
+leaders	leader	nn2
+were	be	vbdr
+in	in	ii
+exile	exile	nn1
+,		,
+and	and	cc
+there	there	ex
+were	be	vbdr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+been	be	vbn
+completely	completely	rr
+absent	absent	jj_vv0@
+from	from	ii
+the	the	at
+demonstrations	demonstration	nn2
+and	and	cc
+from	from	ii
+the	the	at
+demands	demand	nn2
+of	of	io
+the	the	at
+demonstrators	demonstrator	nn2
+.		.
+<p>		null
+For	for	if
+most	most	dat
+French	french	jj
+commentators	commentator	nn2
+,		,
+the	the	at
+model	model	nn1
+was	be	vbdz
+"		"
+May	may	npm1
+1968	1968	mc
+"		"
+which	which	ddq
+led	lead	vvd
+to	to	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+government	government	nn1
+of	of	io
+Charles	charles	np1
+De	de	np1
+Gaulle	gaulle	np1
+.		.
+Tunisia	tunisia	np1
+is	be	vbz
+a	a	at1
+revolution	revolution	nn1
+of	of	io
+the	the	at
+people	people	nn
+who	who	pnqs
+wanted	want	vvd
+fundamental	fundamental	jj
+changes	change	nn2
+from	from	ii
+the	the	at
+small	small	jj
+political	political	jj
+group	group	nn1
+governing	govern	vvg_jj
+,		,
+an	a	at1
+end	end	nn1
+to	to	ii
+wide-spread	widespread	jj
+and	and	cc
+highly-visible	highly-visible	jj
+corruption	corruption	nn1
+,		,
+and	and	cc
+the	the	at
+creation	creation	nn1
+of	of	io
+jobs	job	nn2
+.		.
+Ben	ben	np1
+Ali	ali	np1
+,		,
+like	like	ii
+De	de	np1
+Gaulle	gaulle	np1
+,		,
+symbolized	symbolize	vvd_vvn
+the	the	at
+system	system	nn1
+and	and	cc
+so	so	rr_cs@
+there	there	ex
+was	be	vbdz
+strong	strong	jj
+agreement	agreement	nn1
+on	on	ii
+what	what	ddq
+everyone	everyone	pn1
+could	could	vm
+agree	agree	vvi
+upon	upon	ii
+:		:
+"		"
+Ben	ben	np1
+Ali	ali	np1
+must	must	vm
+go	go	vvi
+"		"
+.		.
+Unlike	unlike	jj
+General	general	nnb
+De	de	np1
+Gaulle	gaulle	np1
+,		,
+General	general	nnb
+Ben	ben	np1
+Ali	ali	np1
+had	have	vhd
+done	do	vdn
+nothing	nothing	pn1
+very	very	rg
+special	special	jj
+before	before	ii
+becoming	become	vvg
+President	president	nn1
+.		.
+Although	although	cs
+he	he	pphs1
+tried	try	vvd
+to	to	to
+develop	develop	vvi
+a	a	at1
+"		"
+personality	personality	nn1
+cult	cult	nn1
+"		"
+with	with	iw
+large	large	jj
+pictures	picture	nn2
+of	of	io
+himself	himself	ppx1
+in	in	ii
+the	the	at
+streets	street	nn2
+and	and	cc
+ever-present	ever-present	jj
+praise	praise	nn1
+on	on	ii
+the	the	at
+TV	tv	nn1
+,		,
+Ben	ben	np1
+Ali	ali	np1
+had	have	vhd
+no	no	at
+real	real	jj
+personality	personality	nn1
+around	around	ii
+which	which	ddq
+to	to	to
+develop	develop	vvi
+a	a	at1
+cult	cult	nn1
+.		.
+<p>		null
+Now	now	rt
+the	the	at
+issue	issue	nn1
+is	be	vbz
+what	what	ddq
+structures	structure	vvz@
+the	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+will	will	vm
+give	give	vvi
+itself	itself	ppx1
+.		.
+If	if	cs
+all	all	db_rr@
+goes	go	vvz
+as	as	ii_csa
+the	the	at
+constitutional	constitutional	jj
+order	order	nn1
+indicates	indicate	vvz
+,		,
+elections	election	nn2
+should	should	vm
+be	be	vbi
+held	hold	vvn
+within	within	ii
+60	60	mc
+days	day	nnt2
+,		,
+the	the	at
+interim	interim	jj_nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Parliament	parliament	nn1
+.		.
+Since	since	cs_rr@
+political	political	jj
+parties	party	nn2
+had	have	vhd
+been	be	vbn
+prevented	prevent	vvn
+from	from	ii
+operating	operate	vvg_nn1
+--		zz
+even	even	rr
+the	the	at
+party	party	nn1
+of	of	io
+the	the	at
+President	president	nn1
+had	have	vhd
+only	only	rr
+a	a	at1
+name	name	nn1
+but	but	ccb
+no	no	at
+real	real	jj
+structures	structure	nn2
+--		zz
+we	we	ppis2
+will	will	vm
+have	have	vhi
+to	to	to
+see	see	vvi
+how	how	rgq@_rrq
+political	political	jj
+factions	faction	nn2
+are	be	vbr
+created	create	vvn
+prior	prior	ii21
+to	to	ii22
+the	the	at
+elections	election	nn2
+.		.
+There	there	ex
+are	be	vbr
+a	a	at1
+good	good	jj
+number	number	nn1
+of	of	io
+different	different	jj
+ideological	ideological	jj
+currents	current	nn2
+in	in	ii
+the	the	at
+opposition	opposition	nn1
+to	to	ii
+Ben	ben	np1
+Ali	ali	np1
+,		,
+and	and	cc
+there	there	ex
+is	be	vbz
+no	no	at
+opposition	opposition	nn1
+leader	leader	nn1
+who	who	pnqs
+stands	stand	vvz
+out	out	rp
+as	as	ii
+a	a	at1
+"		"
+natural	natural	jj
+"		"
+next	next	md
+President	president	nn1
+.		.
+<p>		null
+The	the	at
+first	first	md
+efforts	effort	nn2
+of	of	io
+an	a	at1
+interim	interim	jj
+"		"
+national	national	jj
+unity	unity	nn1
+"		"
+government	government	nn1
+have	have	vh0
+been	be	vbn
+hotly	hotly	rr
+contested	contest	vvn_vvd
+with	with	iw
+continued	continued	jj
+demonstrations	demonstration	nn2
+.		.
+It	it	pph1
+was	be	vbdz
+felt	feel	vvn
+that	that	cst_dd1
+too	too	rg
+many	many	da2
+people	people	nn
+who	who	pnqs
+had	have	vhd
+served	serve	vvn
+Ben	ben	np1
+Ali	ali	np1
+were	be	vbdr
+still	still	rr
+in	in	ii
+the	the	at
+government	government	nn1
+.		.
+However	however	rr
+,		,
+there	there	ex
+are	be	vbr
+few	few	da2
+opposition	opposition	nn1
+figures	figure	nn2
+who	who	pnqs
+have	have	vh0
+administrative	administrative	jj
+experience	experience	nn1
+.		.
+The	the	at
+internal	internal	jj
+Tunisian	tunisian	jj
+situation	situation	nn1
+merits	merit	nn2_vvz@
+to	to	to
+be	be	vbi
+watched	watch	vvn@
+closely	closely	rr
+.		.
+<p>		null
+The	the	at
+disintegration	disintegration	nn1
+of	of	io
+Ben	ben	np1
+Ali	ali	np1
+'s	's	ge
+government	government	nn1
+and	and	cc
+power	power	nn1
+base	base	nn1
+has	have	vhz
+been	be	vbn
+closely	closely	rr
+watched	watch	vvn
+in	in	ii
+the	the	at
+Arab	arab	jj_nn1
+world	world	nn1
+.		.
+Although	although	cs
+Ben	ben	np1
+Ali	ali	np1
+was	be	vbdz
+not	not	xx
+particularly	particularly	rr
+liked	like	vvn
+by	by	ii
+his	his	appge
+neighbors	neighbor	nn2
+,		,
+political	political	jj
+leaders	leader	nn2
+in	in	ii
+Egypt	egypt	np1
+,		,
+Libya	libya	np1
+,		,
+Algeria	algeria	np1
+,		,
+Morocco	morocco	np1
+,		,
+Syria	syria	np1
+and	and	cc
+Jordan	jordan	np1
+can	can	vm
+see	see	vvi
+the	the	at
+parallels	parallel	nn2
+without	without	iw
+too	too	rg
+much	much	da1
+difficulty	difficulty	nn1
+--		zz
+a	a	at1
+heavy-handed	heavy-handed	jj
+security	security	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+educated	educated	jj
+,		,
+yet	yet	rr
+frustrated	frustrated	jj_vvn
+population	population	nn1
+.		.
+Recent	recent	jj
+demonstrations	demonstration	nn2
+in	in	ii
+Algeria	algeria	np1
+and	and	cc
+Jordan	jordan	np1
+set	set	vvd
+off	off	rp
+by	by	ii
+higher	high	jjr
+food	food	nn1
+prices	price	nn2
+have	have	vh0
+been	be	vbn
+met	meet	vvn
+by	by	ii
+some	some	dd
+government	government	nn1
+action	action	nn1
+to	to	to
+limit	limit	vvi
+taxes	tax	nn2
+of	of	io
+food	food	nn1
+.		.
+However	however	rr
+,		,
+higher	high	jjr
+food	food	nn1
+prices	price	nn2
+are	be	vbr
+only	only	rr
+one	one	mc1
+sign	sign	nn1
+of	of	io
+broader	broad	jjr
+socio-economic	socioeconomic	jj
+weaknesses	weakness	nn2
+that	that	cst
+have	have	vh0
+led	lead	vvn
+to	to	ii
+high	high	jj
+unemployment	unemployment	nn1
+,		,
+high	high	jj
+rents	rent	nn2
+and	and	cc
+yet	yet	rr
+a	a	at1
+housing	housing	nn1
+shortage	shortage	nn1
+.		.
+<p>		null
+It	it	pph1
+is	be	vbz
+in	in	ii
+Egypt	egypt	np1
+that	that	cst_dd1
+,		,
+following	follow	vvg
+the	the	at
+Tunisian	tunisian	jj
+example	example	nn1
+,		,
+people	people	nn
+have	have	vh0
+taken	take	vvn
+to	to	ii
+the	the	at
+streets	street	nn2
+demanding	demand	vvg
+that	that	cst
+Hosni	hosni	np1
+Moubarak		np1
+must	must	vm
+go	go	vvi
+.		.
+The	the	at
+cries	cry	nn2
+of	of	io
+the	the	at
+Tunisian	tunisian	jj
+revolutionary	revolutionary	jj
+movement	movement	nn1
+"		"
+Liberty-Work-Dignity		np1
+"		"
+have	have	vh0
+been	be	vbn
+taken	take	vvn
+up	up	rp
+by	by	ii
+other	other	jj
+nations	nation	nn2
+.		.
+The	the	at
+repressive	repressive	jj
+forces	force	nn2
+of	of	io
+the	the	at
+state	state	nn1
+are	be	vbr
+stronger	strong	jjr
+in	in	ii
+Egypt	egypt	np1
+than	than	csn
+in	in	ii
+Tunisia	tunisia	np1
+where	where	rrq
+there	there	ex
+was	be	vbdz
+a	a	at1
+division	division	nn1
+of	of	io
+policy	policy	nn1
+between	between	ii
+the	the	at
+**27;8846;TOOLONG		jj_nn1
+Army	army	nn1
+and	and	cc
+the	the	at
+more	more	rgr
+pro-Ben		jj
+Ali	ali	np1
+police	police	nn2
+and	and	cc
+palace	palace	nn1
+guard	guard	nn1
+.		.
+<p>		null
+Throughout	throughout	ii
+the	the	at
+Arab	arab	jj_nn1
+world	world	nn1
+,		,
+governments	government	nn2
+have	have	vh0
+been	be	vbn
+unable	unable	jj
+or	or	cc
+unwilling	unwilling	jj
+to	to	to
+open	open	vvi
+serious	serious	jj
+discussions	discussion	nn2
+on	on	ii
+socio-economic	socioeconomic	jj
+policies	policy	nn2
+and	and	cc
+alternatives	alternative	nn2
+.		.
+Islamic-based	islamic-based	jj_nn1
+groups	group	nn2
+have	have	vh0
+played	play	vvn
+some	some	dd
+role	role	nn1
+in	in	ii
+focusing	focus	vvg
+protests	protest	nn2
+but	but	ccb
+have	have	vh0
+not	not	xx
+done	do	vdn
+much	much	da1_rr
+in	in	ii
+presenting	present	vvg
+realistic	realistic	jj
+alternative	alternative	jj_nn1
+policies	policy	nn2
+.		.
+The	the	at
+violence	violence	nn1
+of	of	io
+some	some	dd
+of	of	io
+the	the	at
+Islamic	islamic	jj
+groups	group	nn2
+in	in	ii
+some	some	dd
+countries	country	nn2
+has	have	vhz
+served	serve	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+discussions	discussion	nn2
+without	without	iw
+too	too	rg
+many	many	da2
+protests	protest	nn2
+from	from	ii
+Western	western	jj_np1
+governments	government	nn2
+.		.
+<p>		null
+What	what	ddq
+is	be	vbz
+outstanding	outstanding	jj
+in	in	ii
+the	the	at
+revolution	revolution	nn1
+in	in	ii
+Tunisia	tunisia	np1
+is	be	vbz
+that	that	dd1_cst_rg%
+Islamic	islamic	jj
+groups	group	nn2
+played	play	vvd_vvn
+no	no	at
+part	part	nn1
+in	in	ii
+the	the	at
+demonstrations	demonstration	nn2
+and	and	cc
+that	that	cst
+none	none	pn
+of	of	io
+the	the	at
+demands	demand	nn2
+were	be	vbdr
+expressed	express	vvn
+in	in	ii
+Islamic	islamic	jj
+terms	term	nn2
+.		.
+The	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+in	in	ii
+Tunisia	tunisia	np1
+was	be	vbdz
+based	base	vvn
+on	on	ii
+the	the	at
+will	will	nn1@
+of	of	io
+the	the	at
+people	people	nn
+for	for	if
+change	change	nn1
+with	with	iw
+a	a	at1
+minimum	minimum	nn1
+of	of	io
+ideological	ideological	jj
+coloring	coloring	nn1
+.		.
+It	it	pph1
+is	be	vbz
+likely	likely	jj
+that	that	cst
+the	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+in	in	ii
+other	other	jj
+Arab	arab	jj_nn1
+countries	country	nn2
+will	will	vm
+also	also	rr
+marginalize	marginalize	vvi
+Islamic	islamic	jj
+currents	current	nn2
+in	in	ii31
+favour	favour	ii32
+of	of	ii33
+this-worldly	this-worldly	jj
+reforms	reform	nn2
+.		.
+Events	event	nn2
+will	will	vm
+be	be	vbi
+closely	closely	rr
+watched	watch	vvn
+both	both	rr
+by	by	ii
+those	those	dd2
+who	who	pnqs
+hope	hope	vv0
+and	and	cc
+those	those	dd2
+who	who	pnqs
+fear	fear	vv0
+.		.
+People	people	nn
+'s	's	ge
+revolutions	revolution	nn2
+may	may	vm
+be	be	vbi
+on	on	ii
+the	the	at
+march	march	nn1
+in	in	ii
+the	the	at
+Arab	arab	jj_nn1
+world	world	nn1
+.		.
+<p>		null
+The	the	at
+impact	impact	nn1
+of	of	io
+the	the	at
+Tunisian	tunisian	jj
+revolution	revolution	nn1
+will	will	vm
+be	be	vbi
+felt	feel	vvn
+in	in	ii
+Europe	europe	np1
+as	as	rr21
+well	well	rr22_rr
+.		.
+President	president	nnb
+Nicolas	nicolas	np1
+Sarkozy	sarkozy	np1
+of	of	io
+France	france	np1
+said	say	vvd
+in	in	ii_rp@
+a	a	at1
+24	24	mc
+January	january	npm1
+press	press	nn1
+conference	conference	nn1
+that	that	cst
+"		"
+We	we	ppis2
+in	in	ii
+France	france	np1
+probably	probably	rr
+underestimated	underestimate	vvd_vvn
+the	the	at
+aspirations	aspiration	nn2
+of	of	io
+the	the	at
+Tunisian	tunisian	jj
+people	people	nn
+for	for	if
+freedom	freedom	nn1
+.		.
+"		"
+However	however	rrqv_rr
+the	the	at
+underestimation	underestimation	nn1
+came	come	vvd
+from	from	ii
+having	have	vhg
+turned	turn	vvn
+a	a	at1
+blind	blind	jj
+eye	eye	nn1
+to	to	ii
+the	the	at
+situation	situation	nn1
+in	in	ii
+Tunisia	tunisia	np1
+,		,
+not	not	xx
+from	from	ii
+a	a	at1
+lack	lack	nn1
+of	of	io
+information	information	nn1
+.		.
+There	there	ex
+has	have	vhz
+been	be	vbn
+for	for	if
+some	some	dd
+time	time	nnt1
+a	a	at1
+host	host	nn1
+of	of	io
+Tunisian	tunisian	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+who	who	pnqs
+would	would	vm
+listen	listen	vvi
+.		.
+Also	also	rr
+France	france	np1
+has	have	vhz
+a	a	at1
+good	good	jj
+number	number	nn1
+of	of	io
+competent	competent	jj
+North	north	np1
+African	african	jj
+specialists	specialist	nn2
+who	who	pnqs
+follow	follow	vv0
+events	event	nn2
+closely	closely	rr
+.		.
+<p>		null
+Likewise	likewise	rr
+,		,
+the	the	at
+Tunisian	tunisian	jj
+Revolution	revolution	nn1
+should	should	vm
+have	have	vhi
+some	some	dd
+impact	impact	nn1
+on	on	ii
+the	the	at
+way	way	nn1
+that	that	cst_dd1
+European	european	jj
+Union	union	nn1_np1
+foreign	foreign	jj
+policy	policy	nn1
+is	be	vbz
+made	make	vvn
+.		.
+As	as	csa_ii@
+Judy	judy	np1
+Dempsey	dempsey	np1
+pointed	point	vvd
+out	out	rp
+in	in	ii
+an	a	at1
+analysis	analysis	nn1
+in	in	ii
+the	the	at
+International	international	jj
+Herald	herald	nn1
+Tribune	tribune	nn1
+"		"
+Despite	despite	ii
+Mr	mr	nnb
+Ben	ben	np1
+Ali	ali	np1
+'s	's	ge
+repressive	repressive	jj
+rule	rule	nn1
+,		,
+the	the	at
+European	european	jj
+Union	union	nn1_np1
+has	have	vhz
+been	be	vbn
+negotiating	negotiate	vvg
+ways	way	nn2
+to	to	to
+grant	grant	vvi
+this	this	dd1
+North	north	np1
+African	african	jj
+country	country	nn1
+'	'	ge
+an	a	at1
+advanced	advanced	jj
+status	status	nn1
+'	'	ge
+that	that	dd1
+would	would	vm
+involve	involve	vvi
+more	more	dar
+aid	aid	nn1
+and	and	cc
+trade	trade	nn1
+,		,
+economic	economic	jj
+and	and	cc
+political	political	jj
+contacts	contact	nn2
+between	between	ii
+Tunisia	tunisia	np1
+and	and	cc
+Europe	europe	np1
+.		.
+Stefan	stefan	np1
+Fule		np1
+,		,
+the	the	at
+E.U.	e.u	np1
+Commissioner	commissioner	nn1
+for	for	if
+Enlargement	enlargement	nn1
+and	and	cc
+the	the	at
+European	european	jj
+Neighborhood	neighborhood	nn1
+Policy	policy	nn1
+,		,
+was	be	vbdz
+unequivocal	unequivocal	jj
+in	in	ii
+his	his	appge
+praise	praise	nn1
+for	for	if
+Tunisia	tunisia	np1
+last	last	md
+May	may	npm1
+when	when	rrq_cs
+Brussels	brussels	np1
+agreed	agree	vvd
+to	to	to
+set	set	vvi
+up	up	rp
+a	a	at1
+group	group	nn1
+to	to	to
+prepare	prepare	vvi
+such	such	da
+a	a	at1
+status	status	nn1
+.		.
+'	'	ge
+Tunisia	tunisia	np1
+is	be	vbz
+an	a	at1
+important	important	jj
+and	and	cc
+reliable	reliable	jj
+partner	partner	nn1
+for	for	if
+the	the	at
+E.U.	e.u	np1
+with	with	iw
+which	which	ddq
+it	it	pph1
+has	have	vhz
+forged	forge	vvn
+strong	strong	jj
+relations	relation	nn2
+based	base	vvn
+on	on	ii
+shared	shared	jj
+values	value	nn2
+and	and	cc
+mutual	mutual	jj
+respect	respect	nn1
+and	and	cc
+understanding	understanding	nn1_vvg
+.		.
+It	it	pph1
+is	be	vbz
+in	in	ii
+many	many	da2
+respects	respect	nn2
+an	a	at1
+example	example	nn1
+for	for	if
+the	the	at
+region	region	nn1
+.		.
+"		"
+<p>		null
+Of	of	rr21
+course	course	rr22
+,		,
+Judy	judy	np1
+Dempsey	dempsey	np1
+continued	continue	vvd
+"		"
+It	it	pph1
+was	be	vbdz
+never	never	rr
+going	go	vvgk
+to	to	to
+be	be	vbi
+easy	easy	jj
+or	or	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+where	where	cs_rrq
+the	the	at
+former	former	da
+colonial	colonial	jj
+powers	power	nn2
+,		,
+France	france	np1
+,		,
+Spain	spain	np1
+and	and	cc
+Italy	italy	np1
+rarely	rarely	rr
+challenged	challenge	vvd_vvn
+the	the	at
+corruption	corruption	nn1
+,		,
+torture	torture	nn1_vv0
+and	and	cc
+wide	wide	jj
+human	human	jj_nn1
+rights	right	nn2
+abuses	abuse	vvz_nn2
+in	in	ii
+the	the	at
+region	region	nn1
+,		,
+while	while	cs
+the	the	at
+United	united	np1
+States	state	np1
+pursued	pursue	vvd
+its	its	appge
+own	own	da
+strategic	strategic	jj
+interests	interest	nn2
+.		.
+When	when	cs
+the	the	at
+Union	union	np1_nn1
+set	set	vvd_vvn
+up	up	rp
+the	the	at
+Barcelona	barcelona	np1
+Process	process	nn1_vv0
+in	in	ii
+1995	1995	mc
+,		,
+which	which	ddq
+was	be	vbdz
+aimed	aim	vvn
+at	at	ii
+fostering	foster	vvg@_nn1
+regional	regional	jj
+cooperation	cooperation	nn1
+among	among	ii
+the	the	at
+14	14	mc
+North	north	np1
+African	african	jj
+and	and	cc
+Middle	middle	jj
+Eastern	eastern	jj
+countries	country	nn2
+and	and	cc
+with	with	iw
+Brussels	brussels	np1
+,		,
+civil	civil	jj
+society	society	nn1
+activists	activist	nn2
+say	say	vv0
+it	it	pph1
+offered	offer	vvd_jj@
+aid	aid	nn1
+and	and	cc
+trade	trade	nn1
+but	but	ccb
+little	little	rr_da1
+in	in	ii
+the	the	at
+way	way	nn1
+of	of	io
+incentives	incentive	nn2
+for	for	if
+political	political	jj
+reforms	reform	nn2
+.		.
+"		"
+<p>		null
+Now	now	cs21
+that	that	cs22
+the	the	at
+people	people	nn
+'s	's	ge
+revolution	revolution	nn1
+is	be	vbz
+underway	underway	rr
+in	in	ii
+the	the	at
+streets	street	nn2
+,		,
+the	the	at
+E.U.	e.u	np1
+diplomatic	diplomatic	jj
+corps	corps	nn
+may	may	vm
+look	look	vvi
+again	again	rt
+at	at	ii
+how	how	rrq
+its	its	appge
+analysis	analysis	nn1
+of	of	io
+human	human	jj_nn1
+rights	right	nn2
+and	and	cc
+the	the	at
+rule	rule	nn1
+of	of	io
+law	law	nn1
+is	be	vbz
+made	make	vvn
+.		.
+<p>		null
+Rene	rene	np1
+Wadlow		np1_nn1
+is	be	vbz
+Representative	representative	jj_nn1
+to	to	ii
+the	the	at
+##3522151		fo
+<h>		null
+Where	where	rrq
+is	be	vbz
+the	the	at
+Honor	honor	nn1
+?		?
+<p>		null
+Whenever	whenever	rrqv
+I	i	ppis1
+discuss	discuss	vv0
+or	or	cc
+lecture	lecture	nn1_vv0@
+on	on	ii
+"		"
+women	woman	nn2
+in	in	ii
+Islam	islam	nn1
+"		"
+or	or	cc
+more	more	rgr
+specifically	specifically	rr
+"		"
+honor	honor	vv0
+killings	killing	nn2
+"		"
+the	the	at
+apologists	apologist	nn2
+always	always	rr
+say	say	vv0
+"		"
+honor	honor	nn1_vv0
+killings	killing	nn2
+is	be	vbz
+a	a	at1
+culture	culture	nn1
+thing	thing	nn1
+,		,
+it	it	pph1
+'s	be	vbz
+not	not	xx
+Islamic	islamic	jj
+.		.
+"		"
+My	my	appge
+personal	personal	jj
+favorite	favorite	nn1
+is	be	vbz
+when	when	rrq_cs
+I	i	ppis1
+hear	hear	vv0
+"		"
+that	that	cst_dd1
+does	do	vdz
+n't	n't	xx
+happen	happen	vvi
+in	in	ii
+America	america	np1
+.		.
+"		"
+<p>		null
+Right	right	rr
+now	now	rt
+,		,
+we	we	ppis2
+have	have	vh0
+two	two	mc
+"		"
+honor	honor	vv0_nn1
+killing	kill	vvg_nn1
+"		"
+trials	trial	nn2
+that	that	cst
+are	be	vbr
+taking	take	vvg
+place	place	nn1
+in	in	ii
+the	the	at
+U.S.	us	np1
+for	for	if
+honor	honor	nn1
+killings	killing	nn2
+that	that	cst
+"		"
+do	do	vd0
+n't	n't	xx
+happen	happen	vvi
+here	here	rl
+"		"
+.		.
+<p>		null
+In	in	ii
+Buffalo	buffalo	np1
+,		,
+NY	ny	np1
+we	we	ppis2
+have	have	vh0
+the	the	at
+case	case	nn1
+of	of	io
+Muzzammil		np1
+"		"
+Mo	mo	np1
+"		"
+Hassan	hassan	np1
+who	who	pnqs
+allegedly	allegedly	rr
+murdered	murder	vvd_vvn
+his	his	appge
+wife	wife	nn1
+Aasiya	aasiya	np1
+Hassan	hassan	np1
+.		.
+According	according	ii21
+to	to	ii22
+WBEN		nn1_np1
+of	of	io
+Buffalo	buffalo	np1
+,		,
+NY	ny	np1
+,		,
+<p>		null
+Aasiya		np1@
+Hassan	hassan	np1
+was	be	vbdz
+stabbed	stab	vvn
+more	more	dar
+than	than	csn
+40	40	mc
+times	time	nnt2
+as	as	ii_csa
+the	the	at
+couple	couple	nn1
+'s	's	ge
+4-	4-	nn1_jj
+and	and	cc
+6-year-old	6-year-old	jj
+children	child	nn2
+and	and	cc
+the	the	at
+suspect	suspect	nn1
+'s	's	ge
+teenage	teenage	jj
+son	son	nn1
+from	from	ii
+a	a	at1
+previous	previous	jj
+marriage	marriage	nn1
+waited	wait	vvd_vvn@
+in	in	ii_rp@
+a	a	at1
+minivan	minivan	nn1_jj
+outside	outside	rl_jj_nn1@
+for	for	if
+her	her	ppho1
+to	to	to
+complete	complete	vvi
+the	the	at
+errand	errand	nn1
+on	on	ii
+their	their	appge
+way	way	nn1
+to	to	ii
+dinner	dinner	nn1
+,		,
+Bonanno	bonanno	np1
+said	say	vvd
+.		.
+<p>		null
+"		"
+Then	then	rt
+(		(
+Hassan	hassan	np1
+)		)
+took	take	vvd
+those	those	dd2
+knives	knife	nn2
+and	and	cc
+he	he	pphs1
+sawed	saw	vvd
+Aasiya	aasiya	np1
+'s	's	ge
+head	head	nn1
+off	off	rp
+,		,
+"		"
+using	use	vvg
+so	so	rg
+much	much	da1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+prosecutor	prosecutor	nn1
+said	say	vvd
+.		.
+<p>		null
+The	the	at
+other	other	jj
+case	case	nn1
+is	be	vbz
+one	one	pn1
+that	that	cst
+I	i	ppis1
+wrote	write	vvd
+about	about	rp@_ii
+previously	previously	rr
+,		,
+when	when	cs_rrq
+I	i	ppis1
+wrote	write	vvd
+the	the	at
+story	story	nn1
+of	of	io
+Noor	noor	np1
+Almaleki		np1
+last	last	md
+year	year	nnt1
+I	i	ppis1
+contacted	contact	vvd
+a	a	at1
+few	few	da2
+of	of	io
+her	her	appge
+friends	friend	nn2
+and	and	cc
+co-workers	co-worker	nn2
+to	to	to
+find	find	vvi
+out	out	rp
+about	about	ii
+Noor	noor	np1
+the	the	at
+person	person	nn1
+.		.
+I	i	ppis1
+wanted	want	vvd
+to	to	to
+paint	paint	vvi
+a	a	at1
+real	real	jj
+picture	picture	nn1
+and	and	cc
+get	get	vvi
+an	a	at1
+understanding	understanding	nn1
+of	of	io
+the	the	at
+individual	individual	nn1_jj
+that	that	cst
+lost	lose	vvd
+her	her	appge
+life	life	nn1
+in	in	ii
+what	what	ddq
+was	be	vbdz
+known	know	vvn
+in	in	ii
+Arizona	arizona	np1
+and	and	cc
+throughout	throughout	ii
+the	the	at
+U.S.	us	np1
+as	as	ii_csa
+an	a	at1
+"		"
+Honor	honor	nn1
+killing	killing	nn1_vvg
+"		"
+.		.
+<p>		null
+Opening	open	vvg_nn1_jj@
+statements	statement	nn2
+began	begin	vvd
+in	in	ii
+the	the	at
+Maricopa	maricopa	np1_nn1@
+County	county	nn1
+Court	court	nn1
+room	room	nn1
+in	in	ii
+Arizona	arizona	np1
+last	last	md
+Monday	monday	npd1
+and	and	cc
+now	now	cs21
+that	that	cs22
+the	the	at
+case	case	nn1
+has	have	vhz
+finally	finally	rr
+gone	go	vvn
+to	to	ii
+trial	trial	nn1
+with	with	iw
+her	her	appge
+father	father	nn1
+as	as	ii_csa
+the	the	at
+defendant	defendant	nn1
+against	against	ii
+murder	murder	nn1
+,		,
+it	it	pph1
+is	be	vbz
+time	time	nnt1
+for	for	if
+a	a	at1
+follow	follow	nn121@
+up	up	nn122
+.		.
+Let	let	vm21
+'s	be	vm22
+first	first	md
+revisit	revisit	vv0
+the	the	at
+facts	fact	nn2
+of	of	io
+the	the	at
+case	case	nn1
+according	according	ii21
+to	to	ii22
+last	last	md
+year	year	nnt1
+'s	's	ge
+article	article	nn1
+.		.
+<p>		null
+October	october	npm1
+20th	20th	md
+,		,
+2009	2009	mc
+Noor	noor	np1
+'s	's	ge
+own	own	da
+Father	father	nn1
+,		,
+Faleh	faleh	np1
+Hassan	hassan	np1
+Almaleki		np1
+ran	run	vvd
+her	her	ppho1
+down	down	rp
+with	with	iw
+his	his	appge
+Jeep	jeep	nn1
+Cherokee	cherokee	nn
+.		.
+Noor	noor	np1
+fought	fight	vvd
+for	for	if
+her	her	appge
+life	life	nn1
+until	until	ii@
+Monday	monday	npd1
+November	november	npm1
+2	2	mc
+,		,
+2009	2009	mc
+,		,
+when	when	cs_rrq
+she	she	pphs1
+succumbed	succumb	vvd
+and	and	cc
+died	die	vvd
+from	from	ii
+her	her	appge
+injuries	injury	nn2
+.		.
+Noor	noor	np1
+was	be	vbdz
+only	only	rr
+20	20	mc
+years	year	nnt2
+old	old	jj
+.		.
+Her	her	appge
+father	father	nn1
+did	do	vdd
+n't	n't	xx
+just	just	rr
+run	run	vvi
+over	over	ii
+her	her	ppho1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+was	be	vbdz
+walking	walk	vvg
+in	in	ii_rp@
+a	a	at1
+parking	parking	nn1
+lot	lot	nn1
+with	with	iw
+her	her	appge
+fianc	fianc	nn1
+'s	's	ge
+mother	mother	nn1
+,		,
+Amal	amal	np1
+Edan	edan	np1
+Khalaf	khalaf	np1_nn1
+.		.
+The	the	at
+43-year-old	43-year-old	jj
+woman	woman	nn1
+was	be	vbdz
+seriously	seriously	rr
+injured	injure	vvn_vvd_jj
+.		.
+<p>		null
+Some	some	dd
+friends	friend	nn2
+of	of	io
+Noor	noor	np1
+said	say	vvd
+that	that	cst
+her	her	appge
+father	father	nn1
+had	have	vhd
+taken	take	vvn
+her	her	ppho1
+to	to	ii
+Iraq	iraq	np1
+and	and	cc
+told	tell	vvn
+her	her	ppho1
+they	they	pphs2
+were	be	vbdr
+visiting	visiting	jj_vvg
+relatives	relative	nn2
+.		.
+Once	once	rr
+there	there	rl
+,		,
+he	he	pphs1
+married	marry	vvd@
+her	her	ppho1
+off	off	rp
+and	and	cc
+left	leave	vvd
+her	her	ppho1
+to	to	to
+fend	fend	vvi
+for	for	if
+herself	herself	ppx1
+.		.
+Noor	noor	np1
+then	then	rt
+had	have	vhd
+to	to	to
+find	find	vvi
+enough	enough	dd
+money	money	nn1
+to	to	to
+make	make	vvi
+her	her	appge
+way	way	nn1
+back	back	rp_nn1
+to	to	ii
+America	america	np1
+and	and	cc
+,		,
+once	once	rr
+here	here	rl
+,		,
+she	she	pphs1
+moved	move	vvd
+in	in	rp@
+with	with	iw
+the	the	at
+fianc	fianc	nn1
+she	she	pphs1
+loved	love	vvd
+.		.
+A	a	at1
+friend	friend	nn1
+,		,
+Nicole	nicole	np1
+Furugia		np1
+,		,
+said	say	vvd
+she	she	pphs1
+had	have	vhd
+gone	go	vvn
+with	with	iw
+Noor	noor	np1
+to	to	to
+look	look	vvi
+into	into	ii
+getting	get	vvg
+a	a	at1
+restraining	restraining	jj@_nn1@
+order	order	nn1
+against	against	ii
+her	her	appge
+father	father	nn1
+,		,
+"		"
+She	she	pphs1
+was	be	vbdz
+very	very	rg
+determined	determined	jj
+on	on	ii
+getting	get	vvg
+it	it	pph1
+,		,
+she	she	pphs1
+was	be	vbdz
+scared	scared	jj
+.		.
+"		"
+<p>		null
+Family	family	nn1
+members	member	nn2
+told	tell	vvd_vvn
+police	police	nn2
+that	that	cst
+the	the	at
+father	father	nn1
+was	be	vbdz
+upset	upset	vvn
+that	that	cst
+his	his	appge
+daughter	daughter	nn1
+failed	fail	vvd_vvn
+to	to	to
+live	live	vvi
+by	by	ii
+traditional	traditional	jj
+Muslim	muslim	jj
+values	value	nn2
+,		,
+and	and	cc
+prosecutors	prosecutor	nn2
+have	have	vh0
+also	also	rr
+said	say	vvn
+Almaleki		np1_nn1
+has	have	vhz
+admitted	admit	vvn
+killing	kill	vvg
+his	his	appge
+daughter	daughter	nn1
+because	because	cs
+she	she	pphs1
+disgraced	disgrace	vvd%
+the	the	at
+family	family	nn1
+by	by	ii
+not	not	xx
+following	follow	vvg
+traditional	traditional	jj
+Iraqi	iraqi	jj
+or	or	cc
+Muslim	muslim	jj
+values	value	nn2
+.		.
+<p>		null
+Faleh		np1@
+Hassan	hassan	np1
+Almaleki		np1
+was	be	vbdz
+charged	charge	vvn
+with	with	iw
+first-degree	first-degree	jj
+murder	murder	nn1
+,		,
+aggravated	aggravate	vvd_jj@
+assault	assault	nn1
+and	and	cc
+two	two	mc
+counts	count	nn2
+of	of	io
+leaving	leave	vvg
+the	the	at
+scene	scene	nn1
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+after	after	ii_cs
+the	the	at
+attack	attack	nn1
+,		,
+driving	drive	vvg
+to	to	ii
+Mexico	mexico	np1
+and	and	cc
+later	later	rrr
+taking	take	vvg
+a	a	at1
+plane	plane	nn1
+to	to	ii
+London	london	np1
+.		.
+He	he	pphs1
+was	be	vbdz
+detained	detain	vvn
+by	by	ii
+British	british	jj
+authorities	authority	nn2
+and	and	cc
+extradited	extradit	vvd
+back	back	rp
+to	to	ii
+the	the	at
+United	united	np1
+States	state	np1
+.		.
+<p>		null
+Last	last	md
+year	year	nnt1
+at	at	ii
+the	the	at
+preliminary	preliminary	jj
+hearing	hearing	nn1
+speaking	speak	vvg
+before	before	ii
+a	a	at1
+Maricopa	maricopa	nn1@_np1
+County	county	nn1
+judge	judge	nn1_vv0
+,		,
+county	county	nn1
+prosecutor	prosecutor	nn1
+Stephanie	stephanie	np1
+Low	low	np1
+said	say	vvd
+Almaleki		np1_nn1
+has	have	vhz
+admitted	admit	vvn
+purposefully	purposefully	rr
+running	run	vvg
+down	down	rp
+his	his	appge
+daughter	daughter	nn1
+.		.
+Low	low	np1@_rr@
+indicated	indicate	vvd
+that	that	cst
+Mr.		nnb
+Almaleki		np1
+does	do	vdz
+not	not	xx
+deny	deny	vvi
+that	that	cst
+his	his	appge
+actions	action	nn2
+were	be	vbdr
+intended	intend	vvn
+to	to	to
+harm	harm	vvi
+and	and	cc
+even	even	rr
+kill	kill	vvi
+Noor	noor	np1
+:		:
+<p>		null
+"		"
+By	by	ii
+his	his	appge
+own	own	da
+admission	admission	nn1
+,		,
+this	this	dd1
+was	be	vbdz
+an	a	at1
+intentional	intentional	jj
+act	act	nn1
+and	and	cc
+the	the	at
+reason	reason	nn1
+was	be	vbdz
+that	that	cst
+his	his	appge
+daughter	daughter	nn1
+had	have	vhd
+brought	bring	vvn
+shame	shame	nn1
+on	on	ii
+him	him	ppho1
+and	and	cc
+his	his	appge
+family	family	nn1
+,		,
+"		"
+Low	low	np1
+said	say	vvd
+.		.
+"		"
+This	this	dd1
+was	be	vbdz
+an	a	at1
+attempt	attempt	nn1
+at	at	ii
+an	a	at1
+honor	honor	nn1
+killing	killing	nn1_vvg
+.		.
+"		"
+<p>		null
+Even	even	cs21
+though	though	cs22
+Arizona	arizona	np1
+has	have	vhz
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+,		,
+the	the	at
+decision	decision	nn1
+not	not	xx
+to	to	to
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+was	be	vbdz
+taken	take	vvn
+after	after	ii_cs
+Almaleki		np1
+'s	's	ge
+attorney	attorney	nn1
+,		,
+Billy	billy	np1
+Little	little	np1@_rr
+,		,
+a	a	at1
+public	public	jj_nn1
+defender	defender	nn1
+,		,
+asked	ask	vvd
+the	the	at
+judge	judge	nn1
+to	to	to
+take	take	vvi
+special	special	jj
+precautions	precaution	nn2
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+the	the	at
+County	county	nn1
+and	and	cc
+Attorney	attorney	nn1
+'s	's	ge
+Office	office	nn1
+would	would	vm
+n't	n't	xx
+wrongly	wrongly	rr
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+because	because	cs
+...		...
+Almaleki		nn2_np1@_nn1@
+is	be	vbz
+a	a	at1
+Muslim	muslim	jj_nn1@
+.		.
+<p>		null
+Further	far	rrr_jjr
+,		,
+Little	little	rr
+requested	request	vvn
+that	that	cst
+the	the	at
+office	office	nn1
+make	make	vv0
+public	public	rr@_nn1_jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+punishment	punishment	nn1
+.		.
+"		"
+An	a	at1
+open	open	jj
+process	process	nn1
+provides	provide	vvz
+some	some	dd
+level	level	nn1
+of	of	io
+assurance	assurance	nn1
+that	that	cst
+there	there	ex
+is	be	vbz
+no	no	at
+appearance	appearance	nn1
+that	that	cst
+a	a	at1
+Christian	christian	nn1@_jj
+is	be	vbz
+seeking	seek	vvg
+to	to	to
+execute	execute	vvi
+a	a	at1
+Muslim	muslim	jj_nn1@
+for	for	if
+racial	racial	jj
+,		,
+political	political	jj
+,		,
+religious	religious	jj
+or	or	cc
+cultural	cultural	jj
+beliefs	belief	nn2
+,		,
+"		"
+Little	little	rr_np1@
+wrote	write	vvd
+,		,
+referring	refer	vvg
+to	to	ii
+County	county	nn1
+Attorney	attorney	nn1
+Andrew	andrew	np1
+Thomas	thomas	np1
+'	'	ge
+Christian	christian	jj
+faith	faith	nn1
+.		.
+<p>		null
+Laura	laura	np1
+Reckart		np1
+,		,
+a	a	at1
+county	county	nn1
+prosecutor	prosecutor	nn1
+,		,
+responded	respond	vvd_vvn
+that	that	cst
+Little	little	np1@
+'s	's	ge
+concern	concern	nn1
+about	about	ii
+the	the	at
+"		"
+supposed	supposed	jj@
+bias	bias	nn1
+"		"
+of	of	io
+the	the	at
+office	office	nn1
+'s	's	ge
+death	death	nn1
+penalty	penalty	nn1
+review	review	nn1
+process	process	nn1
+was	be	vbdz
+"		"
+without	without	iw_rr%
+legitimate	legitimate	jj
+factual	factual	jj
+or	or	cc
+legal	legal	jj
+basis	basis	nn1
+.		.
+"		"
+She	she	pphs1
+wrote	write	vvd
+that	that	cst
+the	the	at
+state	state	nn1
+can	can	vm
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+for	for	if
+any	any	dd
+person	person	nn1
+convicted	convict	vvn_jj
+of	of	io
+first-degree	first-degree	jj_nn1
+murder	murder	nn1
+if	if	cs
+it	it	pph1
+can	can	vm
+prove	prove	vvi
+the	the	at
+existence	existence	nn1
+of	of	io
+at	at	rr21
+least	least	rr22
+one	one	mc1
+aggravating	aggravating	jj@_vvg_nn1@
+factor	factor	nn1
+,		,
+not	not	xx
+because	because	ii21
+of	of	ii22
+religion	religion	nn1
+.		.
+<p>		null
+However	however	rr
+,		,
+the	the	at
+debate	debate	nn1
+stopped	stop	vvd_vvn
+there	there	rl
+.		.
+On	on	ii
+February	february	npm1
+16th	16th	md
+,		,
+Reckart		np1
+filed	file	vvd
+a	a	at1
+motion	motion	nn1
+indicating	indicate	vvg
+prosecutors	prosecutor	nn2
+would	would	vm
+not	not	xx
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+.		.
+Mike	mike	np1
+Scerbo	scerbo	np1
+,		,
+a	a	at1
+spokesman	spokesman	nn1
+for	for	if
+the	the	at
+County	county	nn1
+Attorney	attorney	nn1
+'s	's	ge
+Office	office	nn1
+,		,
+issued	issue	vvd_vvn
+the	the	at
+following	following	jj
+statement	statement	nn1
+on	on	ii
+February	february	npm1
+19th	19th	md
+:		:
+<p>		null
+"		"
+The	the	at
+defendant	defendant	nn1
+is	be	vbz
+charged	charge	vvn
+with	with	iw
+first	first	md
+degree	degree	nn1
+murder	murder	nn1
+and	and	cc
+,		,
+if	if	cs
+convicted	convict	vvn_jj
+,		,
+will	will	vm
+spend	spend	vvi
+the	the	at
+rest	rest	nn1
+of	of	io
+his	his	appge
+life	life	nn1
+in	in	ii
+prison	prison	nn1
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+decision	decision	nn1
+on	on	ii
+whether	whether	csw
+to	to	to
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+is	be	vbz
+made	make	vvn
+on	on	ii
+a	a	at1
+case	case	nn1
+by	by	ii
+case	case	nn1
+basis	basis	nn1
+.		.
+Cultural	cultural	jj
+considerations	consideration	nn2
+played	play	vvd_vvn
+no	no	at
+part	part	nn1
+in	in	ii
+the	the	at
+decision	decision	nn1
+not	not	xx
+to	to	to
+seek	seek	vvi
+the	the	at
+death	death	nn1
+penalty	penalty	nn1
+.		.
+"		"
+<p>		null
+So	so	rr
+now	now	rt
+a	a	at1
+year	year	nnt1
+and	and	cc
+a	a	at1
+half	half	rr@_db_nn1@
+later	later	rrr_jjr
+Faleh	faleh	np1_nn1
+Hassan	hassan	np1
+Almaleki		np1_nn1
+is	be	vbz
+on	on	ii
+trial	trial	nn1
+for	for	if
+the	the	at
+murder	murder	nn1
+of	of	io
+his	his	appge
+own	own	da
+daughter	daughter	nn1
+.		.
+<p>		null
+The	the	at
+defense	defense	nn1
+now	now	rt
+is	be	vbz
+claiming	claim	vvg
+that	that	cst
+the	the	at
+whole	whole	jj
+thing	thing	nn1
+was	be	vbdz
+an	a	at1
+accident	accident	nn1
+,		,
+according	according	ii21
+to	to	ii22
+the	the	at
+AZ	az	nn1_np1
+Central	central	jj
+website	website	nn1
+,		,
+<p>		null
+Oct.		npm1
+20	20	mc
+,		,
+2009	2009	mc
+,		,
+marked	mark	vvn_vvd@
+the	the	at
+first	first	md
+time	time	nnt1
+Almaleki		np1_nn1
+had	have	vhd
+seen	see	vvn
+his	his	appge
+daughter	daughter	nn1
+in	in	ii
+months	month	nnt2
+.		.
+He	he	pphs1
+planned	plan	vvd
+to	to	to
+leave	leave	vvi
+the	the	at
+DES	des	np1_fw
+office	office	nn1
+to	to	to
+avoid	avoid	vvi
+a	a	at1
+confrontation	confrontation	nn1
+and	and	cc
+then	then	rt
+spotted	spot	vvd_jj_vvn
+Khalaf	khalaf	np1_nn1
+again	again	rt
+as	as	csa
+he	he	pphs1
+drove	drive	vvd
+out	out	ii21
+of	of	ii22
+the	the	at
+parking	parking	nn1
+lot	lot	nn1
+.		.
+<p>		null
+His	his	appge
+daughter	daughter	nn1
+straggled	straggle	vvd
+behind	behind	rl@
+,		,
+playing	play	vvg
+on	on	ii_rp@
+her	her	appge
+cellphone	cellphone	nn1
+.		.
+<p>		null
+That	that	dd1
+'s	be	vbz
+when	when	rrq
+he	he	pphs1
+decided	decide	vvd
+to	to	to
+spit	spit	vvi
+on	on	ii
+Khalaf	khalaf	np1_nn1
+,		,
+Mullins	mullins	np1
+said	say	vvd
+.		.
+<p>		null
+Khalaf		np1@_nn1_vv0
+stepped	step	vvd
+in	in	ii31
+front	front	ii32
+of	of	ii33
+Almaleki		np1
+'s	's	ge
+Jeep	jeep	nn1
+and	and	cc
+he	he	pphs1
+swerved	swerve	vvd
+,		,
+trying	try	vvg
+to	to	to
+avoid	avoid	vvi
+her	her	ppho1
+,		,
+Mullins	mullins	np1
+continued	continue	vvd
+.		.
+He	he	pphs1
+could	could	vm
+n't	n't	xx
+.		.
+He	he	pphs1
+hit	hit	vvd
+Khalaf	khalaf	np1_nn1
+,		,
+a	a	at1
+tree	tree	nn1
+and	and	cc
+a	a	at1
+curb	curb	nn1%_vv0
+.		.
+<p>		null
+He	he	pphs1
+looked	look	vvd
+back	back	rp
+and	and	cc
+realized	realize	vvd
+he	he	pphs1
+'d	have	vm
+also	also	rr
+hit	hit	vvi
+Noor	noor	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Almaleki		nn2_np1@
+panicked	panic	vvd
+.		.
+He	he	pphs1
+called	call	vvd
+family	family	nn1
+members	member	nn2
+,		,
+who	who	pnqs
+told	tell	vvd
+him	him	ppho1
+to	to	to
+drive	drive	vvi
+away	away	rl
+.		.
+"		"
+Frantic	frantic	jj
+and	and	cc
+desperate	desperate	jj
+,		,
+Faleh	faleh	np1_nn1
+does	do	vdz
+what	what	ddq
+they	they	pphs2
+said	say	vvd
+,		,
+"		"
+Mullins	mullins	np1
+said	say	vvd
+.		.
+<p>		null
+I	i	ppis1
+have	have	vh0
+a	a	at1
+special	special	jj
+attachment	attachment	nn1
+to	to	ii
+this	this	dd1
+case	case	nn1
+and	and	cc
+wanted	want	vvd_vvn
+once	once	rr21
+again	again	rr22
+to	to	to
+give	give	vvi
+the	the	at
+reader	reader	nn1
+some	some	dd
+insight	insight	nn1
+to	to	ii
+the	the	at
+real	real	jj
+person	person	nn1
+,		,
+not	not	xx
+have	have	vh0
+Noor	noor	np1
+appear	appear	vvi
+as	as	rg@_csa
+just	just	rr
+a	a	at1
+statistic	statistic	nn1
+or	or	cc
+a	a	at1
+photo	photo	nn1
+of	of	io
+some	some	dd
+young	young	jj
+woman	woman	nn1
+who	who	pnqs
+was	be	vbdz
+killed	kill	vvn
+.		.
+<p>		null
+I	i	ppis1
+tracked	track	vvd
+down	down	rp
+a	a	at1
+friend	friend	nn1
+of	of	io
+Noor	noor	np1
+from	from	ii
+her	her	appge
+High	high	jj
+School	school	nn1
+days	day	nnt2
+and	and	cc
+we	we	ppis2
+spoke	speak	vvd
+by	by	ii
+telephone	telephone	nn1
+.		.
+For	for	if
+her	her	appge
+security	security	nn1
+,		,
+and	and	cc
+since	since	cs
+the	the	at
+trial	trial	nn1
+is	be	vbz
+currently	currently	rr
+ongoing	ongoing	jj
+,		,
+I	i	ppis1
+will	will	vm
+not	not	xx
+divulge	divulge	vvi
+this	this	dd1
+friend	friend	nn1
+'s	's	ge
+name	name	nn1
+.		.
+I	i	ppis1
+asked	ask	vvd
+,		,
+<p>		null
+"		"
+Tell	tell	vv0
+me	me	ppio1
+about	about	ii
+Noor	noor	np1
+,		,
+when	when	rrq
+did	do	vdd
+you	you	ppy
+meet	meet	vvi
+"		"
+?		?
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+Noora		np1
+,		,
+that	that	dd1
+'s	be	vbz
+what	what	ddq
+we	we	ppis2
+called	call	vvd@
+her	her	ppho1
+,		,
+the	the	at
+"		"
+a	a	at1
+"		"
+being	being	nn1%_vbg
+the	the	at
+letter	letter	nn1
+of	of	io
+her	her	appge
+last	last	md
+name-		nn1
+it	it	pph1
+was	be	vbdz
+easier	easy	jjr
+for	for	if
+us	us	ppio2
+to	to	to
+remember	remember	vvi
+.		.
+We	we	ppis2
+met	meet	vvd
+in	in	ii
+Dysart	dysart	np1_nn1
+High	high	jj
+School	school	nn1
+in	in	ii
+El	el	np1
+Mirage	mirage	np1
+,		,
+Arizona	arizona	np1
+in	in	ii
+our	our	appge
+sophomore	sophomore	nn1
+year	year	nnt1
+.		.
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+Did	do	vdd
+you	you	ppy
+know	know	vvi
+she	she	pphs1
+was	be	vbdz
+from	from	ii
+Iraq	iraq	np1
+,		,
+did	do	vdd
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+?		?
+"		"
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+I	i	ppis1
+knew	know	vvd
+she	she	pphs1
+was	be	vbdz
+n't	n't	xx
+white	white	jj
+or	or	cc
+Hispanic	hispanic	jj
+,		,
+but	but	ccb
+it	it	pph1
+was	be	vbdz
+after	after	cs
+we	we	ppis2
+had	have	vhd
+become	become	vvn@
+friends	friend	nn2
+that	that	cst
+I	i	ppis1
+found	find	vvd
+out	out	rp
+where	where	cs_rrq
+she	she	pphs1
+was	be	vbdz
+from	from	ii
+.		.
+She	she	pphs1
+did	do	vdd
+n't	n't	xx
+talk	talk	vvi
+about	about	ii
+it	it	pph1
+.		.
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+How	how	rrq
+did	do	vdd
+she	she	pphs1
+dress	dress	vvi
+and	and	cc
+act	act	nn1_vv0
+,		,
+could	could	vm
+you	you	ppy
+look	look	vvi
+at	at	ii
+her	her	ppho1
+and	and	cc
+know	know	vvi
+she	she	pphs1
+was	be	vbdz
+Muslim	muslim	jj
+,		,
+did	do	vdd
+she	she	pphs1
+dress	dress	vvi
+differently	differently	rr
+?		?
+"		"
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+She	she	pphs1
+dressed	dress	vvd@
+like	like	ii
+an	a	at1
+American	american	jj_nn1@
+;		;
+she	she	pphs1
+was	be	vbdz
+like	like	ii
+any	any	dd
+other	other	jj
+teenage	teenage	jj
+American	american	jj
+high	high	jj
+school	school	nn1
+student	student	nn1
+.		.
+A	a	at1_zz1
+typical	typical	jj
+American	american	jj_nn1@
+,		,
+she	she	pphs1
+never	never	rr
+wore	wear	vvd
+a	a	at1
+head	head	nn1_jj@
+scarf	scarf	nn1
+or	or	cc
+anything	anything	pn1
+like	like	ii
+that	that	dd1
+.		.
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+Did	do	vdd
+she	she	pphs1
+talk	talk	vvi
+to	to	ii
+you	you	ppy
+about	about	ii_rp@
+her	her	appge
+family	family	nn1
+or	or	cc
+any	any	dd
+problems	problem	nn2
+she	she	pphs1
+was	be	vbdz
+having	have	vhg
+with	with	iw
+her	her	appge
+father	father	nn1
+?		?
+"		"
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+I	i	ppis1
+found	find	vvd
+out	out	rp
+through	through	ii
+someone	someone	pn1
+else	else	rr
+when	when	cs_rrq
+her	her	appge
+father	father	nn1
+took	take	vvd
+her	her	ppho1
+back	back	rp
+to	to	ii
+Iraq	iraq	np1
+and	and	cc
+sold	sell	vvd_vvn
+her	her	ppho1
+,		,
+married	marry	vvd@
+her	her	ppho1
+off	off	rp
+.		.
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+believe	believe	vvi
+her	her	appge
+father	father	nn1
+would	would	vm
+do	do	vdi
+that	that	dd1
+.		.
+We	we	ppis2
+were	be	vbdr
+all	all	db_rr@
+like	like	vv0@_ii
+when	when	rrq
+is	be	vbz
+Noora		np1
+coming	come	vvg
+back	back	rp
+home	home	rl
+?		?
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+What	what	ddq
+other	other	jj
+type	type	nn1
+of	of	io
+things	thing	nn2
+or	or	cc
+hobbies	hobby	nn2
+was	be	vbdz
+Noor	noor	np1
+into	into	ii
+besides	besides	rr_ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+"		"
+She	she	pphs1
+took	take	vvd
+art	art	nn1
+classes	class	nn2
+and	and	cc
+we	we	ppis2
+did	do	vdd
+pottery	pottery	nn1
+,		,
+you	you	ppy
+know	know	vv0
+,		,
+a	a	at1
+ceramics	ceramics	nn2
+class	class	nn1
+.		.
+She	she	pphs1
+liked	like	vvd
+to	to	to
+just	just	rr
+hang	hang	vvi
+out	out	rp
+like	like	cs%
+we	we	ppis2
+all	all	db_rr@
+did	do	vdd
+in	in	ii
+high	high	jj
+school	school	nn1
+.		.
+She	she	pphs1
+used	use	vmk
+to	to	to
+come	come	vvi
+by	by	ii
+and	and	cc
+visit	visit	vvi
+me	me	ppio1
+at	at	ii
+work	work	nn1
+after	after	ii_cs
+school	school	nn1
+and	and	cc
+we	we	ppis2
+would	would	vm
+hang	hang	vvi
+out	out	rp
+and	and	cc
+just	just	rr_jj@
+talk	talk	vvi
+.		.
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+Now	now	cs21
+that	that	cs22
+the	the	at
+case	case	nn1
+has	have	vhz
+gone	go	vvn
+to	to	ii
+trial	trial	nn1
+her	her	appge
+father	father	nn1
+is	be	vbz
+changing	change	vvg
+his	his	appge
+story	story	nn1
+and	and	cc
+saying	say	vvg
+that	that	cst
+it	it	pph1
+was	be	vbdz
+an	a	at1
+accident	accident	nn1
+,		,
+he	he	pphs1
+says	say	vvz
+he	he	pphs1
+was	be	vbdz
+trying	try	vvg
+to	to	to
+spit	spit	vvi
+out	out	rp
+the	the	at
+window	window	nn1
+at	at	ii
+Amal	amal	np1_jj
+Khalaf	khalaf	np1_nn1
+and	and	cc
+hit	hit	vvd_vv0@
+them	them	ppho2
+accidentally	accidentally	rr
+.		.
+"		"
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+I	i	ppis1
+think	think	vv0
+that	that	dd1
+'s	be	vbz
+a	a	at1
+bunch	bunch	nn1
+of	of	io
+bull	bull	nn1
+,		,
+I	i	ppis1
+got	get	vvd
+a	a	at1
+text	text	nn1
+when	when	cs_rrq
+it	it	pph1
+happened	happen	vvd
+,		,
+Noora		np1
+'s	's	ge
+dad	dad	nn1
+ran	run	vvd
+her	her	ppho1
+over	over	rp
+and	and	cc
+I	i	ppis1
+thought	think	vvd
+it	it	pph1
+was	be	vbdz
+an	a	at1
+accident	accident	nn1
+and	and	cc
+it	it	pph1
+was	be	vbdz
+no	no	uh
+,		,
+Noora		np1
+'s	's	ge
+dad	dad	nn1
+ran	run	vvd
+her	her	ppho1
+over	over	rp
+and	and	cc
+it	it	pph1
+was	be	vbdz
+on	on	ii
+purpose	purpose	nn1
+,		,
+that	that	dd1_cst
+just	just	rr
+blew	blow	vvd
+my	my	appge
+mind	mind	nn1
+,		,
+I	i	ppis1
+was	be	vbdz
+like	like	jj@_rr%
+are	be	vbr
+you	you	ppy
+serious	serious	jj
+?		?
+They	they	pphs2
+held	hold	vvd
+a	a	at1
+vigil	vigil	nn1
+for	for	if
+her	her	ppho1
+and	and	cc
+a	a	at1
+bunch	bunch	nn1
+of	of	io
+people	people	nn
+from	from	ii
+high	high	jj
+school	school	nn1
+were	be	vbdr
+there	there	rl
+and	and	cc
+I	i	ppis1
+could	could	vm
+n't	n't	xx
+go	go	vvi
+and	and	cc
+it	it	pph1
+broke	break	vvd
+my	my	appge
+heart	heart	nn1
+.		.
+It	it	pph1
+was	be	vbdz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+her	her	ppho1
+was	be	vbdz
+going	go	vvg
+crazy	crazy	jj
+because	because	cs
+they	they	pphs2
+could	could	vm
+n't	n't	xx
+figure	figure	vvi
+out	out	rp
+what	what	ddq
+happened	happen	vvd
+.		.
+But	but	ccb
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+doubt	doubt	vvi
+for	for	if
+a	a	at1
+second	second	nnt1
+that	that	cst
+he	he	pphs1
+did	do	vdd
+it	it	pph1
+on	on	ii
+purpose	purpose	nn1
+.		.
+"		"
+<p>		null
+GA	ga	np1
+:		:
+"		"
+If	if	cs
+you	you	ppy
+had	have	vhd
+to	to	to
+describe	describe	vvi
+Noor	noor	np1
+to	to	ii
+someone	someone	pn1
+that	that	cst
+had	have	vhd
+never	never	rr
+met	meet	vvn
+her	her	ppho1
+,		,
+what	what	ddq
+would	would	vm
+you	you	ppy
+say	say	vvi
+?		?
+"		"
+<p>		null
+Friend	friend	np1@_nn1
+:		:
+"		"
+I	i	ppis1
+'d	have	vm
+say	say	vvi
+that	that	cst
+she	she	pphs1
+was	be	vbdz
+a	a	at1
+beautiful	beautiful	jj
+person	person	nn1
+inside	inside	rl
+and	and	cc
+out	out	rp
+,		,
+she	she	pphs1
+had	have	vhd
+a	a	at1
+sense	sense	nn1
+of	of	io
+humor	humor	nn1
+,		,
+she	she	pphs1
+definitely	definitely	rr
+knew	know	vvd
+how	how	rrq
+to	to	to
+make	make	vvi
+you	you	ppy
+laugh	laugh	vvi
+.		.
+She	she	pphs1
+just	just	rr
+seemed	seem	vvd
+like	like	cs%_ii
+she	she	pphs1
+was	be	vbdz
+happy	happy	jj
+all	all	db
+the	the	at
+time	time	nnt1
+,		,
+I	i	ppis1
+never	never	rr
+really	really	rr
+saw	see	vvd
+her	her	appge_ppho1
+upset	upset	jj_vvn
+.		.
+She	she	pphs1
+was	be	vbdz
+quick	quick	jj
+to	to	to
+say	say	vvi
+a	a	at1
+kind	kind	nn1_jj@
+word	word	nn1
+,		,
+she	she	pphs1
+was	be	vbdz
+so	so	rg_rr
+sweet	sweet	jj
+.		.
+She	she	pphs1
+was	be	vbdz
+friends	friend	nn2
+with	with	iw
+everybody	everybody	pn1
+;		;
+she	she	pphs1
+did	do	vdd
+n't	n't	xx
+judge	judge	vvi
+or	or	cc
+discriminate	discriminate	vvi
+against	against	ii
+anybody	anybody	pn1
+.		.
+She	she	pphs1
+was	be	vbdz
+just	just	rr
+a	a	at1
+really	really	rr
+sweet	sweet	jj
+person	person	nn1
+,		,
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+think	think	vvi
+she	she	pphs1
+had	have	vhd
+a	a	at1
+mean	mean	jj
+streak	streak	nn1
+on	on	ii
+her	her	ppho1
+,		,
+I	i	ppis1
+ca	can	vm
+n't	n't	xx
+even	even	rr
+imagine	imagine	vvi
+her	her	ppho1
+trying	try	vvg
+to	to	to
+hurt	hurt	vvi
+a	a	at1
+fly	fly	nn1
+.		.
+She	she	pphs1
+was	be	vbdz
+definitely	definitely	rr
+somebody	somebody	pn1
+that	that	cst
+you	you	ppy
+'d	have	vm
+just	just	rr
+like	like	vvi
+to	to	to
+talk	talk	vvi
+to	to	ii
+that	that	dd1
+you	you	ppy
+'d	have	vm
+like	like	vvi
+to	to	to
+see	see	vvi
+in	in	ii
+the	the	at
+hallway	hallway	nn1
+and	and	cc
+say	say	vvi
+hey	hey	uh
+how	how	rrq
+ya	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+She	she	pphs1
+definitely	definitely	rr
+did	do	vdd
+not	not	xx
+deserve	deserve	vvi
+this	this	dd1_rg%
+at	at	rr21
+all	all	rr22
+,		,
+it	it	pph1
+breaks	break	vvz
+my	my	appge
+heart	heart	nn1
+that	that	cst
+somebody	somebody	pn1
+so	so	rg_rr
+sweet	sweet	jj
+and	and	cc
+innocent	innocent	nn1@_jj
+had	have	vhd
+to	to	to
+have	have	vhi
+this	this	dd1
+happen	happen	vvi
+to	to	ii@
+her	her	ppho1
+.		.
+Its	its	appge
+,		,
+their	their	appge
+frightening	frightening	jj
+and	and	cc
+it	it	pph1
+'s	be	vbz
+pretty	pretty	rg
+ridiculous	ridiculous	jj
+,		,
+you	you	ppy
+know	know	vv0
+,		,
+I	i	ppis1
+do	do	vd0
+n't	n't	xx
+understand	understand	vvi
+the	the	at
+culture	culture	nn1
+and	and	cc
+to	to	ii
+me	me	ppio1
+it	it	pph1
+'s	be	vbz
+just	just	rr
+outrageous	outrageous	jj
+.		.
+"		"
+<p>		null
+Noor	noor	np1
+'s	's	ge
+little	little	jj_da1
+brother	brother	nn1
+Ali	ali	np1
+has	have	vhz
+a	a	at1
+Facebook	facebook	nn1
+page	page	nn1
+where	where	cs_rrq
+I	i	ppis1
+found	find	vvd
+a	a	at1
+picture	picture	nn1
+that	that	cst
+he	he	pphs1
+had	have	vhd
+done	do	vdn
+for	for	if
+a	a	at1
+school	school	nn1
+project	project	nn1
+.		.
+<p>		null
+What	what	ddq
+he	he	pphs1
+has	have	vhz
+written	write	vvn
+there	there	rl_ex
+is	be	vbz
+a	a	rr21@
+lot	lot	rr22
+different	different	jj
+from	from	ii
+what	what	ddq
+he	he	pphs1
+stated	state	vvd
+while	while	cs
+Noor	noor	np1
+was	be	vbdz
+fighting	fight	vvg
+for	for	if
+her	her	appge
+life	life	nn1
+.		.
+Going	go	vvg
+back	back	rp
+to	to	ii
+an	a	at1
+exclusive	exclusive	jj
+interview	interview	nn1
+by	by	ii
+channel	channel	nn1
+5	5	mc
+KPHO	kpho	np1_nn1
+,		,
+<p>		null
+Peter-Ali		np1
+Almaleki		np1
+told	tell	vvd
+CBS	cbs	np1
+5	5	mc
+News	news	nn1
+in	in	ii
+an	a	at1
+exclusive	exclusive	jj
+interview	interview	nn1
+Saturday	saturday	npd1
+that	that	cst_dd1
+for	for	if
+years	year	nnt2
+his	his	appge
+father	father	nn1
+and	and	cc
+sister	sister	nn1
+have	have	vh0
+been	be	vbn
+at	at	ii
+odds	odds	nn2
+.		.
+<p>		null
+He	he	pphs1
+said	say	vvd
+much	much	da1
+of	of	io
+the	the	at
+conflict	conflict	nn1
+stems	stem	vvz_nn2
+from	from	ii
+his	his	appge
+sister	sister	nn1
+choosing	choose	vvg_nn1
+to	to	to
+not	not	xx
+follow	follow	vvi
+in	in	ii_rp@
+the	the	at
+family	family	nn1
+'s	's	ge
+Muslim	muslim	jj
+traditions	tradition	nn2
+.		.
+<p>		null
+And	and	cc
+for	for	if
+a	a	at1
+traditional	traditional	jj
+Muslim	muslim	jj
+family	family	nn1
+,		,
+he	he	pphs1
+said	say	vvd
+that	that	dd1_cst
+disrespect	disrespect	nn1
+was	be	vbdz
+the	the	at
+ultimate	ultimate	jj
+insult	insult	nn1
+to	to	ii
+his	his	appge
+father	father	nn1
+.		.
+<p>		null
+"		"
+Different	different	jj
+cultures	culture	nn2
+,		,
+different	different	jj
+values	value	nn2
+,		,
+"		"
+he	he	pphs1
+said	say	vvd
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+to	to	ii
+another	another	dd1
+culture	culture	nn1
+.		.
+"		"
+<p>		null
+"		"
+It	it	pph1
+'s	be	vbz
+hurt	hurt	vvn
+my	my	appge
+mom	mom	nn1
+more	more	rrr_dar
+than	than	csn
+anybody	anybody	pn1
+,		,
+"		"
+he	he	pphs1
+said	say	vvd
+.		.
+<p>		null
+Really	really	rr
+?		?
+I	i	ppis1
+think	think	vv0
+that	that	cst
+his	his	appge
+sister	sister	nn1
+Noor	noor	np1
+might	might	vm
+have	have	vhi
+a	a	at1
+different	different	jj
+opinion	opinion	nn1
+.		.
+<p>		null
+Here	here	rl
+are	be	vbr
+just	just	rr
+a	a	at1
+few	few	da2
+examples	example	nn2
+of	of	io
+"		"
+honor	honor	nn1
+killings	killing	nn2
+"		"
+from	from	ii
+right	right	nn1_rr_jj
+here	here	rl
+in	in	ii
+the	the	at
+U.S.	us	np1
+from	from	ii
+an	a	at1
+article	article	nn1
+I	i	ppis1
+wrote	write	vvd
+early	early	rr_jj
+last	last	md
+year	year	nnt1
+,		,
+<p>		null
+In	in	ii
+the	the	at
+Atlanta	atlanta	np1
+suburb	suburb	nn1
+of	of	io
+Jonesboro	jonesboro	np1
+in	in	ii
+July	july	npm1
+,		,
+2008	2008	mc
+,		,
+a	a	at1
+Pakistani	pakistani	jj_nn1
+immigrant	immigrant	nn1
+strangled	strangle	vvd_vvn
+his	his	appge
+25-year-old	25-year-old	jj
+daughter	daughter	nn1
+with	with	iw
+a	a	at1
+bungee	bungee	nn1
+cord	cord	nn1
+because	because	cs
+she	she	pphs1
+was	be	vbdz
+determined	determine	vvn
+to	to	to
+end	end	vvi
+her	her	appge_ppho1
+arranged	arranged	jj@
+marriage	marriage	nn1
+and	and	cc
+had	have	vhd
+gotten	get	vvn
+involved	involved	jj
+with	with	iw
+a	a	at1
+new	new	jj
+man	man	nn1
+.		.
+<p>		null
+In	in	ii
+upstate	upstate	jj_rr
+New	new	np1
+York	york	np1
+a	a	at1
+few	few	da2
+weeks	week	nnt2
+earlier	early	rrr
+,		,
+Waheed	waheed	np1
+Allah	allah	np1
+Mohammad	mohammad	np1
+,		,
+an	a	at1
+immigrant	immigrant	nn1_jj
+from	from	ii
+Afghanistan	afghanistan	np1
+,		,
+was	be	vbdz
+charged	charge	vvn
+with	with	iw
+attempted	attempted	jj
+murder	murder	nn1
+after	after	cs_ii
+repeatedly	repeatedly	rr
+stabbing	stab	vvg
+his	his	appge
+19-year-old	19-year-old	jj
+sister	sister	nn1
+.		.
+The	the	at
+Rochester	rochester	np1
+Democrat	democrat	nn1
+and	and	cc
+Chronicle	chronicle	nn1
+reported	report	vvd_vvn
+that	that	cst
+Mohammad	mohammad	np1
+was	be	vbdz
+"		"
+infuriated	infuriate	vvn
+because	because	cs
+his	his	appge
+younger	young	jjr
+sister	sister	nn1
+was	be	vbdz
+going	go	vvg
+to	to	ii
+clubs	club	nn2
+,		,
+wearing	wear	vvg
+immodest	immodest	jj
+clothing	clothing	nn1
+,		,
+and	and	cc
+planning	plan	vvg_nn1
+to	to	to
+leave	leave	vvi
+her	her	appge
+family	family	nn1
+for	for	if
+a	a	at1
+new	new	jj
+life	life	nn1
+in	in	ii
+New	new	np1
+York	york	np1
+City	city	nn1
+"		"
+--		zz
+she	she	pphs1
+was	be	vbdz
+a	a	at1
+"		"
+bad	bad	jj
+Muslim	muslim	jj
+girl	girl	nn1
+,		,
+"		"
+he	he	pphs1
+told	tell	vvd
+sheriff	sheriff	nn1
+'s	's	ge
+investigators	investigator	nn2
+.		.
+<p>		null
+On	on	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+,		,
+the	the	at
+bullet-riddled	bullet-riddled	jj
+bodies	body	nn2
+of	of	io
+the	the	at
+Said	said	np1
+sisters	sister	nn2
+--		zz
+Sarah	sarah	np1
+,		,
+17	17	mc
+,		,
+and	and	cc
+Amina	amina	np1
+,		,
+18	18	mc
+-	-	-
+were	be	vbdr
+found	find	vvn
+in	in	ii
+an	a	at1
+abandoned	abandoned	jj@
+taxi	taxi	nn1
+.		.
+Police	police	nn2
+issued	issue	vvd_vvn
+an	a	at1
+arrest	arrest	nn1
+warrant	warrant	nn1_vv0
+for	for	if
+their	their	appge
+father	father	nn1
+,		,
+an	a	at1
+Egyptian	egyptian	jj_nn1
+immigrant	immigrant	nn1_jj
+,		,
+Yaser	yaser	np1
+Abdel	abdel	np1
+Said	said	np1_vvd
+,		,
+who	who	pnqs
+had	have	vhd
+reportedly	reportedly	rr
+threatened	threaten	vvn
+to	to	to
+kill	kill	vvi
+them	them	ppho2
+upon	upon	ii
+learning	learn	vvg_nn1
+that	that	cst
+they	they	pphs2
+had	have	vhd
+boyfriends	boyfriend	nn2
+.		.
+According	according	ii21
+to	to	ii22
+the	the	at
+Dallas	dallas	np1
+Morning	morning	nnt1
+News	news	nn1
+,		,
+Yaser	yaser	np1
+Said	said	np1
+was	be	vbdz
+given	give	vvn
+to	to	ii
+"		"
+gun-waving	gun-waving	jj_nn1
+rants	rant	nn2
+about	about	ii
+how	how	rgq@_rrq
+Western	western	jj
+culture	culture	nn1
+was	be	vbdz
+corrupting	corrupt	vvg
+the	the	at
+chastity	chastity	nn1
+of	of	io
+his	his	appge
+daughters	daughter	nn2
+.		.
+"		"
+<p>		null
+Yaser		np1@_nn1
+Said	said	np1
+was	be	vbdz
+never	never	rr
+captured	capture	vvn_vvd
+,		,
+but	but	ccb
+the	the	at
+Said	said	np1
+sisters	sister	nn2
+'	'	ge
+911	911	mc
+call	call	vv0_nn1
+they	they	pphs2
+placed	place	vvd@_vvn
+as	as	csa
+they	they	pphs2
+were	be	vbdr
+dying	die	vvg_jj
+was	be	vbdz
+.		.
+The	the	at
+audio	audio	nn1
+can	can	vm
+be	be	vbi
+heard	hear	vvn
+here	here	rl
+.		.
+<p>		null
+When	when	rrq
+will	will	vm
+we	we	ppis2
+hear	hear	vvi
+from	from	ii
+the	the	at
+"		"
+women	woman	nn2
+'s	's	ge
+rights	right	nn2
+"		"
+organizations	organization	nn2
+?		?
+How	how	rrq
+can	can	vm
+any	any	dd_rr%
+human	human	jj_nn1
+rights	right	nn2
+group	group	nn1_vv0%
+,		,
+especially	especially	rr
+a	a	at1
+woman	woman	nn1
+'s	's	ge
+group	group	nn1
+not	not	xx
+speak	speak	vv0
+out	out	rp
+against	against	ii
+this	this	dd1
+?		?
+I	i	ppis1
+have	have	vh0
+asked	ask	vvn
+before	before	rt
+,		,
+where	where	rrq
+is	be	vbz
+the	the	at
+National	national	jj
+Organization	organization	nn1
+of	of	io
+Women	woman	nn2
+(		(
+N.O.W.		np1
+)		)
+?		?
+Should	should	vm
+they	they	pphs2
+not	not	xx
+be	be	vbi
+out	out	rp
+there	there	rl
+every	every	at1
+day	day	nnt1
+screaming	scream	vvg_nn1@
+and	and	cc
+using	use	vvg
+this	this	dd1
+very	very	jj
+trial	trial	nn1
+to	to	to
+publicize	publicize	vvi
+these	these	dd2
+atrocities	atrocity	nn2
+that	that	cst
+are	be	vbr
+occurring	occur	vvg
+to	to	ii
+women	woman	nn2
+on	on	ii
+a	a	at1
+daily	daily	jj
+basis	basis	nn1
+worldwide	worldwide	rl
+?		?
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+many	many	da2
+more	more	dar
+"		"
+Noor	noor	np1
+'s	's	ge
+"		"
+have	have	vh0
+to	to	to
+die	die	vvi
+before	before	cs
+we	we	ppis2
+as	as	ii
+a	a	at1
+country	country	nn1
+speak	speak	vv0
+up	up	rp
+loud	loud	rr
+and	and	cc
+clear	clear	rr
+and	and	cc
+say	say	vv0
+"		"
+No	no	at
+more	more	rrr
+!		!
+"		"
+<p>		null
+How	how	rgq@_rrq
+prevalent	prevalent	jj
+are	be	vbr
+honor	honor	nn1_vv0
+killings	killing	nn2
+?		?
+Go	go	vv0
+to	to	ii
+the	the	at
+Stop	stop	nn1
+Honor	honor	nn1_vv0
+Killings	killing	nn2
+website	website	nn1
+and	and	cc
+look	look	vv0_nn1
+for	for	if
+yourself	yourself	ppx1
+.		.
+They	they	pphs2
+have	have	vh0
+100	100	mc
+pages	page	nn2
+of	of	io
+killings	killing	nn2
+with	with	iw
+an	a	at1
+average	average	nn1
+of	of	io
+10	10	mc
+per	per	ii
+page	page	nn1
+that	that	cst
+only	only	rr_jj
+dates	date	vvz
+back	back	rp
+to	to	ii
+2003	2003	mc
+.		.
+<p>		null
+As	as	csa
+I	i	ppis1
+have	have	vh0
+explained	explain	vvn
+before	before	rt
+,		,
+<p>		null
+"		"
+The	the	at
+United	united	jj
+Nations	nation	nn2
+estimates	estimate	vvz
+that	that	cst
+as	as	rg
+many	many	da2
+as	as	csa
+5,000	5,000	mc
+women	woman	nn2
+are	be	vbr
+murdered	murder	vvn
+in	in	ii
+such	such	da
+honor	honor	nn1
+killings	killing	nn2
+each	each	dd1
+year	year	nnt1
+for	for	if
+offenses	offense	nn2
+like	like	ii
+immodesty	immodesty	nn1
+or	or	cc
+refusing	refuse	vvg
+an	a	at1
+arranged	arranged	jj@
+marriage	marriage	nn1
+.		.
+"		"
+<p>		null
+I	i	ppis1
+have	have	vh0
+no	no	at
+doubt	doubt	nn1
+that	that	cst
+Faleh	faleh	np1
+Hassan	hassan	np1
+Almaleki		np1_nn1
+will	will	vm
+be	be	vbi
+found	find	vvn
+guilty	guilty	jj
+and	and	cc
+spend	spend	vv0
+the	the	at
+rest	rest	nn1
+of	of	io
+his	his	appge
+miserable	miserable	jj
+life	life	nn1
+in	in	ii
+jail	jail	nn1
+,		,
+but	but	ccb
+,		,
+we	we	ppis2
+have	have	vh0
+no	no	at
+right	right	nn1
+to	to	to
+let	let	vvi
+Noor	noor	np1
+Almaleki		np1
+'s	's	ge
+death	death	nn1
+be	be	vbi
+in	in	rr21
+vain	vain	rr22
+.		.
+<p>		null
+Go	go	vv0
+to	to	ii
+the	the	at
+website	website	nn1
+mentioned	mention	vvn
+above	above	rl
+and	and	cc
+get	get	vv0
+involved	involve	vvn
+.		.
+Educate	educate	vv0
+yourself	yourself	ppx1
+and	and	cc
+speak	speak	vv0
+out	out	rp
+about	about	ii
+it	it	pph1
+to	to	ii
+anyone	anyone	pn1
+who	who	pnqs
+will	will	vm
+listen	listen	vvi
+.		.
+<p>		null
+These	these	dd2
+so	so	jj21
+called	called	jj22
+"		"
+honor	honor	nn1
+killings	killing	nn2
+"		"
+are	be	vbr
+on	on	ii
+the	the	at
+rise	rise	nn1
+and	and	cc
+they	they	pphs2
+are	be	vbr
+anything	anything	rr21
+but	but	rr22
+honorable	honorable	jj
+.		.
+The	the	at
+only	only	jj
+way	way	nn1
+to	to	to
+use	use	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+girls	girl	nn2
+and	and	cc
+women	woman	nn2
+and	and	cc
+make	make	vvi
+sure	sure	jj
+it	it	pph1
+does	do	vdz
+n't	n't	xx
+continue	continue	vvi
+.		.
+<p>		null
+This	this	dd1
+article	article	nn1
+is	be	vbz
+dedicated	dedicate	vvn
+to	to	ii
+and	and	cc
+in	in	ii
+memory	memory	nn1
+of	of	io
+each	each	dd1
+and	and	cc
+every	every	at1
+woman	woman	nn1
+(		(
+and	and	cc
+man	man	nn1
+)		)
+who	who	pnqs
+has	have	vhz
+died	die	vvn
+in	in	ii
+a	a	at1
+killing	killing	nn1
+of	of	io
+"		"
+honor	honor	nn1
+"		"
+.		.
+May	may	vm_npm1
+they	they	pphs2
+all	all	db_rr@
+rest	rest	vvi
+in	in	ii
+peace	peace	nn1
+.		.
+<p>		null
+**25;8875;TOOLONG		np1
+Contributing	contribute	vvg_jj@
+Editor	editor	nn1
+Gadi	gadi	np1
+Adelman	adelman	np1_nn1
+is	be	vbz
+a	a	at1
+freelance	freelance	nn1
+writer	writer	nn1
+##3522152		fo
+<h>		null
+Successes	success	nn2
+of	of	io
+India	india	np1
+'s	's	ge
+tuberculosis	tuberculosis	nn1
+Programme	program	nn1
+<p>		null
+For	for	if
+a	a	at1
+country	country	nn1
+like	like	ii
+India	india	np1
+that	that	cst_dd1
+has	have	vhz
+the	the	at
+largest	large	jjt
+number	number	nn1
+of	of	io
+people	people	nn
+infected	infect	vvn_vvd
+with	with	iw
+tuberculosis	tuberculosis	nn1
+(		(
+TB	tb	nn1
+)		)
+in	in	ii
+the	the	at
+world	world	nn1
+,		,
+there	there	ex
+are	be	vbr
+significant	significant	jj
+life-saving	life-saving	jj_nn1
+advances	advance	nn2
+made	make	vvn_vvd
+in	in	ii
+TB	tb	nn1
+care	care	nn1
+and	and	cc
+control	control	vv0_nn1
+over	over	rp_ii
+the	the	at
+past	past	jj_nn1
+years	year	nnt2
+,		,
+despite	despite	ii
+challenges	challenge	nn2
+.		.
+A	a	rr21@
+lot	lot	rr22
+more	more	rrr_dar
+remains	remain	vvz
+to	to	to
+be	be	vbi
+achieved	achieve	vvn
+but	but	ccb
+the	the	at
+gains	gain	nn2
+made	make	vvn_vvd
+over	over	ii_rp
+the	the	at
+past	past	jj_nn1
+decade	decade	nnt1
+,		,
+are	be	vbr
+commendable	commendable	jj
+.		.
+Saving	save	vvg_ii@_nn1
+2.2	2.2	mc
+million	million	nno
+(		(
+22	22	mc
+lakh	lakh	nn1
+)		)
+lives	live	vvz_nn2
+from	from	ii
+TB	tb	nn1
+is	be	vbz
+no	no	at
+less	less	dar
+achievement	achievement	nn1
+-	-	-
+for	for	if
+India	india	np1
+'s	's	ge
+national	national	jj
+TB	tb	nn1
+programme	program	nn1
+officially	officially	rr
+called	call	vvn_vvd@
+the	the	at
+Revised	revised	jj
+National	national	jj
+TB	tb	nn1
+Control	control	nn1
+Programme	program	nn1
+(		(
+RNTCP		np1
+)		)
+.		.
+It	it	pph1
+is	be	vbz
+the	the	at
+largest	large	jjt
+TB	tb	nn1
+programme	program	nn1
+in	in	ii
+the	the	at
+world	world	nn1
+-	-	-
+more	more	rrr_dar
+appreciated	appreciate	vvn_vvd
+when	when	cs_rrq
+we	we	ppis2
+consider	consider	vv0
+the	the	at
+positive	positive	jj
+side	side	nn1
+of	of	io
+its	its	appge
+outcome	outcome	nn1
+.		.
+<p>		null
+"		"
+What	what	ddq
+we	we	ppis2
+have	have	vh0
+achieved	achieve	vvn
+in	in	ii
+the	the	at
+past	past	jj_nn1
+decade	decade	nnt1
+in	in	ii
+TB	tb	nn1
+control	control	nn1
+,		,
+we	we	ppis2
+were	be	vbdr
+n't	n't	xx
+able	able	jk
+to	to	to
+achieve	achieve	vvi
+in	in	ii
+the	the	at
+preceding	preceding	jj
+30-40	30-40	mcmc
+years	year	nnt2
+of	of	io
+national	national	jj
+TB	tb	nn1
+programme	program	nn1
+"		"
+said	say	vvd
+Dr	dr	nnb
+KS	k	np2
+Sachdeva		np1_nn1@
+,		,
+Chief	chief	jj
+Medical	medical	jj
+Officer	officer	nn1
+(		(
+CMO	cmo	np1
+)		)
+,		,
+Central	central	jj
+TB	tb	nn1
+Division	division	nn1
+,		,
+Government	government	nn1
+of	of	io
+India	india	np1
+.		.
+<p>		null
+RNTCP		np1
+,		,
+is	be	vbz
+run	run	vvn
+by	by	ii
+Directorate	directorate	nn1
+General	general	nn1
+of	of	io
+Health	health	nn1
+Services	service	nn2
+,		,
+Ministry	ministry	nn1
+of	of	io
+Health	health	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+a	a	at1
+new	new	jj
+sputum	sputum	nn1
+positive	positive	jj
+TB	tb	nn1
+case	case	nn1
+detection	detection	nn1
+rate	rate	nn1
+of	of	io
+more	more	dar
+than	than	csn
+73%	73%	nnu
+in	in	ii
+2010	2010	mc
+and	and	cc
+a	a	at1
+treatment	treatment	nn1
+success	success	nn1
+rate	rate	nn1
+of	of	io
+more	more	dar
+than	than	csn
+87%	87%	nnu
+against	against	ii
+global	global	jj
+benchmark	benchmark	nn1
+of	of	io
+70%	70%	nnu
+and	and	cc
+85%	85%	nnu
+respectively	respectively	rr
+(		(
+these	these	dd2
+benchmarks	benchmark	nn2
+were	be	vbdr
+used	use	vvn
+by	by	ii
+WHO	who	np1
+Stop	stop	nn1_vv0
+TB	tb	nn1
+Strategy	strategy	nn1
+only	only	rr
+till	till	ii_cs
+2005	2005	mc
+)		)
+.		.
+The	the	at
+WHO	who	np1
+recommended	recommend	vvd
+treatment	treatment	nn1
+for	for	if
+TB	tb	nn1
+called	call	vvn_vvd@
+Directly	directly	rr
+Observed	observe	vvn_jj@_vvd
+Treatment	treatment	nn1
+Short-course	short-course	nn1
+(		(
+DOTS	dot	nn2
+)		)
+is	be	vbz
+now	now	rt
+being	be	vbg
+offered	offer	vvn
+to	to	ii
+more	more	dar
+than	than	csn
+1,25,000		mc
+patients	patient	nn2
+each	each	dd1
+month	month	nnt1
+in	in	ii
+India	india	np1
+,		,
+which	which	ddq
+is	be	vbz
+largest	large	jjt
+in	in	ii
+the	the	at
+world	world	nn1
+in	in	ii31
+terms	terms	ii32
+of	of	ii33
+patients	patient	nn2
+initiated	initiate	vvn_vvd
+on	on	ii
+treatment	treatment	nn1
+in	in	ii
+a	a	at1
+country	country	nn1
+.		.
+<p>		null
+"		"
+As	as	csa
+we	we	ppis2
+all	all	db
+know	know	vv0
+,		,
+TB	tb	nn1
+is	be	vbz
+an	a	at1
+infectious	infectious	jj
+disease	disease	nn1
+and	and	cc
+it	it	pph1
+is	be	vbz
+very	very	rg
+important	important	jj
+for	for	if
+us	us	ppio2
+to	to	to
+detect	detect	vvi
+TB	tb	nn1
+early	early	rr_jj
+and	and	cc
+provide	provide	vvi
+complete	complete	jj
+treatment	treatment	nn1
+.		.
+It	it	pph1
+is	be	vbz
+seen	see	vvn
+that	that	cst
+most	most	dat
+patients	patient	nn2
+do	do	vd0
+not	not	xx
+feel	feel	vvi
+the	the	at
+need	need	nn1
+to	to	to
+continue	continue	vvi
+the	the	at
+treatment	treatment	nn1
+as	as	csa
+they	they	pphs2
+feel	feel	vv0
+better	better	rrr_jjr
+of	of	io
+the	the	at
+programme	program	nn1
+emphasizing	emphasize	vvg
+for	for	if
+adherence	adherence	nn1
+to	to	ii
+the	the	at
+treatment	treatment	nn1
+and	and	cc
+keeping	keep	vvg
+default	default	nn1
+rate	rate	nn1
+to	to	ii
+the	the	at
+minimum	minimum	nn1_jj
+with	with	iw
+the	the	at
+help	help	nn1
+of	of	io
+community	community	nn1
+DOTS	dot	nn2
+provider	provider	nn1
+,		,
+majority	majority	nn1
+of	of	io
+the	the	at
+patients	patient	nn2
+enrolled	enroll	vvn_vvd
+under	under	ii
+the	the	at
+programme	program	nn1
+complete	complete	vv0
+their	their	appge
+treatment	treatment	nn1
+"		"
+said	say	vvd
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+.		.
+One	one	pn1_mc1
+wonders	wonder	vvz
+if	if	cs_csw@
+RNTCP		np1
+programme	program	nn1
+performance	performance	nn1
+is	be	vbz
+optimal	optimal	jj
+,		,
+then	then	rt
+how	how	rrq
+come	come	vvn
+India	india	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+TB	tb	nn1
+?		?
+<p>		null
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+further	far	rrr
+informs	inform	vvz
+that	that	cst_dd1
+having	have	vhg
+achieved	achieve	vvn
+the	the	at
+global	global	jj
+objectives	objective	nn2
+of	of	io
+case	case	nn1
+detection	detection	nn1
+and	and	cc
+treatment	treatment	nn1
+success	success	nn1
+rate	rate	nn1
+for	for	if
+last	last	md
+three	three	mc
+consecutive	consecutive	jj
+years	year	nnt2
+(		(
+these	these	dd2
+'	'	ge
+global	global	jj
+objectives	objective	nn2
+'	'	ge
+of	of	io
+detecting	detect	vvg
+70%	70%	nnu
+new	new	jj
+TB	tb	nn1
+cases	case	nn2
+and	and	cc
+treating	treat	vvg
+85%	85%	nnu
+of	of	io
+them	them	ppho2
+,		,
+were	be	vbdr
+in	in	ii
+use	use	nn1
+by	by	ii
+global	global	jj
+WHO	who	np1
+Stop	stop	nn1_vv0
+TB	tb	nn1
+Strategy	strategy	nn1
+till	till	ii
+2005	2005	mc
+)		)
+,		,
+the	the	at
+programme	program	nn1
+has	have	vhz
+set	set	vvn
+for	for	if
+itself	itself	ppx1
+an	a	at1
+ambitious	ambitious	jj
+target	target	nn1
+of	of	io
+Universal	universal	jj
+Access	access	nn1
+to	to	ii
+Quality	quality	nn1
+TB	tb	nn1
+Care	care	nn1_vv0
+for	for	if
+all	all	db
+TB	tb	nn1
+patients	patient	nn2
+from	from	ii
+whichever	whichever	ddqv
+healthcare	health-care	nn1
+provider	provider	nn1
+they	they	pphs2
+choose	choose	vv0
+to	to	to
+seek	seek	vvi
+care	care	nn1
+.		.
+This	this	dd1
+calls	call	vvz
+for	for	if
+reaching	reach	vvg
+out	out	rp
+the	the	at
+unreached	unreached	jj
+and	and	cc
+fostering	foster	vvg@_nn1
+an	a	at1
+active	active	jj
+involvement	involvement	nn1
+of	of	io
+private	private	jj
+healthcare	health-care	nn1
+providers	provider	nn2
+,		,
+non-governmental	nongovernmental	jj
+organisations	organization	nn2
+and	and	cc
+empowering	empowering	jj_vvg
+community	community	nn1
+to	to	to
+demand	demand	vvi
+for	for	if
+quality	quality	nn1
+anti-TB		nn1_jj
+services	service	nn2
+.		.
+This	this	dd1
+probably	probably	rr
+refers	refer	vvz
+to	to	ii
+implementing	implement	vvg
+the	the	at
+Patients	patient	nn2
+'	'	ge
+Charter	charter	nn1
+for	for	if
+TB	tb	nn1
+Care	care	nn1_vv0
+--		zz
+a	a	at1
+rights	right	nn2
+and	and	cc
+responsibilities	responsibility	nn2
+based	base	vvn_vvd@
+framework	framework	nn1
+that	that	cst_dd1
+is	be	vbz
+an	a	at1
+integral	integral	jj
+component	component	nn1
+of	of	io
+WHO	who	np1
+Stop	stop	nn1_vv0
+TB	tb	nn1
+Strategy	strategy	nn1
+--		zz
+but	but	ccb
+has	have	vhz
+n't	n't	xx
+been	be	vbn
+rolled	roll	vvn
+out	out	rp
+satisfactorily	satisfactorily	rr
+-	-	-
+in	in	ii
+letter	letter	nn1
+and	and	cc
+spirit	spirit	nn1
+.		.
+<p>		null
+Newer	new	jjr
+challenges	challenge	nn2
+like	like	ii
+multi-drug	multi-drug	jj
+resistant	resistant	jj
+TB	tb	nn1
+and	and	cc
+TB-HIV		np1
+co-infection	coinfection	nn1
+have	have	vh0
+the	the	at
+potential	potential	jj_nn1
+to	to	to
+reverse	reverse	vvi
+the	the	at
+gains	gain	nn2
+made	make	vvn
+by	by	ii
+the	the	at
+programme	program	nn1
+in	in	ii
+the	the	at
+last	last	md
+decade	decade	nnt1
+.		.
+Conscious	conscious	jj
+of	of	io
+these	these	dd2
+challenges	challenge	nn2
+,		,
+the	the	at
+programme	program	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+were	be	vbdr
+rolled	roll	vvn
+out	out	rp
+by	by	ii
+the	the	at
+programme	program	nn1
+in	in	ii
+the	the	at
+year	year	nnt1
+2000	2000	mc
+and	and	cc
+the	the	at
+entire	entire	jj
+country	country	nn1
+is	be	vbz
+now	now	rt
+implementing	implement	vvg
+TB-HIV		np1
+collaborative	collaborative	jj
+services	service	nn2
+"		"
+said	say	vvd
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+.		.
+<p>		null
+The	the	at
+programme	program	nn1
+recognizes	recognize	vvz
+treatment	treatment	nn1
+of	of	io
+multidrug-resistant	multidrug-resistant	jj
+TB	tb	nn1
+(		(
+MDR-TB	mdr-tb	nn1_jj
+)		)
+as	as	ii_csa
+a	a	at1
+'	'	ge
+standard	standard	nn1
+of	of	io
+care	care	nn1
+.		.
+'	'	"@_ge
+With	with	iw
+close	close	jj_rr
+to	to	ii
+100,000	100,000	mc
+MDR-TB		jj
+patients	patient	nn2
+every	every	at1
+year	year	nnt1
+in	in	ii
+India	india	np1
+,		,
+it	it	pph1
+is	be	vbz
+indeed	indeed	rr
+a	a	at1
+matter	matter	nn1
+of	of	io
+hope	hope	nn1
+that	that	cst
+India	india	np1
+recognizes	recognize	vvz
+MDR-TB		jj
+treatment	treatment	nn1
+as	as	ii_csa
+a	a	at1
+standard	standard	nn1_jj
+of	of	io
+care	care	nn1
+.		.
+However	however	rr
+,		,
+the	the	at
+number	number	nn1
+of	of	io
+patients	patient	nn2
+of	of	io
+MDR-TB	mdr-tb	nn1_jj
+currently	currently	rr
+on	on	ii
+treatment	treatment	nn1
+is	be	vbz
+abysmally	abysmally	rr
+low	low	jj_rr@
+-	-	-
+and	and	cc
+India	india	np1
+'s	's	ge
+RNTCP		np1
+aims	aim	vvz
+to	to	to
+treat	treat	vvi
+30,000	30,000	mc
+MDR-TB		jj
+patients	patient	nn2
+annually	annually	rr
+by	by	ii
+2013	2013	mc
+.		.
+Despite	despite	ii
+of	of	io
+recognizing	recognize	vvg
+seemingly-insurmountable		jj
+challenges	challenge	nn2
+,		,
+how	how	rrq
+can	can	vm
+one	one	pn1
+ignore	ignore	vvi
+that	that	cst_dd1
+only	only	rr
+a	a	at1
+small	small	jj
+minority	minority	nn1
+(		(
+30,000	30,000	mc
+every	every	at1
+year	year	nnt1
+)		)
+of	of	io
+MDR-TB	mdr-tb	jj_nn1
+patients	patient	nn2
+in	in	ii
+India	india	np1
+are	be	vbr
+,		,
+thankfully	thankfully	rr
+,		,
+likely	likely	jj_rr@
+,		,
+to	to	to
+receive	receive	vvi
+standard	standard	jj_nn1
+care	care	nn1
+by	by	ii
+2013	2013	mc
+,		,
+and	and	cc
+many	many	da2
+times	time	nnt2
+more	more	rrr_dar
+number	number	nn1
+of	of	io
+MDR-TB	mdr-tb	jj_nn1
+patients	patient	nn2
+in	in	ii
+India	india	np1
+will	will	vm
+not	not	xx
+be	be	vbi
+able	able	jk
+to	to	to
+access	access	vvi
+the	the	at
+standard	standard	jj_nn1
+care	care	nn1
+.		.
+What	what	ddq
+are	be	vbr
+the	the	at
+options	option	nn2
+for	for	if
+them	them	ppho2
+,		,
+one	one	pn1_mc1
+wonders	wonder	vvz
+?		?
+<p>		null
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+said	say	vvd
+the	the	at
+best	best	jjt
+way	way	nn1
+to	to	to
+prevent	prevent	vvi
+emergence	emergence	nn1
+of	of	io
+MDR-TB	mdr-tb	nn1
+is	be	vbz
+by	by	ii
+implementing	implement	vvg
+quality	quality	nn1
+DOTS	dot	nn2
+services	service	nn2
+.		.
+According	according	ii21
+to	to	ii22
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+is	be	vbz
+the	the	at
+outcome	outcome	nn1
+of	of	io
+poor	poor	jj
+DOTS	dot	nn2
+programme	programme	nn1_vv0%
+performance	performance	nn1
+.		.
+So	so	rr
+how	how	rrq
+will	will	vm
+more	more	rrr
+of	of	io
+the	the	at
+same	same	da
+be	be	vbi
+a	a	at1
+solution	solution	nn1
+,		,
+one	one	pn1_mc1
+wonders	wonder	vvz
+.		.
+<p>		null
+However	however	rr
+for	for	if
+patients	patient	nn2
+who	who	pnqs
+do	do	vd0
+develop	develop	vvi
+MDR-TB	mdr-tb	nn1_jj
+,		,
+DOTS	dot	nn2
+Plus	plus	ii
+services	service	nn2
+for	for	if
+management	management	nn1
+of	of	io
+MDR-TB	mdr-tb	nn1_jj
+were	be	vbdr
+rolled	roll	vvn
+out	out	rp
+in	in	ii
+thr	thr	nnu
+year	year	nnt1
+2007	2007	mc
+and	and	cc
+by	by	ii
+December	december	npm1
+2010	2010	mc
+,		,
+12	12	mc
+states	state	nn2
+are	be	vbr
+implementing	implement	vvg
+the	the	at
+DOTS	dot	nn2
+Plus	plus	nn1_ii
+and	and	cc
+the	the	at
+entire	entire	jj
+country	country	nn1
+wil	wil	nn1
+be	be	vbi
+covered	cover	vvn
+by	by	ii
+2011	2011	mc
+in	in	ii
+phase	phase	nn1
+wise	wise	jj
+manner	manner	nn1
+.		.
+Covering	cover	vvg
+the	the	at
+entire	entire	jj
+country	country	nn1
+,		,
+does	do	vdz
+n't	n't	xx
+imply	imply	vvi
+providing	provide	vvg_cs@
+standard	standard	jj_nn1
+care	care	nn1
+for	for	if
+MDR-TB	mdr-tb	nn1_jj
+to	to	ii
+all	all	db
+-	-	-
+rather	rather	rr@
+as	as	csa
+said	say	vvn@
+above	above	rl
+,		,
+RNTCP		np1
+aims	aim	vvz
+to	to	to
+at	at	rr21
+least	least	rr22
+provide	provide	vvi
+proper	proper	jj
+care	care	nn1
+to	to	ii
+30,000	30,000	mc
+patients	patient	nn2
+annually	annually	rr
+by	by	ii
+end	end	nn1
+of	of	io
+2013	2013	mc
+.		.
+<p>		null
+While	while	cs
+we	we	ppis2
+should	should	vm
+see	see	vvi
+the	the	at
+challenge	challenge	nn1
+MDR-TB	mdr-tb	nn1
+poses	pose	vvz
+to	to	ii
+TB	tb	nn1
+programmes	program	nn2
+globally	globally	rr
+,		,
+and	and	cc
+in	in	ii
+India	india	np1
+as	as	rr21
+well	well	rr22_rr
+,		,
+the	the	at
+country	country	nn1
+"		"
+has	have	vhz
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+ambitious	ambitious	jj
+plans	plan	nn2
+to	to	to
+scale	scale	vvi
+up	up	rp_ii@
+treatment	treatment	nn1
+of	of	io
+MDR-TB	mdr-tb	nn1
+compared	compare	vvn
+to	to	ii
+any	any	dd
+other	other	jj
+country	country	nn1
+in	in	ii
+the	the	at
+world	world	nn1
+"		"
+said	say	vvd
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+(		(
+because	because	cs
+by	by	ii
+2013	2013	mc
+,		,
+the	the	at
+RNTCP		np1
+intends	intend	vvz
+to	to	to
+place	place	vvi
+at	at	rr21
+least	least	rr22
+30,000	30,000	mc
+patients	patient	nn2
+of	of	io
+MDR-TB	mdr-tb	nn1_jj
+on	on	ii
+treatment	treatment	nn1
+annually	annually	rr
+)		)
+.		.
+Thanks	thanks	ii21
+to	to	ii22
+India	india	np1
+for	for	if
+envisioning	envision	vvg
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+ambitious	ambitious	jj
+plans	plan	nn2
+to	to	to
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+enough	enough	rr
+-	-	-
+and	and	cc
+unacceptable	unacceptable	jj
+-	-	-
+to	to	to
+turn	turn	vvi
+an	a	at1
+alarming	alarming	jj
+number	number	nn1
+of	of	io
+MDR-TB	mdr-tb	jj_nn1
+patients	patient	nn2
+on	on	ii
+the	the	at
+blind	blind	jj
+spot	spot	nn1
+.		.
+<p>		null
+The	the	at
+treatment	treatment	nn1
+duration	duration	nn1
+for	for	if
+MDR-TB	mdr-tb	nn1
+is	be	vbz
+long	long	rr_jj
+-	-	-
+two	two	mc
+years	year	nnt2
+-	-	-
+and	and	cc
+expensive	expensive	jj
+-	-	-
+it	it	pph1
+costs	cost	vvz
+about	about	rg
+Rupees	rupee	nnu2
+one	one	mc1
+lakh	lakh	nn1
+(		(
+INR	inr	np1_vv0_nn1
+100,000	100,000	mc
+)		)
+per	per	ii
+patient	patient	nn1_jj
+for	for	if
+the	the	at
+drugs	drug	nn2
+alone	alone	rr_jj
+.		.
+<p>		null
+One	one	mc1
+of	of	io
+the	the	at
+challenges	challenge	nn2
+in	in	ii
+scaling	scale	vvg
+up	up	rp_ii@
+treatment	treatment	nn1
+is	be	vbz
+laboratory	laboratory	nn1
+capacity	capacity	nn1
+.		.
+The	the	at
+diagnosis	diagnosis	nn1
+of	of	io
+MDR-TB	mdr-tb	nn1
+is	be	vbz
+a	a	at1
+laboratory-based	laboratory-based	jj_nn1
+diagnosis	diagnosis	nn1
+and	and	cc
+needs	need	vvz_nn2
+to	to	to
+be	be	vbi
+done	do	vdn
+from	from	ii
+a	a	at1
+RNTCP		np1
+accredited	accredited	jj
+TB	tb	nn1
+Culture	culture	nn1
+and	and	cc
+Drug	drug	nn1
+Susceptibility	susceptibility	np1_nn1
+Testing	testing	np1_nn1
+(		(
+C	c	zz1
+and	and	cc
+DST	dst	np1
+)		)
+Laboratory	laboratory	nn1
+.		.
+Strengthening	strengthen	vvg_nn1
+laboratory	laboratory	nn1
+capacity	capacity	nn1
+of	of	io
+India	india	np1
+and	and	cc
+other	other	jj
+high	high	jj
+burden	burden	nn1
+MDR-TB	mdr-tb	nn1_jj
+countries	country	nn2
+is	be	vbz
+clearly	clearly	rr
+warranted	warrant	vvn_vvd
+before	before	ii
+treatment	treatment	nn1
+of	of	io
+MDR-TB	mdr-tb	jj_nn1
+patients	patient	nn2
+can	can	vm
+be	be	vbi
+effectively	effectively	rr
+and	and	cc
+successfully	successfully	rr
+rolled	roll	vvn_vvd
+out	out	rp
+.		.
+RNTCP		np1
+currently	currently	rr
+aims	aim	vvz
+to	to	to
+establish	establish	vvi
+a	a	at1
+network	network	nn1
+of	of	io
+43	43	mc
+C	c	zz1_np1
+and	and	cc
+DST	dst	np1
+laboratories	laboratory	nn2
+to	to	to
+diagnose	diagnose	vvi
+MDR-TB	mdr-tb	nn1_jj
+by	by	ii
+end	end	nn1
+of	of	io
+2013	2013	mc
+,		,
+said	say	vvd
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+.		.
+A	a	at1_zz1
+value-added	value-added	jj
+service	service	nn1
+at	at	ii
+each	each	dd1
+of	of	io
+these	these	dd2
+43	43	mc
+C	c	zz1_np1
+and	and	cc
+DST	dst	np1
+laboratories	laboratory	nn2
+is	be	vbz
+that	that	cst
+it	it	pph1
+will	will	vm
+be	be	vbi
+equipped	equip	vvn
+with	with	iw
+the	the	at
+newer	new	jjr
+molecular	molecular	jj
+based	base	vvn_vvd@
+diagnostic	diagnostic	jj
+tests	test	nn2
+(		(
+line	line	nn1_vv0@
+probe	probe	nn1_vv0
+assay	assay	nn1
+-	-	-
+LPA	lpa-i	np1
+)		)
+which	which	ddq
+can	can	vm
+diagnose	diagnose	vvi
+MDR-TB	mdr-tb	nn1_jj
+within	within	ii
+48	48	mc
+hours	hour	nnt2
+as	as	csa
+compared	compare	vvn
+to	to	ii
+6-12	6-12	mcmc
+weeks	week	nnt2
+with	with	iw
+conventional	conventional	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+diagnosis	diagnosis	nn1
+time	time	nnt1
+for	for	if
+MDR-TB	mdr-tb	nn1_jj
+so	so	rg_rr
+drastically	drastically	rr
+and	and	cc
+enable	enable	vv0
+the	the	at
+patients	patient	nn2
+to	to	to
+be	be	vbi
+put	put	vvn
+on	on	ii
+appropriate	appropriate	jj
+standard	standard	jj_nn1
+treatment	treatment	nn1
+as	as	rg
+soon	soon	rr
+as	as	csa
+possible	possible	jj
+.		.
+<p>		null
+"		"
+The	the	at
+programme	program	nn1
+further	far	rrr
+intends	intend	vvz
+to	to	ii
+leverage	leverage	nn1
+on	on	ii
+newer	new	jjr
+diagnostic	diagnostic	jj
+platforms	platform	nn2
+which	which	ddq
+are	be	vbr
+being	be	vbg
+made	make	vvn
+available	available	jj
+by	by	ii
+validating	validate	vvg
+and	and	cc
+demonstrating	demonstrate	vvg
+their	their	appge
+effectiveness	effectiveness	nn1
+in	in	ii
+programme	program	nn1
+settings	setting	nn2
+.		.
+The	the	at
+Indian	indian	jj
+government	government	nn1
+is	be	vbz
+committed	commit	vvn
+to	to	to
+support	support	vvi
+the	the	at
+programme	program	nn1
+till	till	cs_ii
+it	it	pph1
+ceases	cease	vvz
+to	to	to
+be	be	vbi
+a	a	at1
+public	public	jj_nn1
+health	health	nn1
+problem	problem	nn1
+"		"
+said	say	vvd
+Dr	dr	nnb
+Sachdeva	sachdeva	np1
+.		.
+<p>		null
+India	india	np1
+and	and	cc
+many	many	da2
+other	other	jj
+countries	country	nn2
+have	have	vh0
+made	make	vvn
+unprecedented	unprecedented	jj
+progress	progress	nn1
+in	in	ii
+TB	tb	nn1
+control	control	nn1
+programmes	program	nn2
+over	over	ii
+the	the	at
+past	past	jj_nn1
+decade	decade	nnt1
+but	but	ccb
+a	a	rr21@
+lot	lot	rr22
+more	more	rrr_dar
+needs	need	vvz_nn2
+to	to	to
+be	be	vbi
+done	do	vdn
+by	by	ii
+all	all	db
+means	mean	nn
+to	to	to
+effectively	effectively	rr
+control	control	vvi
+TB	tb	nn1
+.		.
+Only	only	rr_jj
+coming	coming	jj@_vvg
+years	year	nnt2
+will	will	vm
+testify	testify	vvi
+how	how	rgq@_rrq
+well	well	rr_jj@
+India	india	np1
+could	could	vm
+succeed	succeed	vvi
+in	in	ii_rp@
+achieving	achieve	vvg
+universal	universal	jj
+access	access	nn1
+to	to	ii
+quality	quality	nn1
+TB	tb	nn1
+care	care	nn1_vv0
+for	for	if
+all	all	db
+TB	tb	nn1
+##3804450		fo
+<h>		null
+No	no	at
+more	more	dar
+religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+<p>		null
+Bangladesh	bangladesh	np1
+will	will	vm
+be	be	vbi
+the	the	at
+first	first	md
+ever	ever	rr
+Muslim	muslim	jj
+dominated	dominated	jj@
+nation	nation	nn1
+,		,
+which	which	ddq
+is	be	vbz
+set	set	vvn
+to	to	to
+ban	ban	vvi
+religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+soon	soon	rr
+.		.
+Bangladeshi	bangladeshi	jj@_np1@_nn2
+law	law	nn1
+minister	minister	nn1
+Barrister	barrister	nn1
+Shafiq	shafiq	np1
+Ahmed	ahmed	np1
+told	tell	vvd
+reporters	reporter	nn2
+that	that	cst
+the	the	at
+existing	existing	jj
+constitution	constitution	nn1
+will	will	vm
+be	be	vbi
+replaced	replace	vvn
+under	under	ii
+the	the	at
+directives	directive	nn2
+of	of	io
+the	the	at
+Supreme	supreme	jj
+Court	court	nn1
+soon	soon	rr
+,		,
+which	which	ddq
+will	will	vm
+stop	stop	vvi
+doors	door	nn2
+for	for	if
+anyone	anyone	pn1
+in	in	ii
+continuing	continuing	jj_vvg
+religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+in	in	ii
+the	the	at
+country	country	nn1
+.		.
+The	the	at
+new	new	jj
+constitution	constitution	nn1
+will	will	vm
+be	be	vbi
+printed	print	vvn_jj
+and	and	cc
+brought	bring	vvn_vvd
+into	into	ii
+effect	effect	nn1
+in	in	ii
+weeks	week	nnt2
+.		.
+He	he	pphs1
+said	say	vvd
+,		,
+"		"
+Religion-based	religion-based	jj_nn1
+parties	party	nn2
+will	will	vm
+be	be	vbi
+prohibited	prohibit	vvn
+according	according	ii21
+to	to	ii22
+the	the	at
+sections	section	nn2
+12	12	mc
+and	and	cc
+38	38	mc
+of	of	io
+the	the	at
+constitution	constitution	nn1
+.		.
+No	no	at_uh
+separate	separate	jj
+laws	law	nn2
+will	will	vm
+be	be	vbi
+required	require	vvn
+!		!
+"		"
+<p>		null
+When	when	rrq_cs
+asked	ask	vvd_vvn@
+who	who	pnqs
+will	will	vm_vv0%
+bell	bell	nn1
+the	the	at
+cat	cat	nn1
+,		,
+Shafique		np1
+said	say	vvd
+according	according	ii21
+to	to	ii22
+the	the	at
+Representation	representation	nn1
+of	of	io
+People	people	nn
+Order	order	nn1_vv0@
+RPO	rpo	nn1_np1
+,		,
+all	all	db_rr@
+political	political	jj
+parties	party	nn2
+should	should	vm
+have	have	vhi
+themselves	themselves	ppx2
+registered	register	vvn_vvd_jj
+for	for	if
+participating	participate	vvg
+in	in	ii
+the	the	at
+polls	poll	nn2
+.		.
+"		"
+In	in	ii
+this	this	dd1
+case	case	nn1
+,		,
+it	it	pph1
+is	be	vbz
+the	the	at
+Election	election	nn1
+Commission	commission	nn1
+'s	's	ge
+responsibility	responsibility	nn1
+to	to	to
+consider	consider	vvi
+whether	whether	csw
+the	the	at
+constitution	constitution	nn1
+of	of	io
+a	a	at1
+political	political	jj
+party	party	nn1
+contradicts	contradict	vvz
+with	with	iw
+the	the	at
+national	national	jj
+constitution	constitution	nn1
+.		.
+"		"
+<p>		null
+Religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+came	come	vvd
+into	into	ii
+existence	existence	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+since	since	ii
+founding	found	vvg
+father	father	nn1
+of	of	io
+the	the	at
+nation	nation	nn1
+,		,
+Bangabandhu	bangabandhu	nn1_np1
+Sheikh	sheikh	nnb
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+was	be	vbdz
+virtually	virtually	rr
+transformed	transform	vvn_vvd
+into	into	ii
+Sharia	sharia	np1
+Constitution	constitution	nn1
+by	by	ii
+the	the	at
+subsequent	subsequent	jj
+Military	military	jj
+Rulers	ruler	nn2
+in	in	ii
+the	the	at
+country	country	nn1
+.		.
+Military	military	jj
+dictator	dictator	nn1
+Hussain	hussain	nn1_jj
+Muhammed	muhammed	np1
+Ershad	ershad	np1
+amended	amend	vvd
+the	the	at
+constitution	constitution	nn1
+thus	thus	rr
+making	make	vvg
+Islam	islam	nn1
+as	as	ii_csa
+the	the	at
+state	state	nn1
+religion	religion	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+.		.
+Ershad	ershad	np1@_nn1
+played	play	vvd
+key	key	jj
+role	role	nn1
+in	in	ii
+giving	give	vvg
+patronization	patronization	nn1
+,		,
+support	support	nn1_vv0
+and	and	cc
+indirect	indirect	jj
+funding	funding	nn1
+to	to	ii
+various	various	jj
+Islamist	islamist	jj_nn1
+political	political	jj
+parties	party	nn2
+in	in	ii
+emerging	emerge	vvg_jj
+and	and	cc
+gaining	gain	vvg
+strength	strength	nn1
+.		.
+Taking	take	vvg
+the	the	at
+advantage	advantage	nn1
+of	of	io
+such	such	da
+situation	situation	nn1
+,		,
+dozens	dozen	nno2
+of	of	io
+Islamist	islamist	nn1_jj
+and	and	cc
+religion	religion	nn1
+based	base	vvn_vvd@
+political	political	jj
+parties	party	nn2
+grew	grow	vvd
+like	like	ii
+mushroom	mushroom	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+.		.
+Most	most	dat
+of	of	io
+these	these	dd2
+Islamist	islamist	jj
+political	political	jj
+parties	party	nn2
+were	be	vbdr
+actively	actively	rr
+involved	involved	jj
+in	in	ii
+recruitment	recruitment	nn1
+and	and	cc
+sending	sending	nn1@_vvg
+of	of	io
+Bangladeshi	bangladeshi	np1_nn1
+'	'	ge
+Jihadists	jihadist	nn2
+'	'	ge
+to	to	ii
+various	various	jj
+'	'	ge
+battle	battle	nn1
+grounds	ground	nn2
+'	'	ge
+in	in	ii
+Afghanistan	afghanistan	np1
+,		,
+Palestine	palestine	np1
+and	and	cc
+Kashmir	kashmir	np1
+.		.
+Some	some	dd
+of	of	io
+the	the	at
+leaders	leader	nn2
+of	of	io
+the	the	at
+Islamists	islamist	nn2
+parties	party	nn2
+are	be	vbr
+still	still	rr
+active	active	jj
+in	in	ii
+spreading	spread	vvg_jj
+Jihadist	jihadist	jj_nn1
+notion	notion	nn1
+amongst	amongst	ii
+people	people	nn
+in	in	ii
+the	the	at
+rural	rural	jj
+areas	area	nn2
+as	as	ii31
+well	well	ii32
+as	as	ii33
+giving	give	vvg
+instigations	instigations	nn2
+to	to	ii
+people	people	nn
+in	in	ii
+participating	participate	vvg
+in	in	ii
+Jihad	jihad	np1
+in	in	ii
+ultimately	ultimately	rr
+turning	turn	vvg
+Bangladesh	bangladesh	np1
+into	into	ii
+a	a	at1
+neo-Taliban	neo-taliban	jj_nn1
+state	state	nn1
+.		.
+<p>		null
+Things	thing	nn2
+would	would	vm
+have	have	vhi
+been	be	vbn
+worst	bad	jjt
+in	in	ii
+the	the	at
+country	country	nn1
+,		,
+especially	especially	rr
+after	after	ii_cs
+sudden	sudden	jj
+military	military	jj
+interference	interference	nn1
+in	in	ii
+2007	2007	mc
+and	and	cc
+continuous	continuous	jj
+military	military	jj_nn1@
+dictated	dictated	jj@_vvd
+rule	rule	nn1
+by	by	ii
+so-called	so-called	jj
+interim	interim	jj_nn1
+government	government	nn1
+for	for	if
+two	two	mc
+years	year	nnt2
+,		,
+if	if	cs
+Bangladesh	bangladesh	np1
+Awami	awami	jj
+League	league	nn1
+was	be	vbdz
+not	not	xx
+elected	elect	vvn
+to	to	ii
+power	power	nn1
+with	with	iw
+huge	huge	jj
+mandate	mandate	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+by	by	ii
+Bangabandhu	bangabandhu	nn1_np1
+Sheikh	sheikh	nnb
+Mujibur	mujibur	np1
+Rahman	rahman	np1
+played	play	vvd
+the	the	at
+most	most	rgt
+important	important	jj
+role	role	nn1
+during	during	ii
+the	the	at
+war	war	nn1
+of	of	io
+independence	independence	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+in	in	ii
+1971	1971	mc
+.		.
+It	it	pph1
+believes	believe	vvz
+in	in	ii
+secularist	secularist	nn1
+Bangladesh	bangladesh	np1
+under	under	ii_rg@
+socialist	socialist	jj
+rule	rule	nn1
+.		.
+<p>		null
+Anti-Islamist	anti-islamist	jj_nn1
+forces	force	nn2
+in	in	ii
+Bangladesh	bangladesh	np1
+are	be	vbr
+particularly	particularly	rr
+delighted	delighted	jj
+to	to	to
+know	know	vvi
+that	that	dd1_cst
+,		,
+very	very	rg
+soon	soon	rr
+,		,
+religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+will	will	vm
+be	be	vbi
+banned	ban	vvn
+in	in	ii
+the	the	at
+country	country	nn1
+,		,
+which	which	ddq
+will	will	vm
+certainly	certainly	rr
+put	put	vvi
+several	several	da2
+Islamist	islamist	jj_nn1
+and	and	cc
+religion	religion	nn1
+based	base	vvn_vvd@
+political	political	jj
+parties	party	nn2
+into	into	ii
+extinction	extinction	nn1
+.		.
+<p>		null
+Bangladesh	bangladesh	np1
+is	be	vbz
+a	a	at1
+land	land	nn1
+of	of	io
+braves	brave	nn2
+and	and	cc
+heroes	hero	nn2
+.		.
+It	it	pph1
+has	have	vhz
+century-long	century-long	jj
+heritage	heritage	nn1
+of	of	io
+religious	religious	jj
+harmony	harmony	nn1
+and	and	cc
+tolerance	tolerance	nn1
+.		.
+Because	because	ii21
+of	of	ii22
+Islamists	islamist	nn2
+and	and	cc
+existence	existence	nn1
+of	of	io
+religion	religion	nn1
+based	base	vvn_vvd@
+politics	politics	nn1
+in	in	ii
+the	the	at
+country	country	nn1
+,		,
+for	for	if_cs%
+past	past	jj_ii_rl_nn1
+few	few	da2
+decades	decade	nnt2
+,		,
+the	the	at
+excellent	excellent	jj
+atmosphere	atmosphere	nn1
+of	of	io
+religion	religion	nn1
+harmony	harmony	nn1
+has	have	vhz
+been	be	vbn
+severely	severely	rr
+hampered	hamper	vvn
+.		.
+The	the	at
+country	country	nn1
+even	even	rr
+has	have	vhz
+witnessed	witness	vvn
+the	the	at
+emergence	emergence	nn1
+of	of	io
+Jihadist	jihadist	jj_nn1
+forces	force	nn2
+such	such	ii21
+as	as	ii22
+Jagrata		np1
+Muslim	muslim	jj_nn1@
+Janata	janata	np1
+JMJ		np1
+,		,
+Jamaatul		np1
+Mujahedin	mujahedin	np1
+Bangladesh	bangladesh	np1
+JMB	jmb	np1
+,		,
+Hizbut		np1_vv0
+Tahrir	tahrir	np1_nn1
+HT	ht	nn1
+,		,
+Hizbut		np1_vv0
+Towhid		np1_jj_nn1
+HuT	hut	nn1
+,		,
+Khelafat		np1_vv0_nn1
+Majlish		nn1_jj
+,		,
+Khatmey		np1
+Nabuat		np1
+Andolan	andolan	np1
+KNA	kna	np1_nn1
+,		,
+Khatmey		np1
+Nabuat		np1_nn1
+Movement	movement	nn1
+KNM		np1
+,		,
+Harkatul	harkatul	np1
+Jihad	jihad	np1
+Bangladesh	bangladesh	np1
+HuJI		np1
+,		,
+Jadid	jadid	np1
+Al	al	np1
+Qaida	qaida	np1
+,		,
+Islamic	islamic	jj
+Constitution	constitution	nn1
+Movement	movement	nn1
+,		,
+Zaker		np1_nn1
+Party	party	nn1
+,		,
+Muslim	muslim	jj
+League	league	nn1
+,		,
+Allah'r		np1
+Daal	daal	np1
+,		,
+Hezbollah	hezbollah	np1
+Bangladesh	bangladesh	np1
+etc	etc	ra
+.		.
+For	for	if
+the	the	at
+sake	sake	nn1
+of	of	io
+uprooting	uproot	vvg
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+from	from	ii
+Bangladesh	bangladesh	np1
+,		,
+it	it	pph1
+is	be	vbz
+essential	essential	jj
+for	for	if
+Bangladesh	bangladesh	np1
+Awami	awami	jj
+League	league	nn1
+to	to	to
+continue	continue	vvi
+in	in	ii
+power	power	nn1
+at	at	rr21
+least	least	rr22
+for	for	if
+a	a	at1
+second	second	md_nnt1
+term	term	nn1_vv0@
+it	it	pph1
+ends	end	vvz
+the	the	at
+current	current	jj
+term	term	nn1
+in	in	ii
+2013	2013	mc
+.		.
+International	international	jj
+community	community	nn1
+needs	need	vvz_nn2
+to	to	to_ii
+extends	extend	vvz
+fullest	full	jjt
+support	support	nn1
+towards	towards	ii
+the	the	at
+leadership	leadership	nn1
+of	of	io
+Sheikh	sheikh	nnb
+Hasina	hasina	np1
+Prime	prime	jj
+Minister	minister	nn1
+in	in	ii
+Bangladesh	bangladesh	np1
+and	and	cc
+leader	leader	nn1
+of	of	io
+Bangladesh	bangladesh	np1
+Awami	awami	jj
+League	league	nn1
+.		.
+On	on	ii
+the	the	at
+other	other	jj
+hand	hand	nn1
+,		,
+the	the	at
+Prime	prime	jj
+Minister	minister	nn1
+also	also	rr
+needs	need	vvz
+to	to	to
+take	take	vvi
+several	several	da2
+measures	measure	nn2
+in	in	ii_rp@
+immediately	immediately	rr
+stopping	stop	vvg
+country-wide	countrywide	jj
+terrorism	terrorism	nn1
+,		,
+extortion	extortion	nn1
+,		,
+corruption	corruption	nn1
+,		,
+nepotism	nepotism	nn1
+,		,
+hooliganism	hooliganism	nn1
+and	and	cc
+anti-people	anti-people	jj_nn

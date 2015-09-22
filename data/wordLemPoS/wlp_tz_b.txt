@@ -1,0 +1,7655 @@
+##3652150		fo
+<p>		null
+The	the	at
+Zambian	zambian	jj
+Government	government	nn1
+is	be	vbz
+to	to	to
+set	set	vvi
+up	up	rp
+a	a	at1
+Venture	venture	nn1
+Capital	capital	nn1
+Fund	fund	nn1
+this	this	dd1
+year	year	nnt1
+with	with	iw
+seed	seed	nn1
+money	money	nn1
+amounting	amount	vvg
+to	to	ii
+$4	$4	nnu
+million	million	nno
+to	to	to
+provide	provide	vvi
+equity	equity	nn1
+financing	finance	vvg_nn1
+to	to	ii
+small	small	jj
+and	and	cc
+medium	medium	jj_nn1
+enterprises	enterprise	nn2
+in	in	ii
+the	the	at
+country	country	nn1
+.		.
+<p>		null
+According	according	ii21
+to	to	ii22
+the	the	at
+minister	minister	nn1
+of	of	io
+Commerce	commerce	nn1
+,		,
+Trade	trade	nn1
+and	and	cc
+Industry	industry	nn1
+,		,
+Felix	felix	np1
+Mutati		np1
+,		,
+the	the	at
+fund	fund	nn1
+once	once	rr
+functional	functional	jj
+will	will	vm
+help	help	vvi
+SMEs	smes	nn2
+grow	grow	vvi
+their	their	appge
+businesses	business	nn2
+.		.
+<p>		null
+"		"
+This	this	dd1
+fund	fund	nn1
+will	will	vm
+be	be	vbi
+under	under	ii
+the	the	at
+Zambia	zambia	np1
+Development	development	nn1
+Agency	agency	nn1
+and	and	cc
+is	be	vbz
+coming	come	vvg
+in	in	ii
+the	the	at
+first	first	md
+quarter	quarter	nn1
+of	of	io
+2011	2011	mc
+to	to	to
+provide	provide	vvi
+equity	equity	nn1
+finance	finance	nn1_vv0
+,		,
+targeting	target	vvg
+the	the	at
+SMEs	smes	nn2
+.		.
+We	we	ppis2
+will	will	vm
+initially	initially	rr
+start	start	vvi
+with	with	iw
+$4	$4	nnu
+million	million	nno
+as	as	ii@
+seed	seed	nn1
+money	money	nn1
+,		,
+"		"
+he	he	pphs1
+pointed	point	vvd
+out	out	rp
+.		.
+<p>		null
+He	he	pphs1
+was	be	vbdz
+speaking	speak	vvg
+at	at	ii
+Lusaka	lusaka	np1
+'s	's	ge
+Mulungushi		jj_nn1
+International	international	jj
+Conference	conference	nn1
+Centre	center	nn1
+(		(
+MICC		np1
+)		)
+,		,
+when	when	cs_rrq
+he	he	pphs1
+opened	open	vvd
+a	a	at1
+three-day	three-day	jj
+SMEs	smes	nn2
+workshop	workshop	nn1
+organized	organize	vvn
+by	by	ii
+the	the	at
+ZDA		nn1_np1
+and	and	cc
+Paramount	paramount	np1_jj@
+Transitions	transition	nn2
+Limited	limit	vvn@_jj
+under	under	ii
+the	the	at
+theme	theme	nn1
+:		:
+'	'	ge
+Empowering	empowering	jj
+Entrepreneurs	entrepreneur	nn2
+beyond	beyond	ii
+2011	2011	mc
+'	'	ge
+recently	recently	rr
+.		.
+<p>		null
+A	a	at1_zz1
+preferential	preferential	jj
+procurement	procurement	nn1
+Statutory	statutory	jj
+Instrument	instrument	nn1
+will	will	vm
+be	be	vbi
+launched	launch	vvn
+shortly	shortly	rr
+to	to	to
+encourage	encourage	vvi
+local	local	jj
+businesses	business	nn2
+to	to	to
+provide	provide	vvi
+more	more	dar
+jobs	job	nn2
+in	in	ii
+the	the	at
+country	country	nn1
+.		.
+<p>		null
+The	the	at
+MCTI		nn1_nn2
+will	will	vm
+provide	provide	vvi
+a	a	at1
+conducive	conducive	jj
+business	business	nn1
+environment	environment	nn1
+by	by	ii
+ensuring	ensure	vvg
+that	that	cst
+the	the	at
+fund	fund	nn1
+and	and	cc
+preferential	preferential	jj
+procurement	procurement	nn1
+instruments	instrument	nn2
+are	be	vbr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+first	first	md
+quarter	quarter	nn1
+of	of	io
+2011	2011	mc
+.		.
+<p>		null
+SMEs	smes	nn2
+play	play	vv0
+a	a	at1
+critical	critical	jj
+role	role	nn1
+in	in	ii
+Zambia	zambia	np1
+'s	's	ge
+economy	economy	nn1
+as	as	csa
+they	they	pphs2
+provide	provide	vv0
+85%	85%	nnu
+of	of	io
+employment	employment	nn1
+in	in	ii
+the	the	at
+country	country	nn1
+.		.
+However	however	rr
+,		,
+entrepreneurs	entrepreneur	nn2
+are	be	vbr
+facing	face	vvg_jj@
+difficulties	difficulty	nn2
+in	in	ii
+accessing	access	vvg_nn1
+finances	finance	nn2
+from	from	ii
+banks	bank	nn2
+.		.
+<p>		null
+On	on	ii
+the	the	at
+performance	performance	nn1
+of	of	io
+SMEs	smes	nn2
+in	in	ii
+2010	2010	mc
+,		,
+Mutati		np1
+said	say	vvd
+they	they	pphs2
+have	have	vh0
+reduced	reduce	vvn
+their	their	appge
+default	default	nn1
+levels	level	nn2
+in	in	ii
+repaying	repay	vvg
+loans	loan	nn2
+as	as	ii31
+opposed	opposed	ii32
+to	to	ii33
+corporate	corporate	jj
+who	who	pnqs
+are	be	vbr
+now	now	rt
+culprits	culprit	nn2
+with	with	iw
+a	a	at1
+high	high	jj
+default	default	nn1
+rate	rate	nn1
+.		.
+<p>		null
+"		"
+The	the	at
+banks	bank	nn2
+should	should	vm
+build	build	vvi
+a	a	at1
+relationship	relationship	nn1
+with	with	iw
+the	the	at
+SMEs	smes	nn2
+in	in	ii
+the	the	at
+country	country	nn1
+in	in	ii
+the	the	at
+coming	coming	jj@
+year	year	nnt1
+to	to	to
+ensure	ensure	vvi
+that	that	dd1_cst
+accessibility	accessibility	nn1
+of	of	io
+finances	finance	nn2
+is	be	vbz
+easy	easy	jj
+,		,
+"		"
+he	he	pphs1
+elaborated	elaborate	vvd
+.		.
+<p>		null
+Mutati		nn2_np1@
+urged	urge	vvd_vvn
+SMEs	smes	nn2
+to	to	to
+learn	learn	vvi
+how	how	rrq
+to	to	to
+invest	invest	vvi
+in	in	rp@
+and	and	cc
+grow	grow	vvi
+their	their	appge
+business	business	nn1
+as	as	ii31
+opposed	opposed	ii32
+to	to	ii33
+expanding	expand	vvg
+their	their	appge
+capital	capital	nn1
+on	on	ii
+wasteful	wasteful	jj
+ventures	venture	nn2
+.		.
+<p>		null
+And	and	cc
+ZDA		np1_nn1
+director	director	nn1
+for	for	if
+micro	micro	nn1
+and	and	cc
+small	small	jj
+enterprises	enterprise	nn2
+Windu	windu	np1
+Matoka		np1
+said	say	vvd
+the	the	at
+agency	agency	nn1
+will	will	vm
+coordinate	coordinate	vvi
+the	the	at
+venture	venture	nn1
+capital	capital	nn1
+fund	fund	nn1
+with	with	iw
+the	the	at
+##3652151		fo
+<p>		null
+Growing	growing	jj_vvg
+numbers	number	nn2
+of	of	io
+children	child	nn2
+in	in	ii
+SA	sa	np1
+are	be	vbr
+going	go	vvg
+to	to	ii
+private	private	jj
+schools	school	nn2
+--		zz
+50	50	mc
+percent	percent	nnu
+more	more	dar
+children	child	nn2
+were	be	vbdr
+attending	attend	vvg
+these	these	dd2
+schools	school	nn2
+in	in	ii
+2009	2009	mc
+than	than	csn
+in	in	ii
+2000	2000	mc
+,		,
+the	the	at
+South	south	np1
+African	african	jj
+Institute	institute	nn1
+of	of	io
+Race	race	nn1
+Relations	relation	nn2
+said	say	vvd
+.		.
+<p>		null
+This	this	dd1
+could	could	vm
+be	be	vbi
+an	a	at1
+indication	indication	nn1
+that	that	cst
+parents	parent	nn2
+are	be	vbr
+losing	lose	vvg_jj@
+faith	faith	nn1
+in	in	ii
+the	the	at
+public	public	jj_nn1
+school	school	nn1
+system	system	nn1
+,		,
+where	where	cs_rrq
+enrolment	enrollment	nn1
+grew	grow	vvd
+1.6	1.6	mc
+percent	percent	nnu
+over	over	ii
+the	the	at
+same	same	da
+period	period	nn1
+,		,
+institute	institute	nn1
+researcher	researcher	nn1
+Marius	marius	np1
+Roodt	roodt	np1
+said	say	vvd
+.		.
+The	the	at
+research	research	nn1
+documents	document	nn2
+are	be	vbr
+to	to	to
+be	be	vbi
+released	release	vvn
+next	next	md
+week	week	nnt1
+.		.
+<p>		null
+In	in	ii
+2009	2009	mc
+,		,
+there	there	ex
+were	be	vbdr
+11.8	11.8	mc
+million	million	nno
+children	child	nn2
+in	in	ii
+public	public	jj
+schools	school	nn2
+,		,
+up	up	rp
+from	from	ii
+11.6	11.6	mc
+million	million	nno
+in	in	ii
+2000	2000	mc
+,		,
+Department	department	nn1
+of	of	io
+Basic	basic	jj
+Education	education	nn1
+statistics	statistics	nn
+show	show	vv0_nn1
+.		.
+Department	department	nn1
+statistics	statistics	nn
+for	for	if
+independent	independent	jj
+schools	school	nn2
+in	in	ii
+the	the	at
+same	same	da
+period	period	nn1
+show	show	nn1_vv0
+enrolment	enrollment	nn1
+increased	increase	vvn_vvd
+from	from	ii
+256	256	mc
+283	283	mc
+to	to	ii
+386	386	mc
+098	098	mc
+.		.
+<p>		null
+Department	department	nn1
+of	of	io
+Basic	basic	jj
+Education	education	nn1
+spokesman	spokesman	nn1
+Granville	granville	np1
+Whittle	whittle	np1_nn1
+and	and	cc
+Free	free	jj
+State	state	nn1
+education	education	nn1
+department	department	nn1
+spokesman	spokesman	nn1
+Howard	howard	np1
+Ndaba	ndaba	np1
+were	be	vbdr
+not	not	xx
+available	available	jj
+for	for	if
+comment	comment	nn1
+.		.
+The	the	at
+institutes	institute	nn2
+'s	's	ge
+research	research	nn1
+is	be	vbz
+corroborated	corroborate	vvn
+by	by	ii
+research	research	nn1
+by	by	ii
+the	the	at
+Centre	center	nn1
+for	for	if
+Development	development	nn1
+and	and	cc
+Enterprise	enterprise	nn1
+(		(
+CDE	cde	np1
+)		)
+,		,
+released	release	vvn_vvd@
+last	last	md
+year	year	nnt1
+,		,
+that	that	cst_dd1
+showed	show	vvd
+"		"
+massive	massive	jj
+"		"
+growth	growth	nn1
+in	in	ii
+the	the	at
+low-fee	low-fee	jj_nn1
+private	private	jj
+school	school	nn1
+sector	sector	nn1
+over	over	ii
+the	the	at
+past	past	jj
+15	15	mc
+years	year	nnt2
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+an	a	at1
+organic	organic	jj
+,		,
+sociological	sociological	jj
+response	response	nn1
+to	to	ii
+the	the	at
+failure	failure	nn1
+"		"
+of	of	io
+SA	sa	np1
+'s	's	ge
+school	school	nn1
+system	system	nn1
+.		.
+There	there	ex
+is	be	vbz
+widespread	widespread	jj
+acknowledgement	acknowledgement	nn1
+that	that	cst
+SA	sa	np1
+'s	's	ge
+public	public	jj_nn1
+school	school	nn1
+system	system	nn1
+is	be	vbz
+in	in	ii
+crisis	crisis	nn1
+,		,
+with	with	iw
+at	at	rr21
+least	least	rr22
+one	one	mc1
+study	study	nn1
+indicating	indicate	vvg
+80	80	mc
+percent	percent	nnu
+of	of	io
+public	public	jj_nn1
+schools	school	nn2
+are	be	vbr
+"		"
+dysfunctional	dysfunctional	jj
+"		"
+.		.
+<p>		null
+The	the	at
+number	number	nn1
+of	of	io
+public	public	jj_nn1
+school	school	nn1
+pupils	pupil	nn2
+dropped	drop	vvd_vvn
+15	15	mc
+percent	percent	nnu
+in	in	ii
+the	the	at
+North	north	nd1
+West	west	nd1
+,		,
+14	14	mc
+percent	percent	nnu
+in	in	ii
+the	the	at
+Free	free	jj
+State	state	nn1
+,		,
+nine	nine	mc
+percent	percent	nnu
+in	in	ii
+Limpopo	limpopo	np1_nn1
+and	and	cc
+five	five	mc
+percent	percent	nnu
+in	in	ii
+the	the	at
+Eastern	eastern	np1
+Cape	cape	np1
+,		,
+said	say	vvd
+Mr	mr	nnb
+Roodt	roodt	np1
+.		.
+All	all	db
+provinces	province	nn2
+except	except	ii_cs
+KwaZulu-		jj_nn1
+Natal	natal	np1
+and	and	cc
+the	the	at
+Free	free	jj
+State	state	nn1
+saw	see	vvd_nn1@
+increases	increase	nn2_vvz
+in	in	ii
+the	the	at
+number	number	nn1
+of	of	io
+children	child	nn2
+attending	attend	vvg
+independent	independent	jj
+schools	school	nn2
+,		,
+with	with	iw
+the	the	at
+growth	growth	nn1
+topping	topping	nn1_vvg
+10	10	mc
+percent	percent	nnu
+in	in	ii
+all	all	db
+except	except	ii
+the	the	at
+Western	western	np1
+Cape	cape	np1
+(		(
+6	6	mc
+percent	percent	nnu
+)		)
+.		.
+<p>		null
+The	the	at
+decline	decline	nn1
+in	in	rr21_ii
+public	public	rr22_jj
+and	and	cc
+private	private	jj
+school	school	nn1
+attendance	attendance	nn1
+in	in	ii
+the	the	at
+Free	free	jj
+State	state	nn1
+had	have	vhd
+researchers	researcher	nn2
+scratching	scratch	vvg
+their	their	appge
+heads	head	nn2
+because	because	cs
+the	the	at
+province	province	nn1
+has	have	vhz
+seen	see	vvn
+a	a	at1
+9.2	9.2	mc
+percent	percent	nnu
+growth	growth	nn1
+in	in	ii
+the	the	at
+population	population	nn1
+aged	aged	jj_ii@_vvn
+15-		nn1_jj
+64	64	mc
+over	over	ii
+the	the	at
+same	same	da
+period	period	nn1
+.		.
+Institute	institute	nn1
+researcher	researcher	nn1
+Tamara	tamara	np1
+Dimant	dimant	np1
+said	say	vvd
+despite	despite	ii
+this	this	dd1
+growth	growth	nn1
+,		,
+the	the	at
+Free	free	jj
+State	state	nn1
+'s	's	ge
+labour	labor	nn1
+force	force	nn1
+had	have	vhd
+increased	increase	vvn
+only	only	rr
+1.6	1.6	mc
+percent	percent	nnu
+over	over	ii
+the	the	at
+period	period	nn1
+and	and	cc
+unemployment	unemployment	nn1
+had	have	vhd
+increased	increase	vvn
+43	43	mc
+percent	percent	nnu
+,		,
+from	from	ii
+224	224	mc
+000	000	mc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Sabine	sabine	jj
+Strassburg	strassburg	np1
+said	say	vvd
+these	these	dd2
+statistics	statistics	nn
+might	might	vm
+be	be	vbi
+explained	explain	vvn
+in	in	rr21
+part	part	rr22
+by	by	ii
+the	the	at
+practice	practice	nn1
+of	of	io
+families	family	nn2
+sending	send	vvg
+their	their	appge
+children	child	nn2
+elsewhere	elsewhere	rl
+to	to	ii
+school	school	nn1
+.		.
+Nationally	nationally	rr
+,		,
+the	the	at
+incidence	incidence	nn1
+rate	rate	nn1
+of	of	io
+this	this	dd1
+in	in	ii
+2007	2007	mc
+was	be	vbdz
+6.3	6.3	mc
+percent	percent	nnu
+,		,
+she	she	pphs1
+said	say	vvd
+.		.
+<p>		null
+The	the	at
+Free	free	jj
+State	state	nn1
+sample	sample	nn1
+was	be	vbdz
+too	too	rg
+small	small	jj
+for	for	if
+any	any	dd
+province-specific		jj
+trends	trend	nn2
+to	to	to
+be	be	vbi
+drawn	draw	vvn
+from	from	ii
+it	it	pph1
+.		.
+Statistics	statistics	nn
+showed	show	vvd
+a	a	at1
+negative	negative	jj
+population	population	nn1
+growth	growth	nn1
+rate	rate	nn1
+for	for	if
+the	the	at
+ages	age	nn2
+0-	0-	nn1_jj
+14	14	mc
+in	in	ii
+the	the	at
+Free	free	jj
+State	state	nn1
+,		,
+which	which	ddq
+meant	mean	vvd
+the	the	at
+birth	birth	nn1
+rate	rate	nn1
+was	be	vbdz
+lower	low	jjr_rrr@
+than	than	csn
+the	the	at
+migration	migration	nn1
+and	and	cc
+death	death	nn1
+rates	rate	nn2_vvz@
+together	together	rl
+,		,
+Strassburg	strassburg	np1
+said	say	vvd
+.		.
+<p>		null
+The	the	at
+CDE	cde	np1_nn1
+'s	's	ge
+research	research	nn1
+in	in	ii
+six	six	mc
+areas	area	nn2
+of	of	io
+SA	sa	np1
+showed	show	vvd
+the	the	at
+proportion	proportion	nn1
+of	of	io
+private	private	jj
+schools	school	nn2
+charging	charge	vvg
+an	a	at1
+average	average	jj
+annual	annual	jj
+fee	fee	nn1
+of	of	io
+R6500		fo
+could	could	vm
+be	be	vbi
+as	as	rg
+high	high	jj_rr@
+as	as	csa
+56	56	mc
+percent	percent	nnu
+,		,
+Bernstein	bernstein	np1
+said	say	vvd
+.		.
+Other	other	jj
+research	research	nn1
+by	by	ii
+the	the	at
+institute	institute	nn1
+showed	show	vvd
+55	55	mc
+percent	percent	nnu
+of	of	io
+SA	sa	np1
+'s	's	ge
+public	public	jj_nn1
+schools	school	nn2
+were	be	vbdr
+now	now	rt
+no-fee	no-fee	jj
+schools	school	nn2
+.		.
+The	the	at
+ruling	ruling	jj_nn1
+African	african	jj
+National	national	jj
+Congress	congress	nn1
+'s	's	ge
+election	election	nn1
+manifesto	manifesto	nn1
+committed	commit	vvn_vvd@
+it	it	pph1
+to	to	ii
+working	work	vvg
+towards	towards	ii
+free	free	jj
+and	and	cc
+compulsory	compulsory	jj
+education	education	nn1
+for	for	if
+all	all	db
+children	child	nn2
+,		,
+##3652152		fo
+<p>		null
+Recent	recent	jj
+protests	protest	nn2
+over	over	ii
+food	food	nn1
+prices	price	nn2
+underline	underline	vv0
+a	a	at1
+key	key	jj
+message	message	nn1
+from	from	ii
+a	a	at1
+new	new	jj
+report	report	nn1
+about	about	ii
+the	the	at
+potential	potential	jj_nn1
+dangers	danger	nn2
+of	of	io
+neglecting	neglect	vvg
+agricultural	agricultural	jj
+research	research	nn1
+.		.
+<p>		null
+The	the	at
+ousting	ousting	nn1
+of	of	io
+Tunisia	tunisia	np1
+'s	's	ge
+president	president	nn1
+last	last	md
+week	week	nnt1
+,		,
+and	and	cc
+unrest	unrest	nn1
+in	in	ii
+other	other	jj
+nations	nation	nn2
+such	such	ii21
+as	as	ii22
+Algeria	algeria	np1
+and	and	cc
+Sudan	sudan	np1
+,		,
+has	have	vhz
+many	many	da2
+causes	cause	nn2
+--		zz
+but	but	ccb
+rising	rise	vvg_jj@
+food	food	nn1
+prices	price	nn2
+have	have	vh0
+been	be	vbn
+one	one	mc1
+of	of	io
+the	the	at
+underlying	underlying	jj
+themes	theme	nn2
+.		.
+<p>		null
+At	at	ii
+one	one	mc1
+level	level	nn1_jj
+,		,
+the	the	at
+problem	problem	nn1
+of	of	io
+food	food	nn1
+scarcity	scarcity	nn1
+can	can	vm
+be	be	vbi
+told	tell	vvn
+simply	simply	rr
+.		.
+There	there	ex
+are	be	vbr
+seven	seven	mc
+billion	billion	nno
+of	of	io
+us	us	ppio2
+on	on	ii
+Earth	earth	nn1
+,		,
+of	of	io
+whom	whom	pnqo
+probably	probably	rr
+two	two	mc
+billion	billion	nno
+are	be	vbr
+underfed	underfed	jj
+.		.
+Two	two	mc
+billion	billion	nno
+more	more	dar
+people	people	nn
+are	be	vbr
+due	due	jj
+to	to	to
+join	join	vvi
+the	the	at
+planet	planet	nn1
+by	by	ii
+2050	2050	mc
+.		.
+Food	food	nn1
+security	security	nn1
+is	be	vbz
+not	not	xx
+just	just	rr
+a	a	at1
+huge	huge	jj
+problem	problem	nn1
+--		zz
+some	some	dd
+now	now	rt
+argue	argue	vv0
+it	it	pph1
+is	be	vbz
+the	the	at
+central	central	jj
+problem	problem	nn1
+facing	face	vvg_nn1@_jj@
+humanity	humanity	nn1
+.		.
+<p>		null
+Hunger	hunger	nn1
+has	have	vhz
+a	a	at1
+daunting	daunting	jj
+array	array	nn1
+of	of	io
+causes	cause	nn2
+.		.
+These	these	dd2
+include	include	vv0
+the	the	at
+scarcity	scarcity	nn1
+of	of	io
+water	water	nn1
+and	and	cc
+other	other	jj
+agricultural	agricultural	jj
+inputs	input	nn2
+;		;
+soil	soil	nn1_vv0@
+erosion	erosion	nn1
+and	and	cc
+the	the	at
+spread	spread	nn1
+of	of	io
+salinity	salinity	nn1
+;		;
+and	and	cc
+the	the	at
+tightening	tightening	jj_nn1
+grip	grip	nn1
+of	of	io
+climate	climate	nn1
+change	change	nn1
+.		.
+<p>		null
+But	but	ccb
+one	one	mc1
+important	important	jj
+part	part	nn1
+of	of	io
+what	what	ddq
+shapes	shape	vvz%
+the	the	at
+story	story	nn1
+of	of	io
+food	food	nn1
+and	and	cc
+hunger	hunger	nn1
+is	be	vbz
+agricultural	agricultural	jj
+research	research	nn1
+--		zz
+or	or	cc
+the	the	at
+lack	lack	nn1
+of	of	io
+it	it	pph1
+.		.
+The	the	at
+Green	green	jj
+Revolution	revolution	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+of	of	io
+wheat	wheat	nn1
+allowing	allow	vvg
+India	india	np1
+,		,
+for	for	rex21
+example	example	rex22
+,		,
+to	to	to
+become	become	vvi
+a	a	at1
+net	net	jj_nn1
+exporter	exporter	nn1
+of	of	io
+grain	grain	nn1
+,		,
+was	be	vbdz
+a	a	at1
+high	high	jj
+point	point	nn1
+in	in	ii
+the	the	at
+history	history	nn1
+of	of	io
+such	such	da
+research	research	nn1
+.		.
+<p>		null
+Many	many	da2
+feel	feel	vv0
+that	that	cst
+a	a	at1
+low	low	jj
+point	point	nn1
+has	have	vhz
+now	now	rt
+come	come	vvn
+,		,
+and	and	cc
+that	that	cst
+we	we	ppis2
+are	be	vbr
+reaping	reap	vvg
+the	the	at
+harvest	harvest	nn1
+of	of	io
+a	a	at1
+tragic	tragic	jj
+two	two	mc
+decades	decade	nnt2
+of	of	io
+neglected	neglected	jj
+agricultural	agricultural	jj
+science	science	nn1
+.		.
+This	this	dd1
+situation	situation	nn1
+needs	need	vvz_nn2
+to	to	to
+be	be	vbi
+reversed	reverse	vvn
+.		.
+<p>		null
+Hunger	hunger	nn1
+'s	's	ge
+global	global	jj
+reach	reach	nn1
+<p>		null
+International	international	jj
+reports	report	nn2
+on	on	ii
+food	food	nn1
+security	security	nn1
+have	have	vh0
+been	be	vbn
+appearing	appear	vvg
+in	in	ii
+abundance	abundance	nn1
+over	over	ii
+the	the	at
+past	past	jj
+two	two	mc
+months	month	nnt2
+.		.
+1	1	mc1
+,		,
+2	2	mc
+,		,
+3	3	mc
+,		,
+4	4	mc
+<p>		null
+Most	most	dat_rgt
+recent	recent	jj
+is	be	vbz
+a	a	at1
+report	report	nn1
+,		,
+'	'	ge_"@
+The	the	at
+Future	future	nn1
+of	of	io
+Food	food	nn1
+and	and	cc
+Farming	farming	nn1
+:		:
+Challenges	challenge	nn2
+and	and	cc
+choices	choice	nn2
+for	for	if
+global	global	jj
+sustainability	sustainability	nn1
+'	'	ge
+,		,
+launched	launch	vvd_vvn
+this	this	dd1
+week	week	nnt1
+by	by	ii
+the	the	at
+British	british	jj
+government	government	nn1
+and	and	cc
+written	write	vvn
+by	by	ii
+its	its	appge
+Foresight	foresight	nn1
+think	think	vv0
+tank	tank	nn1
+,		,
+in	in	ii31
+consultation	consultation	ii32
+with	with	ii33
+researchers	researcher	nn2
+from	from	ii
+34	34	mc
+countries	country	nn2
+from	from	ii
+across	across	ii_rl@
+the	the	at
+developed	developed	jj
+and	and	cc
+developing	developing	jj_vvg
+worlds	world	nn2
+.		.
+<p>		null
+The	the	at
+report	report	nn1
+provides	provide	vvz
+a	a	at1
+uniquely	uniquely	rr
+broad	broad	jj
+view	view	nn1
+of	of	io
+what	what	ddq
+causes	cause	vvz
+food	food	nn1
+scarcity	scarcity	nn1
+,		,
+identifying	identify	vvg
+the	the	at
+factors	factor	nn2
+that	that	cst
+make	make	vv0
+up	up	rp
+a	a	at1
+complex	complex	jj
+political	political	jj
+,		,
+social	social	jj
+,		,
+economic	economic	jj
+and	and	cc
+scientific	scientific	jj
+web	web	nn1
+.		.
+<p>		null
+And	and	cc
+it	it	pph1
+includes	include	vvz
+less	less	rgr_dar
+obvious	obvious	jj
+causes	cause	nn2
+of	of	io
+hunger	hunger	nn1
+,		,
+such	such	ii21
+as	as	ii22
+the	the	at
+distressing	distressing	jj
+fact	fact	nn1
+that	that	cst
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+wasted	waste	vvn_jj
+,		,
+for	for	rex21
+example	example	rex22
+by	by	ii
+spoiling	spoil	vvg
+through	through	ii_rp@
+poor	poor	jj
+storage	storage	nn1
+.		.
+<p>		null
+It	it	pph1
+also	also	rr
+conveys	convey	vvz
+the	the	at
+sheer	sheer	jj
+scale	scale	nn1
+of	of	io
+the	the	at
+problem	problem	nn1
+,		,
+demonstrating	demonstrate	vvg
+that	that	dd1_cst
+food	food	nn1
+scarcity	scarcity	nn1
+will	will	vm
+eventually	eventually	rr
+affect	affect	vvi
+us	us	ppio2
+all	all	db
+,		,
+even	even	rr
+those	those	dd2
+of	of	io
+us	us	ppio2
+whose	whose	ddqge
+bellies	belly	nn2
+are	be	vbr
+full	full	jj
+.		.
+Because	because	cs
+,		,
+as	as	csa
+we	we	ppis2
+have	have	vh0
+seen	see	vvn
+in	in	ii
+Tunisia	tunisia	np1
+and	and	cc
+elsewhere	elsewhere	rl
+,		,
+hunger	hunger	nn1
+leads	lead	vvz
+to	to	ii
+civil	civil	jj
+unrest	unrest	nn1
+and	and	cc
+migration	migration	nn1
+,		,
+and	and	cc
+because	because	cs
+farming	farming	nn1_vvg@
+,		,
+as	as	csa
+it	it	pph1
+is	be	vbz
+currently	currently	rr
+practised	practise	vvn_vvd_jj
+,		,
+is	be	vbz
+destroying	destroy	vvg
+key	key	jj
+resources	resource	nn2
+and	and	cc
+emits	emit	vvz_nn2
+too	too	rg
+much	much	da1
+greenhouse	greenhouse	nn1
+gas	gas	nn1
+.		.
+<p>		null
+Guilty	guilty	jj
+by	by	ii
+omission	omission	nn1
+<p>		null
+In	in	ii
+the	the	at
+sphere	sphere	nn1
+of	of	io
+research	research	nn1
+,		,
+many	many	da2
+omissions	omission	nn2
+have	have	vh0
+contributed	contribute	vvn
+to	to	ii
+hunger	hunger	nn1
+.		.
+The	the	at
+report	report	nn1
+points	point	vvz
+out	out	rp
+that	that	dd1_cst
+existing	existing	jj
+innovations	innovation	nn2
+have	have	vh0
+not	not	xx
+reached	reach	vvn
+many	many	da2
+of	of	io
+those	those	dd2
+who	who	pnqs
+could	could	vm
+benefit	benefit	vvi
+from	from	ii
+them	them	ppho2
+.		.
+In	in	ii
+Africa	africa	np1
+,		,
+if	if	cs
+these	these	dd2
+alone	alone	jj_rr
+were	be	vbdr
+implemented	implement	vvn
+,		,
+productivity	productivity	nn1
+could	could	vm
+rise	rise	vvi
+as	as	rg
+much	much	da1
+as	as	csa
+three-fold	three-fold	jj
+.		.
+<p>		null
+But	but	ccb
+three-fold	three-fold	jj
+,		,
+in	in	ii_rp@
+only	only	rr
+a	a	at1
+few	few	da2
+regions	region	nn2
+,		,
+is	be	vbz
+not	not	xx
+enough	enough	rr
+.		.
+<p>		null
+New	new	jj
+knowledge	knowledge	nn1
+is	be	vbz
+essential	essential	jj
+.		.
+Yet	yet	rr
+for	for	if
+most	most	dat
+countries	country	nn2
+,		,
+research	research	nn1_vv0@
+into	into	ii
+agriculture	agriculture	nn1
+and	and	cc
+fisheries	fishery	nn2
+is	be	vbz
+a	a	at1
+low	low	jj
+priority	priority	nn1
+,		,
+says	say	vvz
+the	the	at
+report	report	nn1
+,		,
+and	and	cc
+studies	study	nn2
+have	have	vh0
+now	now	rt
+correlated	correlate	vvn
+the	the	at
+previous	previous	jj
+two-decade	two-decade	jj_nnt1
+apathy	apathy	nn1
+with	with	iw
+today	today	rt
+'s	's	ge
+slowdown	slowdown	nn1
+in	in	ii
+productivity	productivity	nn1
+gains	gain	nn2
+.		.
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+seeking	seek	vvg
+obvious	obvious	jj
+scapegoats	scapegoat	nn2
+for	for	if
+hunger	hunger	nn1
+,		,
+such	such	ii21
+as	as	ii22
+the	the	at
+failure	failure	nn1
+to	to	to
+adopt	adopt	vvi
+genetically	genetically	rr
+modified	modified	jj_vvn
+crops	crop	nn2
+,		,
+or	or	cc
+the	the	at
+politics	politics	nn1
+of	of	io
+food	food	nn1
+distribution	distribution	nn1
+.		.
+There	there	ex
+is	be	vbz
+no	no	at
+single	single	jj
+cause	cause	nn1
+to	to	ii
+rail	rail	nn1
+against	against	ii
+,		,
+and	and	cc
+there	there	ex
+is	be	vbz
+definitely	definitely	rr
+no	no	at
+single	single	jj
+solution	solution	nn1
+.		.
+<p>		null
+And	and	cc
+it	it	pph1
+makes	make	vvz
+clear	clear	jj
+that	that	cst
+every	every	at1
+approach	approach	nn1
+must	must	vm
+be	be	vbi
+harnessed	harness	vvn
+in	in	ii
+the	the	at
+quest	quest	nn1
+for	for	if
+a	a	at1
+new	new	jj
+food	food	nn1
+system	system	nn1
+that	that	cst_dd1
+"		"
+needs	need	vvz
+to	to	to
+change	change	vvi
+more	more	rgr
+radically	radically	rr
+in	in	ii
+the	the	at
+coming	coming	jj@
+decades	decade	nnt2
+than	than	csn
+ever	ever	rr
+before	before	rt
+,		,
+including	include	vvg@
+during	during	ii
+the	the	at
+Industrial	industrial	jj
+and	and	cc
+Green	green	jj
+Revolutions	revolution	nn2
+"		"
+.		.
+<p>		null
+Investing	invest	vvg_jj
+in	in	ii
+research	research	nn1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+report	report	nn1
+'s	's	ge_vbz
+"		"
+key	key	jj_nn1
+priorities	priority	nn2
+"		"
+.		.
+It	it	pph1
+points	point	vvz
+out	out	rp
+that	that	cst
+modellers	modeller	nn2
+agree	agree	vv0
+that	that	cst
+the	the	at
+science	science	nn1
+and	and	cc
+technology	technology	nn1
+yet	yet	rr
+to	to	to
+be	be	vbi
+done	do	vdn
+will	will	vm
+be	be	vbi
+"		"
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+critical	critical	jj
+drivers	driver	nn2
+"		"
+of	of	io
+future	future	jj_nn1
+food	food	nn1
+supply	supply	nn1_vv0
+:		:
+"		"
+These	these	dd2
+challenges	challenge	nn2
+will	will	vm
+require	require	vvi
+solutions	solution	nn2
+at	at	ii
+the	the	at
+limits	limit	nn2
+of	of	io
+human	human	jj_nn1
+ingenuity	ingenuity	nn1
+and	and	cc
+at	at	ii
+the	the	at
+forefront	forefront	nn1
+of	of	io
+scientific	scientific	jj
+understanding	understanding	nn1
+,		,
+"		"
+it	it	pph1
+says	say	vvz
+.		.
+<p>		null
+A	a	at1
+priority	priority	nn1
+for	for	if
+research	research	nn1
+<p>		null
+To	to	to
+achieve	achieve	vvi
+the	the	at
+required	required	jj
+levels	level	nn2
+of	of	io
+research	research	nn1
+investment	investment	nn1
+,		,
+says	say	vvz
+the	the	at
+report	report	nn1
+,		,
+more	more	dar
+incentives	incentive	nn2
+must	must	vm
+be	be	vbi
+provided	provide	vvn
+for	for	if
+research	research	nn1
+into	into	ii
+public	public	jj_nn1
+goods	good	nn2
+that	that	cst
+benefit	benefit	vv0
+low-income	low-income	jj_nn1
+countries	country	nn2
+.		.
+New	new	jj
+models	model	nn2
+of	of	io
+research	research	nn1
+funding	funding	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+private	private	jj
+and	and	cc
+third	third	md
+sectors	sector	nn2
+should	should	vm
+sort	sort	vvi
+out	out	rp
+their	their	appge
+differences	difference	nn2
+and	and	cc
+coordinate	coordinate	vvi
+better	better	rrr_jjr
+.		.
+<p>		null
+The	the	at
+question	question	nn1
+is	be	vbz
+:		:
+can	can	vm_vv0%
+this	this	dd1
+report	report	vvi
+,		,
+and	and	cc
+the	the	at
+others	others	nn2
+,		,
+propel	propel	vvi
+hunger	hunger	nn1
+to	to	ii
+the	the	at
+top	top	nn1
+of	of	io
+the	the	at
+political	political	jj
+agenda	agenda	nn1
+?		?
+Calestous		np1@_jj
+Juma	juma	np1_nn1@
+,		,
+professor	professor	nn1
+of	of	io
+international	international	jj
+development	development	nn1
+at	at	ii
+Harvard	harvard	np1
+University	university	nn1
+,		,
+and	and	cc
+author	author	nn1
+of	of	io
+a	a	at1
+recent	recent	jj
+book	book	nn1
+on	on	ii
+African	african	jj
+food	food	nn1
+production	production	nn1
+4	4	mc
+,		,
+argues	argue	vvz
+that	that	cst
+the	the	at
+crucial	crucial	jj
+step	step	nn1
+is	be	vbz
+getting	get	vvg
+heads	head	nn2
+of	of	io
+state	state	nn1
+to	to	ii
+wantto	wantto	nn1
+solve	solve	vv0
+the	the	at
+problem	problem	nn1
+.		.
+<p>		null
+But	but	ccb
+achieving	achieve	vvg
+this	this	dd1
+degree	degree	nn1
+of	of	io
+political	political	jj
+will	will	nn1@
+is	be	vbz
+hard	hard	jj
+,		,
+if	if	cs
+only	only	rr
+because	because	cs
+hunger	hunger	nn1
+has	have	vhz
+the	the	at
+biggest	big	jjt
+impact	impact	nn1
+on	on	ii
+those	those	dd2
+who	who	pnqs
+are	be	vbr
+in	in	ii
+the	the	at
+weakest	weakest	jjt
+position	position	nn1
+to	to	to
+influence	influence	vvi
+policy	policy	nn1
+.		.
+<p>		null
+Agriculture	agriculture	nn1
+,		,
+of	of	rr21
+course	course	rr22
+,		,
+competes	compete	vvz
+for	for	if
+research	research	nn1
+funding	funding	nn1_vvg@
+with	with	iw
+health	health	nn1
+,		,
+and	and	cc
+other	other	jj
+pressing	pressing	jj
+problems	problem	nn2
+,		,
+some	some	dd
+of	of	io
+which	which	ddq
+have	have	vh0
+celebrated	celebrate	vvn
+champions	champion	nn2
+.		.
+But	but	ccb
+the	the	at
+need	need	nn1
+for	for	if
+research	research	nn1
+into	into	ii
+food	food	nn1
+supplies	supply	nn2_vvz
+supersedes	supersede	vvz
+every	every	at1
+other	other	jj
+need	need	nn1
+,		,
+since	since	cs
+successfully	successfully	rr
+producing	produce	vvg_jj@
+and	and	cc
+distributing	distribute	vvg_jj@
+food	food	nn1
+is	be	vbz
+a	a	at1
+precondition	precondition	nn1
+for	for	if
+tackling	tackle	vvg
+other	other	jj
+social	social	jj
+problems	problem	nn2
+.		.
+<p>		null
+Funders	funder	nn2
+must	must	vm
+reconsider	reconsider	vvi
+their	their	appge
+priorities	priority	nn2
+.		.
+Researchers	researcher	nn2
+have	have	vh0
+a	a	at1
+lot	lot	nn1
+of	of	io
+catching	catch	vvg
+up	up	rp
+to	to	to
+do	do	vdi
+.		.
+And	and	cc
+whatever	whatever	ddqv
+its	its	appge
+political	political	jj
+justification	justification	nn1
+,		,
+the	the	at
+unrest	unrest	nn1
+##3659151		fo
+<p>		null
+Throughout	throughout	ii
+2012	2012	mc
+,		,
+The	the	at
+Word	word	nn1
+Is	be	vbz
+Bond	bond	np1
+has	have	vhz
+sought	seek	vvn
+to	to	to
+grow	grow	vvi
+as	as	ii
+a	a	at1
+platform	platform	nn1
+to	to	to
+spread	spread	vvi
+the	the	at
+word	word	nn1
+on	on	ii
+underground	underground	jj_rl
+Hip-Hop	hip-hop	np1
+.		.
+Now	now	rt
+in	in	ii
+our	our	appge
+third	third	md
+year	year	nnt1
+,		,
+we	we	ppis2
+'ve	have	vh0
+gone	go	vvn
+about	about	ii
+this	this	dd1
+in	in	ii
+a	a	at1
+number	number	nn1
+of	of	io
+ways	way	nn2
+...		...
+<p>		null
+Expanding	expand	vvg
+our	our	appge
+editorial	editorial	jj_nn1
+team	team	nn1
+globally	globally	rr
+;		;
+we	we	ppis2
+now	now	rt
+have	have	vh0
+writers	writer	nn2
+ranging	range	vvg
+from	from	ii
+Asia	asia	np1
+(		(
+Japan	japan	np1
+and	and	cc
+Taiwan	taiwan	np1
+)		)
+,		,
+Europe	europe	np1
+(		(
+UK	uk	np1
+,		,
+France	france	np1
+and	and	cc
+Ireland	ireland	np1
+)		)
+and	and	cc
+the	the	at
+U.S.	us	np1
+&;		null
+Canada	canada	np1
+(		(
+New	new	np1
+York	york	np1
+,		,
+LA	la	np1
+,		,
+DC	dc	np1
+,		,
+New	new	np1
+Jersey	jersey	np1
+,		,
+Hamilton	hamilton	np1
+)		)
+.		.
+With	with	iw
+Hip-Hop	hip-hop	np1
+heads	head	nn2_vvz@
+on	on	ii
+the	the	at
+ground	ground	nn1
+in	in	ii
+these	these	dd2
+areas	area	nn2
+we	we	ppis2
+can	can	vm
+truly	truly	rr
+say	say	vvi
+we	we	ppis2
+boast	boast	vv0
+worldwide	worldwide	jj
+coverage	coverage	nn1
+--		zz
+celebrating	celebrate	vvg
+just	just	rr
+how	how	rgq@_rrq
+far	far	rr
+reaching	reach	vvg
+the	the	at
+art	art	nn1
+form	form	nn1
+is	be	vbz
+.		.
+<p>		null
+Major	major	np1_jj
+redesigns	redesign	vvz_nn2
+to	to	ii
+the	the	at
+site	site	nn1
+,		,
+new	new	jj
+weekly	weekly	jj
+features	feature	nn2
+such	such	ii21
+as	as	ii22
+the	the	at
+excellent	excellent	jj
+Chase	chase	nn1
+March	march	np1@_npm1
+hosted	host	vvd
+WIB		np1
+Podcast	podcast	np1_vvd
+,		,
+and	and	cc
+our	our	appge
+new	new	jj
+official	official	jj_nn1
+partnerships	partnership	nn2
+with	with	iw
+(		(
+what	what	ddq
+we	we	ppis2
+think	think	vv0
+)		)
+are	be	vbr
+the	the	at
+genre	genre	nn1
+'s	's	ge
+most	most	rgt
+promising	promising	jj
+labels	label	nn2
+all	all	rr@_db
+means	mean	vvz_nn
+that	that	cst
+The	the	at
+Word	word	nn1
+Is	be	vbz
+Bond	bond	np1
+has	have	vhz
+got	get	vvn
+you	you	ppy
+covered	cover	vvn
+when	when	cs_rrq
+it	it	pph1
+comes	come	vvz
+to	to	ii
+underground	underground	jj_rl
+Hip-Hop	hip-hop	np1
+.		.
+<p>		null
+Internally	internally	rr
+the	the	at
+whole	whole	jj
+WIB		nn1
+team	team	nn1
+is	be	vbz
+having	have	vhg
+a	a	at1
+lot	lot	nn1
+of	of	io
+fun	fun	nn1_jj
+too	too	rr@_rg
+,		,
+and	and	cc
+there	there	ex
+'s	be	vbz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+outside	outside	jj_nn1@
+as	as	csa
+you	you	ppy
+guys	guy	nn2
+(		(
+the	the	at
+readers	reader	nn2
+)		)
+have	have	vh0
+shown	show	vvn
+nothing	nothing	pn1
+but	but	ii_ccb
+love	love	nn1_vv0
+.		.
+Same	same	da
+goes	go	vvz_nn2%
+for	for	if
+the	the	at
+artists	artist	nn2
+that	that	cst
+have	have	vh0
+been	be	vbn
+massively	massively	rr
+supportive	supportive	jj
+of	of	io
+all	all	db
+things	thing	nn2
+Word	word	nn1
+Is	be	vbz
+Bond	bond	np1
+,		,
+without	without	iw
+whom	whom	pnqo
+we	we	ppis2
+would	would	vm
+n't	n't	xx
+have	have	vhi
+such	such	da
+industry	industry	nn1
+respect	respect	nn1
+,		,
+as	as	csa
+we	we	ppis2
+have	have	vh0
+now	now	rt
+.		.
+<p>		null
+All	all	db
+of	of	io
+the	the	at
+above	above	jj@_rl
+has	have	vhz
+been	be	vbn
+fueled	fuel	vvn
+by	by	ii
+your	your	appge
+readership	readership	nn1
+and	and	cc
+,		,
+to	to	to
+show	show	vvi
+appreciation	appreciation	nn1
+,		,
+we	we	ppis2
+'re	be	vbr
+releasing	release	vvg
+"		"
+The	the	at
+Magic	magic	jj
+Number	number	nn1
+"		"
+a	a	at1
+compilation	compilation	nn1
+featuring	feature	vvg
+WIB		np1_nn1
+'s	's	ge
+editors	editor	nn2
+top	top	nn1_jj
+picks	pick	vvz_nn2%
+of	of	io
+music	music	nn1
+posted	post	vvn_vvd
+over	over	ii_rp
+the	the	at
+last	last	md
+12	12	mc
+months	month	nnt2
+.		.
+For	for	if
+next	next	md
+year	year	nnt1
+,		,
+we	we	ppis2
+have	have	vh0
+a	a	at1
+lot	lot	nn1
+planned	plan	vvn
+out	out	rp
+already	already	rr
+.		.
+As	as	csa
+you	you	ppy
+know	know	vv0
+we	we	ppis2
+like	like	vv0
+to	to	to
+keep	keep	vvi
+things	thing	nn2
+under	under	ii
+wraps	wrap	nn2
+here	here	rl
+at	at	ii
+WIB		np1_nn1
+and	and	cc
+show	show	vv0
+it	it	pph1
+off	off	rp
+once	once	cs@_rr
+it	it	pph1
+'s	be	vbz
+ready	ready	jj
+--		zz
+but	but	ccb
+believe	believe	vv0
+us	us	ppio2
+when	when	rrq_cs
+we	we	ppis2
+tell	tell	vv0
+you	you	ppy
+that	that	cst
+you	you	ppy
+guys	guy	nn2
+are	be	vbr
+in	in	rp@
+for	for	if
+a	a	at1
+year	year	nnt1
+full	full	jj
+of	of	io
+the	the	at
+dopest	dopest	jjt
+underground	underground	jj
+music	music	nn1
+around	around	rp
+.		.
+Stick	stick	vv0_nn1
+with	with	iw
+us	us	ppio2
+,		,
+you	you	ppy
+are	be	vbr
+in	in	ii
+good	good	jj
+hands	hand	nn2
+.		.
+<p>		null
+As	as	rg
+much	much	da1
+as	as	csa
+we	we	ppis2
+'d	have	vm
+like	like	vvi
+to	to	to
+make	make	vvi
+the	the	at
+compilation	compilation	nn1
+free	free	jj_vv0@
+,		,
+with	with	iw
+popularity	popularity	nn1
+comes	come	vvz
+the	the	at
+high	high	jj
+running	running	jj_nn1
+costs	cost	nn2
+of	of	io
+the	the	at
+site	site	nn1
+,		,
+so	so	cs@_rr
+we	we	ppis2
+had	have	vhd
+to	to	to
+mark	mark	vvi
+the	the	at
+album	album	nn1
+at	at	ii
+the	the	at
+low	low	jj
+price	price	nn1
+of	of	io
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+that	that	cst_dd1
+everyone	everyone	pn1
+can	can	vm
+enjoy	enjoy	vvi
+and	and	cc
+help	help	vvi
+Word	word	nn1
+Is	be	vbz
+Bond	bond	np1_nn1@
+with	with	iw
+a	a	at1
+little	little	jj
+donation	donation	nn1
+,		,
+and	and	cc
+in	in	ii
+return	return	nn1
+get	get	vv0
+an	a	at1
+excellent	excellent	jj
+compilation	compilation	nn1
+.		.
+<p>		null
+We	we	ppis2
+truly	truly	rr
+appreciate	appreciate	vv0
+your	your	appge
+readership	readership	nn1
+,		,
+love	love	nn1_vv0
+and	and	cc
+support	support	nn1_vv0
+,		,
+and	and	cc
+whenever	whenever	rrqv
+you	you	ppy
+can	can	vm
+please	please	rr
+raise	raise	vvi
+a	a	at1
+glass	glass	nn1
+and	and	cc
+pour	pour	vvi
+one	one	pn1
+down	down	rp
+for	for	if
+us	us	ppio2
+here	here	rl
+at	at	ii
+WIB		np1_nn1
+and	and	cc
+yourselves	yourself	ppx2
+,		,
+as	as	csa
+without	without	iw
+your	your	appge
+readership	readership	nn1
+we	we	ppis2
+would	would	vm
+n't	n't	xx
+be	be	vbi
+in	in	ii
+this	this	dd1
+privileged	privileged	jj
+position	position	nn1
+.		.
+<p>		null
+Thanks	thanks	nn2
+for	for	if
+everything	everything	pn1
+and	and	cc
+here	here	rl
+'s	be	vbz
+to	to	ii
+another	another	dd1
+year	year	nnt1
+,		,
+here	here	rl
+'s	be	vbz
+to	to	ii
+2013	2013	mc
+!		!
+<p>		null
+This	this	dd1
+entry	entry	nn1
+was	be	vbdz
+posted	post	vvn
+on	on	ii
+Monday	monday	npd1
+,		,
+November	november	npm1
+26th	26th	md
+,		,
+2012	2012	mc
+at	at	ii
+7:00	7:00	mc
+pm	pm	ra
+##3659152		fo
+<p>		null
+Connecticut	connecticut	np1
+composer	composer	nn1
+has	have	vhz
+a	a	at1
+sweet	sweet	jj
+sound	sound	nn1
+on	on	ii
+his	his	appge
+past	past	jj_nn1
+beat	beat	nn1_vvd
+excursion	excursion	nn1
+with	with	iw
+his	his	appge
+"		"
+Decktales		np2_nn2@
+"		"
+instrumental	instrumental	jj
+series	series	nn
+..	...	...
+This	this	dd1
+is	be	vbz
+volume	volume	nn1
+2	2	mc
+,		,
+and	and	cc
+was	be	vbdz
+released	release	vvn
+in	in	ii
+2009	2009	mc
+...		...
+Decktales		np1@_nn2
+plays	play	vvz
+a	a	at1
+strong	strong	jj
+craftmanship	craftmanship	nn1
+enough	enough	rr
+for	for	if_cs%
+it	it	pph1
+to	to	to
+sit	sit	vvi
+in	in	ii
+that	that	dd1
+rotation	rotation	nn1
+of	of	io
+yours	yours	ppge
+and	and	cc
+age	age	nn1_vv0@
+with	with	iw
+excellence	excellence	nn1
+..	...	...
+Never	never	rr
+got	get	vvn_vvd
+a	a	at1
+chance	chance	nn1
+to	to	to
+listen	listen	vvi
+to	to	ii
+this	this	dd1
+as	as	csa
+it	it	pph1
+was	be	vbdz
+missed	miss	vvn
+,		,
+but	but	ccb
+if	if	cs
+you	you	ppy
+have	have	vh0
+n't	n't	xx
+peeped	peep	vvn
+it	it	pph1
+yet	yet	rr
+..	...	...
+Please	please	rr
+do	do	vd0
+and	and	cc
+then	then	rt
+support	support	vv0
+,		,
+and	and	cc
+##3664951		fo
+<h>		null
+Find	find	vv0
+the	the	at
+best	best	jjt
+vacation	vacation	nn1
+guides	guide	nn2
+and	and	cc
+villas	villa	nn2
+offer	offer	vv0
+for	for	if
+your	your	appge
+miserable	miserable	jj
+vacation	vacation	nn1
+!		!
+<p>		null
+Most	most	dat
+people	people	nn
+have	have	vh0
+difficulty	difficulty	nn1
+in	in	ii
+managing	manage	vvg
+their	their	appge
+income	income	nn1
+.		.
+We	we	ppis2
+can	can	vm
+not	not	xx
+deny	deny	vvi
+that	that	cst
+we	we	ppis2
+often	often	rr
+face	face	vv0
+the	the	at
+situation	situation	nn1
+that	that	cst
+we	we	ppis2
+need	need	vv0
+money	money	nn1
+instantly	instantly	rr
+.		.
+In	in	ii
+this	this	dd1
+situation	situation	nn1
+we	we	ppis2
+have	have	vh0
+to	to	to
+make	make	vvi
+a	a	at1
+wise	wise	jj
+decision	decision	nn1
+.		.
+We	we	ppis2
+can	can	vm
+sell	sell	vvi
+our	our	appge
+belonging	belong	vvg
+such	such	ii21
+as	as	ii22
+our	our	appge
+car	car	nn1
+,		,
+our	our	appge
+house	house	nn1
+,		,
+or	or	cc
+others	others	nn2
+belonging	belong	vvg
+.		.
+Is	be	vbz
+it	it	pph1
+a	a	at1
+wise	wise	jj
+decision	decision	nn1
+?		?
+For	for	if
+many	many	da2
+cases	case	nn2
+,		,
+sell	sell	vv0
+our	our	appge
+belonging	belong	vvg
+makes	make	vvz
+us	us	ppio2
+get	get	vvi
+other	other	jj
+difficulty	difficulty	nn1
+.		.
+<p>		null
+For	for	rex21
+example	example	rex22
+,		,
+if	if	cs
+you	you	ppy
+sell	sell	vv0
+your	your	appge
+car	car	nn1
+,		,
+how	how	rrq
+do	do	vd0
+you	you	ppy
+go	go	vvi
+to	to	ii
+campus	campus	nn1
+,		,
+to	to	ii_to@
+work	work	nn1_vvi
+,		,
+or	or	cc
+to	to	ii
+other	other	jj
+places	place	nn2
+?		?
+Using	use	vvg
+transportation	transportation	nn1
+sometimes	sometimes	rt
+need	need	vv0
+more	more	dar
+money	money	nn1
+than	than	csn
+using	use	vvg
+your	your	appge
+vehicles	vehicle	nn2
+.		.
+Then	then	rt
+when	when	cs_rrq
+you	you	ppy
+want	want	vv0
+to	to	to
+buy	buy	vvi
+the	the	at
+car	car	nn1
+again	again	rt
+,		,
+you	you	ppy
+have	have	vh0
+to	to	to
+spend	spend	vvi
+much	much	da1
+more	more	dar
+money	money	nn1
+for	for	if
+it	it	pph1
+.		.
+Then	then	rt
+,		,
+if	if	cs
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+have	have	vhi
+your	your	appge
+own	own	da
+car	car	nn1
+,		,
+it	it	pph1
+will	will	vm
+cost	cost	vvi
+you	you	ppy
+more	more	rrr
+money	money	nn1
+to	to	to
+transport	transport	vvi
+from	from	ii
+one	one	mc1
+place	place	nn1
+to	to	ii
+others	others	nn2
+.		.
+It	it	pph1
+is	be	vbz
+really	really	rr
+a	a	at1
+disadvantage	disadvantage	nn1
+!		!
+<p>		null
+There	there	ex_rl
+a	a	at1
+nice	nice	jj
+solution	solution	nn1
+for	for	if
+getting	get	vvg
+money	money	nn1
+instantly	instantly	rr
+.		.
+USA	usa	np1
+cash	cash	nn1
+services	service	nn2
+,		,
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+n	zz_n	zz1
+for	for	if
+people	people	nn
+who	who	pnqs
+need	need	vv0
+money	money	nn1
+instantly	instantly	rr
+.		.
+Here	here	rl
+are	be	vbr
+the	the	at
+reasons	reason	nn2
+why	why	rrq
+you	you	ppy
+can	can	vm
+get	get	vvi
+money	money	nn1
+instantly	instantly	rr
+.		.
+The	the	at
+process	process	nn1
+is	be	vbz
+really	really	rr
+short	short	rr@_jj
+compared	compare	vvn
+to	to	ii
+what	what	ddq
+usually	usually	rr
+happen	happen	vv0
+in	in	ii_rp@
+banks	bank	nn2
+.		.
+<p>		null
+You	you	ppy
+can	can	vm
+get	get	vvi
+the	the	at
+loan	loan	nn1
+via	via	ii
+online	online	jj_rr
+by	by	ii
+visiting	visit	vvg_jj
+USA	usa	np1
+cash	cash	nn1
+services	service	nn2
+first	first	md
+.		.
+Then	then	rt
+you	you	ppy
+can	can	vm
+find	find	vvi
+out	out	rp
+how	how	rrq
+to	to	to
+get	get	vvi
+the	the	at
+loan	loan	nn1
+,		,
+what	what	ddq
+are	be	vbr
+the	the	at
+requirements	requirement	nn2
+to	to	to
+get	get	vvi
+it	it	pph1
+.		.
+Then	then	rt
+you	you	ppy
+can	can	vm
+apply	apply	vvi
+to	to	to
+get	get	vvi
+the	the	at
+loan	loan	nn1
+and	and	cc
+fulfill	fulfill	vvi
+all	all	db
+the	the	at
+requirements	requirement	nn2
+.		.
+You	you	ppy
+can	can	vm
+also	also	rr
+visit	visit	vvi
+the	the	at
+locations	location	nn2
+of	of	io
+USA	usa	np1
+cash	cash	nn1
+services	service	nn2
+to	to	to
+get	get	vvi
+the	the	at
+loan	loan	nn1
+you	you	ppy
+need	need	vv0
+.		.
+There	there	ex
+are	be	vbr
+many	many	da2
+friendly	friendly	jj
+locations	location	nn2
+such	such	ii21
+as	as	ii22
+in	in	ii
+California	california	np1
+,		,
+Idaho	idaho	np1
+,		,
+Nevada	nevada	np1
+,		,
+Utah	utah	np1
+,		,
+Washington	washington	np1
+,		,
+or	or	cc
+in	in	ii
+Wyoming	wyoming	np1
+.		.
+It	it	pph1
+is	be	vbz
+easy	easy	jj
+to	to	to
+do	do	vdi
+,		,
+is	be	vbz
+n't	n't	xx
+it	it	pph1
+?		?
+<p>		null
+How	how	rrq_rgq@
+about	about	ii
+you	you	ppy
+?		?
+Anytime	anytime	nnt1
+you	you	ppy
+are	be	vbr
+in	in	ii
+trouble	trouble	nn1
+of	of	io
+needing	need	vvg
+money	money	nn1
+instantly	instantly	rr
+,		,
+you	you	ppy
+can	can	vm
+come	come	vvi
+##3666252		fo
+<h>		null
+Wednesday	wednesday	npd1
+,		,
+March	march	npm1
+25	25	mc
+,		,
+2009	2009	mc
+<p>		null
+It	it	pph1
+seems	seem	vvz
+that	that	cst
+even	even	cs21
+though	though	cs22
+men	man	nn2
+think	think	vv0
+kissing	kissing	nn1_vvg
+is	be	vbz
+okay	okay	jj
+,		,
+they	they	pphs2
+looked	look	vvd
+at	at	ii
+it	it	pph1
+more	more	rrr
+as	as	ii
+a	a	at1
+necessary	necessary	jj
+evil	evil	nn1_jj
+to	to	to
+get	get	vvi
+to	to	ii
+the	the	at
+good	good	jj
+part	part	nn1
+.		.
+Women	woman	nn2
+seemed	seem	vvd
+to	to	to
+prefer	prefer	vvi
+long	long	rr_jj
+,		,
+lingering	lingering	jj
+kisses	kiss	nn2
+that	that	cst_dd1
+did	do	vdd
+n't	n't	xx
+necessarily	necessarily	rr
+have	have	vhi
+to	to	to
+lead	lead	vvi
+to	to	ii
+anything	anything	pn1
+else	else	rr
+.		.
+Reportedly	reportedly	rr
+,		,
+for	for	if
+a	a	at1
+woman	woman	nn1
+,		,
+pressure	pressure	nn1
+from	from	ii
+their	their	appge
+male	male	jj_nn1
+partner	partner	nn1
+to	to	to
+make	make	vvi
+it	it	pph1
+lead	lead	vvd@_vv0
+somewhere	somewhere	rl
+took	take	vvd
+away	away	ii21_rl
+from	from	ii22_ii
+the	the	at
+enjoyment	enjoyment	nn1
+of	of	io
+the	the	at
+moment	moment	nn1
+.		.
+<p>		null
+4	4	mc
+.		.
+Avoid	avoid	vv0
+bad	bad	jj
+breath.If		nnu
+you	you	ppy
+want	want	vv0
+to	to	to
+ruin	ruin	vvi
+a	a	at1
+perfect	perfect	jj
+kiss	kiss	nn1
+then	then	rt
+bad	bad	jj
+breath	breath	nn1
+is	be	vbz
+your	your	appge
+best	best	jjt
+possible	possible	jj
+solution	solution	nn1
+.		.
+Now	now	rt
+no	no	at
+need	need	nn1
+to	to	to
+say	say	vvi
+that	that	cst
+you	you	ppy
+should	should	vm
+avoid	avoid	vvi
+spicy	spicy	jj
+foods	food	nn2
+,		,
+garlic	garlic	nn1
+and	and	cc
+onions	onion	nn2
+just	just	rr
+before	before	rt
+.		.
+If	if	cs
+you	you	ppy
+want	want	vv0
+to	to	to
+eat	eat	vvi
+then	then	rt
+another	another	dd1
+solution	solution	nn1
+is	be	vbz
+make	make	nn1%_vv0
+sure	sure	jj
+you	you	ppy
+'re	be	vbr
+both	both	rr_db2
+eating	eat	vvg
+spicy	spicy	jj
+food	food	nn1
+,		,
+so	so	cs@_rr_rg
+neither	neither	dd1_rr
+will	will	vm
+notice	notice	vvi
+.		.
+<p>		null
+4	4	mc
+.		.
+Avoid	avoid	vv0
+bad	bad	jj
+breath.If		nnu
+you	you	ppy
+want	want	vv0
+to	to	to
+ruin	ruin	vvi
+a	a	at1
+perfect	perfect	jj
+kiss	kiss	nn1
+then	then	rt
+bad	bad	jj
+breath	breath	nn1
+is	be	vbz
+your	your	appge
+best	best	jjt
+possible	possible	jj
+solution	solution	nn1
+.		.
+Now	now	rt
+no	no	at
+need	need	nn1
+to	to	to
+say	say	vvi
+that	that	cst
+you	you	ppy
+should	should	vm
+avoid	avoid	vvi
+spicy	spicy	jj
+foods	food	nn2
+,		,
+garlic	garlic	nn1
+and	and	cc
+onions	onion	nn2
+just	just	rr
+before	before	rt
+.		.
+If	if	cs
+you	you	ppy
+want	want	vv0
+to	to	to
+eat	eat	vvi
+then	then	rt
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+food	food	nn1
+,		,
+so	so	cs@_rr_rg
+neither	neither	dd1_rr
+will	will	vm
+notice	notice	vvi
+.		.
+<p>		null
+5	5	mc
+.		.
+Silence	silence	nn1_vv0@
+.		.
+Every	every	at1
+now	now	rt
+and	and	cc
+then	then	rt
+say	say	vv0
+something	something	pn1
+sweet	sweet	jj
+.		.
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-2		mc
+.		.
+How	how	rrq
+to	to	to_ii
+Kiss	kiss	vv0_nn1
+Pationately		rr_np1
+?		?
+<p>		null
+The	the	at
+great	great	jj
+secret	secret	nn1_jj
+to	to	ii
+great	great	jj
+kissing	kissing	nn1
+is	be	vbz
+variety	variety	nn1
+.		.
+Sometimes	sometimes	rt
+be	be	vbi
+gentle	gentle	jj
+and	and	cc
+at	at	ii
+other	other	jj
+times	time	nnt2
+be	be	vbi
+rough	rough	jj
+.		.
+Tease	tease	vv0
+your	your	appge
+partner	partner	nn1
+with	with	iw
+a	a	at1
+little	little	jj
+bite	bite	nn1
+on	on	ii
+the	the	at
+lips	lip	nn2
+as	as	cs21
+if	if	cs22
+you	you	ppy
+wanted	want	vvd
+to	to	to
+eat	eat	vvi
+them	them	ppho2
+up	up	rp
+!		!
+Press	press	vv0
+your	your	appge
+nose	nose	nn1
+into	into	ii
+your	your	appge
+parteners		nn2
+cheek	cheek	nn1
+and	and	cc
+hug	hug	nn1_vv0
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-2		mc
+.		.
+What	what	ddq
+Part	part	nn1
+of	of	io
+the	the	at
+Tongue	tongue	nn1
+to	to	ii
+Use	use	nn1
+?		?
+<p>		null
+Another	another	dd1
+important	important	jj
+aspect	aspect	nn1
+of	of	io
+kissing	kissing	nn1_vvg
+is	be	vbz
+to	to	to
+use	use	vvi
+the	the	at
+middle	middle	jj_nn1
+part	part	nn1
+of	of	io
+the	the	at
+tongue	tongue	nn1
+in	in	ii
+your	your	appge
+kiss	kiss	nn1
+because	because	ii21
+of	of	ii22
+the	the	at
+large	large	jj
+number	number	nn1
+of	of	io
+sensitive	sensitive	jj
+nerve	nerve	nn1
+endings	ending	nn2
+there	there	rl
+.		.
+The	the	at
+kiss	kiss	nn1_vv0
+you	you	ppy
+give	give	vv0
+your	your	appge
+partner	partner	nn1
+will	will	vm
+be	be	vbi
+positively	positively	rr
+electrifying	electrify	vvg_jj@
+!		!
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-3		mc
+.		.
+What	what	ddq
+to	to	to
+do	do	vdi
+if	if	cs
+you	you	ppy
+Bang	bang	vv0@
+Teeth	tooth	nn2
+<p>		null
+Lough	lough	np1_nn1
+it	it	pph1
+off.Tell		nnu
+your	your	appge
+partner	partner	nn1
+you	you	ppy
+'re	be	vbr
+so	so	rg_rr
+keen	keen	jj
+to	to	to
+kiss	kiss	vvi
+him	him	ppho1
+and	and	cc
+that	that	cst
+you	you	ppy
+are	be	vbr
+grtting		vvg
+dizzy	dizzy	jj
+just	just	rr_jj@
+standing	stand	vvg_nn1
+close	close	rr_jj
+to	to	ii
+him/her	him/her	ppho1
+.		.
+They	they	pphs2
+'ll	will	vm
+believe	believe	vvi
+you	you	ppy
+and	and	cc
+be	be	vbi
+confident	confident	jj
+and	and	cc
+go	go	vvi
+on	on	rp@
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-4		mc
+.		.
+Where	where	rrq
+to	to	ii
+Kiss	kiss	nn1
+<p>		null
+Kissing	kiss	vvg_nn1
+in	in	rr21
+public	public	rr22
+is	be	vbz
+cool	cool	jj_rr@
+,		,
+but	but	ccb
+not	not	xx
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+with	with	iw
+their	their	appge
+eyes	eye	nn2
+open	open	vv0
+,		,
+so	so	cs21
+that	that	cs22
+you	you	ppy
+two	two	mc
+lock	lock	nn1
+eyes	eye	nn2
+seems	seem	vvz
+to	to	to
+drive	drive	vvi
+them	them	ppho2
+wild	wild	jj_rr@
+.		.
+Men	man	nn2
+and	and	cc
+women	woman	nn2
+both	both	rr_db2
+seem	seem	vv0
+to	to	to
+like	like	vvi
+being	be	vbg
+kissed	kiss	vvn
+in	in	ii
+places	place	nn2
+other	other	ii21
+than	than	ii22
+the	the	at
+lips	lip	nn2
+with	with	iw
+neck	neck	nn1
+,		,
+ears	ear	nn2
+and	and	cc
+eyes	eye	nn2
+ranking	rank	vvg
+highly	highly	rr
+.		.
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-5		mc
+.		.
+Who	who	pnqs
+is	be	vbz
+Kissable	kissable	jj_np1
+?		?
+<p>		null
+Men	man	nn2
+and	and	cc
+women	woman	nn2
+both	both	rr_db2
+thought	think	vvd_vvn
+the	the	at
+idea	idea	nn1
+of	of	io
+kissing	kiss	vvg
+someone	someone	pn1
+who	who	pnqs
+was	be	vbdz
+clean	clean	jj
+,		,
+had	have	vhd
+beautifully	beautifully	rr
+full	full	jj
+and	and	cc
+shapely	shapely	jj
+lips	lip	nn2
+,		,
+who	who	pnqs
+was	be	vbdz
+attractive	attractive	jj
+,		,
+and	and	cc
+who	who	pnqs
+possessed	possess	vvd
+a	a	at1
+great	great	jj
+smile	smile	nn1
+and	and	cc
+nice	nice	jj
+teeth	tooth	nn2
+was	be	vbdz
+a	a	at1
+"		"
+10	10	mc
+"		"
+on	on	ii
+the	the	at
+kissable	kissable	jj
+scale	scale	nn1
+.		.
+Guys	guys	np1_nn2
+also	also	rr
+felt	feel	vvd
+that	that	cst
+if	if	cs
+a	a	at1
+woman	woman	nn1
+seemed	seem	vvd
+open	open	jj
+and	and	cc
+friendly	friendly	jj_nn1@
+,		,
+she	she	pphs1
+was	be	vbdz
+more	more	rgr
+likely	likely	jj
+to	to	to
+be	be	vbi
+the	the	at
+recipient	recipient	nn1
+of	of	io
+a	a	at1
+romantically	romantically	rr
+spontaneous	spontaneous	jj
+kiss	kiss	nn1
+than	than	csn
+a	a	at1
+woman	woman	nn1
+that	that	cst
+seemed	seem	vvd
+uptight	uptight	jj
+.		.
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-6		mc
+.		.
+Who	who	pnqs
+Likes	like	vvz
+Kissing	kiss	vvg
+the	the	at
+Most	most	rrt@
+?		?
+<p>		null
+It	it	pph1
+seems	seem	vvz
+that	that	cst
+even	even	cs21
+though	though	cs22
+men	man	nn2
+think	think	vv0
+kissing	kissing	nn1_vvg
+is	be	vbz
+okay	okay	jj
+,		,
+they	they	pphs2
+looked	look	vvd
+at	at	ii
+it	it	pph1
+more	more	rrr
+as	as	ii
+a	a	at1
+necessary	necessary	jj
+evil	evil	nn1_jj
+to	to	to
+get	get	vvi
+to	to	ii
+the	the	at
+good	good	jj
+part	part	nn1
+.		.
+Women	woman	nn2
+seemed	seem	vvd
+to	to	to
+prefer	prefer	vvi
+long	long	rr_jj
+,		,
+lingering	lingering	jj
+kisses	kiss	nn2
+that	that	cst_dd1
+did	do	vdd
+n't	n't	xx
+necessarily	necessarily	rr
+have	have	vhi
+to	to	to
+lead	lead	vvi
+to	to	ii
+anything	anything	pn1
+else	else	rr
+.		.
+Reportedly	reportedly	rr
+,		,
+for	for	if
+a	a	at1
+woman	woman	nn1
+,		,
+pressure	pressure	nn1
+from	from	ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+from	from	ii22_ii
+the	the	at
+enjoyment	enjoyment	nn1
+of	of	io
+the	the	at
+moment	moment	nn1
+.		.
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-7		mc
+.		.
+How	how	rrq_rgq@
+to	to	ii
+French	french	jj_nn1
+Kiss	kiss	nn1
+?		?
+<p>		null
+The	the	at
+secret	secret	nn1_jj
+to	to	ii
+french	french	jj
+kissing	kissing	nn1
+is	be	vbz
+responsiveness	responsiveness	nn1
+.		.
+Sometimes	sometimes	rt
+you	you	ppy
+lead	lead	vv0
+,		,
+at	at	ii
+other	other	jj
+time	time	nnt1
+you	you	ppy
+let	let	vv0
+your	your	appge
+partner	partner	nn1
+lead	lead	vvi
+.		.
+Do	do	vd0
+n't	n't	xx
+just	just	rr
+use	use	vvi
+your	your	appge
+tongue	tongue	nn1
+like	like	ii
+a	a	at1
+dart	dart	nn1
+.		.
+<p>		null
+Kissing	kiss	vvg_nn1
+Faq-8		mc
+.		.
+How	how	rrq
+to	to	to
+Handle	handle	vv0
+Your	your	appge
+First	first	md
+Kiss	kiss	nn1_vv0
+?		?
+<p>		null
+Bluff	bluff	vv0_nn1
+yor	yor	nn1
+way	way	nn1
+through	through	ii
+the	the	at
+first	first	md
+kiss	kiss	nn1
+.		.
+No	no	at
+one	one	mc1
+will	will	nn1@_vm
+know	know	vv0
+it	it	pph1
+'s	be	vbz
+the	the	at
+first	first	md
+time	time	nnt1
+unless	unless	cs
+you	you	ppy
+say	say	vv0
+so	so	rr
+.		.
+Try	try	vv0
+a	a	at1
+gentle	gentle	jj
+lip	lip	nn1
+kiss	kiss	nn1
+and	and	cc
+keep	keep	vv0
+your	your	appge
+lips	lip	nn2
+closed	close	vvd_vvn
+.		.
+If	if	cs
+you	you	ppy
+open	open	vv0
+up	up	rp
+,		,
+you	you	ppy
+'re	be	vbr
+inviting	invite	vvg
+a	a	at1
+tongue	tongue	nn1
+kiss	kiss	nn1_vv0
+famously	famously	rr
+known	know	vvn
+as	as	ii
+a	a	at1
+french	french	jj
+kiss	kiss	nn1
+<p>		null
+Here	here	rl
+are	be	vbr
+what	what	ddq
+I	i	ppis1
+believe	believe	vv0
+tobe	tobe	vv0
+the	the	at
+top	top	jj_nn1
+worst	bad	jjt
+seven	seven	mc
+kissing	kissing	nn1_vvg
+techniques	technique	nn2
+ever	ever	rr
+.		.
+<p>		null
+1	1	mc1
+.		.
+The	the	at
+Katrina	katrina	np1
+Kiss	kiss	nn1_vv0
+.		.
+<p>		null
+It	it	pph1
+is	be	vbz
+a	a	at1
+kiss	kiss	nn1
+with	with	iw
+entirely	entirely	rr
+too	too	rg
+much	much	da1
+water	water	nn1
+.		.
+Remember	remember	vv0
+Hurricane	hurricane	nn1
+Katrina	katrina	np1
+?		?
+Yes	yes	uh
+,		,
+just	just	rr
+like	like	ii
+that	that	dd1
+.		.
+You	you	ppy
+are	be	vbr
+drooled	drool	vvn@
+on	on	rp@_ii
+,		,
+slobbered	slobber	vvd
+on	on	rp@
+and	and	cc
+when	when	cs_rrq
+the	the	at
+kiss	kiss	nn1
+is	be	vbz
+over	over	rp
+,		,
+you	you	ppy
+feel	feel	vv0
+the	the	at
+need	need	nn1
+for	for	if
+a	a	at1
+towel	towel	nn1
+and	and	cc
+maybe	maybe	rr
+a	a	at1
+shower	shower	nn1
+.		.
+Too	too	rg
+much	much	da1
+saliva	saliva	nn1
+everywhere	everywhere	rl
+!		!
+Hm	hm	uh
+!		!
+<p>		null
+Tip:If		fo
+you	you	ppy
+have	have	vh0
+a	a	at1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+drool	drool	vvi
+with	with	iw
+lust	lust	nn1
+,		,
+try	try	vv0
+swallowing	swallow	vvg
+before	before	cs_ii
+you	you	ppy
+kiss	kiss	vv0
+!		!
+<p>		null
+2	2	mc
+.		.
+The	the	at
+Iguana	iguana	np1_nn1@
+Kiss	kiss	nn1_vv0
+.		.
+<p>		null
+This	this	dd1
+is	be	vbz
+a	a	at1
+true	true	jj
+case	case	nn1
+of	of	io
+lizard	lizard	nn1
+lips	lip	nn2
+!		!
+Crusty	crusty	np1@_jj
+,		,
+crunchy	crunchy	jj
+and	and	cc
+dry	dry	jj_vv0@
+.		.
+If	if	cs
+you	you	ppy
+run	run	vv0
+your	your	appge
+lips	lip	nn2
+gently	gently	rr
+across	across	ii
+your	your	appge
+lovers	lover	nn2
+neck	neck	vv0@_nn1
+,		,
+cheek	cheek	nn1
+and	and	cc
+lips	lip	nn2
+,		,
+they	they	pphs2
+should	should	vm
+n't	n't	xx
+be	be	vbi
+left	leave	vvn
+with	with	iw
+what	what	ddq
+looks	look	vvz
+like	like	ii
+paper	paper	nn1
+cuts	cut	nn2_vvz
+.		.
+<p>		null
+3	3	mc
+.		.
+The	the	at
+Prozac	prozac	jj@_np1_nn1@
+Kiss	kiss	nn1
+or	or	cc
+Fast	fast	jj_rr
+and	and	cc
+Furious	furious	jj
+<p>		null
+Fast	fast	rr_jj
+,		,
+furious	furious	jj
+,		,
+darting	dart	vvg_jj
+or	or	cc
+high-speed	high-speed	jj
+swirling	swirling	jj@_vvg
+motions	motion	nn2
+of	of	io
+the	the	at
+tongue	tongue	nn1
+reminiscent	reminiscent	jj
+of	of	io
+a	a	at1
+washing	washing	nn1
+machine	machine	nn1
+on	on	ii
+the	the	at
+rinse	rinse	nn1
+cycle	cycle	nn1
+.		.
+Hm	hm	uh
+!		!
+Is	be	vbz
+it	it	pph1
+too	too	rg
+much	much	da1
+lust	lust	nn1
+?		?
+<p>		null
+4	4	mc
+.		.
+The	the	at
+Cave	cave	nn1_np1
+or	or	cc
+Black	black	jj
+Hole	hole	nn1
+<p>		null
+In	in	ii
+this	this	dd1
+instance	instance	nn1
+your	your	appge
+partner	partner	nn1
+'s	's	ge
+mouth	mouth	nn1
+is	be	vbz
+open	open	rr@_jj
+so	so	rg_rr
+wide	wide	jj
+that	that	cst
+your	your	appge
+tongue	tongue	nn1
+meets	meet	vvz
+nothing	nothing	pn1
+but	but	ii
+air	air	nn1
+on	on	ii
+all	all	db
+sides	side	nn2
+!		!
+There	there	ex
+is	be	vbz
+no	no	at
+exchange	exchange	nn1
+of	of	io
+sensation	sensation	nn1
+.		.
+It	it	pph1
+'s	be	vbz
+like	like	ii_cs%
+you	you	ppy
+'re	be	vbr
+kissing	kiss	vvg
+in	in	ii_rp@
+a	a	at1
+wide	wide	jj
+whole	whole	nn1_jj
+!		!
+<p>		null
+5	5	mc
+.		.
+The	the	at
+Dirty	dirty	jj
+Tom	tom	np1
+<p>		null
+Shave	shave	vv0_nn1_np1@
+or	or	cc
+grow	grow	vv0
+the	the	at
+beard	beard	nn1
+.		.
+You	you	ppy
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+what	what	ddq
+it	it	pph1
+feels	feel	vvz
+like	like	jj@_ii
+to	to	to
+have	have	vhi
+sand	sand	nn1
+papery	papery	nn1_jj
+stubble	stubble	nn1
+pierce	pierce	vv0_nn1
+the	the	at
+skin	skin	nn1
+around	around	ii_rp
+your	your	appge
+eyes	eye	nn2
+or	or	cc
+cheeks	cheek	nn2
+!		!
+With	with	iw
+half	half	db
+her	her	appge
+face	face	nn1
+scraped	scrape	vvd_vvn
+off	off	rp
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+inclined	inclined	jj
+to	to	to
+get	get	vvi
+up	up	rp
+to	to	to
+seek	seek	vvi
+medical	medical	jj
+treatment	treatment	nn1
+than	than	csn
+she	she	pphs1
+is	be	vbz
+to	to	to
+get	get	vvi
+busy	busy	jj
+.		.
+<p>		null
+6	6	mc
+.		.
+Trolling	troll	vvg
+for	for	if
+Tonsils		nn2@
+.		.
+<p>		null
+A	a	at1
+little	little	jj
+restraint	restraint	nn1
+on	on	ii
+the	the	at
+depth	depth	nn1
+of	of	io
+the	the	at
+kiss	kiss	nn1
+might	might	vm
+be	be	vbi
+in	in	ii
+order	order	nn1
+.		.
+If	if	cs
+you	you	ppy
+have	have	vh0
+a	a	at1
+tendency	tendency	nn1
+to	to	to
+extend	extend	vvi
+your	your	appge
+tongue	tongue	nn1
+to	to	ii
+its	its	appge
+full	full	jj
+length	length	nn1
+in	in	ii
+your	your	appge
+partners	partner	nn2
+mouth	mouth	nn1_vv0%
+,		,
+how	how	rrq
+do	do	vd0
+you	you	ppy
+expect	expect	vvi
+him/her	him/her	ppho1
+to	to	to
+breathe	breathe	vvi
+<p>		null
+7	7	mc
+.		.
+The	the	at
+Kiss	kiss	nn1
+of	of	io
+Death	death	nn1
+.		.
+<p>		null
+Ever	ever	rr
+kissed	kiss	vvn_vvd
+someone	someone	pn1
+to	to	to
+be	be	vbi
+met	meet	vvn
+by	by	ii
+a	a	at1
+smell	smell	nn1
+of	of	io
+decomposition	decomposition	nn1
+?		?
+How	how	rgq@_rrq
+awful	awful	jj
+!		!
+Brush	brush	vv0
+your	your	appge
+teeth	tooth	nn2
+!		!
+Use	use	vv0
+one	one	mc1
+of	of	io
+the	the	at
+vast	vast	jj
+selections	selection	nn2
+of	of	io
+mouthwashes	mouthwash	nn2
+on	on	ii
+the	the	at
+market	market	nn1
+.		.
+Get	get	vv0
+a	a	at1
+new	new	jj
+toothbrush	toothbrush	nn1
+every	every	at1
+3	3	mc
+months	month	nnt2
+!		!
+Visit	visit	vv0
+your	your	appge
+dentist	dentist	nn1
+and	and	cc
+check	check	vv0_nn1
+for	for	if
+gum	gum	nn1
+disease	disease	nn1
+and	and	cc
+cavities	cavity	nn2
+,		,
+both	both	db2
+of	of	io
+which	which	ddq
+contribute	contribute	vv0
+to	to	ii
+bad	bad	jj
+breath	breath	nn1
+.		.
+<p>		null
+Have	have	vh0
+you	you	ppy
+discovered	discover	vvn
+any	any	dd
+more	more	dar
+worst	bad	jjt_rrt@
+kissing	kissing	nn1_vvg
+technique	technique	nn1
+?		?
+Leave	leave	vv0
+us	us	ppio2
+a	a	at1
+comment	comment	nn1
+<p>		null
+If	if	cs
+eyes	eye	nn2
+tell	tell	vv0
+the	the	at
+sectrets		nn2
+of	of	io
+a	a	at1
+person	person	nn1
+,		,
+then	then	rt_jj%
+lips	lip	nn2
+are	be	vbr
+the	the	at
+informers	informer	nn2
+of	of	io
+our	our	appge
+consciousness	consciousness	nn1
+.		.
+Our	our	appge
+lips	lip	nn2
+respond	respond	vv0
+to	to	ii
+happy	happy	jj
+thoughts	thought	nn2
+by	by	ii
+smiling	smile	vvg_jj
+,		,
+they	they	pphs2
+express	express	vv0
+our	our	appge
+deepest	deepest	jjt
+emotions	emotion	nn2
+with	with	iw
+words	word	nn2
+of	of	io
+love	love	nn1
+and	and	cc
+hope	hope	vv0_nn1
+,		,
+and	and	cc
+kissing	kissing	nn1_vvg
+is	be	vbz
+the	the	at
+only	only	jj
+way	way	nn1
+to	to	to
+say	say	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+look	look	nn1
+on	on	ii
+the	the	at
+following	following	jj
+tips	tip	nn2
+to	to	to
+make	make	vvi
+your	your	appge
+kissing	kiss	vvg_nn1
+a	a	at1
+fabulous	fabulous	jj
+experience	experience	nn1
+.		.
+<p>		null
+During	during	ii
+kissing	kissing	nn1_vvg
+,		,
+just	just	rr
+gently	gently	rr
+press	press	vv0
+your	your	appge
+lips	lip	nn2
+against	against	ii
+hers	hers	ppge
+.		.
+You	you	ppy
+can	can	vm
+move	move	vvi
+your	your	appge
+lips	lip	nn2
+a	a	rr21
+bit	bit	rr22
+back	back	rp_jj@
+and	and	cc
+forth	forth	rr
+against	against	ii
+hers	hers	ppge
+or	or	cc
+in	in	ii
+a	a	at1
+small	small	jj
+circular	circular	jj_nn1
+motion	motion	nn1
+at	at	ii
+your	your	appge
+will	will	nn1@
+.		.
+When	when	cs_rrq
+you	you	ppy
+meet	meet	vv0
+her	her	appge
+lips	lip	nn2
+at	at	ii
+slight	slight	jj
+angle	angle	nn1
+,		,
+it	it	pph1
+is	be	vbz
+the	the	at
+best	best	jjt
+type	type	nn1
+of	of	io
+kiss	kiss	nn1
+.		.
+This	this	dd1
+gives	give	vvz
+more	more	dar
+opportunities	opportunity	nn2
+to	to	to
+explore	explore	vvi
+,		,
+it	it	pph1
+feels	feel	vvz
+nicer	nice	jjr
+,		,
+and	and	cc
+will	will	vm
+give	give	vvi
+you	you	ppy
+a	a	at1
+chance	chance	nn1
+to	to	ii
+French	french	jj_nn1
+kiss	kiss	nn1
+if	if	cs
+you	you	ppy
+wish	wish	vv0
+.		.
+<p>		null
+Keep	keep	vv0
+your	your	appge
+eyes	eye	nn2
+closed	close	vvn_vvd
+once	once	cs@_rr
+you	you	ppy
+are	be	vbr
+into	into	ii
+the	the	at
+kiss	kiss	nn1
+.		.
+You	you	ppy
+might	might	vm
+want	want	vvi
+to	to	to
+keep	keep	vvi
+them	them	ppho2
+open	open	jj_rr@_vv0
+until	until	cs
+you	you	ppy
+have	have	vh0
+actual	actual	jj
+lip	lip	nn1
+contact	contact	nn1
+.		.
+But	but	ccb
+when	when	cs
+the	the	at
+kiss	kiss	nn1
+has	have	vhz
+started	start	vvn
+,		,
+eyes	eye	nn2
+closed	close	vvd_vvn
+,		,
+is	be	vbz
+the	the	at
+way	way	nn1
+to	to	to
+go	go	vvi
+.		.
+It	it	pph1
+can	can	vm
+really	really	rr
+help	help	vvi
+you	you	ppy
+shut	shut	vvi
+out	out	rp
+the	the	at
+world	world	nn1
+and	and	cc
+focus	focus	vv0_nn1
+only	only	rr
+on	on	ii
+the	the	at
+kiss	kiss	nn1
+.		.
+It	it	pph1
+is	be	vbz
+generally	generally	rr
+considered	consider	vvn
+as	as	csa_ii@
+guys	guy	nn2
+who	who	pnqs
+kiss	kiss	vv0
+with	with	iw
+their	their	appge
+eyes	eye	nn2
+open	open	vv0
+are	be	vbr
+usually	usually	rr
+thinking	think	vvg_nn1
+of	of	io
+something	something	pn1
+else	else	rr
+besides	besides	ii_rr
+you	you	ppy
+.		.
+If	if	cs
+you	you	ppy
+catch	catch	vv0
+your	your	appge
+partner	partner	nn1
+kissing	kiss	vvg_nn1
+with	with	iw
+eyes	eye	nn2
+wide	wide	rr@_jj
+,		,
+be	be	vbi
+careful	careful	jj
+-	-	-
+he	he	pphs1
+might	might	vm
+not	not	xx
+be	be	vbi
+good	good	jj
+material	material	nn1
+.		.
+<p>		null
+You	you	ppy
+might	might	vm
+want	want	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+who	who	pnqs
+perpetuate	perpetuate	vv0
+bad	bad	jj
+kissing	kissing	nn1
+styles	style	nn2
+.		.
+Take	take	vv0
+Tom	tom	np1
+Cruise	cruise	nn1_vv0
+Method	method	nn1
+(		(
+as	as	csa
+seen	see	vvn
+in	in	ii
+Top	top	jj_nn1
+Gun	gun	nn1
+)		)
+,		,
+for	for	rex21
+example	example	rex22
+,		,
+whereby	whereby	rrq
+his	his	appge
+tongue	tongue	nn1
+is	be	vbz
+already	already	rr
+slithering	slither	vvg
+out	out	rp
+before	before	cs
+he	he	pphs1
+'s	be	vbz_vhz@
+met	meet	vvn
+her	her	appge
+lips	lip	nn2
+.		.
+It	it	pph1
+is	be	vbz
+referred	refer	vvn
+to	to	ii
+as	as	ii_csa
+the	the	at
+Lizard-King		np1
+Style	style	nn1
+.		.
+Most	most	dat
+women	woman	nn2
+do	do	vd0
+not	not	xx
+like	like	vvi
+the	the	at
+idea	idea	nn1
+of	of	io
+kissing	kiss	vvg
+a	a	at1
+large	large	jj
+snake	snake	nn1
+,		,
+which	which	ddq
+is	be	vbz
+what	what	ddq
+this	this	dd1
+must	must	vm
+be	be	vbi
+similar	similar	jj
+to	to	to_ii
+.		.
+The	the	at
+only	only	jj
+response	response	nn1
+possible	possible	jj
+is	be	vbz
+for	for	if
+the	the	at
+woman	woman	nn1
+to	to	to
+open	open	vvi
+her	her	appge
+mouth	mouth	nn1
+wide	wide	jj
+and	and	cc
+remain	remain	vvi
+motionless	motionless	jj
+while	while	cs
+he	he	pphs1
+finishes	finish	vvz
+his	his	appge
+routing	routing	nn1
+,		,
+a	a	at1
+posture	posture	nn1
+that	that	cst_dd1
+calls	call	vvz
+to	to	to
+mind	mind	vvi
+trips	trip	nn2
+to	to	ii
+the	the	at
+dentist	dentist	nn1
+.		.
+<p>		null
+About	about	ii
+opening	open	vvg
+your	your	appge
+eyes	eye	nn2
+,		,
+there	there	ex
+is	be	vbz
+one	one	mc1
+more	more	dar
+view	view	nn1
+.		.
+Some	some	dd
+people	people	nn
+find	find	vv0
+to	to	to
+keep	keep	vvi
+open	open	vv0_rr@
+their	their	appge
+eyes	eye	nn2
+open	open	vv0
+to	to	to
+be	be	vbi
+an	a	at1
+impossible	impossible	jj
+task	task	nn1
+(		(
+like	like	ii
+sneezing	sneeze	vvg
+with	with	iw
+your	your	appge
+eyes	eye	nn2
+open	open	vv0_jj
+)		)
+,		,
+but	but	ccb
+while	while	cs
+the	the	at
+customary	customary	jj
+belief	belief	nn1
+is	be	vbz
+that	that	cst
+we	we	ppis2
+must	must	vm
+try	try	vvi
+to	to	to
+block	block	vvi
+out	out	rp
+all	all	db_rr@
+other	other	jj
+sensations	sensation	nn2
+,		,
+you	you	ppy
+may	may	vm
+find	find	vvi
+that	that	dd1_cst
+kissing	kissing	nn1_vvg
+with	with	iw
+your	your	appge
+eyes	eye	nn2
+open	open	vv0
+is	be	vbz
+the	the	at
+very	very	rg
+much	much	da1
+equivalent	equivalent	nn1@_jj
+of	of	io
+making	make	vvg
+love	love	nn1
+with	with	iw
+the	the	at
+lights	light	nn2
+on	on	rp@_ii
+.		.
+And	and	cc
+if	if	cs_csw@
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+be	be	vbi
+kissing	kiss	vvg
+for	for	if
+several	several	da2
+hours	hour	nnt2
+in	in	ii
+a	a	at1
+make-out	make-out	nn1_jj@
+bar	bar	nn1
+,		,
+it	it	pph1
+'s	be	vbz
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+!		!
+<p>		null
+How	how	rrq
+to	to	to
+get	get	vvi
+him/her	him/her	ppho1
+to	to	to
+kiss	kiss	vvi
+you	you	ppy
+?		?
+Many	many	da2
+times	time	nnt2
+people	people	nn
+find	find	vv0
+themselves	themselves	ppx2
+nervous	nervous	jj
+sending	send	vvg_nn1@
+out	out	rp
+mixed	mixed	jj@_vvd
+signals	signal	nn2
+.		.
+You	you	ppy
+might	might	vm
+want	want	vvi
+him	him	ppho1
+or	or	cc
+her	her	ppho1
+to	to	to
+kiss	kiss	vvi
+you	you	ppy
+,		,
+but	but	ccb
+your	your	appge
+nervous	nervous	jj
+behavior	behavior	nn1
+might	might	vm
+be	be	vbi
+saying	say	vvg
+"		"
+just	just	rr
+stay	stay	vv0
+away	away	rl
+.		.
+"		"
+<p>		null
+First	first	md
+of	of	io
+all	all	db
+you	you	ppy
+and	and	cc
+your	your	appge
+posture	posture	nn1
+should	should	vm
+be	be	vbi
+open	open	jj
+.		.
+Sit	sit	vv0
+or	or	cc
+stand	stand	vv0
+close	close	rr_jj
+to	to	ii
+the	the	at
+person	person	nn1
+whom	whom	pnqo
+you	you	ppy
+want	want	vv0
+to	to	to
+kiss	kiss	vvi
+.		.
+Face	face	vv0
+him	him	ppho1
+or	or	cc
+him	him	ppho1
+.		.
+Look	look	vv0
+in	in	ii_rp@
+his	his	appge
+or	or	cc
+her	her	appge
+eyes	eye	nn2
+,		,
+not	not	xx
+at	at	ii
+the	the	at
+ground	ground	nn1
+.		.
+Do	do	vd0
+n't	n't	xx
+cross	cross	vvi
+your	your	appge
+arms	arm	nn2
+or	or	cc
+lean	lean	vv0
+away	away	rl
+;		;
+or	or	cc
+,		,
+instead	instead	cs21%_ii21
+of	of	cs22_ii22
+"		"
+kiss	kiss	vv0
+me	me	ppio1
+"		"
+you	you	ppy
+'ll	will	vm
+be	be	vbi
+saying	say	vvg
+"		"
+go	go	vv0
+away	away	rl
+!		!
+"		"
+<p>		null
+Smile	smile	nn1_vv0
+is	be	vbz
+also	also	rr
+important	important	jj
+.		.
+Here	here	rl
+is	be	vbz
+something	something	pn1
+for	for	if
+women	woman	nn2
+.		.
+Get	get	vv0
+close	close	rr_jj
+to	to	ii
+him	him	ppho1
+.		.
+Do	do	vd0
+n't	n't	xx
+fear	fear	vvi
+to	to	to
+hold	hold	vvi
+his/her	his/her	appge
+hands	hand	nn2
+.		.
+Ask	ask	vv0
+him	him	ppho1
+to	to	to
+help	help	vvi
+you	you	ppy
+remove	remove	vvi
+an	a	at1
+earring	earring	nn1
+,		,
+or	or	cc
+undo	undo	vv0
+the	the	at
+clasp	clasp	nn1@
+of	of	io
+that	that	dd1
+gold	gold	nn1_jj@
+chain	chain	vv0@_nn1
+you	you	ppy
+'re	be	vbr
+wearing	wear	vvg
+.		.
+To	to	to
+do	do	vdi
+that	that	dd1@
+he	he	pphs1
+'s	be	vhz
+got	get	vvn
+to	to	to
+put	put	vvi
+both	both	db2
+hands	hand	nn2
+on	on	ii
+your	your	appge
+neck	neck	nn1
+.		.
+Now	now	rt
+turn	turn	vv0
+your	your	appge
+head	head	nn1
+,		,
+and	and	cc
+look	look	vv0_nn1
+in	in	ii_rp@
+his	his	appge
+eyes	eye	nn2
+,		,
+and	and	cc
+be	be	vbi
+quiet	quiet	jj
+.		.
+Smile	smile	vv0_nn1
+.		.
+If	if	cs
+he	he	pphs1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+He	he	pphs1
+'ll	will	vm
+kiss	kiss	vvi
+you	you	ppy
+for	for	rr21
+sure	sure	rr22
+!		!
+<p>		null
+Kissing	kissing	nn1_vvg
+and	and	cc
+sex	sex	nn1
+There	there	ex_rl
+is	be	vbz
+a	a	at1
+lot	lot	nn1
+of	of	io
+fun	fun	nn1_jj
+in	in	ii
+kissing	kissing	nn1_vvg
+.		.
+Its	its	appge
+not	not	xx
+like	like	ii_rr%_jj@
+just	just	rr
+because	because	cs
+you	you	ppy
+are	be	vbr
+kissing	kiss	vvg
+a	a	at1
+guy	guy	nn1
+you	you	ppy
+have	have	vh0
+to	to	to
+do	do	vdi
+anything	anything	pn1
+more	more	dar_rrr
+.		.
+<p>		null
+On	on	ii
+the	the	at
+other	other	jj
+hand	hand	nn1
+,		,
+once	once	cs@_rr
+you	you	ppy
+'re	be	vbr
+kissing	kiss	vvg
+passionately	passionately	rr
+,		,
+you	you	ppy
+might	might	vm
+both	both	rr
+feel	feel	vvi
+like	like	ii
+going	go	vvg
+further	far	rrr
+.		.
+<p>		null
+I	i	ppis1
+think	think	vv0
+best	best	jjt_vv0%
+way	way	nn1
+to	to	to
+avoid	avoid	vvi
+going	go	vvg
+further	far	rrr
+is	be	vbz
+to	to	to
+kiss	kiss	vvi
+him	him	ppho1
+or	or	cc
+her	her	ppho1
+in	in	ii_rp@
+a	a	at1
+semi-public	semi-public	jj_nn1
+place	place	nn1
+.		.
+Theatre	theater	nn1
+is	be	vbz
+the	the	at
+best	best	jjt_rrt
+place	place	nn1_vv0
+according	according	ii21
+to	to	ii22
+me	me	ppio1
+.		.
+If	if	cs
+you	you	ppy
+kiss	kiss	vv0
+him	him	ppho1
+in	in	ii_rp@
+a	a	at1
+movie	movie	nn1
+theater	theater	nn1
+or	or	cc
+on	on	ii
+your	your	appge
+front	front	jj_nn1
+porch	porch	nn1
+,		,
+sex	sex	nn1
+is	be	vbz
+not	not	xx
+likely	likely	jj_rr@
+to	to	to
+happen	happen	vvi
+right	right	rr_nn1
+there	there	rl
+I	i	ppis1
+hope	hope	vv0
+.		.
+<p>		null
+On	on	ii
+the	the	at
+other	other	jj
+hand	hand	nn1
+,		,
+if	if	cs
+you	you	ppy
+'re	be	vbr
+sitting	sit	vvg
+on	on	ii_rp@
+your	your	appge
+bed	bed	nn1
+when	when	cs_rrq
+your	your	appge
+parents	parent	nn2
+are	be	vbr
+n't	n't	xx
+home	home	rl
+,		,
+there	there	ex
+'s	be	vbz
+not	not	xx
+really	really	rr
+anything	anything	pn1
+to	to	to
+stop	stop	vvi
+you	you	ppy
+,		,
+so	so	cs@_rr
+it	it	pph1
+'s	be	vbz
+something	something	pn1
+you	you	ppy
+might	might	vm
+want	want	vvi
+to	to	to
+avoid	avoid	vvi
+.		.
+<p>		null
+The	the	at
+following	following	jj
+is	be	vbz
+a	a	at1
+list	list	nn1
+of	of	io
+kisses	kiss	nn2
+you	you	ppy
+should	should	vm
+avoid	avoid	vvi
+:		:
+<p>		null
+You	you	ppy
+must	must	vm
+avoid	avoid	vvi
+the	the	at
+Lizard	lizard	np1
+kiss	kiss	nn1_vv0
+in	in	ii
+which	which	ddq
+your	your	appge
+tongue	tongue	nn1
+darts	dart	vvz
+in	in	rp@_ii
+and	and	cc
+out	out	ii21
+of	of	ii22
+his	his	appge
+or	or	cc
+her	her	appge
+mouth	mouth	nn1
+like	like	ii
+a	a	at1
+reptile	reptile	nn1
+probing	probe	vvg@_jj
+for	for	if
+something	something	pn1
+.		.
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+in	in	ii
+which	which	ddq
+your	your	appge
+tongue	tongue	nn1
+ventures	venture	nn2
+so	so	rg
+far	far	rr
+down	down	rp_ii@
+her	her	appge
+throat	throat	nn1
+that	that	cst
+it	it	pph1
+actually	actually	rr
+begins	begin	vvz
+to	to	to
+choke	choke	vvi
+her	her	ppho1
+.		.
+<p>		null
+Another	another	dd1
+is	be	vbz
+when	when	rrq_cs
+you	you	ppy
+operate	operate	vv0
+your	your	appge
+tongue	tongue	nn1
+much	much	rr
+like	like	ii_vv0@
+a	a	at1
+swordfish	swordfish	nn
+,		,
+and	and	cc
+use	use	vv0
+your	your	appge
+nose	nose	nn1
+in	in	ii
+a	a	at1
+blunt	blunt	jj
+and	and	cc
+violent	violent	jj
+manner	manner	nn1
+.		.
+<p>		null
+The	the	at
+one	one	mc1
+kiss	kiss	nn1_vv0
+in	in	ii
+which	which	ddq
+you	you	ppy
+rarely	rarely	rr
+come	come	vv0_vvn@
+up	up	rp
+for	for	if
+air	air	nn1
+.		.
+<p>		null
+Avoid	avoid	vv0
+the	the	at
+freezing	freezing	jj
+condition	condition	nn1
+in	in	ii
+which	which	ddq
+you	you	ppy
+never	never	rr
+change	change	vv0
+the	the	at
+position	position	nn1
+,		,
+posture	posture	nn1
+,		,
+or	or	cc
+angle	angle	nn1
+of	of	io
+your	your	appge
+head	head	nn1
+.		.
+Its	its	appge
+really	really	rr
+boring	boring	jj_vvg@
+.		.
+<p>		null
+You	you	ppy
+seem	seem	vv0
+to	to	to
+emit	emit	vvi
+an	a	at1
+awful	awful	jj
+smell	smell	nn1
+and	and	cc
+taste	taste	nn1
+.		.
+All	all	db_rr@
+she	she	pphs1
+can	can	vm
+think	think	vvi
+of	of	io
+is	be	vbz
+how	how	rrq
+to	to	to
+slip	slip	vvi
+you	you	ppy
+a	a	at1
+breath	breath	nn1
+mint	mint	nn1
+.		.
+<p>		null
+Kissing	kiss	vvg
+your	your	appge
+lover	lover	nn1
+should	should	vm
+be	be	vbi
+an	a	at1
+everyday	everyday	jj
+affair	affair	nn1
+,		,
+an	a	at1
+expression	expression	nn1
+of	of	io
+your	your	appge
+love	love	nn1
+for	for	if
+him	him	ppho1
+or	or	cc
+her	her	ppho1
+.		.
+You	you	ppy
+should	should	vm
+not	not	xx
+use	use	vvi
+every	every	at1
+kissing	kissing	nn1_jj%
+session	session	nnt1
+as	as	ii_csa
+a	a	at1
+prelude	prelude	nn1
+to	to	ii
+sex	sex	nn1
+.		.
+The	the	at
+kiss	kiss	nn1
+is	be	vbz
+the	the	at
+single	single	jj
+most	most	rgt
+intimate	intimate	jj
+display	display	nn1
+of	of	io
+affection	affection	nn1
+.		.
+The	the	at
+kiss	kiss	nn1
+is	be	vbz
+the	the	at
+key	key	nn1_jj
+that	that	cst_dd1
+opens	open	vvz
+the	the	at
+door	door	nn1
+to	to	ii
+both	both	db2
+her	her	appge
+heart	heart	nn1
+,		,
+and	and	cc
+her	her	appge
+body	body	nn1
+.		.
+It	it	pph1
+has	have	vhz
+been	be	vbn
+found	find	vvn
+that	that	cst
+most	most	dat
+women	woman	nn2
+based	base	vvn_vvd@
+their	their	appge
+decision	decision	nn1
+of	of	io
+whether	whether	csw
+they	they	pphs2
+would	would	vm
+sleep	sleep	vvi
+with	with	iw
+a	a	at1
+man	man	nn1
+,		,
+on	on	ii
+his	his	appge
+kissing	kissing	nn1
+abilities	ability	nn2
+!		!
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+a	a	at1
+Quest	quest	nn1
+<p>		null
+Most	most	dat
+men	man	nn2
+if	if	cs
+given	give	vvn
+a	a	at1
+chance	chance	nn1
+to	to	to
+kiss	kiss	vvi
+a	a	at1
+woman	woman	nn1
+thinks	think	vvz
+while	while	cs
+kissing	kiss	vvg
+that	that	cst
+when	when	cs
+can	can	vm
+we	we	ppis2
+get	get	vvi
+to	to	to
+step	step	vvi
+two	two	mc
+?		?
+And	and	cc
+three	three	mc
+and	and	cc
+four	four	mc
+?		?
+Is	be	vbz
+she	she	pphs1
+aroused	arouse	vvn
+yet	yet	rr
+?		?
+Can	can	vm_vv0%
+I	i	ppis1
+put	put	vvi
+my	my	appge
+hand	hand	nn1
+on	on	ii
+her	her	appge
+breast	breast	nn1
+now	now	rt
+?		?
+A	a	at1
+man	man	nn1
+sees	see	vvz
+kissing	kiss	vvg_nn1
+as	as	ii_csa
+the	the	at
+next	next	md
+step	step	nn1_vv0
+on	on	ii
+a	a	at1
+quest	quest	nn1
+.		.
+Many	many	da2
+men	man	nn2
+take	take	vv0
+kissing	kiss	vvg_nn1
+as	as	ii
+a	a	at1
+step	step	nn1
+to	to	to
+get	get	vvi
+down	down	rp
+to	to	ii
+the	the	at
+good	good	jj
+stuff	stuff	nn1
+.		.
+As	as	ii
+a	a	at1
+result	result	nn1
+,		,
+they	they	pphs2
+rush	rush	vv0
+through	through	ii_rp@
+the	the	at
+kissing	kissing	nn1
+and	and	cc
+do	do	vd0
+not	not	xx
+get	get	vvi
+to	to	to
+fully	fully	rr
+enjoy	enjoy	vvi
+the	the	at
+delightfulness	delightfulness	nn1
+of	of	io
+a	a	at1
+long	long	jj_rr
+,		,
+passionate	passionate	jj
+,		,
+kiss	kiss	vv0_nn1
+.		.
+<p>		null
+The	the	at
+Kiss	kiss	nn1
+Should	should	vm
+Not	not	xx
+Be	be	vbi
+a	a	at1
+Step	step	nn1
+but	but	ccb
+a	a	at1
+Destination	destination	nn1
+In	in	ii
+Itself	itself	ppx1
+<p>		null
+Actually	actually	rr
+the	the	at
+kiss	kiss	nn1
+is	be	vbz
+not	not	xx
+a	a	at1
+step	step	nn1
+,		,
+it	it	pph1
+is	be	vbz
+the	the	at
+the	the	at
+destination	destination	nn1
+itself	itself	ppx1
+.		.
+A	a	at1
+man	man	nn1
+kisses	kiss	vvz@_nn2
+a	a	at1
+woman	woman	nn1
+like	like	cs%_vv0@
+he	he	pphs1
+will	will	vm
+never	never	rr
+do	do	vdi
+anything	anything	pn1
+else	else	rr
+with	with	iw
+this	this	dd1
+woman	woman	nn1
+,		,
+as	as	cs21
+if	if	cs22
+he	he	pphs1
+never	never	rr
+wants	want	vvz
+to	to	to
+do	do	vdi
+anything	anything	pn1
+else	else	rr
+with	with	iw
+this	this	dd1
+woman	woman	nn1
+.		.
+But	but	ccb
+this	this	dd1
+is	be	vbz
+when	when	rrq_cs
+the	the	at
+woman	woman	nn1
+decides	decide	vvz
+there	there	ex_rl
+will	will	vm
+be	be	vbi
+other	other	jj
+activities	activity	nn2
+on	on	ii
+the	the	at
+agenda	agenda	nn1
+.		.
+<p>		null
+Kissing-		nn1_jj
+Keep	keep	vv0
+It	it	pph1
+Simple	simple	jj
+and	and	cc
+Sexy	sexy	jj
+<p>		null
+You	you	ppy
+want	want	vv0
+to	to	to
+be	be	vbi
+a	a	at1
+great	great	jj
+kisser	kisser	nn1
+?		?
+Then	then	rt
+keep	keep	vv0
+it	it	pph1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+heavenly	heavenly	jj
+kiss	kiss	nn1
+.		.
+Instead	instead	rr
+,		,
+indulge	indulge	vv0
+yourself	yourself	ppx1
+in	in	ii
+a	a	at1
+simple	simple	jj
+,		,
+sexy	sexy	jj
+and	and	cc
+intimate	intimate	jj_vv0
+kiss	kiss	nn1
+.		.
+Rid	rid	vv0
+your	your	appge
+mind	mind	nn1
+of	of	io
+any	any	dd
+kissing	kissing	nn1
+performance	performance	nn1
+thoughts	thought	nn2
+,		,
+and	and	cc
+instead	instead	rr
+,		,
+realize	realize	vv0
+that	that	cst
+she	she	pphs1
+'s	be	vbz
+opening	open	vvg
+the	the	at
+door	door	nn1
+to	to	ii
+her	her	appge
+soul	soul	nn1
+and	and	cc
+body	body	nn1
+.		.
+Enjoy	enjoy	vv0
+the	the	at
+moment	moment	nn1
+!		!
+<p>		null
+Kissing	kissing	nn1
+Says	say	vvz
+Something	something	pn1
+Words	word	nn2
+Ca	can	vm
+n't	n't	xx
+<p>		null
+If	if	cs
+the	the	at
+eyes	eye	nn2
+tell	tell	vv0
+the	the	at
+secrets	secret	nn2
+of	of	io
+a	a	at1
+person	person	nn1
+,		,
+then	then	rt_jj%
+lips	lip	nn2
+are	be	vbr
+the	the	at
+informers	informer	nn2
+of	of	io
+our	our	appge
+consciousness	consciousness	nn1
+.		.
+Our	our	appge
+lips	lip	nn2
+respond	respond	vv0
+to	to	ii
+happy	happy	jj
+thoughts	thought	nn2
+by	by	ii
+smiling	smile	vvg_jj
+,		,
+they	they	pphs2
+express	express	vv0
+our	our	appge
+deepest	deepest	jjt
+emotions	emotion	nn2
+with	with	iw
+words	word	nn2
+of	of	io
+love	love	nn1
+and	and	cc
+hope	hope	vv0_nn1
+,		,
+and	and	cc
+kissing	kissing	nn1_vvg
+is	be	vbz
+the	the	at
+only	only	jj
+way	way	nn1
+to	to	to
+say	say	vvi
+something	something	pn1
+that	that	cst
+words	word	nn2
+ca	can	vm
+n't	n't	xx
+.		.
+<p>		null
+The	the	at
+First	first	md
+Kiss	kiss	nn1_vv0
+?		?
+<p>		null
+A	a	at1
+first	first	md
+kiss	kiss	nn1_vv0
+!		!
+!		!
+It	it	pph1
+should	should	vm
+always	always	rr
+be	be	vbi
+done	do	vdn
+while	while	cs
+the	the	at
+two	two	mc
+of	of	io
+you	you	ppy
+are	be	vbr
+alone	alone	jj
+.		.
+(		(
+Do	do	vd0
+I	i	ppis1
+need	need	vvi
+to	to	to
+tell	tell	vvi
+that	that	dd1
+?		?
+)		)
+This	this	dd1
+will	will	vm
+help	help	vvi
+to	to	to
+avoid	avoid	vvi
+any	any	dd
+unnecessary	unnecessary	jj
+nervousness	nervousness	nn1
+and	and	cc
+embarrassing	embarrassing	jj
+situations	situation	nn2
+.		.
+The	the	at
+best	best	jjt
+type	type	nn1
+of	of	io
+kiss	kiss	nn1
+is	be	vbz
+one	one	pn1
+that	that	cst
+uses	use	vvz
+different	different	jj
+variations	variation	nn2
+...		...
+such	such	ii21
+as	as	ii22
+starting	start	vvg
+with	with	iw
+a	a	at1
+small	small	jj
+kiss	kiss	nn1
+,		,
+working	work	vvg
+into	into	ii
+a	a	at1
+French	french	jj_nn1
+kiss	kiss	nn1
+,		,
+maybe	maybe	rr
+sucking	suck	vvg
+on	on	ii_rp@
+your	your	appge
+partner	partner	nn1
+'s	's	ge_vbz
+upper	upper	jj
+or	or	cc
+lower	low	jjr
+lip	lip	nn1
+...		...
+<p>		null
+And	and	cc
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+whole	whole	jj
+face	face	nn1
+.		.
+This	this	dd1
+can	can	vm
+be	be	vbi
+very	very	rg
+seductive	seductive	jj
+and	and	cc
+romantic	romantic	jj
+.		.
+<p>		null
+Kissing	kissing	nn1_vvg
+is	be	vbz
+an	a	at1
+Art	art	nn1
+Form	form	nn1
+<p>		null
+Kissing	kissing	nn1_vvg
+is	be	vbz
+an	a	at1
+art	art	nn1
+form	form	nn1
+.		.
+The	the	at
+kissing	kissing	nn1
+experience	experience	nn1
+is	be	vbz
+different	different	jj
+for	for	if
+each	each	dd1
+of	of	io
+us.The	us.the	nnu
+first	first	md
+step	step	nn1_vv0
+to	to	ii
+kissing	kissing	nn1_vvg
+is	be	vbz
+known	know	vvn
+as	as	ii
+finding	find	vvg
+her	her	appge
+comfort	comfort	nn1
+level	level	nn1
+.		.
+Make	make	vv0
+sure	sure	jj
+she	she	pphs1
+is	be	vbz
+ready	ready	jj
+for	for	if
+a	a	at1
+kiss	kiss	nn1
+and	and	cc
+do	do	vd0
+not	not	xx
+start	start	vvi
+anything	anything	pn1
+until	until	cs
+she	she	pphs1
+is	be	vbz
+comfortable	comfortable	jj
+.		.
+<p>		null
+Give	give	vv0
+a	a	at1
+Memorable	memorable	jj
+Kiss	kiss	nn1
+<p>		null
+The	the	at
+best	best	jjt
+kisses	kiss	nn2
+are	be	vbr
+those	those	dd2
+that	that	cst
+are	be	vbr
+memorable	memorable	jj
+,		,
+but	but	ccb
+leave	leave	vv0
+you	you	ppy
+pantingly	pantingly	rr
+wanting	want	vvg
+more	more	rrr_dar
+.		.
+The	the	at
+language	language	nn1
+of	of	io
+a	a	at1
+kiss	kiss	nn1
+is	be	vbz
+communication	communication	nn1
+without	without	iw
+words	word	nn2
+.		.
+At	at	ii
+various	various	jj
+times	time	nnt2
+you	you	ppy
+want	want	vv0
+to	to	to
+communicate	communicate	vvi
+attraction	attraction	nn1
+,		,
+affection	affection	nn1
+,		,
+love	love	nn1_vv0
+,		,
+passion	passion	nn1
+,		,
+lust	lust	nn1
+,		,
+and	and	cc
+I	i	ppis1
+'ll	will	vm
+miss	miss	vvi
+you	you	ppy
+,		,
+baby	baby	nn1
+.		.
+Pay	pay	vv0_nn1
+attention	attention	nn1
+to	to	ii
+what	what	ddq
+your	your	appge
+mate	mate	nn1
+responds	respond	vvz
+to	to	to_ii
+,		,
+and	and	cc
+what	what	ddq
+seems	seem	vvz
+to	to	to
+turn	turn	vvi
+him	him	ppho1
+or	or	cc
+her	her	ppho1
+off	off	rp
+,		,
+then	then	rt
+adjust	adjust	vvi
+your	your	appge
+techniques	technique	nn2
+accordingly	accordingly	rr
+.		.
+<p>		null
+If	if	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+bad	bad	jj
+kisser	kisser	nn1
+,		,
+what	what	ddq
+a	a	at1
+woman	woman	nn1
+will	will	vm
+never	never	rr
+,		,
+ever	ever	rr
+say	say	vv0
+to	to	ii
+you	you	ppy
+she	she	pphs1
+was	be	vbdz
+going	go	vvgk
+to	to	to
+have	have	vhi
+s*x		fo
+with	with	iw
+you	you	ppy
+until	until	cs
+just	just	rr
+that	that	dd1
+moment	moment	nn1
+.		.
+This	this	dd1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+ways	way	nn2
+in	in	ii
+which	which	ddq
+men	man	nn2
+and	and	cc
+women	woman	nn2
+differ	differ	vv0
+.		.
+If	if	cs
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+she	she	pphs1
+'s	be	vbz
+a	a	at1
+bad	bad	jj
+kisser	kisser	nn1
+and	and	cc
+if	if	cs_csw@
+he	he	pphs1
+is	be	vbz
+presented	present	vvn
+with	with	iw
+the	the	at
+opportunity	opportunity	nn1
+,		,
+he	he	pphs1
+'ll	will	vm
+probably	probably	rr
+have	have	vhi
+s*x		fo
+with	with	iw
+her	her	ppho1
+anyway	anyway	rr
+.		.
+A	a	at1
+woman	woman	nn1
+ca	can	vm
+n't	n't	xx
+get	get	vvi
+past	past	ii_rl
+a	a	at1
+bad	bad	jj
+kiss	kiss	nn1
+.		.
+After	after	ii
+all	all	db
+,		,
+if	if	cs
+he	he	pphs1
+has	have	vhz
+n't	n't	xx
+mastered	master	vvn
+kissing	kissing	nn1_vvg
+and	and	cc
+fails	fail	vvz
+to	to	to
+see	see	vvi
+its	its	appge
+sensual	sensual	jj
+possibilities	possibility	nn2
+,		,
+what	what	ddq
+hope	hope	vv0_nn1
+is	be	vbz
+there	there	rl%
+for	for	if
+anything	anything	pn1
+else	else	rr
+?		?
+<p>		null
+After	after	cs
+you	you	ppy
+'ve	have	vh0
+kissed	kiss	vvn
+him/her	him/her	ppho1
+once	once	rr
+,		,
+you	you	ppy
+know	know	vv0
+he/she	he/she	pphs1
+wants	want	vvz
+to	to	to
+kiss	kiss	vvi
+you	you	ppy
+.		.
+But	but	ccb
+what	what	ddq
+if	if	cs
+you	you	ppy
+two	two	mc
+have	have	vh0
+never	never	rr
+kissed	kiss	vvn
+?		?
+The	the	at
+first	first	md
+kiss	kiss	nn1
+is	be	vbz
+the	the	at
+hardest	hard	jjt_rrt
+.		.
+<p>		null
+Couples	couple	nn2
+should	should	vm
+not	not	xx
+limit	limit	vvi
+kissing	kiss	vvg_nn1
+merely	merely	rr
+to	to	ii
+times	time	nnt2
+like	like	ii
+making	make	vvg
+out	out	rp
+,		,
+or	or	cc
+as	as	ii_csa
+the	the	at
+conclusion	conclusion	nn1
+to	to	ii
+a	a	at1
+date	date	nn1
+or	or	cc
+a	a	at1
+prelude	prelude	nn1
+to	to	ii
+something	something	pn1
+more	more	dar_rrr
+.		.
+Kissing	kiss	vvg
+your	your	appge
+lover	lover	nn1
+should	should	vm
+be	be	vbi
+an	a	at1
+everyday	everyday	jj
+affair	affair	nn1
+,		,
+an	a	at1
+expression	expression	nn1
+of	of	io
+your	your	appge
+love	love	nn1
+for	for	if
+her	her	ppho1
+.		.
+You	you	ppy
+should	should	vm
+not	not	xx
+use	use	vvi
+every	every	at1
+kissing	kissing	nn1_jj%
+session	session	nnt1
+as	as	ii_csa
+a	a	at1
+prelude	prelude	nn1
+to	to	ii
+s*x		fo
+.		.
+<p>		null
+Good	good	jj
+and	and	cc
+Bad	bad	jj
+Kissing	kissing	nn1
+<p>		null
+If	if	cs
+you	you	ppy
+are	be	vbr
+a	a	at1
+bad	bad	jj
+kisser	kisser	nn1
+,		,
+what	what	ddq
+a	a	at1
+woman	woman	nn1
+will	will	vm
+never	never	rr
+,		,
+ever	ever	rr
+say	say	vv0
+to	to	ii
+you	you	ppy
+she	she	pphs1
+was	be	vbdz
+going	go	vvgk
+to	to	to
+have	have	vhi
+s*x		fo
+with	with	iw
+you	you	ppy
+until	until	cs
+just	just	rr
+that	that	dd1
+moment	moment	nn1
+.		.
+This	this	dd1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+ways	way	nn2
+in	in	ii
+which	which	ddq
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+attracted	attracted	jj@_vvn
+to	to	ii
+a	a	at1
+woman	woman	nn1
+but	but	ccb
+discovers	discover	vvz
+she	she	pphs1
+'s	be	vbz
+a	a	at1
+bad	bad	jj
+kisser	kisser	nn1
+and	and	cc
+if	if	cs_csw@
+he	he	pphs1
+is	be	vbz
+presented	present	vvn
+with	with	iw
+the	the	at
+opportunity	opportunity	nn1
+,		,
+he	he	pphs1
+'ll	will	vm
+probably	probably	rr
+have	have	vhi
+s*x		fo
+with	with	iw
+her	her	ppho1
+anyway	anyway	rr
+.		.
+A	a	at1
+woman	woman	nn1
+ca	can	vm
+n't	n't	xx
+get	get	vvi
+past	past	ii_rl
+a	a	at1
+bad	bad	jj
+kiss	kiss	nn1
+.		.
+After	after	ii
+all	all	db
+,		,
+if	if	cs
+he	he	pphs1
+has	have	vhz
+n't	n't	xx
+mastered	master	vvn
+kissing	kissing	nn1_vvg
+and	and	cc
+fails	fail	vvz
+to	to	to
+see	see	vvi
+its	its	appge
+sensual	sensual	jj
+possibilities	possibility	nn2
+,		,
+what	what	ddq
+hope	hope	vv0_nn1
+is	be	vbz
+there	there	rl%
+for	for	if
+anything	anything	pn1
+else	else	rr
+?		?
+<p>		null
+Kissing	kiss	vvg_nn1
+Techniques	technique	nn2
+<p>		null
+The	the	at
+secret	secret	nn1_jj
+to	to	ii
+being	be	vbg
+a	a	at1
+great	great	jj
+kisser	kisser	nn1
+is	be	vbz
+to	to	to
+keep	keep	vvi
+it	it	pph1
+simple	simple	jj
+and	and	cc
+sexy	sexy	jj
+.		.
+Forget	forget	vv0
+about	about	ii
+impressing	impress	vvg
+her	her	ppho1
+with	with	iw
+that	that	dd1
+Casanovian		jj
+kiss	kiss	nn1
+.		.
+Instead	instead	rr
+,		,
+indulge	indulge	vv0
+yourself	yourself	ppx1
+in	in	ii
+a	a	at1
+simple	simple	jj
+,		,
+sexy	sexy	jj
+and	and	cc
+intimate	intimate	jj_vv0
+kiss	kiss	nn1
+.		.
+Rid	rid	vv0
+your	your	appge
+mind	mind	nn1
+of	of	io
+any	any	dd
+kissing	kissing	nn1
+performance	performance	nn1
+thoughts	thought	nn2
+,		,
+and	and	cc
+instead	instead	rr
+,		,
+realize	realize	vv0
+that	that	cst
+she	she	pphs1
+'s	be	vbz
+opening	open	vvg
+the	the	at
+door	door	nn1
+to	to	ii
+her	her	appge
+soul	soul	nn1
+and	and	cc
+body	body	nn1
+.		.
+Enjoy	enjoy	vv0
+the	the	at
+moment	moment	nn1
+!		!
+<p>		null
+You	you	ppy
+could	could	vm
+ask	ask	vvi
+him/her	him/her	ppho1
+to	to	to
+kiss	kiss	vvi
+you	you	ppy
+,		,
+but	but	ccb
+that	that	dd1
+takes	take	vvz
+a	a	at1
+lot	lot	nn1
+of	of	io
+courage	courage	nn1
+.		.
+But	but	ccb
+you	you	ppy
+can	can	vm
+tell	tell	vvi
+,		,
+without	without	iw
+reading	read	vvg
+his	his	appge
+mind	mind	nn1
+.		.
+Here	here	rl
+are	be	vbr
+some	some	dd
+ways	way	nn2
+.		.
+He	he	pphs1
+could	could	vm
+have	have	vhi
+worked	work	vvn
+on	on	ii
+the	the	at
+science	science	nn1
+project	project	nn1
+with	with	iw
+someone	someone	pn1
+else	else	rr
+,		,
+but	but	ccb
+he	he	pphs1
+asked	ask	vvd
+you	you	ppy
+.		.
+He	he	pphs1
+could	could	vm
+have	have	vhi
+called	call	vvn
+somebody	somebody	pn1
+else	else	rr
+to	to	to
+chat	chat	vvi
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+He	he	pphs1
+could	could	vm
+have	have	vhi
+sat	sit	vvn@
+anywhere	anywhere	rl
+in	in	ii
+the	the	at
+cafeteria	cafeteria	nn1
+,		,
+but	but	ccb
+he	he	pphs1
+sat	sit	vvd
+next	next	ii21
+to	to	ii22
+you	you	ppy
+.		.
+It	it	pph1
+all	all	db_rr@
+means	mean	nn_vvz
+he	he	pphs1
+likes	like	vvz
+to	to	to
+hang	hang	vvi
+out	out	rp
+with	with	iw
+you	you	ppy
+.		.
+<p>		null
+And	and	cc
+what	what	ddq
+about	about	ii
+when	when	rrq
+you	you	ppy
+'re	be	vbr
+with	with	iw
+him	him	ppho1
+.		.
+Does	do	vdz
+he	he	pphs1
+sit	sit	vvi
+close	close	rr_jj
+to	to	ii
+you	you	ppy
+?		?
+Does	do	vdz
+he	he	pphs1
+smile	smile	vvi
+and	and	cc
+look	look	vvi
+happy	happy	jj
+when	when	cs
+you	you	ppy
+'re	be	vbr
+together	together	rl
+?		?
+These	these	dd2
+are	be	vbr
+all	all	db
+signs	sign	nn2_vvz@
+that	that	cst
+he	he	pphs1
+likes	like	vvz
+you	you	ppy
+and	and	cc
+might	might	vm
+want	want	vvi
+to	to	to
+kiss	kiss	vvi
+you	you	ppy
+.		.
+<p>		null
+Dos		nn2
+and	and	cc
+Don'ts	don't	nn2
+for	for	if
+Kissing	kissing	nn1_vvg
+<p>		null
+1	1	mc1
+.		.
+Do	do	vd0
+n't	n't	xx
+drool	drool	vvi
+all	all	rr
+over	over	ii
+her	her	appge
+mouth	mouth	nn1
+while	while	cs
+kissing	kiss	vvg_nn1
+.		.
+Women	woman	nn2
+do	do	vd0
+n't	n't	xx
+like	like	vvi
+wet	wet	jj
+or	or	cc
+sloppy	sloppy	jj
+kisses	kiss	nn2
+.		.
+<p>		null
+2	2	mc
+.		.
+Do	do	vd0
+n't	n't	xx
+keep	keep	vvi
+your	your	appge
+lips	lip	nn2
+stiff	stiff	jj_rr@
+and	and	cc
+rigid	rigid	jj
+.		.
+You	you	ppy
+'ve	have	vh0
+got	get	vvn
+to	to	to
+keep	keep	vvi
+your	your	appge
+lips	lip	nn2
+soft	soft	jj
+and	and	cc
+sensuous	sensuous	jj
+.		.
+She	she	pphs1
+needs	need	vvz
+to	to	to
+be	be	vbi
+able	able	jk
+to	to	to
+feel	feel	vvi
+your	your	appge
+lips	lip	nn2
+.		.
+<p>		null
+3	3	mc
+.		.
+Do	do	vd0
+n't	n't	xx
+keep	keep	vvi
+your	your	appge
+lips	lip	nn2
+closed	close	vvd_vvn
+.		.
+Open	open	vv0
+your	your	appge
+lips	lip	nn2
+!		!
+Women	woman	nn2
+do	do	vd0
+n't	n't	xx
+enjoy	enjoy	vvi
+kissing	kiss	vvg_nn1
+just	just	rr
+a	a	at1
+slit	slit	nn1
+on	on	ii
+a	a	at1
+guys	guy	nn2
+face	face	vv0_nn1
+.		.
+If	if	cs
+you	you	ppy
+do	do	vd0
+n't	n't	xx
+know	know	vvi
+how	how	rrq
+to	to	to
+kiss	kiss	vvi
+properly	properly	rr
+,		,
+try	try	vv0
+to	to	to
+practice	practice	nn1
+on	on	ii
+the	the	at
+back	back	nn1
+of	of	io
+your	your	appge
+hand	hand	nn1
+.		.
+Pretend	pretend	vv0
+that	that	cst
+you	you	ppy
+are	be	vbr
+kissing	kiss	vvg
+a	a	at1
+hot	hot	jj
+&;		null
+sexy	sexy	jj
+beautiful	beautiful	jj
+woman	woman	nn1
+that	that	cst
+you	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+practice	practice	nn1
+kissing	kiss	vvg_nn1
+yourself	yourself	ppx1
+on	on	ii
+the	the	at
+mirror	mirror	nn1
+.		.
+In	in	rr21
+short	short	rr22
+,		,
+if	if	cs
+you	you	ppy
+really	really	rr
+want	want	vv0
+to	to	to
+succeed	succeed	vvi
+with	with	iw
+single	single	jj
+women	woman	nn2
+in	in	ii
+the	the	at
+love	love	nn1
+and	and	cc
+romance	romance	nn1
+department	department	nn1
+,		,
+you	you	ppy
+must	must	vm
+be	be	vbi
+a	a	at1
+good	good	jj
+kisser	kisser	nn1
+.		.
+<p>		null
+A	a	at1_zz1
+great	great	jj
+kiss	kiss	nn1
+should	should	vm
+always	always	rr
+be	be	vbi
+when	when	cs_rrq
+you	you	ppy
+'re	be	vbr
+alone	alone	jj
+with	with	iw
+her	her	ppho1
+.		.
+A	a	at1
+movie	movie	nn1
+theatre	theater	nn1
+is	be	vbz
+a	a	at1
+good	good	jj
+place	place	nn1
+because	because	cs
+it	it	pph1
+'s	be	vbz
+dark	dark	jj
+and	and	cc
+people	people	nn
+wo	will	vm
+n't	n't	xx
+be	be	vbi
+paying	pay	vvg_jj@
+attention	attention	nn1
+.		.
+Try	try	vv0
+to	to	to
+sit	sit	vvi
+near	near	ii
+the	the	at
+back	back	nn1
+,		,
+though	though	cs_rr@
+,		,
+for	for	if
+privacy	privacy	nn1
+.		.
+But	but	ccb
+I	i	ppis1
+do	do	vd0
+believe	believe	vvi
+that	that	cst
+a	a	at1
+first	first	md
+kiss	kiss	nn1
+should	should	vm
+be	be	vbi
+the	the	at
+good-bye	good-bye	nn1@
+kiss	kiss	nn1
+.		.
+When	when	cs_rrq
+you	you	ppy
+'re	be	vbr
+dropping	drop	vvg
+her	her	ppho1
+off	off	rp
+at	at	ii
+her	her	appge
+place	place	nn1
+or	or	cc
+saying	say	vvg
+good-bye	good-bye	nn1@_uh
+from	from	ii
+seeing	see	vvg
+one	one	ppx121
+another	another	ppx122
+until	until	cs_ii@
+the	the	at
+next	next	md
+time	time	nnt1
+,		,
+ask	ask	vv0
+her	her	ppho1
+if	if	cs_csw@
+it	it	pph1
+'s	be	vbz
+okay	okay	jj
+if	if	cs_csw@
+you	you	ppy
+kiss	kiss	vv0
+her	her	ppho1
+.		.
+It	it	pph1
+'s	be	vbz
+not	not	xx
+childish	childish	jj
+or	or	cc
+geeky	geeky	jj
+to	to	to
+ask	ask	vvi
+a	a	at1
+woman	woman	nn1
+that	that	dd1
+.		.
+It	it	pph1
+'s	be	vbz
+respectful	respectful	jj
+and	and	cc
+kind	kind	nn1
+.		.
+<p>		null
+Daniel	daniel	np1
+Day-Lewis	day-lewis	np1
+belongs	belong	vvz
+in	in	ii
+the	the	at
+kissing	kissing	nn1
+hall	hall	nn1
+of	of	io
+fame	fame	nn1
+for	for	if
+Best	best	jjt_rrt
+Use	use	nn1_vv0
+of	of	io
+Hands	hand	nn2
+.		.
+He	he	pphs1
+gently	gently	rr
+caresses	caress	nn2
+his	his	appge
+costar	co-star	nn1
+'s	's	ge
+face	face	nn1
+and	and	cc
+touches	touch	vvz
+her	her	appge
+hair	hair	nn1
+,		,
+a	a	at1
+model	model	nn1
+of	of	io
+how	how	rrq
+hands	hand	nn2
+can	can	vm
+increase	increase	vvi
+the	the	at
+erotic	erotic	jj
+pleasure	pleasure	nn1
+of	of	io
+the	the	at
+moment	moment	nn1
+.		.
+<p>		null
+Bear	bear	vv0
+in	in	ii
+mind	mind	nn1
+the	the	at
+hands	hand	nn2
+should	should	vm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+or	or	cc
+to	to	to
+clamp	clamp	vvi
+her	her	appge
+head	head	nn1
+into	into	ii
+one	one	mc1
+uncomfortable	uncomfortable	jj
+position	position	nn1
+.		.
+Remember	remember	vv0
+most	most	dat
+women	woman	nn2
+like	like	ii
+men	man	nn2
+to	to	to
+toy	toy	vvi
+gently	gently	rr
+with	with	iw
+their	their	appge
+hair	hair	nn1
+.		.
+After	after	cs_ii
+decades	decade	nnt2
+of	of	io
+bad	bad	jj
+press	press	nn1
+about	about	ii
+sticky	sticky	jj
+hairsprays	hairspray	nn2
+and	and	cc
+helmet	helmet	nn1
+hair	hair	nn1
+,		,
+most	most	dat
+of	of	io
+us	us	ppio2
+have	have	vh0
+been	be	vbn
+using	use	vvg
+products	product	nn2
+to	to	to
+enhance	enhance	vvi
+"		"
+touch	touch	nn1
+ability	ability	nn1
+"		"
+and	and	cc
+are	be	vbr
+favoring	favor	vvg_jj@
+hairstyles	hairstyle	nn2
+that	that	cst
+look	look	vv0
+good	good	jj
+a	a	rr21
+bit	bit	rr22
+tousled	tousle	vvd_vvn@
+.		.
+So	so	rr
+go	go	vv0
+ahead	ahead	rl
+and	and	cc
+touch	touch	nn1_vv0
+hair	hair	nn1
+.		.
+And	and	cc
+quit	quit	vv0_vvd_vvn
+using	use	vvg
+all	all	db
+that	that	dd1_cst
+sticky	sticky	jj
+hairspray	hairspray	nn1
+and	and	cc
+goo	goo	nn1
+so	so	cs@_rr
+we	we	ppis2
+can	can	vm
+go	go	vvi
+back	back	rp
+to	to	ii
+touching	touch	vvg_jj
+yours	yours	ppge
+.		.
+<p>		null
+Keep	keep	vv0
+in	in	ii_rp@
+mind	mind	nn1
+that	that	cst
+using	use	vvg
+your	your	appge
+tongue	tongue	nn1
+is	be	vbz
+not	not	xx
+required	require	vvn
+for	for	if
+kissing	kiss	vvg_nn1
+...		...
+if	if	cs
+you	you	ppy
+are	be	vbr
+not	not	xx
+experienced	experience	vvn_jj
+,		,
+save	save	vv0_ii@
+the	the	at
+French	french	jj_nn1
+kissing	kissing	nn1
+(		(
+kissing	kissing	nn1_vvg
+using	use	vvg
+your	your	appge
+tongue	tongue	nn1
+)		)
+for	for	if
+later	later	jjr_rrr
+.		.
+Lots	lots	pn
+of	of	io
+the	the	at
+greatest	greatest	jjt
+kisses	kiss	nn2
+are	be	vbr
+all	all	db_rr@
+about	about	ii
+the	the	at
+lips	lip	nn2
+.		.
+When	when	cs_rrq
+you	you	ppy
+are	be	vbr
+comfortable	comfortable	jj
+kissing	kissing	nn1_vvg
+your	your	appge
+partner	partner	nn1
+,		,
+experiment	experiment	nn1_vv0@
+with	with	iw
+different	different	jj
+ways	way	nn2
+to	to	to
+taste	taste	vvi
+and	and	cc
+nuzzle	nuzzle	vvi
+his	his	appge
+lips	lip	nn2
+.		.
+Caress	caress	vv0
+his	his	appge
+lips	lip	nn2
+by	by	ii
+brushing	brush	vvg
+your	your	appge
+lips	lip	nn2
+back	back	rp_nn1
+and	and	cc
+forth	forth	rr
+against	against	ii
+them	them	ppho2
+,		,
+lick	lick	vv0
+the	the	at
+outside	outside	jj
+corners	corner	nn2
+of	of	io
+his	his	appge
+mouth	mouth	nn1
+,		,
+and	and	cc
+try	try	vv0
+using	use	vvg
+different	different	jj
+pressures	pressure	nn2
+and	and	cc
+movements	movement	nn2
+to	to	to
+gently	gently	rr
+explore	explore	vvi
+your	your	appge
+partner	partner	nn1
+'s	's	ge
+lips	lip	nn2
+.		.
+Notice	notice	vv0
+how	how	rgq@_rrq
+good	good	jj_rr%
+his	his	appge
+lips	lip	nn2
+feel	feel	vv0
+against	against	ii
+yours	yours	ppge
+,		,
+##3837450		fo
+<p>		null
+MTN	mtn	np1
+Group	group	nn1
+has	have	vhz
+scored	score	vvn
+yet	yet	rr
+another	another	dd1
+major	major	jj
+feat	feat	nn1
+in	in	ii
+telecoms	telecom	nn
+when	when	cs_rrq
+it	it	pph1
+announced	announce	vvd
+yesterday	yesterday	rt
+that	that	cst
+its	its	appge
+$90m	$90m	nnu
+(		(
+R602m		fo
+)		)
+investment	investment	nn1
+in	in	ii
+the	the	at
+West	west	nd1
+Africa	africa	np1
+Cable	cable	nn1
+System	system	nn1
+(		(
+Wacs	wac	np2
+)		)
+will	will	vm
+land	land	vvi
+in	in	ii
+the	the	at
+Western	western	np1
+Cape	cape	np1
+later	later	rrr
+this	this	dd1
+month	month	nnt1
+.		.
+<p>		null
+The	the	at
+telecoms	telecom	nn
+giant	giant	nn1
+said	say	vvd
+the	the	at
+14,000km		nnu
+submarine	submarine	nn1
+cable	cable	nn1
+will	will	vm
+land	land	vvi
+at	at	ii
+Yzerfontein		np1
+in	in	ii
+the	the	at
+Western	western	np1
+Cape	cape	np1
+.		.
+<p>		null
+Karel	karel	np1
+Pienaar	pienaar	np1
+,		,
+MTN	mtn	np1
+South	south	np1
+Africa	africa	np1
+'s	's	ge
+MD	md	nn1
+,		,
+lauded	laud	vvd
+the	the	at
+cable	cable	nn1
+,		,
+saying	say	vvg
+it	it	pph1
+will	will	vm
+be	be	vbi
+a	a	at1
+catalyst	catalyst	nn1
+to	to	ii
+economic	economic	jj
+development	development	nn1
+.		.
+<p>		null
+"		"
+Wacs	wac	np2_nn2@
+will	will	vm
+provide	provide	vvi
+millions	million	nno2
+of	of	io
+MTN	mtn	np1
+subscribers	subscriber	nn2
+across	across	ii
+Africa	africa	np1
+with	with	iw
+much-needed	much-needed	jj
+bandwidth	bandwidth	nn1
+and	and	cc
+will	will	vm
+go	go	vvi
+a	a	at1
+long	long	jj
+way	way	nn1
+towards	towards	ii
+catapulting	catapult	vvg
+Africa	africa	np1
+into	into	ii
+the	the	at
+digital	digital	jj
+age	age	nn1
+.		.
+<p>		null
+"		"
+Lack	lack	nn1
+of	of	io
+bandwidth	bandwidth	nn1
+on	on	ii
+the	the	at
+continent	continent	nn1
+has	have	vhz
+arrested	arrest	vvn
+the	the	at
+development	development	nn1
+of	of	io
+Africa	africa	np1
+and	and	cc
+has	have	vhz
+constrained	constrain	vvn
+the	the	at
+continent	continent	nn1
+from	from	ii
+achieving	achieve	vvg
+its	its	appge
+full	full	jj
+potential	potential	nn1_jj
+,		,
+"		"
+Pienaar	pienaar	np1
+said	say	vvd
+.		.
+<p>		null
+The	the	at
+Wacs	wac	np2
+submarine	submarine	nn1
+cable	cable	nn1
+is	be	vbz
+an	a	at1
+ultra	ultra	rr
+high	high	jj
+capacity	capacity	nn1
+fibre	fibre	nn1
+optic	optic	nn1
+submarine	submarine	nn1
+cable	cable	nn1
+system	system	nn1
+that	that	cst_dd1
+links	link	vvz
+southern	southern	jj
+Africa	africa	np1
+and	and	cc
+Europe	europe	np1
+,		,
+spanning	span	vvg
+the	the	at
+west	west	nd1
+coast	coast	nn1
+of	of	io
+Africa	africa	np1
+and	and	cc
+terminating	terminate	vvg_jj
+in	in	ii
+London	london	np1
+,		,
+UK	uk	np1
+.		.
+<p>		null
+This	this	dd1
+$650m		nnu
+(		(
+R4.3bn		fo
+)		)
+cable	cable	nn1_vv0@
+system	system	nn1
+is	be	vbz
+the	the	at
+biggest	big	jjt
+to	to	to
+ever	ever	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+stations	station	nn2
+that	that	cst_dd1
+anchor	anchor	nn1_vv0@
+along	along	ii_rp
+the	the	at
+western	western	jj
+coast	coast	nn1
+of	of	io
+Africa	africa	np1
+,		,
+including	including	ii_vvg@
+countries	country	nn2
+where	where	rrq_cs
+MTN	mtn	np1
+has	have	vhz
+operations	operation	nn2
+such	such	ii21
+as	as	ii22
+Republic	republic	nn1
+of	of	io
+Congo	congo	np1
+,		,
+Cameroon	cameroon	np1
+,		,
+Nigeria	nigeria	np1
+,		,
+Ghana	ghana	np1
+and	and	cc
+Ivory	ivory	np1
+Coast	coast	np1
+.		.
+<p>		null
+The	the	at
+pan-African	pan-african	jj
+telecoms	telecom	nn
+giant	giant	nn1_jj
+,		,
+as	as	csa_ii
+the	the	at
+single	single	jj
+biggest	big	jjt
+investor	investor	nn1
+in	in	ii
+Wacs	wac	np2_nn2@
+,		,
+MTN	mtn	np1
+will	will	vm
+receive	receive	vvi
+an	a	at1
+initial	initial	jj_nn1
+capacity	capacity	nn1
+of	of	io
+11%	11%	nnu
+when	when	cs
+the	the	at
+cable	cable	nn1
+becomes	become	vvz
+commercially	commercially	rr
+available	available	jj
+in	in	ii
+the	the	at
+second	second	md
+quarter	quarter	nn1
+of	of	io
+this	this	dd1
+year	year	nnt1
+.		.
+<p>		null
+Pienaar		np1@_nn1
+explained	explain	vvd
+that	that	cst_dd1
+as	as	ii_csa
+a	a	at1
+multinational	multinational	jj
+corporation	corporation	nn1
+with	with	iw
+a	a	at1
+strong	strong	jj
+presence	presence	nn1
+in	in	ii
+16	16	mc
+African	african	jj
+countries	country	nn2
+,		,
+MTN	mtn	np1
+'s	's	ge
+multi-million	multi-million	jj
+rand	rand	nn1
+investments	investment	nn2
+in	in	ii
+undersea	undersea	jj_nn1
+cables	cable	nn2
+is	be	vbz
+also	also	rr
+underpinned	underpin	vvn
+by	by	ii
+the	the	at
+critical	critical	jj
+role	role	nn1
+that	that	cst_dd1
+telephony	telephony	nn1
+has	have	vhz
+played	play	vvn
+in	in	ii
+contributing	contribute	vvg
+meaningfully	meaningfully	rr
+to	to	to
+gross	gross	vvi
+domestic	domestic	jj
+product	product	nn1
+(		(
+GDP	gdp	nn1
+)		)
+and	and	cc
+alleviating	alleviate	vvg_jj@
+poverty	poverty	nn1
+.		.
+<p>		null
+This	this	dd1
+massive	massive	jj
+$90m	$90m	nnu
+investment	investment	nn1
+Wacs	wacs	nn2@_np2
+is	be	vbz
+an	a	at1
+addition	addition	nn1
+to	to	ii
+other	other	jj
+cables	cable	nn2
+where	where	rrq_cs
+the	the	at
+operator	operator	nn1
+has	have	vhz
+invested	invest	vvn
+.		.
+<p>		null
+MTN	mtn	np1
+has	have	vhz
+made	make	vvn
+a	a	at1
+cash	cash	nn1
+injection	injection	nn1
+of	of	io
+$50m	$50m	nnu
+(		(
+R334m		fo
+)		)
+in	in	ii
+Europe	europe	np1
+India	india	np1
+Gateway	gateway	np1
+,		,
+the	the	at
+submarine	submarine	nn1
+cable	cable	nn1_vv0@
+that	that	cst_dd1
+connects	connect	vvz
+Europe	europe	np1
+and	and	cc
+India	india	np1
+,		,
+and	and	cc
+another	another	dd1
+$40.3m		nnu
+(		(
+R269.5m		fo
+)		)
+in	in	ii
+the	the	at
+Eastern	eastern	jj
+Africa	africa	np1
+Submarine	submarine	nn1
+Cable	cable	nn1
+System	system	nn1
+(		(
+Eassy		np1
+)		)
+,		,
+which	which	ddq
+is	be	vbz
+an	a	at1
+undersea	undersea	jj_nn1
+fibre	fibre	nn1
+optic	optic	nn1
+cable	cable	nn1
+system	system	nn1
+connecting	connect	vvg_jj
+countries	country	nn2
+of	of	io
+eastern	eastern	jj
+Africa	africa	np1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+also	also	rr
+poured	pour	vvd_vvn
+$10m	$10m	nnu
+(		(
+R66.8m		fo
+)		)
+in	in	ii
+SAT-3/SAFE		nn1_jj
+linking	link	vvg_nn1@
+Portugal	portugal	np1
+and	and	cc
+Spain	spain	np1
+to	to	ii
+South	south	np1
+Africa	africa	np1
+,		,
+with	with	iw
+connections	connection	nn2
+to	to	ii
+several	several	da2
+West	west	np1
+African	african	jj
+countries	country	nn2
+along	along	ii
+the	the	at
+route	route	nn1
+.		.
+<p>		null
+The	the	at
+MTN	mtn	np1
+boss	boss	nn1
+said	say	vvd
+the	the	at
+low	low	jj
+broadband	broadband	jj_nn1
+penetration	penetration	nn1
+on	on	ii
+the	the	at
+continent	continent	nn1
+has	have	vhz
+acted	act	vvn
+as	as	csa_ii@
+motivation	motivation	nn1
+for	for	if
+the	the	at
+investment	investment	nn1
+.		.
+According	according	ii21
+to	to	ii22
+International	international	jj
+Telecommunications	telecommunications	nn2
+Union	union	nn1_np1
+mobile	mobile	nn1_jj
+penetration	penetration	nn1
+in	in	ii
+Africa	africa	np1
+is	be	vbz
+the	the	at
+lowest	low	jjt
+worldwide	worldwide	jj
+at	at	ii
+41%	41%	nnu
+,		,
+and	and	cc
+Africa	africa	np1
+still	still	rr
+lags	lag	vvz_nn2
+behind	behind	ii_rl@
+when	when	rrq_cs
+it	it	pph1
+comes	come	vvz
+to	to	ii
+fixed	fixed	jj
+broadband	broadband	nn1
+.		.
+<p>		null
+"		"
+Although	although	cs
+subscriptions	subscription	nn2
+are	be	vbr
+increasing	increase	vvg_jj
+,		,
+a	a	at1
+penetration	penetration	nn1
+rate	rate	nn1
+of	of	io
+less	less	dar
+than	than	csn
+1%		nnu
+illustrates	illustrate	vvz
+the	the	at
+challenges	challenge	nn2
+that	that	cst
+persist	persist	vv0
+in	in	ii_rp@
+increasing	increasing	jj_vvg
+access	access	nn1
+to	to	ii
+high-speed	high-speed	jj
+,		,
+high-capacity	high-capacity	jj_nn1
+internet	internet	nn1
+.		.
+<p>		null
+"		"
+We	we	ppis2
+believe	believe	vv0
+these	these	dd2
+investments	investment	nn2
+MTN	mtn	np1
+have	have	vh0
+made	make	vvn
+will	will	vm
+afford	afford	vvi
+subscribers	subscriber	nn2
+in	in	ii
+sub-Saharan	sub-saharan	jj
+Africa	africa	np1
+and	and	cc
+beyond	beyond	ii
+the	the	at
+ability	ability	nn1
+to	to	to
+be	be	vbi
+part	part	nn1
+##3839451		fo
+<p>		null
+Liverpool	liverpool	np1
+were	be	vbdr
+condemned	condemn	vvn
+to	to	ii
+their	their	appge
+worst	bad	jjt
+start	start	nn1
+to	to	ii
+a	a	at1
+season	season	nnt1
+for	for	if
+half	half	db
+a	a	at1
+century	century	nnt1
+as	as	ii@_csa
+Lukas	lukas	np2_nn2@
+Podolski		nn1_jj_np1
+and	and	cc
+Santi	santi	np1_jj
+Cazorla		np1
+gave	give	vvd
+Arsenal	arsenal	np1
+victory	victory	nn1
+at	at	ii
+Anfield	anfield	np1
+.		.
+<p>		null
+On	on	ii
+what	what	ddq
+would	would	vm
+have	have	vhi
+been	be	vbn
+Bill	bill	np1
+Shankly	shankly	np1
+'s	's	ge
+99th	99th	md
+birthday	birthday	nn1
+,		,
+the	the	at
+Reds	red	nn2
+equalled	equal	vvd_vvn
+the	the	at
+record	record	nn1
+of	of	io
+his	his	appge
+newly-promoted		jj_nn1
+side	side	nn1
+in	in	ii
+1962-63	1962-63	mcmc
+by	by	ii
+collecting	collect	vvg
+just	just	rr
+one	one	mc1
+point	point	nn1
+from	from	ii
+their	their	appge
+opening	opening	nn1
+three	three	mc
+games	game	nn2
+.		.
+<p>		null
+Coming	come	vvg
+on	on	ii
+the	the	at
+back	back	nn1
+of	of	io
+Friday	friday	npd1
+'s	's	ge
+deadline-day	deadline-day	jj
+transfer	transfer	nn1
+debacle	debacle	nn1
+,		,
+when	when	cs_rrq
+they	they	pphs2
+failed	fail	vvd
+to	to	to
+secure	secure	vvi
+a	a	at1
+replacement	replacement	nn1
+for	for	if
+Andy	andy	np1
+Carroll	carroll	np1
+who	who	pnqs
+had	have	vhd
+joined	join	vvn
+West	west	np1
+Ham	ham	np1
+24	24	mc
+hours	hour	nnt2
+earlier	early	rrr
+,		,
+the	the	at
+situation	situation	nn1
+has	have	vhz
+provided	provide	vvn
+huge	huge	jj
+cause	cause	nn1
+for	for	if
+concern	concern	nn1
+on	on	ii
+Merseyside	merseyside	np1
+,		,
+with	with	iw
+both	both	db2
+owner	owner	nn1
+John	john	np1
+Henry	henry	np1
+and	and	cc
+manager	manager	nn1
+Brendan	brendan	np1
+Rodgers	rodgers	np1
+in	in	ii
+the	the	at
+firing	firing	nn1
+line	line	nn1
+.		.
+<p>		null
+have	have	vh0
+been	be	vbn
+in	in	ii
+the	the	at
+same	same	da
+position	position	nn1
+had	have	vhd
+Arsenal	arsenal	np1_nn1@
+lost	lose	vvn
+.		.
+<p>		null
+However	however	rr
+,		,
+with	with	iw
+Cazorla		np1_nn1@
+capping	cap	vvg
+an	a	at1
+excellent	excellent	jj
+display	display	nn1
+by	by	ii
+profiting	profit	vvg
+from	from	ii
+a	a	at1
+Jose	jose	np1
+Reina	reina	np1
+blunder	blunder	nn1_vv0
+after	after	ii
+summer	summer	nnt1
+recruit	recruit	nn1_vv0
+Podolski		nn1_np1
+had	have	vhd
+opened	open	vvn
+their	their	appge
+account	account	nn1
+for	for	if
+the	the	at
+season	season	nnt1
+before	before	ii_cs
+half-time	halftime	nn1
+,		,
+the	the	at
+Gunners	gunner	nn2
+chief	chief	nn1
+can	can	vm
+start	start	vvi
+looking	look	vvg
+forward	forward	rl
+with	with	iw
+confidence	confidence	nn1
+.		.
+<p>		null
+A	a	at1
+summer	summer	nnt1
+of	of	io
+optimism	optimism	nn1
+has	have	vhz
+given	give	vvn
+way	way	nn1
+to	to	ii
+a	a	at1
+sobering	sobering	jj
+reality	reality	nn1
+at	at	ii
+Anfield	anfield	np1
+.		.
+<p>		null
+Henry	henry	np1
+did	do	vdd
+spend	spend	vvi
+big	big	jj
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Suarez	suarez	np1_nn1@
+of	of	io
+those	those	dd2
+expensive	expensive	jj
+purchases	purchase	nn2
+started	start	vvd_vvn@
+against	against	ii
+Arsenal	arsenal	np1
+,		,
+the	the	at
+wisdom	wisdom	nn1
+of	of	io
+Dalglish	dalglish	np1
+'s	's	ge
+work	work	nn1
+has	have	vhz
+to	to	to
+be	be	vbi
+questioned	question	vvn
+.		.
+<p>		null
+So	so	rr
+much	much	rr
+now	now	rt
+rests	rest	vvz
+on	on	ii
+Suarez	suarez	np1
+and	and	cc
+for	for	if
+the	the	at
+first	first	md
+half	half	nn1@_db_rr@
+at	at	rr21
+least	least	rr22
+,		,
+he	he	pphs1
+almost	almost	rr
+seemed	seem	vvd_vvn@
+to	to	to
+be	be	vbi
+trying	try	vvg
+too	too	rg
+hard	hard	rr_jj
+.		.
+<p>		null
+Fabio	fabio	np1@_nn1
+Borini		np1_nn1
+and	and	cc
+Raheem	raheem	np1_vv0_nn1
+Sterling	sterling	nn1
+had	have	vhd
+Liverpool	liverpool	np1
+'s	's	ge
+best	best	jjt
+chances	chance	nn2
+before	before	ii_cs
+the	the	at
+break	break	nn1
+.		.
+<p>		null
+The	the	at
+latter	latter	da
+continues	continue	vvz
+to	to	to
+catch	catch	vvi
+the	the	at
+eye	eye	nn1
+and	and	cc
+his	his	appge
+excellent	excellent	jj
+turn	turn	nn1
+onto	onto	ii
+Steven	steven	np1
+Gerrard	gerrard	np1
+'s	's	ge
+knockdown	knockdown	nn1
+created	create	vvd_vvn
+the	the	at
+half-chance		nn1_jj
+he	he	pphs1
+belted	belt	vvd
+against	against	ii
+the	the	at
+outside	outside	ii21
+of	of	ii22
+a	a	at1
+post	post	nn1
+.		.
+<p>		null
+That	that	dd1
+worrying	worrying	jj
+statistic	statistic	nn1
+of	of	io
+potentially	potentially	rr
+becoming	become	vvg
+the	the	at
+first	first	md
+side	side	nn1
+to	to	to
+start	start	vvi
+the	the	at
+season	season	nnt1
+with	with	iw
+three	three	mc
+successive	successive	jj
+scoreless	scoreless	jj
+games	game	nn2
+hung	hang	vvd_vvn
+heavy	heavy	jj
+for	for	if
+a	a	at1
+while	while	nnt1@
+.		.
+<p>		null
+But	but	ccb
+after	after	cs_ii
+Cazorla		np1
+'s	's	ge
+shot	shot	nn1
+had	have	vhd
+been	be	vbn
+saved	save	vvn
+by	by	ii
+Reina	reina	np1
+,		,
+the	the	at
+Spain	spain	np1
+midfielder	midfielder	nn1
+was	be	vbdz
+instrumental	instrumental	jj
+in	in	ii
+Arsenal	arsenal	np1
+breaking	break	vvg
+their	their	appge
+duck	duck	nn
+for	for	if
+the	the	at
+campaign	campaign	nn1
+.		.
+<p>		null
+A	a	at1_zz1
+wayward	wayward	jj
+Gerrard	gerrard	np1
+pass	pass	nn1
+allowed	allow	vvd_vvn
+Thomas	thomas	np1
+Vermaelen		np1_nn1_jj
+to	to	to
+set	set	vvi
+up	up	rp
+a	a	at1
+break	break	nn1
+from	from	ii
+the	the	at
+edge	edge	nn1
+of	of	io
+his	his	appge
+own	own	da
+box	box	nn1
+.		.
+Podolski		nn2_np1@
+fed	feed	vvd
+Cazorla		np1
+,		,
+then	then	rt
+kept	keep	vvd_vvn
+motoring	motoring	nn1
+.		.
+By	by	ii
+the	the	at
+time	time	nnt1
+Cazorla		np1_nn1@
+was	be	vbdz
+in	in	ii
+a	a	at1
+position	position	nn1
+to	to	to
+play	play	vvi
+the	the	at
+killer	killer	nn1
+pass	pass	nn1_vv0
+,		,
+Podolski		np1
+had	have	vhd
+arrived	arrive	vvn
+in	in	ii
+support	support	nn1
+and	and	cc
+the	the	at
+German	german	nn1
+drilled	drill	vvd_vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+should	should	vm
+have	have	vhi
+doubled	double	vvn
+their	their	appge
+advantage	advantage	nn1
+almost	almost	rr
+immediately	immediately	rr
+.		.
+<p>		null
+Diaby		np1@_nn1
+'s	's	ge
+surging	surging	jj@_vvg
+run	run	nn1_vvn
+out	out	ii21
+of	of	ii22
+his	his	appge
+own	own	da
+half	half	nn1
+was	be	vbdz
+reminiscent	reminiscent	jj
+of	of	io
+Patrick	patrick	np1
+Vieira	vieira	np1
+in	in	ii
+his	his	appge
+pomp	pomp	nn1
+.		.
+He	he	pphs1
+released	release	vvd
+Olivier	olivier	np1
+Giroud	giroud	np1
+inside	inside	ii
+the	the	at
+Liverpool	liverpool	np1
+box	box	nn1
+,		,
+but	but	ccb
+the	the	at
+finish	finish	nn1
+was	be	vbdz
+poor	poor	jj
+and	and	cc
+Reina	reina	np1
+watched	watch	vvd
+it	it	pph1
+fly	fly	vv0_jj@
+wide	wide	jj_rr@
+.		.
+<p>		null
+Liverpool	liverpool	np1
+emerged	emerge	vvd
+with	with	iw
+more	more	dar
+purpose	purpose	nn1
+after	after	ii_cs
+the	the	at
+break	break	nn1
+,		,
+and	and	cc
+once	once	rr_cs@
+Stewart	stewart	np1
+Downing	downing	np1
+was	be	vbdz
+introduced	introduce	vvn
+they	they	pphs2
+had	have	vhd
+more	more	dar
+penetration	penetration	nn1
+too	too	rr@
+.		.
+<p>		null
+The	the	at
+winger	winger	nn1
+had	have	vhd
+a	a	at1
+shot	shot	nn1
+deflected	deflect	vvn
+wide	wide	jj_rr@
+by	by	ii
+Vermaelen		np1_nn1_jj
+not	not	xx
+long	long	rr
+after	after	cs
+Per	per	ii
+Mertesacker		np1_nn1
+,		,
+who	who	pnqs
+had	have	vhd
+been	be	vbn
+booked	book	vvn
+very	very	rg
+early	early	rr_jj
+on	on	rp@_ii
+,		,
+had	have	vhd
+sent	send	vvn
+Suarez	suarez	np1_nn1@
+to	to	ii
+the	the	at
+deck	deck	nn1
+with	with	iw
+a	a	at1

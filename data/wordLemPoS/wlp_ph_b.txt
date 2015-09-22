@@ -1,0 +1,6160 @@
+##3557050		fo
+<h>		null
+a	a	at1
+few	few	da2
+tips	tip	nn2
+on	on	ii
+eating	eat	vvg_nn1
+in	in	ii
+hawker	hawker	nn1
+centers	center	nn2
+in	in	ii
+singapore		nn1
+<p>		null
+we	we	ppis2
+'re	be	vbr
+not	not	xx
+experts	expert	nn2
+on	on	ii
+singapore		nn1
+--		zz
+not	not	xx
+at	at	rr21
+all	all	rr22
+.		.
+but	but	ccb
+we	we	ppis2
+'ve	have	vh0
+had	have	vhn
+a	a	at1
+couple	couple	nn1
+of	of	io
+trips	trip	nn2
+in	in	ii
+quick	quick	jj
+succession	succession	nn1
+and	and	cc
+had	have	vhd
+most	most	dat
+of	of	io
+our	our	appge
+meals	meal	nn2
+(		(
+if	if	cs
+not	not	xx
+all	all	rr@
+)		)
+in	in	ii
+hawker	hawker	nn1
+centers.		nnu
+some	some	dd
+of	of	io
+the	the	at
+famous	famous	jj
+ones	one	nn2
+are	be	vbr
+lau	lau	nn1
+pa	pa	nn1
+sat	sit	vvd
+,		,
+newton	newton	nnu1
+,		,
+and	and	cc
+old	old	jj
+airport	airport	nn1
+road	road	nn1
+.		.
+in	in	ii
+our	our	appge
+opinion	opinion	nn1
+old	old	jj
+airport	airport	nn1
+road	road	nn1
+wins	win	vvz_nn2
+by	by	ii
+a	a	at1
+mile	mile	nnu1
+.		.
+that	that	dd1
+'s	be	vbz
+where	where	rrq
+all	all	db
+these	these	dd2
+pictures	picture	nn2
+come	come	vv0_vvn@
+from	from	ii
+.		.
+but	but	ccb
+wherever	wherever	rrqv
+you	you	ppy
+go	go	vv0
+,		,
+these	these	dd2
+tips	tip	nn2
+should	should	vm
+be	be	vbi
+useful	useful	jj
+.		.
+<p>		null
+Number	number	nn1_vv0%
+1	1	mc1
+.		.
+Be	be	vb0
+calm	calm	jj
+.		.
+When	when	cs_rrq
+you	you	ppy
+step	step	vv0
+into	into	ii
+a	a	at1
+hawker	hawker	nn1
+center	center	nn1
+,		,
+you	you	ppy
+will	will	vm
+be	be	vbi
+at	at	rr21
+once	once	rr22
+faced	face	vvn_vvd
+with	with	iw
+around	around	rg
+100	100	mc
+food	food	nn1
+stalls	stall	vvz@_nn2
+all	all	db_rr@
+with	with	iw
+a	a	at1
+number	number	nn1
+of	of	io
+signs	sign	nn2
+like	like	ii
+this	this	dd1
+<p>		null
+Do	do	vd0
+n't	n't	xx
+be	be	vbi
+intimidated	intimidate	vvn@
+.		.
+Take	take	vv0
+your	your	appge
+time	time	nnt1
+until	until	cs
+you	you	ppy
+find	find	vv0
+something	something	pn1
+exactly	exactly	rr
+to	to	ii
+your	your	appge
+liking	liking	nn1@
+.		.
+Do	do	vd0
+n't	n't	xx
+worry	worry	vvi
+,		,
+all	all	db
+of	of	io
+it	it	pph1
+will	will	vm
+taste	taste	vvi
+good	good	jj
+.		.
+<p>		null
+Number	number	nn1
+2	2	mc
+.		.
+Many	many	da2
+of	of	io
+the	the	at
+stalls	stall	nn2
+are	be	vbr
+in	in	ii
+fact	fact	nn1
+serving	serve	vvg
+the	the	at
+same	same	da
+thing	thing	nn1
+so	so	cs@_rr
+it	it	pph1
+'s	be	vbz
+not	not	xx
+like	like	ii_vv0@_cs%
+you	you	ppy
+have	have	vh0
+infinite	infinite	jj
+choices	choice	nn2
+.		.
+A	a	rr21@
+lot	lot	rr22
+serve	serve	vv0
+either	either	rr
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+.		.
+The	the	at
+popular	popular	jj
+ones	one	nn2
+are	be	vbr
+easy	easy	jj
+to	to	to
+find	find	vvi
+because	because	cs
+they	they	pphs2
+have	have	vh0
+long	long	jj
+queues	queue	nn2
+.		.
+<p>		null
+Number	number	nn1
+3	3	mc
+.		.
+Sit	sit	vv0
+near	near	rl
+where	where	cs
+you	you	ppy
+'ll	will	vm
+buy	buy	vvi
+food	food	nn1
+or	or	cc
+buy	buy	vv0
+food	food	nn1
+near	near	rl_ii
+where	where	cs_rrq
+you	you	ppy
+'ll	will	vm
+sit	sit	vvi
+.		.
+It	it	pph1
+'s	be	vbz
+easy	easy	jj
+to	to	to
+get	get	vvi
+lost	lose	vvn_jj@
+otherwise	otherwise	rr
+.		.
+<p>		null
+This	this	dd1
+is	be	vbz
+a	a	at1
+blog	blog	nn1
+by	by	ii
+April	april	npm1
+and	and	cc
+Camille	camille	np1
+.		.
+It	it	pph1
+'s	be	vbz
+a	a	at1
+tip	tip	nn1
+sheet	sheet	nn1
+of	of	io
+sorts	sort	nn2
+containing	contain	vvg
+our	our	appge
+thoughts	thought	nn2
+on	on	ii
+places	place	nn2
+we	we	ppis2
+'ve	have	vh0
+stayed	stay	vvn
+in	in	rp@_ii
+and	and	cc
+eaten	eat	vvn
+at	at	ii
+.		.
+We	we	ppis2
+rely	rely	vv0
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+on	on	ii
+other	other	jj
+bloggers	blogger	nn2
+and	and	cc
+reviewers	reviewer	nn2
+when	when	cs_rrq
+we	we	ppis2
+choose	choose	vv0
+a	a	at1
+place	place	nn1
+to	to	to
+try	try	vvi
+##3559651		fo
+<h>		null
+Donna	donna	nn1_np1
+<p>		null
+Part	part	nn1
+of	of	io
+living	live	vvg_nn1
+in	in	ii_rp@
+a	a	at1
+great	great	jj
+city	city	nn1
+like	like	ii
+London	london	np1
+is	be	vbz
+that	that	cst
+it	it	pph1
+has	have	vhz
+so	so	rg
+many	many	da2
+beautiful	beautiful	jj
+places	place	nn2
+.		.
+You	you	ppy
+can	can	vm
+just	just	rr21
+about	about	rr22
+think	think	vvi
+of	of	io
+a	a	at1
+place	place	nn1
+and	and	cc
+I	i	ppis1
+'m	be	vbm
+sure	sure	jj
+you	you	ppy
+can	can	vm
+find	find	vvi
+that	that	dd1_cst
+in	in	rp@_ii
+and	and	cc
+around	around	ii
+London	london	np1
+.		.
+One	one	mc1
+of	of	io
+the	the	at
+favourite	favourite	jj_nn1
+place	place	nn1_vv0
+I	i	ppis1
+love	love	vv0
+shooting	shoot	vvg
+in	in	rp@
+is	be	vbz
+in	in	rp@_ii
+and	and	cc
+around	around	ii_rp
+Tower	tower	nn1
+Bridge/Tower		nn1
+of	of	io
+London	london	np1
+.		.
+It	it	pph1
+has	have	vhz
+great	great	jj_rr%
+historic	historic	jj
+buildings	building	nn2
+and	and	cc
+landmarks	landmark	nn2
+along	along	ii21
+with	with	ii22
+modern	modern	jj
+buildings	building	nn2
+.		.
+<p>		null
+A	a	at1_zz1
+great	great	jj
+benefit	benefit	nn1
+to	to	ii
+the	the	at
+place	place	nn1
+is	be	vbz
+that	that	cst
+there	there	ex
+are	be	vbr
+a	a	at1
+lot	lot	nn1
+of	of	io
+tourists	tourist	nn2
+in	in	ii
+the	the	at
+area	area	nn1
+.		.
+Why	why	rrq
+is	be	vbz
+it	it	pph1
+beneficial	beneficial	jj
+?		?
+Well	well	rr
+,		,
+if	if	cs
+you	you	ppy
+'re	be	vbr
+testing	test	vvg
+with	with	iw
+a	a	at1
+new/aspiring		jj
+model	model	nn1
+having	have	vhg
+a	a	at1
+bunch	bunch	nn1
+of	of	io
+tourists	tourist	nn2
+around	around	ii
+you	you	ppy
+puts	put	vvz
+the	the	at
+model	model	nn1
+at	at	ii
+ease	ease	nn1
+as	as	csa
+everyone	everyone	pn1
+is	be	vbz
+taking	take	vvg
+photos	photo	nn2
+!		!
+It	it	pph1
+eases	ease	vvz
+them	them	ppho2
+and	and	cc
+makes	make	vvz
+them	them	ppho2
+less	less	rgr
+self-conscious	self-conscious	jj
+.		.
+Exactly	exactly	rr
+what	what	ddq
+you	you	ppy
+need	need	vv0
+when	when	rrq_cs
+you	you	ppy
+'re	be	vbr
+trying	try	vvg
+to	to	to
+shoot	shoot	vvi
+photos	photo	nn2
+.		.
+I	i	ppis1
+believe	believe	vv0
+discomfort	discomfort	nn1
+is	be	vbz
+obvious	obvious	jj
+in	in	ii31
+front	front	ii32
+of	of	ii33
+the	the	at
+camera	camera	nn1
+and	and	cc
+it	it	pph1
+would	would	vm
+show	show	vvi
+on	on	ii
+the	the	at
+photos	photo	nn2
+.		.
+Whereas	whereas	cs
+discomfort	discomfort	nn1
+of	of	io
+a	a	at1
+photographer	photographer	nn1
+behind	behind	ii
+the	the	at
+camera	camera	nn1
+or	or	cc
+anyone	anyone	pn1
+else	else	rr
+involved	involved	jj
+in	in	ii
+the	the	at
+shoot	shoot	nn1@
+could	could	vm
+be	be	vbi
+cleverly	cleverly	rr
+disguised	disguise	vvn_jj_vvd
+or	or	cc
+denied	deny	vvd_vvn
+.		.
+You	you	ppy
+just	just	rr
+do	do	vd0
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+with	with	iw
+Donna	donna	np1_nn1
+.		.
+She	she	pphs1
+'s	be	vhz
+been	be	vbn
+modelling	model	vvg
+for	for	if
+a	a	at1
+few	few	da2
+years	year	nnt2
+so	so	cs21
+that	that	cs22
+always	always	rr
+helps	help	vvz
+.		.
+I	i	ppis1
+met	meet	vvd
+her	her	ppho1
+through	through	ii_rp@
+a	a	at1
+mutual	mutual	jj
+photographer	photographer	nn1
+friend	friend	nn1
+who	who	pnqs
+shot	shoot	vvd
+her	her	ppho1
+a	a	at1
+few	few	da2
+years	year	nnt2
+ago	ago	ra
+.		.
+After	after	cs_ii
+months	month	nnt2
+of	of	io
+exchanging	exchange	vvg
+emails	e-mail	nn2
+and	and	cc
+text	text	nn1
+we	we	ppis2
+finally	finally	rr
+set	set	vv0_vvn_vvd
+a	a	at1
+date	date	nn1
+,		,
+met	meet	vvn_vvd
+and	and	cc
+worked	work	vvn
+together	together	rl
+.		.
+We	we	ppis2
+were	be	vbdr
+helped	help	vvn
+by	by	ii
+the	the	at
+talented	talented	jj
+Ms	ms	nnb
+Rileen		np1
+Chua	chua	np1
+on	on	ii
+makeup	makeup	nn1
+.		.
+As	as	rr21
+usual	usual	rr22
+,		,
+not	not	xx
+only	only	rr
+was	be	vbdz
+she	she	pphs1
+the	the	at
+makeup	makeup	nn1
+artist	artist	nn1
+,		,
+she	she	pphs1
+was	be	vbdz
+also	also	rr
+my	my	appge
+ever	ever	rr
+willing	willing	jj
+assistant	assistant	nn1
+.		.
+One	one	mc1
+of	of	io
+the	the	at
+things	thing	nn2
+I	i	ppis1
+did	do	vdd
+on	on	ii
+this	this	dd1
+test	test	nn1
+shoot	shoot	vv0_nn1@
+which	which	ddq
+I	i	ppis1
+have	have	vh0
+n't	n't	xx
+done	do	vdn
+so	so	rr
+in	in	ii
+a	a	at1
+long	long	jj
+time	time	nnt1
+was	be	vbdz
+to	to	to
+shoot	shoot	vvi
+on	on	ii
+film	film	nn1
+.		.
+At	at	ii
+the	the	at
+time	time	nnt1
+,		,
+I	i	ppis1
+only	only	rr
+had	have	vhd
+the	the	at
+Fuji	fuji	np1
+PRO	pro	ii_nn1
+400H	400h	fo
+.		.
+I	i	ppis1
+would	would	vm
+have	have	vhi
+preferred	prefer	vvn
+to	to	to
+have	have	vhi
+shot	shoot	vvn
+it	it	pph1
+on	on	ii
+Kodak	kodak	np1
+Portra	portra	np1
+.		.
+I	i	ppis1
+do	do	vd0
+use	use	vvi
+the	the	at
+Fuji	fuji	np1
+quite	quite	rg
+a	a	rr21@_at1
+lot	lot	rr22_nn1
+during	during	ii
+Autumn	autumn	nnt1
+.		.
+One	one	mc1
+of	of	io
+the	the	at
+reasons	reason	nn2
+why	why	rrq
+I	i	ppis1
+'m	be	vbm
+so	so	rr
+looking	look	vvg
+forward	forward	rl
+to	to	ii
+this	this	dd1
+Autumn	autumn	nnt1
+.		.
+I	i	ppis1
+'m	be	vbm
+happy	happy	jj
+to	to	to
+be	be	vbi
+shooting	shoot	vvg
+on	on	ii
+film	film	nn1
+again	again	rt
+.		.
+<p>		null
+It	it	pph1
+was	be	vbdz
+a	a	at1
+great	great	jj
+summer	summer	nnt1
+evening	evening	nnt1
+.		.
+I	i	ppis1
+was	be	vbdz
+getting	get	vvg
+frustrated	frustrated	jj_vvn
+with	with	iw
+models	model	nn2
+flaking	flake	vvg
+out	out	rp
+and	and	cc
+with	with	iw
+the	the	at
+Olympics	olympics	nn2
+making	make	vvg
+it	it	pph1
+harder	hard	rrr_jjr
+to	to	ii
+book	book	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+enjoy	enjoy	vvi
+the	the	at
+Olympics	olympics	nn2
+.		.
+I	i	ppis1
+did	do	vdd
+get	get	vvi
+to	to	to
+watch	watch	vvi
+the	the	at
+only	only	jj
+event	event	nn1
+I	i	ppis1
+wanted	want	vvd
+to	to	to
+watch	watch	vvi
+;		;
+Beach	beach	nn1
+Volleyball	volleyball	nn1
+.		.
+I	i	ppis1
+also	also	rr
+spent	spend	vvd
+some	some	dd
+time	time	nnt1
+at	at	ii
+the	the	at
+park	park	nn1
+and	and	cc
+got	get	vvn_vvd
+to	to	ii@
+lunch	lunch	nn1
+with	with	iw
+the	the	at
+Mayor	mayor	nn1
+himself	himself	ppx1
+.		.
+We	we	ppis2
+had	have	vhd
+McDs	mcds	np1
+!		!
+<p>		null
+I	i	ppis1
+'m	be	vbm
+looking	look	vvg
+forward	forward	rl
+to	to	ii
+working	work	vvg
+with	with	iw
+Donna	donna	nn1_np1
+in	in	ii
+the	the	at
+future	future	nn1_jj
+and	and	cc
+also	also	rr
+the	the	at
+autumn/winter		nnt1
+shoots	shoot	nn2_vvz
+.		.
+It	it	pph1
+'d	have	vm
+be	be	vbi
+a	a	at1
+challenging	challenging	jj
+few	few	da2
+months	month	nnt2
+on	on	ii
+location	location	nn1
+!		!
+Just	just	rr
+the	the	at
+##3559652		fo
+<h>		null
+Motivation	motivation	nn1
+<p>		null
+I	i	ppis1
+'m	be	vbm
+another	another	dd1
+year	year	nnt1
+older	old	jjr
+.		.
+But	but	ccb
+am	be	vbm
+I	i	ppis1
+another	another	dd1
+year	year	nnt1
+wiser	wise	jjr
+?		?
+I	i	ppis1
+'d	have	vm
+like	like	vvi
+to	to	to
+think	think	vvi
+so	so	rr
+.		.
+<p>		null
+This	this	dd1
+past	past	jj_nn1
+year	year	nnt1
+has	have	vhz
+been	be	vbn
+really	really	rr
+challenging	challenge	vvg_jj
+for	for	if
+me	me	ppio1
+.		.
+I	i	ppis1
+had	have	vhd
+a	a	at1
+lot	lot	nn1
+of	of	io
+questions	question	nn2
+for	for	if
+myself	myself	ppx1
+.		.
+Should	should	vm
+I	i	ppis1
+pick	pick	vvi
+up	up	rp_ii@
+the	the	at
+camera	camera	nn1
+again	again	rt
+?		?
+Should	should	vm
+I	i	ppis1
+come	come	vvi
+back	back	rp
+?		?
+What	what	ddq
+do	do	vd0
+I	i	ppis1
+want	want	vvi
+from	from	ii
+this	this	dd1
+?		?
+Do	do	vd0
+I	i	ppis1
+even	even	rr
+need	need	vvi
+this	this	dd1
+?		?
+What	what	ddq
+'s	be	vbz
+my	my	appge
+motivation	motivation	nn1
+?		?
+<p>		null
+Around	around	ii
+this	this	dd1
+time	time	nnt1
+of	of	io
+the	the	at
+year	year	nnt1
+,		,
+I	i	ppis1
+always	always	rr
+have	have	vh0
+these	these	dd2
+questions	question	nn2
+.		.
+<p>		null
+Let	let	vv0
+me	me	ppio1
+back	back	vvi
+up	up	rp
+a	a	rr21_at1
+bit	bit	rr22_nn1
+and	and	cc
+please	please	rr
+indulge	indulge	vv0
+me	me	ppio1
+on	on	ii
+this	this	dd1
+.		.
+It	it	pph1
+'s	be	vbz
+my	my	appge
+birthday	birthday	nn1
+after	after	ii
+all	all	db
+.		.
+<p>		null
+I	i	ppis1
+was	be	vbdz
+born	born	vvn
+on	on	ii
+30	30	mc
+th	th	nnu
+October	october	npm1
+1980	1980	mc
+along	along	ii21
+with	with	ii22
+my	my	appge
+identical	identical	jj
+twin	twin	nn1_jj@
+brother	brother	nn1
+Mark	mark	np1_nn1@
+.		.
+I	i	ppis1
+grew	grow	vvd
+up	up	rp
+knowing	know	vvg
+that	that	cst
+I	i	ppis1
+had	have	vhd
+a	a	at1
+twin	twin	nn1_jj@
+brother	brother	nn1
+,		,
+who	who	pnqs
+died	die	vvd
+just	just	rr
+a	a	at1
+few	few	da2
+days	day	nnt2
+after	after	cs
+we	we	ppis2
+were	be	vbdr
+born	born	vvn
+.		.
+I	i	ppis1
+knew	know	vvd
+since	since	cs
+I	i	ppis1
+was	be	vbdz
+little	little	rr_jj_da1
+that	that	cst
+I	i	ppis1
+had	have	vhd
+a	a	at1
+twin	twin	nn1_jj@
+brother	brother	nn1
+.		.
+My	my	appge
+mother	mother	nn1
+also	also	rr
+tricked	trick	vvd_vvn
+me	me	ppio1
+by	by	ii
+showing	show	vvg
+me	me	ppio1
+a	a	at1
+photo	photo	nn1
+of	of	io
+me	me	ppio1
+when	when	rrq_cs
+I	i	ppis1
+was	be	vbdz
+about	about	rg
+3	3	mc
+years	year	nnt2
+old	old	jj
+next	next	ii21
+to	to	ii22
+a	a	at1
+mirror	mirror	nn1
+and	and	cc
+told	tell	vvd
+me	me	ppio1
+that	that	cst
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+hook	hook	nn1
+,		,
+line	line	nn1
+and	and	cc
+sinker	sinker	nn1
+!		!
+I	i	ppis1
+knew	know	vvd
+from	from	ii
+the	the	at
+start	start	nn1
+that	that	cst
+I	i	ppis1
+had	have	vhd
+a	a	at1
+twin	twin	nn1_jj@
+brother	brother	nn1
+.		.
+The	the	at
+fact	fact	nn1
+was	be	vbdz
+n't	n't	xx
+hidden	hide	vvn
+from	from	ii
+me	me	ppio1
+to	to	to
+"		"
+save	save	vvi
+me	me	ppio1
+from	from	ii
+the	the	at
+trauma	trauma	nn1
+"		"
+of	of	io
+having	have	vhg
+a	a	at1
+dead	dead	jj
+brother	brother	nn1
+;		;
+which	which	ddq
+I	i	ppis1
+am	be	vbm
+very	very	rg
+thankful	thankful	jj
+for	for	if
+.		.
+<p>		null
+I	i	ppis1
+grew	grow	vvd
+up	up	rp
+always	always	rr
+looking	look	vvg
+for	for	if
+something	something	pn1
+,		,
+something	something	pn1
+inside	inside	ii
+me	me	ppio1
+that	that	dd1_cst
+was	be	vbdz
+gone	go	vvn
+.		.
+I	i	ppis1
+just	just	rr
+could	could	vm
+n't	n't	xx
+put	put	vvi
+my	my	appge
+finger	finger	nn1
+on	on	ii
+it	it	pph1
+.		.
+I	i	ppis1
+grew	grow	vvd
+up	up	rp
+happy	happy	jj
+(		(
+it	it	pph1
+'s	be	vbz
+only	only	rr
+recently	recently	rr
+I	i	ppis1
+turned	turn	vvd
+grumpy	grumpy	jj
+)		)
+but	but	ccb
+I	i	ppis1
+knew	know	vvd
+something	something	pn1
+was	be	vbdz
+missing	miss	vvg_jj
+.		.
+Do	do	vd0
+n't	n't	xx
+get	get	vvi
+me	me	ppio1
+wrong	wrong	rr@_jj
+,		,
+it	it	pph1
+was	be	vbdz
+n't	n't	xx
+vital	vital	jj
+for	for	if
+my	my	appge
+happiness	happiness	nn1
+or	or	cc
+wholeness	wholeness	nn1
+,		,
+I	i	ppis1
+'m	be	vbm
+just	just	rr
+well	well	jj
+aware	aware	jj
+that	that	cst
+something	something	pn1
+is	be	vbz
+missing	miss	vvg_jj
+.		.
+People	people	nn
+often	often	rr
+say	say	vv0
+that	that	cst_dd1
+identical	identical	jj
+twins	twin	nn2
+have	have	vh0
+some	some	dd
+special	special	jj
+connection	connection	nn1
+.		.
+Maybe	maybe	rr
+part	part	nn1
+of	of	io
+me	me	ppio1
+is	be	vbz
+looking	look	vvg
+for	for	if
+that	that	dd1
+connection	connection	nn1
+that	that	cst_dd1
+does	do	vdz
+n't	n't	xx
+exist	exist	vvi
+any	any	dd
+more	more	dar
+due	due	ii21
+to	to	ii22
+Mark	mark	np1
+'s	's	ge
+death	death	nn1
+.		.
+<p>		null
+So	so	rr
+every	every	at1
+year	year	nnt1
+,		,
+I	i	ppis1
+have	have	vh0
+this	this	dd1
+review	review	nn1
+.		.
+Have	have	vh0
+I	i	ppis1
+lived	live	vvn
+enough	enough	rr_dd
+for	for	if
+Mark	mark	np1
+and	and	cc
+I	i	ppis1
+?		?
+What	what	ddq
+would	would	vm
+he	he	pphs1
+say	say	vvi
+to	to	ii
+me	me	ppio1
+about	about	ii
+all	all	db
+those	those	dd2
+missed	missed	jj@_vvn_vvd
+opportunities	opportunity	nn2
+,		,
+the	the	at
+wasted	wasted	jj
+time	time	nnt1
+?		?
+Could	could	vm
+he	he	pphs1
+have	have	vhi
+done	do	vdn
+better	better	rrr
+if	if	cs
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+anyone	anyone	pn1
+in	in	ii
+life	life	nn1
+,		,
+I	i	ppis1
+also	also	rr
+tend	tend	vv0
+to	to	to
+ask	ask	vvi
+"		"
+Why	why	rrq
+me	me	ppio1
+?		?
+"		"
+.		.
+<p>		null
+Last	last	md
+year	year	nnt1
+,		,
+I	i	ppis1
+went	go	vvd
+back	back	rp
+home	home	rl
+to	to	ii
+the	the	at
+Philippines	philippines	np2
+and	and	cc
+one	one	mc1
+of	of	io
+my	my	appge
+biggest	big	jjt
+priorities	priority	nn2
+was	be	vbdz
+to	to	to
+find	find	vvi
+Mark	mark	np1
+'s	's	ge
+grave	grave	nn1_jj
+.		.
+<p>		null
+Unfortunately	unfortunately	rr
+,		,
+the	the	at
+person	person	nn1
+that	that	dd1_cst
+last	last	md
+took	take	vvd
+me	me	ppio1
+there	there	rl_ex
+passed	pass	vvd_vvn
+away	away	rl
+a	a	at1
+few	few	da2
+months	month	nnt2
+before	before	cs
+I	i	ppis1
+got	get	vvd
+there	there	rl
+.		.
+It	it	pph1
+had	have	vhd
+been	be	vbn
+more	more	dar
+than	than	csn
+10	10	mc
+years	year	nnt2
+since	since	cs
+I	i	ppis1
+was	be	vbdz
+last	last	nn1%_md
+there	there	rl
+.		.
+Another	another	dd1
+unfortunate	unfortunate	jj
+thing	thing	nn1
+was	be	vbdz
+that	that	cst_dd1
+Mark	mark	np1_nn1@
+was	be	vbdz
+buried	bury	vvn
+in	in	ii
+Manila	manila	np1
+North	north	nd1
+Cemetery	cemetery	nn1
+.		.
+Let	let	vv0
+me	me	ppio1
+tell	tell	vvi
+you	you	ppy
+something	something	pn1
+about	about	ii
+the	the	at
+place	place	nn1
+,		,
+it	it	pph1
+'s	be	vbz
+huge	huge	jj
+and	and	cc
+it	it	pph1
+'s	be	vbz
+literally	literally	rr
+filled	fill	vvn_vvd
+to	to	ii
+the	the	at
+rafters	rafter	nn2
+.		.
+I	i	ppis1
+saw	see	vvd
+a	a	at1
+high-rise	high-rise	jj
+building	building	nn1
+of	of	io
+graves	grave	nn2
+!		!
+I	i	ppis1
+'m	be	vbm
+not	not	xx
+kidding	kid	vvg
+!		!
+To	to	to
+make	make	vvi
+the	the	at
+matters	matter	nn2
+worse	bad	jjr_rrr@
+,		,
+there	there	ex
+is	be	vbz
+a	a	at1
+WHOLE	whole	jj
+COMMUNITY	community	nn1
+living	live	vvg_nn1
+there	there	rl
+!		!
+Imagine	imagine	vv0
+going	go	vvg
+to	to	ii
+a	a	at1
+neighbourhood	neighbourhood	nn1
+where	where	rrq
+people	people	nn
+live	live	jj_vv0
+side	side	nn1
+by	by	ii
+side	side	nn1
+to	to	ii
+the	the	at
+dead	dead	jj
+.		.
+Surreal	surreal	jj_np1@
+.		.
+The	the	at
+4	4	mc
+th	th	nnu
+unfortunate	unfortunate	jj
+thing	thing	nn1
+about	about	ii
+it	it	pph1
+was	be	vbdz
+that	that	cst
+my	my	appge
+surname	surname	nn1
+,		,
+dela	dela	nn1
+Cruz	cruz	np1
+is	be	vbz
+like	like	ii
+the	the	at
+Smiths	smith	np2
+of	of	io
+the	the	at
+Philippines	philippines	np2
+!		!
+Everyone	everyone	pn1
+is	be	vbz
+related	relate	vvn
+to	to	ii
+a	a	at1
+dela	dela	nn1
+Cruz	cruz	np1
+one	one	mc1
+way	way	nn1
+or	or	cc
+another	another	dd1
+!		!
+My	my	appge
+forefathers	forefather	nn2
+were	be	vbdr
+at	at	ii
+it	it	pph1
+like	like	ii_cs%
+you	you	ppy
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+<p>		null
+The	the	at
+day	day	nnt1
+came	come	vvd
+to	to	to
+search	search	vvi
+for	for	if
+Mark	mark	np1_nn1@
+so	so	rr_cs@
+I	i	ppis1
+dragged	drag	vvd
+my	my	appge
+cousin	cousin	nn1
+Carlo	carlo	nn1@_np1
+to	to	ii
+the	the	at
+cemetery	cemetery	nn1
+;		;
+I	i	ppis1
+was	be	vbdz
+intent	intent	jj_nn1
+on	on	ii
+finding	find	vvg
+Mark	mark	np1
+'s	's	ge
+grave	grave	nn1_jj
+.		.
+To	to	to
+be	be	vbi
+fair	fair	rr@_jj
+my	my	appge
+83-year-old	83-year-old	jj
+grandmother	grandmother	nn1
+gave	give	vvd
+me	me	ppio1
+a	a	at1
+bit	bit	nn1
+of	of	io
+a	a	at1
+clue	clue	nn1
+but	but	ccb
+it	it	pph1
+was	be	vbdz
+n't	n't	xx
+enough	enough	rr_dd
+to	to	to
+pin	pin	vvi
+point	point	nn1_vv0@
+the	the	at
+location	location	nn1
+and	and	cc
+the	the	at
+people	people	nn
+inside	inside	rl
+(		(
+the	the	at
+cemetery/community		nn1
+)		)
+were	be	vbdr
+very	very	rg
+helpful	helpful	jj
+(		(
+those	those	dd2
+that	that	cst
+were	be	vbdr
+sober	sober	jj
+anyway	anyway	rr
+)		)
+.		.
+I	i	ppis1
+spent	spend	vvd
+5	5	mc
+hours	hour	nnt2
+looking	look	vvg
+for	for	if
+his	his	appge
+grave	grave	nn1_jj
+under	under	ii
+the	the	at
+searing	searing	jj_nn1
+tropical	tropical	jj
+sun	sun	nn1
+.		.
+I	i	ppis1
+ended	end	vvd
+up	up	rp
+with	with	iw
+sunburn	sunburn	nn1
+on	on	ii
+the	the	at
+back	back	nn1
+of	of	io
+my	my	appge
+neck	neck	nn1
+.		.
+I	i	ppis1
+was	be	vbdz
+thirsty	thirsty	jj
+and	and	cc
+tired	tired	jj
+.		.
+But	but	ccb
+I	i	ppis1
+knew	know	vvd
+I	i	ppis1
+was	be	vbdz
+close	close	jj_rr@
+...		...
+I	i	ppis1
+could	could	vm
+almost	almost	rr
+feel	feel	vvi
+his	his	appge
+presence	presence	nn1
+,		,
+hear	hear	vv0
+his	his	appge
+voice	voice	vvi
+call	call	vv0_nn1
+out	out	rp
+to	to	ii
+me	me	ppio1
+.		.
+<p>		null
+I	i	ppis1
+found	find	vvd
+my	my	appge
+brother	brother	nn1
+.		.
+I	i	ppis1
+somehow	somehow	rr
+felt	feel	vvd
+this	this	dd1
+connection	connection	nn1
+even	even	cs21
+though	though	cs22
+I	i	ppis1
+know	know	vv0
+that	that	cst_dd1
+under	under	ii
+this	this	dd1
+grave	grave	nn1
+was	be	vbdz
+just	just	rr
+a	a	at1
+box	box	nn1
+of	of	io
+bones	bone	nn2
+.		.
+I	i	ppis1
+somehow	somehow	rr
+felt	feel	vvd
+connected	connected	jj_vvn
+,		,
+I	i	ppis1
+cried	cry	vvd
+.		.
+Asked	ask	vvn
+my	my	appge
+cousin	cousin	nn1
+to	to	to
+give	give	vvi
+me	me	ppio1
+a	a	at1
+moment	moment	nn1
+with	with	iw
+my	my	appge
+brothers	brother	nn2
+(		(
+I	i	ppis1
+had	have	vhd
+another	another	dd1
+brother	brother	nn1
+,		,
+John	john	np1
+Andrew	andrew	np1
+,		,
+who	who	pnqs
+passed	pass	vvd
+away	away	rl
+as	as	ii_csa
+a	a	at1
+baby	baby	nn1
+too	too	rr@
+)		)
+.		.
+I	i	ppis1
+apologised	apologize	vvd
+to	to	ii
+my	my	appge
+brothers	brother	nn2
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+told	tell	vvd
+them	them	ppho2
+about	about	ii
+the	the	at
+things	thing	nn2
+I	i	ppis1
+'ve	have	vh0
+done	do	vdn
+,		,
+places	place	nn2_vvz@
+I	i	ppis1
+'ve	have	vh0
+been	be	vbn
+,		,
+people	people	nn
+I	i	ppis1
+'ve	have	vh0
+met	meet	vvn
+and	and	cc
+I	i	ppis1
+'ve	have	vh0
+told	tell	vvn
+them	them	ppho2
+about	about	ii
+my	my	appge
+family	family	nn1
+.		.
+Things	thing	nn2
+that	that	cst
+they	they	pphs2
+never	never	rr
+had	have	vhd_vhn@
+the	the	at
+chance	chance	nn1
+to	to	to
+experience	experience	vvi
+but	but	ccb
+I	i	ppis1
+have	have	vh0
+been	be	vbn
+blessed	bless	vvn
+to	to	ii_to
+.		.
+I	i	ppis1
+was	be	vbdz
+in	in	ii
+bits	bit	nn2
+,		,
+I	i	ppis1
+was	be	vbdz
+crying	cry	vvg
+in	in	ii
+the	the	at
+midst	midst	nn1
+of	of	io
+these	these	dd2
+graves	grave	nn2
+but	but	ccb
+it	it	pph1
+was	be	vbdz
+one	one	mc1
+of	of	io
+the	the	at
+happiest	happy	jjt
+moments	moment	nn2
+of	of	io
+my	my	appge
+life	life	nn1
+.		.
+I	i	ppis1
+knew	know	vvd
+I	i	ppis1
+was	be	vbdz
+going	go	vvgk
+to	to	to
+find	find	vvi
+him	him	ppho1
+and	and	cc
+I	i	ppis1
+was	be	vbdz
+right	right	jj
+.		.
+<p>		null
+Our	our	appge
+first	first	md
+ever	ever	rr
+"		"
+complete	complete	jj_vv0
+"		"
+family	family	nn1
+portrait	portrait	nn1
+.		.
+<p>		null
+So	so	rr
+what	what	ddq
+has	have	vhz
+this	this	dd1
+to	to	to
+do	do	vdi
+with	with	iw
+what	what	ddq
+I	i	ppis1
+want	want	vv0
+to	to	to
+do	do	vdi
+on	on	ii
+this	this	dd1
+website	website	nn1
+,		,
+my	my	appge
+Facebook	facebook	nn1
+page	page	nn1
+,		,
+my	my	appge
+Twitter	twitter	nn1
+profile	profile	nn1
+and	and	rr31
+so	so	rr32
+on	on	rr33
+?		?
+Motivation	motivation	nn1
+;		;
+to	to	to
+do	do	vdi
+the	the	at
+best	best	jjt
+that	that	cst
+I	i	ppis1
+can	can	vm
+do	do	vdi
+and	and	cc
+to	to	to
+be	be	vbi
+the	the	at
+best	best	jjt_rrt
+of	of	io
+what/who	what/who	fu
+I	i	ppis1
+am	be	vbm
+.		.
+There	there	ex
+are	be	vbr
+people	people	nn
+in	in	ii
+this	this	dd1
+world	world	nn1
+,		,
+that	that	cst
+I	i	ppis1
+'m	be	vbm
+sure	sure	jj
+would	would	vm
+grab	grab	vvi
+opportunities	opportunity	nn2
+that	that	cst
+we	we	ppis2
+,		,
+who	who	pnqs
+live	live	vv0
+in	in	ii_rp@
+the	the	at
+Western	western	jj
+World	world	nn1
+have	have	vh0
+in	in	ii
+our	our	appge
+hands	hand	nn2
+.		.
+Do	do	vd0
+n't	n't	xx
+waste	waste	vvi
+it	it	pph1
+.		.
+<p>		null
+Life	life	nn1
+is	be	vbz
+too	too	rg
+precious	precious	jj
+.		.
+<p>		null
+Do	do	vd0
+I	i	ppis1
+still	still	rr
+ask	ask	vvi
+"		"
+why	why	rrq
+me	me	ppio1
+?		?
+"		"
+.		.
+No	no	uh
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+What	what	ddq
+else	else	rr
+could	could	vm
+##3559751		fo
+<h>		null
+November	november	npm1
+26	26	mc
+,		,
+2012	2012	mc
+<h>		null
+A	a	zz1_at1@
+KOREAN	korean	jj_nn1@
+'S	's	ge
+LOVE	love	nn1
+FOR	for	if
+THE	the	at
+PHILIPPINES	philippines	np2@
+<p>		null
+This	this	dd1
+was	be	vbdz
+written	write	vvn_jj@
+years	year	nnt2
+ago	ago	ra
+from	from	ii
+a	a	at1
+Korean	korean	nn1@
+who	who	pnqs
+has	have	vhz
+a	a	at1
+heart	heart	nn1
+,		,
+ripped	rip	vvn_vvd
+to	to	ii
+shreds	shred	nn2
+for	for	if
+our	our	appge
+country	country	nn1
+.		.
+Here	here	rl
+is	be	vbz
+an	a	at1
+excerpt	excerpt	nn1
+from	from	ii
+his	his	appge
+letter	letter	nn1
+.		.
+<p>		null
+"		"
+My	my	appge
+Short	short	jj@_np1
+Essay	essay	nn1
+About	about	ii
+The	the	at
+Philippines	philippines	np_np2
+.		.
+"		"
+<p>		null
+by	by	ii
+Jaeyoun		np1
+Kim	kim	np1
+.		.
+(		(
+?		?
+?		?
+?		?
+)		)
+<p>		null
+Filipinos	filipino	nn2
+always	always	rr
+complain	complain	vv0
+about	about	ii_rp@
+the	the	at
+corruption	corruption	nn1
+in	in	ii
+the	the	at
+Philippines	philippines	np_np2
+.		.
+Do	do	vd0
+you	you	ppy
+really	really	rr
+think	think	vvi
+the	the	at
+corruption	corruption	nn1
+is	be	vbz
+the	the	at
+problem	problem	nn1
+of	of	io
+the	the	at
+Philippines	philippines	np2_np
+?		?
+<p>		null
+I	i	ppis1
+do	do	vd0
+not	not	xx
+think	think	vvi
+so	so	rr
+.		.
+I	i	ppis1
+strongly	strongly	rr
+believe	believe	vv0
+that	that	cst
+the	the	at
+problem	problem	nn1
+is	be	vbz
+the	the	at
+lack	lack	nn1
+of	of	io
+love	love	nn1
+for	for	if
+the	the	at
+Philippines	philippines	np2
+<p>		null
+Let	let	vv0
+me	me	ppio1
+first	first	md
+talk	talk	nn1_vv0
+about	about	ii
+my	my	appge
+country	country	nn1
+,		,
+Korea	korea	np1
+.		.
+It	it	pph1
+might	might	vm
+help	help	vvi
+you	you	ppy
+understand	understand	vvi
+my	my	appge
+point	point	nn1
+.		.
+After	after	cs_ii
+the	the	at
+Korean	korean	jj
+War	war	nn1
+,		,
+South	south	nd1
+Korea	korea	np1
+was	be	vbdz
+one	one	mc1
+of	of	io
+the	the	at
+poorest	poor	jjt
+countries	country	nn2
+in	in	ii
+the	the	at
+world	world	nn1
+.		.
+<p>		null
+Koreans	korean	nn2
+had	have	vhd
+to	to	to
+start	start	vvi
+from	from	ii
+scratch	scratch	nn1
+because	because	cs
+entire	entire	jj
+country	country	nn1
+was	be	vbdz
+destroyed	destroy	vvn
+after	after	ii_cs
+the	the	at
+Korean	korean	jj
+War	war	nn1
+,		,
+and	and	cc
+we	we	ppis2
+had	have	vhd
+no	no	at
+natural	natural	jj
+resources	resource	nn2
+.		.
+<p>		null
+Koreans	korean	nn2
+used	use	vmk
+to	to	to
+talk	talk	vvi
+about	about	ii
+the	the	at
+Philippines	philippines	np2_np
+,		,
+for	for	if
+Filipinos	filipino	nn2
+were	be	vbdr
+very	very	rg
+rich	rich	jj
+in	in	ii
+Asia	asia	np1
+.		.
+We	we	ppis2
+envy	envy	vv0
+Filipinos	filipino	nn2
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+Many	many	da2
+Koreans	korean	nn2
+died	die	vvd_vvn@
+of	of	io
+famine	famine	nn1
+.		.
+My	my	appge
+father	father	nn1
+&;		null
+brother	brother	nn1
+also	also	rr
+died	die	vvd_vvn@
+because	because	ii21
+of	of	ii22
+famine	famine	nn1
+.		.
+Korean	korean	jj
+government	government	nn1
+was	be	vbdz
+very	very	rg
+corrupt	corrupt	jj
+and	and	cc
+is	be	vbz
+still	still	rr
+very	very	rg
+corrupt	corrupt	jj
+beyond	beyond	ii
+your	your	appge
+imagination	imagination	nn1
+,		,
+but	but	ccb
+Korea	korea	np1
+was	be	vbdz
+able	able	jk
+to	to	to
+develop	develop	vvi
+dramatically	dramatically	rr
+because	because	cs
+Koreans	korean	nn2
+really	really	rr
+did	do	vdd
+their	their	appge
+best	best	jjt_rrt
+for	for	if
+the	the	at
+common	common	jj
+good	good	jj
+with	with	iw
+their	their	appge
+heart	heart	nn1
+burning	burn	vvg
+with	with	iw
+patriotism	patriotism	nn1
+.		.
+<p>		null
+Koreans	korean	nn2
+did	do	vdd
+not	not	xx
+work	work	vvi
+just	just	rr
+for	for	if
+themselves	themselves	ppx2
+but	but	ccb
+also	also	rr
+for	for	if
+their	their	appge
+neighborhood	neighborhood	nn1
+and	and	cc
+country	country	nn1
+.		.
+<p>		null
+Education	education	nn1
+inspired	inspire	vvd_vvn_jj
+young	young	jj
+men	man	nn2
+with	with	iw
+the	the	at
+spirit	spirit	nn1
+of	of	io
+patriotism	patriotism	nn1
+.		.
+<p>		null
+40	40	mc
+years	year	nnt2
+ago	ago	ra
+,		,
+President	president	nnb
+Park	park	np1
+took	take	vvd
+over	over	ii_rp
+the	the	at
+government	government	nn1
+to	to	to
+reform	reform	vvi
+Korea	korea	np1
+.		.
+He	he	pphs1
+tried	try	vvd
+to	to	to
+borrow	borrow	vvi
+money	money	nn1
+from	from	ii
+other	other	jj
+countries	country	nn2
+,		,
+but	but	ccb
+it	it	pph1
+was	be	vbdz
+not	not	xx
+possible	possible	jj
+to	to	to
+get	get	vvi
+a	a	at1
+loan	loan	nn1
+and	and	cc
+attract	attract	vvi
+a	a	at1
+foreign	foreign	jj
+investment	investment	nn1
+because	because	cs
+the	the	at
+economic	economic	jj
+situation	situation	nn1
+of	of	io
+South	south	nd1
+Korea	korea	np1
+was	be	vbdz
+so	so	rg_rr
+bad	bad	jj
+.		.
+Korea	korea	np1
+had	have	vhd
+only	only	rr
+three	three	mc
+factories	factory	nn2
+.		.
+So	so	rr
+,		,
+President	president	nnb
+Park	park	np1
+sent	send	vvd
+many	many	da2
+mine	mine	nn1
+workers	worker	nn2
+and	and	cc
+nurses	nurse	nn2
+to	to	ii
+Germany	germany	np1
+so	so	cs21
+that	that	cs22
+they	they	pphs2
+could	could	vm
+send	send	vvi
+money	money	nn1
+to	to	ii
+Korea	korea	np1
+to	to	to
+build	build	vvi
+a	a	at1
+factory	factory	nn1
+.		.
+They	they	pphs2
+had	have	vhd
+to	to	to
+go	go	vvi
+through	through	ii_rp@
+horrible	horrible	jj
+experience	experience	nn1
+.		.
+<p>		null
+In	in	ii
+1964	1964	mc
+,		,
+President	president	nnb
+Park	park	np1
+Chung-hee	chung-hee	fu
+visited	visit	vvn
+Germany	germany	np1
+to	to	to
+borrow	borrow	vvi
+money	money	nn1
+.		.
+Hundred	hundred	nno
+of	of	io
+Koreans	korean	nn2
+in	in	ii
+Germany	germany	np1
+came	come	vvd
+to	to	ii
+the	the	at
+airport	airport	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+President	president	nnb
+Park	park	np1
+.		.
+They	they	pphs2
+asked	ask	vvd
+to	to	ii
+him	him	ppho1
+,		,
+"		"
+President	president	nn1
+,		,
+when	when	rrq
+can	can	vm
+we	we	ppis2
+be	be	vbi
+well	well	jj21
+off	off	jj22
+?		?
+That	that	dd1
+was	be	vbdz
+the	the	at
+only	only	jj
+question	question	nn1
+everyone	everyone	pn1
+asked	ask	vvd
+to	to	ii
+him	him	ppho1
+.		.
+President	president	nnb
+Park	park	np1
+cried	cry	vvd
+with	with	iw
+them	them	ppho2
+and	and	cc
+promised	promise	vvd
+them	them	ppho2
+that	that	cst
+Korea	korea	np1
+would	would	vm
+be	be	vbi
+well	well	jj21
+off	off	jj22
+if	if	cs_csw@
+everyone	everyone	pn1
+works	work	vvz
+hard	hard	rr_jj
+for	for	if
+Korea	korea	np1
+,		,
+and	and	cc
+the	the	at
+President	president	nn1
+of	of	io
+Germany	germany	np1
+got	get	vvd
+the	the	at
+strong	strong	jj
+impression	impression	nn1
+on	on	ii
+them	them	ppho2
+and	and	cc
+lent	lend	vvd_jj%
+money	money	nn1
+to	to	ii
+Korea	korea	np1
+.		.
+<p>		null
+So	so	rr
+,		,
+President	president	nnb
+Park	park	np1
+was	be	vbdz
+able	able	jk
+to	to	to
+build	build	vvi
+many	many	da2
+factories	factory	nn2
+in	in	ii
+Korea	korea	np1
+.		.
+He	he	pphs1
+always	always	rr
+asked	ask	vvd
+Koreans	korean	nn2
+to	to	to
+love	love	vvi
+their	their	appge
+country	country	nn1
+from	from	ii
+their	their	appge
+heart	heart	nn1
+.		.
+<p>		null
+Many	many	da2
+Korean	korean	jj
+scientists	scientist	nn2
+and	and	cc
+engineers	engineer	nn2
+in	in	ii
+the	the	at
+USA	usa	np1
+came	come	vvd
+back	back	rp
+to	to	ii
+Korea	korea	np1
+to	to	to
+help	help	vvi
+developing	developing	jj
+country	country	nn1
+because	because	cs
+they	they	pphs2
+wanted	want	vvd
+their	their	appge
+country	country	nn1
+to	to	to
+be	be	vbi
+well	well	jj21
+off	off	jj22
+.		.
+Though	though	cs
+they	they	pphs2
+received	receive	vvd
+very	very	rg
+small	small	jj
+salary	salary	nn1
+,		,
+they	they	pphs2
+did	do	vdd
+their	their	appge
+best	best	jjt_rrt
+for	for	if
+Korea	korea	np1
+.		.
+They	they	pphs2
+always	always	rr
+hoped	hope	vvd
+that	that	cst
+their	their	appge
+children	child	nn2
+would	would	vm
+live	live	vvi
+in	in	ii_rp@
+well	well	jj21
+off	off	jj22
+country	country	nn1
+.		.
+<p>		null
+My	my	appge
+parents	parent	nn2
+always	always	rr
+brought	bring	vvd_vvn
+me	me	ppio1
+to	to	ii
+the	the	at
+places	place	nn2
+where	where	rrq
+poor	poor	jj
+and	and	cc
+physically	physically	rr
+handicapped	handicapped	jj_vvn
+people	people	nn
+live	live	vv0_jj
+.		.
+They	they	pphs2
+wanted	want	vvd
+me	me	ppio1
+to	to	to
+understand	understand	vvi
+their	their	appge
+life	life	nn1
+and	and	cc
+help	help	vvi
+them	them	ppho2
+.		.
+Have	have	vh0
+you	you	ppy
+cried	cry	vvn
+for	for	if
+the	the	at
+Philippines	philippines	np2_np
+?		?
+I	i	ppis1
+have	have	vh0
+cried	cry	vvn
+for	for	if
+my	my	appge
+country	country	nn1
+several	several	da2
+times	time	nnt2
+.		.
+I	i	ppis1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+people	people	nn
+.		.
+<p>		null
+I	i	ppis1
+have	have	vh0
+been	be	vbn
+to	to	ii
+the	the	at
+New	new	jj
+Bilibid		jj_nn1
+prison	prison	nn1
+.		.
+What	what	ddq
+made	make	vvd
+me	me	ppio1
+sad	sad	jj
+in	in	ii
+the	the	at
+prison	prison	nn1
+were	be	vbdr
+the	the	at
+prisoners	prisoner	nn2
+who	who	pnqs
+do	do	vd0
+not	not	xx
+have	have	vhi
+any	any	dd
+love	love	nn1_vv0
+for	for	if
+their	their	appge
+country	country	nn1
+.		.
+They	they	pphs2
+go	go	vv0
+to	to	ii
+mass	mass	nn1_jj
+and	and	cc
+work	work	vv0_nn1
+for	for	if
+church	church	nn1
+.		.
+They	they	pphs2
+pray	pray	vv0
+everyday	everyday	jj
+.		.
+<p>		null
+However	however	rr
+,		,
+they	they	pphs2
+do	do	vd0
+not	not	xx
+love	love	vvi
+the	the	at
+Philippines	philippines	np_np2
+.		.
+I	i	ppis1
+talked	talk	vvd
+to	to	ii
+two	two	mc
+prisoners	prisoner	nn2
+at	at	ii
+the	the	at
+maximum-security	maximum-security	jj_nn1
+compound	compound	nn1
+,		,
+and	and	cc
+both	both	db2
+of	of	io
+them	them	ppho2
+said	say	vvd
+that	that	cst
+they	they	pphs2
+would	would	vm
+leave	leave	vvi
+the	the	at
+Philippines	philippines	np2_np
+right	right	rr_nn1_jj
+after	after	cs
+they	they	pphs2
+are	be	vbr
+released	release	vvn
+from	from	ii
+the	the	at
+prison	prison	nn1
+.		.
+They	they	pphs2
+said	say	vvd
+that	that	cst
+they	they	pphs2
+would	would	vm
+start	start	vvi
+a	a	at1
+new	new	jj
+life	life	nn1
+in	in	ii
+other	other	jj
+countries	country	nn2
+and	and	cc
+never	never	rr
+come	come	vv0_vvn@
+back	back	rp
+to	to	ii
+the	the	at
+Philippines	philippines	np_np2
+.		.
+<p>		null
+Many	many	da2
+Koreans	korean	nn2
+have	have	vh0
+a	a	at1
+great	great	jj
+love	love	nn1
+for	for	if
+Korea	korea	np1
+so	so	cs21
+that	that	cs22
+we	we	ppis2
+were	be	vbdr
+able	able	jk
+to	to	to
+share	share	vvi
+our	our	appge
+wealth	wealth	nn1
+with	with	iw
+our	our	appge
+neighborhood	neighborhood	nn1
+.		.
+The	the	at
+owners	owner	nn2
+of	of	io
+factory	factory	nn1
+and	and	cc
+company	company	nn1
+distributed	distribute	vvn_vvd@
+their	their	appge
+profit	profit	nn1
+to	to	ii
+their	their	appge
+employees	employee	nn2
+fairly	fairly	rr
+so	so	cs21
+that	that	cs22
+employees	employee	nn2
+could	could	vm
+buy	buy	vvi
+what	what	ddq
+they	they	pphs2
+needed	need	vvd
+and	and	cc
+saved	saved	jj@_vvd_vvn
+money	money	nn1
+for	for	if
+the	the	at
+future	future	nn1_jj
+and	and	cc
+their	their	appge
+children	child	nn2
+.		.
+<p>		null
+When	when	cs_rrq
+I	i	ppis1
+was	be	vbdz
+in	in	ii
+Korea	korea	np1
+,		,
+I	i	ppis1
+had	have	vhd
+a	a	at1
+very	very	rg
+strong	strong	jj
+faith	faith	nn1
+and	and	cc
+wanted	want	vvd_vvn
+to	to	to
+serve	serve	vvi
+in	in	ii_rp@
+a	a	at1
+church	church	nn1
+.		.
+However	however	rr
+,		,
+when	when	cs_rrq
+I	i	ppis1
+came	come	vvd
+to	to	ii
+the	the	at
+Philippines	philippines	np2_np
+,		,
+I	i	ppis1
+completely	completely	rr
+lost	lose	vvd
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+many	many	da2
+unbelievable	unbelievable	jj
+situations	situation	nn2
+in	in	ii
+the	the	at
+Philippines	philippines	np_np2
+.		.
+Street	street	nn1
+kids	kid	nn2
+always	always	rr
+make	make	vv0
+me	me	ppio1
+sad	sad	jj
+,		,
+and	and	cc
+I	i	ppis1
+see	see	vv0
+them	them	ppho2
+everyday	everyday	jj
+.		.
+<p>		null
+The	the	at
+Philippines	philippines	np_np2
+is	be	vbz
+the	the	at
+most	most	rgt
+"		"
+religious	religious	jj
+"		"
+country	country	nn1
+in	in	ii
+Asia	asia	np1
+,		,
+they	they	pphs2
+say	say	vv0
+.		.
+But	but	ccb
+there	there	ex
+are	be	vbr
+too	too	rg
+many	many	da2
+poor	poor	jj
+people	people	nn
+here	here	rl
+.		.
+People	people	nn
+go	go	vv0
+to	to	ii
+church	church	nn1
+every	every	at1
+Sunday	sunday	npd1
+to	to	to
+pray	pray	vvi
+,		,
+but	but	ccb
+nothing	nothing	pn1
+has	have	vhz
+been	be	vbn
+changed	change	vvn
+.		.
+<p>		null
+My	my	appge
+parents	parent	nn2
+came	come	vvd
+to	to	ii
+the	the	at
+Philippines	philippines	np2_np
+last	last	md
+week	week	nnt1
+and	and	cc
+saw	see	vvd
+this	this	dd1
+situation	situation	nn1
+.		.
+They	they	pphs2
+told	tell	vvd
+me	me	ppio1
+that	that	cst
+Korea	korea	np1
+was	be	vbdz
+much	much	rr_da1
+poorer	poor	jjr
+than	than	csn
+the	the	at
+present	present	jj
+Philippines	philippines	np2
+when	when	cs
+they	they	pphs2
+were	be	vbdr
+young	young	jj
+.		.
+They	they	pphs2
+are	be	vbr
+so	so	rg_rr
+sorry	sorry	jj
+that	that	cst
+there	there	ex
+are	be	vbr
+so	so	rg
+many	many	da2
+beggars	beggar	nn2
+and	and	cc
+street	street	nn1
+kids	kid	nn2
+.		.
+When	when	cs_rrq
+we	we	ppis2
+went	go	vvd
+to	to	ii
+Pagsanjan		np1_nn1
+,		,
+I	i	ppis1
+forced	force	vvd
+my	my	appge
+parents	parent	nn2
+to	to	to
+take	take	vvi
+a	a	at1
+boat	boat	nn1
+because	because	cs
+it	it	pph1
+would	would	vm
+be	be	vbi
+fun	fun	jj_nn1
+.		.
+<p>		null
+However	however	rr
+,		,
+they	they	pphs2
+were	be	vbdr
+not	not	xx
+happy	happy	jj
+after	after	ii
+taking	take	vvg
+a	a	at1
+boat	boat	nn1
+.		.
+They	they	pphs2
+said	say	vvd
+that	that	cst
+they	they	pphs2
+would	would	vm
+not	not	xx
+take	take	vvi
+the	the	at
+boat	boat	nn1
+again	again	rt
+because	because	cs
+they	they	pphs2
+were	be	vbdr
+sympathized	sympathize	vvn@
+the	the	at
+boatmen	boatmen	nn2
+,		,
+for	for	if
+the	the	at
+boatmen	boatmen	nn2
+were	be	vbdr
+very	very	rg
+poor	poor	jj
+and	and	cc
+had	have	vhd_vhn@
+a	a	at1
+small	small	jj
+frame	frame	nn1
+.		.
+Most	most	dat
+of	of	io
+people	people	nn
+just	just	rr
+took	take	vvd
+a	a	at1
+boat	boat	nn1
+and	and	cc
+enjoyed	enjoy	vvd
+it	it	pph1
+.		.
+But	but	ccb
+,		,
+my	my	appge
+parents	parent	nn2
+did	do	vdd
+not	not	xx
+enjoy	enjoy	vvi
+it	it	pph1
+because	because	ii21
+of	of	ii22
+love	love	nn1
+for	for	if
+them	them	ppho2
+.		.
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+since	since	cs
+I	i	ppis1
+was	be	vbdz
+very	very	rg
+young	young	jj
+told	tell	vvd_vvn
+me	me	ppio1
+that	that	cst
+if	if	cs
+we	we	ppis2
+just	just	rr
+go	go	vv0
+to	to	ii
+church	church	nn1
+without	without	iw
+changing	change	vvg
+ourselves	ourselves	ppx2
+,		,
+we	we	ppis2
+are	be	vbr
+not	not	xx
+Christians	christian	nn2
+indeed	indeed	rr
+.		.
+Faith	faith	nn1
+should	should	vm
+come	come	vvi
+with	with	iw
+action	action	nn1
+.		.
+She	she	pphs1
+added	add	vvd
+that	that	cst
+I	i	ppis1
+have	have	vh0
+to	to	to
+love	love	vvi
+Filipinos	filipino	nn2
+and	and	cc
+do	do	vd0
+good	good	jj
+things	thing	nn2
+for	for	if
+them	them	ppho2
+because	because	cs
+all	all	db
+of	of	io
+us	us	ppio2
+are	be	vbr
+same	same	da
+and	and	cc
+have	have	vh0
+received	receive	vvn
+a	a	at1
+great	great	jj
+love	love	nn1
+from	from	ii
+God	god	np1
+.		.
+I	i	ppis1
+want	want	vv0
+Filipinos	filipino	nn2
+to	to	to
+love	love	vvi
+their	their	appge
+neighborhood	neighborhood	nn1
+and	and	cc
+country	country	nn1
+as	as	rg
+much	much	da1
+as	as	csa
+they	they	pphs2
+love	love	vv0
+God	god	np1_nn1@
+so	so	cs21
+that	that	cs22
+the	the	at
+Philippines	philippines	np2
+will	will	vm
+be	be	vbi
+well	well	jj21
+off	off	jj22
+.		.
+<p>		null
+I	i	ppis1
+am	be	vbm
+sure	sure	jj
+that	that	cst_dd1
+love	love	nn1_vv0
+is	be	vbz
+the	the	at
+keyword	keyword	nn1
+,		,
+which	which	ddq
+Filipinos	filipino	nn2
+should	should	vm
+remember	remember	vvi
+.		.
+We	we	ppis2
+can	can	vm
+not	not	xx
+change	change	vvi
+the	the	at
+sinful	sinful	jj
+structure	structure	nn1
+at	at	rr21
+once	once	rr22
+.		.
+It	it	pph1
+should	should	vm
+start	start	vvi
+from	from	ii
+person	person	nn1
+.		.
+Love	love	nn1_vv0
+must	must	vm
+start	start	vvi
+in	in	ii_rp@
+everybody	everybody	pn1
+,		,
+in	in	ii
+a	a	at1
+small	small	jj
+scale	scale	nn1
+and	and	cc
+have	have	vh0
+to	to	to
+grow	grow	vvi
+.		.
+A	a	at1
+lot	lot	nn1
+of	of	io
+things	thing	nn2
+happen	happen	vv0
+if	if	cs_csw@
+we	we	ppis2
+open	open	vv0
+up	up	rp
+to	to	to
+love	love	vvi
+.		.
+Let	let	vm21
+'s	be	vm22
+put	put	vvi
+away	away	rl
+our	our	appge
+prejudices	prejudice	nn2
+and	and	cc
+look	look	vvi
+at	at	ii
+our	our	appge
+worries	worry	nn2
+with	with	iw
+our	our	appge
+new	new	jj
+eyes	eye	nn2
+.		.
+<p>		null
+If	if	cs
+you	you	ppy
+have	have	vh0
+a	a	at1
+child	child	nn1
+,		,
+teach	teach	vv0
+them	them	ppho2
+how	how	rrq
+to	to	to
+love	love	vvi
+the	the	at
+Philippines	philippines	np_np2
+.		.
+##3562650		fo
+<p>		null
+Below	below	rl
+are	be	vbr
+some	some	dd
+informative	informative	jj
+details	detail	nn2
+about	about	ii
+the	the	at
+project	project	nn1
+PROXIMITY	proximity	nn1
+.		.
+AVALON	avalon	np1
+Residential	residential	jj
+Condominium	condominium	nn1
+is	be	vbz
+nestled	nestled	jj@_vvn@
+right	right	nn1_rr
+in	in	ii
+the	the	at
+heart	heart	nn1
+of	of	io
+Cebu	cebu	np1
+Business	business	nn1
+Park	park	nn1
+,		,
+a	a	at1
+sprawling	sprawling	jj
+urban	urban	jj
+development	development	nn1
+teeming	teeming	jj
+with	with	iw
+business	business	nn1
+,		,
+residential	residential	jj
+,		,
+sports	sport	nn2
+,		,
+recreations	recreation	nn2
+and	and	cc
+leisure	leisure	nn1
+facilities	facility	nn2
+set	set	vvn_vv0_vvd
+in	in	ii
+the	the	at
+middle	middle	nn1
+of	of	io
+wide	wide	jj
+expanses	expanse	nn2
+of	of	io
+greenery	greenery	nn1
+and	and	cc
+concrete	concrete	jj_nn1
+streets	street	nn2
+and	and	cc
+pathways	pathway	nn2
+.		.
+<p>		null
+The	the	at
+name	name	nn1
+Avalon	avalon	np1
+is	be	vbz
+derived	derive	vvn
+from	from	ii
+the	the	at
+mythical	mythical	jj
+legend	legend	nn1
+of	of	io
+King	king	nnb
+Arthur	arthur	np1
+.		.
+It	it	pph1
+was	be	vbdz
+a	a	at1
+retirement	retirement	nn1
+island	island	nn1
+reserved	reserve	vvn_vvd
+for	for	if
+a	a	at1
+royalty	royalty	nn1
+.		.
+And	and	cc
+with	with	iw
+that	that	dd1
+saying	saying	nn1@_vvg
+,		,
+this	this	dd1
+upcoming	upcoming	jj
+high-end	high-end	jj
+residential	residential	jj
+address	address	nn1
+is	be	vbz
+exclusive	exclusive	jj
+for	for	if
+those	those	dd2
+who	who	pnqs
+deserve	deserve	vv0
+a	a	at1
+home	home	nn1
+spelled	spell	vvd_vvn
+as	as	rg@_csa_ii@
+luxurious	luxurious	jj
+elegance	elegance	nn1
+.		.
+<p>		null
+But	but	ccb
+the	the	at
+best	best	jjt
+thing	thing	nn1
+about	about	ii
+Avalon	avalon	np1
+,		,
+it	it	pph1
+awards	award	vvz@
+the	the	at
+chosen	chosen	jj@_vvn
+few	few	da2
+to	to	ii_to
+rightfully	rightfully	rr
+own	own	da_vv0@
+a	a	at1
+residential	residential	jj
+property	property	nn1
+remarkably	remarkably	rr
+valued	value	vvn_vvd
+as	as	ii
+a	a	at1
+crown	crown	nn1
+jewel	jewel	nn1
+.		.
+Being	be	vbg
+located	locate	vvn
+in	in	ii
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+prime	prime	jj
+locations	location	nn2
+of	of	io
+the	the	at
+metropolis	metropolis	nn1
+,		,
+the	the	at
+overall	overall	jj_nn1
+value	value	nn1
+of	of	io
+the	the	at
+estate	estate	nn1
+increases	increase	vvz_nn2
+through	through	ii
+time	time	nnt1
+.		.
+And	and	cc
+so	so	rr
+will	will	vm
+your	your	appge
+investment	investment	nn1
+yield	yield	vvi
+more	more	dar
+returns	return	nn2
+.		.
+<p>		null
+Security	security	nn1
+.		.
+Closed	closed	jj
+circuit	circuit	nn1
+TVs	tvs	np1
+enable	enable	vv0
+us	us	ppio2
+to	to	to
+monitor	monitor	vvi
+the	the	at
+elevators	elevator	nn2
+,		,
+basement	basement	nn1
+and	and	cc
+ground	ground	nn1
+floor	floor	nn1
+areas	area	nn2
+24	24	mc
+hours	hour	nnt2
+a	a	at1
+day	day	nnt1
+,		,
+7	7	mc
+days	day	nnt2
+a	a	at1
+week	week	nnt1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+knowing	know	vvg
+that	that	cst
+your	your	appge
+residence	residence	nn1
+will	will	vm
+be	be	vbi
+safe	safe	jj
+.		.
+<p>		null
+Parking	parking	nn1_vvg@
+Space	space	nn1
+.		.
+Finding	find	vvg
+a	a	at1
+place	place	nn1
+to	to	to
+park	park	vvi
+your	your	appge
+car	car	nn1
+is	be	vbz
+never	never	rr
+a	a	at1
+problem	problem	nn1
+.		.
+AVALON	avalon	np1
+Residential	residential	jj
+Condominium	condominium	nn1
+features	feature	nn2_vvz@
+four	four	mc
+levels	level	nn2
+of	of	io
+basement	basement	nn1
+parking	parking	nn1
+.		.
+With	with	iw
+a	a	at1
+sheltered	sheltered	jj
+parking	parking	nn1
+facility	facility	nn1
+like	like	ii
+this	this	dd1
+,		,
+your	your	appge
+vehicles	vehicle	nn2
+will	will	vm
+remain	remain	vvi
+safe	safe	jj_nn1@
+from	from	ii
+unpleasant	unpleasant	jj
+weather	weather	nn1
+and	and	cc
+other	other	jj
+external	external	jj
+elements	element	nn2
+.		.
+<p>		null
+Fitness	fitness	nn1
+Gym	gym	nn1
+.		.
+Relieve	relieve	vv0
+your	your	appge
+body	body	nn1
+from	from	ii
+stress	stress	nn1
+with	with	iw
+a	a	at1
+healty	healty	nn1
+dose	dose	nn1
+of	of	io
+exercise	exercise	nn1
+,		,
+do	do	vd0
+your	your	appge
+work	work	nn1
+out	out	rp
+at	at	ii
+fitness	fitness	nn1
+Gym	gym	nn1
+,		,
+which	which	ddq
+features	feature	vvz@_nn2
+complete	complete	jj
+facilities	facility	nn2
+and	and	cc
+equipment	equipment	nn1
+.		.
+<p>		null
+Function	function	nn1_vv0@
+Rooms	room	nn2
+.		.
+Throw	throw	vv0
+a	a	at1
+party	party	nn1
+right	right	nn1_rr
+next	next	ii21
+to	to	ii22
+your	your	appge
+home	home	nn1
+.		.
+With	with	iw
+two	two	mc
+function	function	nn1
+rooms	room	nn2
+,		,
+you	you	ppy
+can	can	vm
+host	host	vvi
+parties	party	nn2
+,		,
+set	set	vvd_vv0_vvn
+up	up	rp
+business	business	nn1
+meetings	meeting	nn2
+,		,
+and	and	cc
+even	even	rr
+hold	hold	vv0
+mini-seminars		nn2
+easily	easily	rr
+.		.
+In	in	rr21
+addition	addition	rr22
+,		,
+the	the	at
+staff	staff	nn
+will	will	vm
+only	only	rr
+be	be	vbi
+glad	glad	jj
+to	to	to
+give	give	vvi
+you	you	ppy
+a	a	at1
+hand	hand	nn1
+.		.
+<p>		null
+Clean	clean	jj
+Surroundings	surroundings	nn2
+.		.
+Take	take	vv0
+a	a	at1
+whiff	whiff	nn1
+of	of	io
+the	the	at
+fresh	fresh	jj
+air	air	nn1
+when	when	cs_rrq
+you	you	ppy
+wake	wake	vv0
+up	up	rp
+every	every	at1
+morning	morning	nnt1
+.		.
+The	the	at
+surrounding	surrounding	jj
+park	park	nn1
+is	be	vbz
+laden	laden	vvn
+with	with	iw
+trees	tree	nn2
+and	and	cc
+grassy	grassy	jj
+spaces	space	nn2
+ideal	ideal	jj_nn1@
+for	for	if
+lesisurely		rr
+walks	walk	vvz
+with	with	iw
+the	the	at
+kids	kid	nn2
+.		.
+Indeed	indeed	rr
+AVALON	avalon	np1
+Residential	residential	jj
+Condominium	condominium	nn1
+gently	gently	rr
+invites	invite	vvz
+you	you	ppy
+to	to	to
+savor	savor	vvi
+the	the	at
+idyllic	idyllic	jj
+beauty	beauty	nn1
+of	of	io
+its	its	appge
+scenery	scenery	nn1
+.		.
+<p>		null
+Ambiance	ambiance	nn1_np1@
+and	and	cc
+Space	space	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+our	our	appge
+customers	customer	nn2
+feel	feel	vvi
+at	at	ii
+home	home	nn1
+as	as	cs31
+soon	soon	cs32
+as	as	cs33
+they	they	pphs2
+step	step	vv0
+inside	inside	ii_rl
+AVALON	avalon	np1
+Residential	residential	jj
+Condominium	condominium	nn1
+.		.
+That	that	dd1
+'s	be	vbz
+why	why	rrq
+it	it	pph1
+is	be	vbz
+designed	design	vvn
+to	to	to
+give	give	vvi
+you	you	ppy
+the	the	at
+unique	unique	jj
+ambiance	ambiance	nn1
+of	of	io
+home	home	nn1
+and	and	cc
+a	a	at1
+convivial	convivial	jj
+sense	sense	nn1
+of	of	io
+space	space	nn1
+to	to	to
+make	make	vvi
+sure	sure	jj
+you	you	ppy
+'ll	will	vm
+settle	settle	vvi
+right	right	rr_nn1
+in	in	rp@_ii
+.		.
+Live	live	vv0
+in	in	ii_rp@
+a	a	at1
+prime	prime	jj
+area	area	nn1
+that	that	cst_dd1
+'s	be	vbz
+devoid	devoid	jj
+of	of	io
+cramped	cramped	jj
+space	space	nn1
+and	and	cc
+unsightly	unsightly	jj
+features	feature	nn2
+.		.
+With	with	iw
+side	side	nn1
+open	open	jj_vv0
+spaces	space	nn2
+and	and	cc
+grassy	grassy	jj
+expanses	expanse	nn2
+,		,
+you	you	ppy
+cn	cn	nnu
+relax	relax	vv0
+,		,
+have	have	vh0
+fun	fun	jj_nn1
+and	and	cc
+do	do	vd0
+business	business	nn1
+at	at	ii
+the	the	at
+same	same	da
+time	time	nnt1
+.		.
+<p>		null
+Business	business	nn1
+Center	center	nn1
+.		.
+Need	need	vv0
+to	to	to
+fax	fax	vvi
+an	a	at1
+important	important	jj
+document	document	nn1
+?		?
+Or	or	cc
+have	have	vh0
+some	some	dd
+papers	paper	nn2
+photocopied	photocopy	vvn
+?		?
+.		.
+Visit	visit	vv0
+our	our	appge
+business	business	nn1
+center	center	nn1
+and	and	cc
+you	you	ppy
+'ll	will	vm
+find	find	vvi
+everything	everything	pn1
+you	you	ppy
+need	need	vv0
+.		.
+<p>		null
+Elevators	elevator	nn2
+.		.
+Get	get	vv0
+to	to	ii
+your	your	appge
+unit	unit	nn1
+fast	fast	rr_nn1@_jj
+with	with	iw
+the	the	at
+use	use	nn1
+of	of	io
+4	4	mc
+elevators	elevator	nn2
+that	that	cst
+operate	operate	vv0
+24	24	mc
+hours	hour	nnt2
+a	a	at1
+day	day	nnt1
+.		.
+<p>		null
+Multi-System	multi-system	jj_nn1
+Airconditioning		nn1@_np1_vvg
+.		.
+We	we	ppis2
+only	only	rr
+use	use	vv0
+the	the	at
+best	best	jjt
+airconditioners	airconditioners	nn2
+in	in	ii
+all	all	db
+units	unit	nn2
+and	and	cc
+our	our	appge
+multi-system	multi-system	jj_nn1
+airconditioning	air-conditioning	nn1@
+ensures	ensure	vvz
+that	that	cst
+you	you	ppy
+live	live	vv0
+with	with	iw
+the	the	at
+cozy	cozy	jj
+comfort	comfort	nn1
+that	that	cst
+truly	truly	rr
+feels	feel	vvz
+home	home	rl
+.		.
+<p>		null
+SPA	spa	nn1
+.		.
+Live	live	vv0_jj
+with	with	iw
+panache	panache	nn1
+,		,
+relax	relax	vv0
+with	with	iw
+style	style	nn1
+.		.
+After	after	cs_ii
+a	a	at1
+long	long	jj
+day	day	nnt1
+at	at	ii
+work	work	nn1
+,		,
+reinvigorate	reinvigorate	vv0
+your	your	appge
+body	body	nn1
+with	with	iw
+the	the	at
+relaxing	relaxing	jj
+treatments	treatment	nn2
+available	available	jj
+at	at	ii
+our	our	appge
+ground	ground	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+need	need	vm@_vv0
+not	not	xx
+worry	worry	vvi
+about	about	ii_rp@
+your	your	appge
+kids	kid	nn2
+while	while	cs
+you	you	ppy
+'re	be	vbr
+away	away	rl
+at	at	ii
+work	work	nn1
+--		zz
+take	take	vv0
+them	them	ppho2
+to	to	ii
+the	the	at
+day	day	nnt1
+care	care	nn1_vv0
+center	center	nn1
+or	or	cc
+let	let	vv0
+them	them	ppho2
+frolic	frolic	nn1_vv0@
+to	to	ii
+their	their	appge
+heart	heart	nn1
+'s	's	ge
+content	content	nn1_jj
+at	at	ii
+the	the	at
+Play	play	nn1
+Area	area	nn1
+.		.
+<p>		null
+Time	time	nnt1
+.		.
+Because	because	ii21
+of	of	ii22
+the	the	at
+accessibility	accessibility	nn1
+of	of	io
+the	the	at
+location	location	nn1
+,		,
+you	you	ppy
+can	can	vm
+have	have	vhi
+more	more	dar
+freedom	freedom	nn1
+to	to	to
+spend	spend	vvi
+your	your	appge
+time	time	nnt1
+wisely	wisely	rr
+.		.
+Whether	whether	csw
+it	it	pph1
+'s	be	vbz
+for	for	if
+business	business	nn1
+or	or	cc
+for	for	if
+pleasure	pleasure	nn1
+,		,
+you	you	ppy
+can	can	vm
+control	control	vvi
+your	your	appge
+time	time	nnt1
+better	better	rrr
+and	and	cc
+more	more	rgr
+effectively	effectively	rr
+.		.
+<p>		null
+Comfort	comfort	vv0_nn1
+.		.
+You	you	ppy
+'re	be	vbr
+in	in	ii
+your	your	appge
+own	own	da
+space	space	nn1
+and	and	cc
+you	you	ppy
+own	own	vv0@
+your	your	appge
+time	time	nnt1
+,		,
+but	but	ccb
+nothing	nothing	pn1
+##3563252		fo
+<h>		null
+3	3	mc
+Tips	tip	nn2_vvz
+For	for	if
+Becoming	become	vvg
+A	a	at1@_zz1
+Great	great	jj
+Business	business	nn1
+Leader	leader	nn1
+<p>		null
+Anyone	anyone	pn1
+who	who	pnqs
+has	have	vhz
+a	a	at1
+strong	strong	jj
+interest	interest	nn1
+in	in	ii
+building	build	vvg@
+their	their	appge
+career	career	nn1
+in	in	ii
+business	business	nn1
+needs	need	vvz_nn2
+to	to	to
+take	take	vvi
+the	the	at
+time	time	nnt1
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+they	they	pphs2
+'re	be	vbr
+doing	do	vdg
+everything	everything	pn1
+necessary	necessary	jj
+in	in	bcl21
+order	order	bcl22
+to	to	to
+rise	rise	vvi
+to	to	ii
+the	the	at
+top	top	nn1_jj
+.		.
+Success	success	nn1
+in	in	ii
+business	business	nn1
+typically	typically	rr
+comes	come	vvz
+down	down	rp
+to	to	ii
+a	a	at1
+combination	combination	nn1
+of	of	io
+luck	luck	nn1
+,		,
+knowledge	knowledge	nn1
+and	and	cc
+skills	skill	nn2
+,		,
+all	all	db
+of	of	io
+which	which	ddq
+can	can	vm
+have	have	vhi
+a	a	at1
+dramatic	dramatic	jj
+impact	impact	nn1
+on	on	ii
+the	the	at
+end	end	nn1
+result	result	nn1
+of	of	io
+one	one	pn1_mc1
+'s	's	ge
+career	career	nn1
+.		.
+<p>		null
+This	this	dd1
+being	be	vbg
+said	say	vvn@
+,		,
+a	a	at1
+lot	lot	nn1
+of	of	io
+achievement	achievement	nn1
+in	in	ii
+business	business	nn1
+comes	come	vvz
+down	down	rp
+to	to	ii
+one	one	pn1_mc1
+'s	's	ge
+approach	approach	nn1
+.		.
+In	in	bcl21
+order	order	bcl22
+to	to	to
+succeed	succeed	vvi
+and	and	cc
+do	do	vdi
+your	your	appge
+best	best	jjt
+,		,
+you	you	ppy
+'ve	have	vh0
+got	get	vvn
+to	to	to
+do	do	vdi
+what	what	ddq
+it	it	pph1
+takes	take	vvz
+to	to	to
+become	become	vvi
+a	a	at1
+great	great	jj
+business	business	nn1
+leader	leader	nn1
+.		.
+<p>		null
+The	the	at
+following	following	jj
+are	be	vbr
+just	just	rr
+three	three	mc
+tips	tip	vvz_nn2
+that	that	cst_dd1
+can	can	vm
+help	help	vvi
+you	you	ppy
+to	to	to
+ensure	ensure	vvi
+that	that	cst
+you	you	ppy
+'re	be	vbr
+on	on	ii
+the	the	at
+right	right	jj_nn1
+path	path	nn1
+when	when	cs_rrq
+it	it	pph1
+comes	come	vvz
+to	to	ii
+leading	lead	vvg
+your	your	appge
+employees	employee	nn2
+:		:
+<p>		null
+Exercise	exercise	vv0_nn1
+Patience	patience	nn1
+<p>		null
+Patience	patience	nn1
+is	be	vbz
+one	one	mc1
+of	of	io
+the	the	at
+most	most	rgt
+important	important	jj
+virtues	virtue	nn2
+that	that	cst
+a	a	at1
+business	business	nn1
+leader	leader	nn1
+can	can	vm
+learn	learn	vvi
+.		.
+More	more	rgr_rrr
+often	often	rr
+than	than	csn
+not	not	xx
+,		,
+you	you	ppy
+'re	be	vbr
+going	go	vvgk
+to	to	to
+run	run	vvi
+into	into	ii
+situations	situation	nn2
+in	in	ii
+which	which	ddq
+your	your	appge
+employees	employee	nn2
+simply	simply	rr
+do	do	vd0
+n't	n't	xx
+act	act	vvi
+in	in	ii
+the	the	at
+way	way	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+the	the	at
+same	same	da
+exact	exact	jj
+vision	vision	nn1
+that	that	cst
+you	you	ppy
+yourself	yourself	ppx1
+have	have	vh0
+can	can	vm
+be	be	vbi
+a	a	at1_rr21@
+lot	lot	nn1_rr22
+to	to	to_ii
+ask	ask	vvi
+of	of	io
+someone	someone	pn1
+.		.
+Bearing	bear	vvg
+this	this	dd1
+in	in	ii
+mind	mind	nn1
+,		,
+a	a	at1
+little	little	jj
+bit	bit	nn1
+of	of	io
+patience	patience	nn1
+can	can	vm
+go	go	vvi
+a	a	at1
+long	long	jj
+way	way	nn1
+in	in	ii
+such	such	da
+a	a	at1
+situation	situation	nn1
+,		,
+and	and	cc
+can	can	vm
+help	help	vvi
+both	both	rr
+you	you	ppy
+and	and	cc
+your	your	appge
+employees	employee	nn2
+to	to	to
+get	get	vvi
+the	the	at
+job	job	nn1
+done	do	vdn
+correctly	correctly	rr
+.		.
+If	if	cs
+your	your	appge
+workers	worker	nn2
+feel	feel	vv0
+as	as	cs21
+if	if	cs22
+you	you	ppy
+have	have	vh0
+empathy	empathy	nn1
+,		,
+they	they	pphs2
+'re	be	vbr
+far	far	rg
+more	more	rgr
+likely	likely	jj
+to	to	to
+go	go	vvi
+the	the	at
+extra	extra	jj
+mile	mile	nnu1
+on	on	ii
+the	the	at
+job	job	nn1
+.		.
+<p>		null
+Learn	learn	vv0
+From	from	ii
+Past	past	jj_nn1
+Mistakes	mistake	nn2
+<p>		null
+Succeeding	succeed	vvg_jj
+in	in	ii
+business	business	nn1
+is	be	vbz
+all	all	db_rr@
+about	about	ii
+making	make	vvg
+mistakes	mistake	nn2
+and	and	cc
+then	then	rt
+learning	learn	vvg
+from	from	ii
+them	them	ppho2
+.		.
+Regardless	regardless	rr
+of	of	io
+how	how	rgq@_rrq
+strong	strong	jj_rr%
+your	your	appge
+skill	skill	nn1
+set	set	nn1
+happens	happen	vvz
+to	to	to
+be	be	vbi
+,		,
+you	you	ppy
+'re	be	vbr
+bound	bind	vvnk
+to	to	to
+run	run	vvi
+into	into	ii
+failure	failure	nn1
+at	at	rr21
+least	least	rr22
+once	once	rr
+or	or	cc
+twice	twice	rr
+in	in	ii
+your	your	appge
+career	career	nn1
+.		.
+More	more	rgr_rrr
+often	often	rr
+than	than	csn
+not	not	xx
+,		,
+however	however	rr
+,		,
+this	this	dd1
+results	result	vvz
+from	from	ii
+an	a	at1
+error	error	nn1
+in	in	ii
+process	process	nn1
+.		.
+By	by	ii
+analyzing	analyze	vvg
+exactly	exactly	rr
+what	what	ddq
+went	go	vvd
+wrong	wrong	rr
+,		,
+you	you	ppy
+can	can	vm
+learn	learn	vvi
+from	from	ii
+your	your	appge
+mistakes	mistake	nn2
+and	and	cc
+ensure	ensure	vvi
+that	that	cst
+they	they	pphs2
+do	do	vd0
+not	not	xx
+pop	pop	vvi
+up	up	rp
+again	again	rt
+down	down	ii
+the	the	at
+road	road	nn1
+in	in	ii
+your	your	appge
+approach	approach	nn1
+.		.
+<p>		null
+Look	look	vv0
+to	to	ii
+Successful	successful	jj
+Business	business	nn1
+Leaders	leader	nn2
+<p>		null
+Leaders	leader	nn2
+who	who	pnqs
+find	find	vv0
+success	success	nn1
+have	have	vh0
+done	do	vdn
+so	so	rr
+for	for	if
+a	a	at1
+reason	reason	nn1
+,		,
+and	and	cc
+are	be	vbr
+more	more	dar_rrr
+than	than	csn
+worth	worth	ii
+paying	pay	vvg_jj@
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+think	think	vvi
+about	about	ii
+how	how	rrq
+to	to	to
+become	become	vvi
+a	a	at1
+better	better	jjr
+business	business	nn1
+leader	leader	nn1
+,		,
+you	you	ppy
+'ll	will	vm
+find	find	vvi
+it	it	pph1
+very	very	rg
+effective	effective	jj
+to	to	to
+look	look	vvi
+at	at	ii
+current	current	jj
+business	business	nn1
+leaders	leader	nn2
+such	such	ii21
+as	as	ii22
+Charles	charles	np1
+Phillips	phillips	np1
+of	of	io
+Infor	infor	nn1_np1
+.		.
+Many	many	da2
+business	business	nn1
+leaders	leader	nn2
+have	have	vh0
+either	either	rr
+written	write	vvn_jj@
+books	book	nn2
+or	or	cc
+have	have	vh0
+published	publish	vvn
+articles	article	nn2
+that	that	cst_dd1
+can	can	vm
+easily	easily	rr
+be	be	vbi
+found	find	vvn
+online	online	rr
+,		,
+and	and	cc
+you	you	ppy
+can	can	vm
+learn	learn	vvi
+a	a	rr31@_at1
+great	great	rr32_jj
+deal	deal	rr33_nn1
+simply	simply	rr
+and	and	cc
+putting	put	vvg
+it	it	pph1
+into	into	ii
+practice	practice	nn1
+.		.
+<p>		null
+This	this	dd1
+entry	entry	nn1
+was	be	vbdz
+posted	post	vvn
+on	on	ii
+Thursday	thursday	npd1
+,		,
+November	november	npm1
+15th	15th	md
+,		,
+2012	2012	mc
+at	at	ii
+10:34	10:34	mc
+am	am	ra@
+and	and	cc
+is	be	vbz
+filed	file	vvn
+under	under	rp@_ii
+##3564251		fo
+<h>		null
+Social	social	jj
+Media	media	nn
+Capital	capital	nn1
+of	of	io
+the	the	at
+World	world	nn1
+is	be	vbz
+The	the	at
+Philippines	philippines	np2
+<p>		null
+Who	who	pnqs
+else	else	rr
+will	will	vm_vv0%
+it	it	pph1
+be	be	vbi
+but	but	ccb
+The	the	at
+Philippines	philippines	np2
+!		!
+In	in	ii
+a	a	at1
+recent	recent	jj
+report	report	nn1
+from	from	ii
+ComScore	comscore	np1_nn1
+and	and	cc
+247wallst		fo
+,		,
+the	the	at
+Philippines	philippines	np2
+has	have	vhz
+been	be	vbn
+named	name	vvn
+as	as	ii_csa
+the	the	at
+Social	social	jj
+Media	media	nn
+Capital	capital	nn1
+of	of	io
+the	the	at
+World	world	nn1
+,		,
+ranking	rank	vvg
+the	the	at
+South-East	southeast	nd1
+Asian	asian	jj
+country	country	nn1
+as	as	ii_csa
+the	the	at
+top	top	jj_nn1
+market	market	nn1
+for	for	if
+Facebook	facebook	nn1_np1
+with	with	iw
+92.9	92.9	mc
+percent	percent	nnu
+of	of	io
+its	its	appge
+online	online	jj
+population	population	nn1
+visiting	visit	vvg_jj
+Facebook.com	facebook.com	np1
+in	in	ii
+February	february	npm1
+2011	2011	mc
+.		.
+Years	year	nnt2
+ago	ago	ra
+,		,
+The	the	at
+Philippines	philippines	np2
+was	be	vbdz
+tagged	tag	vvn
+as	as	ii_csa
+the	the	at
+"		"
+SMS	sms	np1
+capital	capital	nn1
+of	of	io
+the	the	at
+world	world	nn1
+"		"
+.		.
+<p>		null
+At	at	rr21
+present	present	rr22
+,		,
+the	the	at
+Philippines	philippines	np2
+continues	continue	vvz
+to	to	to
+hold	hold	vvi
+the	the	at
+top	top	jj_nn1
+spot	spot	nn1
+for	for	if
+Facebook	facebook	nn1_np1
+penetration	penetration	nn1
+and	and	cc
+also	also	rr
+ranks	rank	vvz@
+highest	high	rrt@_jjt
+in	in	ii
+share	share	nn1
+of	of	io
+time	time	nnt1
+spent	spend	vvn
+on	on	ii
+social	social	jj
+networking	networking	nn1
+properties	property	nn2
+across	across	ii
+the	the	at
+world	world	nn1
+,		,
+making	make	vvg
+it	it	pph1
+the	the	at
+most	most	rgt
+social	social	jj
+media-addicted		jj_nn1
+market	market	nn1_vv0
+globally	globally	rr
+.		.
+Of	of	io
+the	the	at
+total	total	jj
+time	time	nnt1
+spent	spend	vvn
+online	online	rr_jj
+in	in	ii
+April	april	npm1
+2011	2011	mc
+by	by	ii
+the	the	at
+Philippines	philippines	np2_np
+'	'	ge
+online	online	jj
+audience	audience	nn1
+,		,
+41.3	41.3	mc
+percent	percent	nnu
+was	be	vbdz
+spent	spend	vvn
+on	on	ii
+social	social	jj
+networking	networking	nn1
+sites	site	nn2
+.		.
+Russia	russia	np1
+and	and	cc
+Venezuela	venezuela	np1
+followed	follow	vvd
+closely	closely	rr
+,		,
+with	with	iw
+a	a	at1
+39.7	39.7	mc
+percent	percent	nnu
+and	and	cc
+33.2	33.2	mc
+percent	percent	nnu
+share	share	nn1
+of	of	io
+time	time	nnt1
+spent	spend	vvn
+on	on	ii
+social	social	jj
+networking	networking	nn1
+,		,
+respectively	respectively	rr
+.		.
+<p>		null
+Here	here	rl
+are	be	vbr
+data	data	nn
+from	from	ii
+ComScore	comscore	np1
+:		:
+<p>		null
+Take	take	vv0
+note	note	vv0_nn1
+that	that	cst
+the	the	at
+numbers	number	nn2
+were	be	vbdr
+based	base	vvn
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+30%	30%	nnu
+of	of	io
+the	the	at
+95	95	mc
+million	million	nno
+Filipinos	filipino	nn2
+are	be	vbr
+online	online	rr_jj
+.		.
+So	so	rr
+roughly	roughly	rr
+,		,
+there	there	ex
+are	be	vbr
+26.5	26.5	mc
+million	million	nno
+Filipinos	filipino	nn2
+actively	actively	rr
+accessing	access	vvg
+Facebook	facebook	nn1_np1
+.		.
+That	that	dd1
+number	number	nn1
+is	be	vbz
+huge	huge	jj
+!		!
+<p>		null
+What	what	ddq
+would	would	vm
+this	this	dd1
+mean	mean	vvi
+to	to	ii
+us	us	ppio2
+Filipinos	filipino	nn2
+?		?
+It	it	pph1
+means	mean	vvz
+that	that	cst
+we	we	ppis2
+have	have	vh0
+this	this	dd1_rg%
+endless	endless	jj
+love	love	nn1
+affair	affair	nn1
+with	with	iw
+anything	anything	pn1
+technology-related	technology-related	jj
+--		zz
+be	be	vbi
+it	it	pph1
+using	use	vvg
+a	a	at1
+mobile	mobile	jj_nn1
+phone	phone	nn1
+or	or	cc
+a	a	at1
+computer	computer	nn1
+.		.
+The	the	at
+good	good	jj
+thing	thing	nn1
+about	about	ii
+it	it	pph1
+is	be	vbz
+,		,
+we	we	ppis2
+almost	almost	rr
+always	always	rr
+,		,
+turn	turn	vv0
+this	this	dd1
+craziness	craziness	nn1
+into	into	ii
+something	something	pn1
+useful	useful	jj
+.		.
+How	how	rgq@
+many	many	da2
+new	new	jj
+start-ups	start-up	nn2
+and	and	cc
+online	online	jj
+businesses	business	nn2
+have	have	vh0
+risen	rise	vvn
+over	over	ii_rp
+the	the	at
+years	year	nnt2
+because	because	ii21
+of	of	ii22
+our	our	appge
+love	love	nn1
+for	for	if
+social	social	jj
+media	media	nn
+?		?
+Many	many	da2
+.		.
+Maybe	maybe	rr
+in	in	ii
+the	the	at
+future	future	nn1_jj
+this	this	dd1
+will	will	vm
+result	result	vvi
+into	into	ii
+more	more	dar
+Filipinos	filipino	nn2
+turning	turn	vvg
+tech	tech	nn1
+savvies		nn2
+.		.
+And	and	cc
+that	that	dd1_cst
+will	will	vm
+be	be	vbi
+good	good	jj
+for	for	if
+the	the	at
+country	country	nn1
+,		,
+wo	will	vm
+n't	n't	xx
+it	it	pph1
+?		?
+<h>		null
+About	about	ii_rp@
+<p>		null
+This	this	dd1
+is	be	vbz
+my	my	appge
+blog	blog	nn1
+.		.
+Call	call	vv0
+me	me	ppio1
+Eric	eric	np1
+.		.
+Or	or	cc
+Ric	ric	np1_jj
+.		.
+Or	or	cc
+Ek	ek	np1
+.		.
+I	i	ppis1
+metamorphose	metamorphose	vv0
+into	into	ii
+an	a	at1
+archaic-photo		jj_nn1
+enthusiast	enthusiast	nn1
+in	in	ii
+most	most	dat
+times	time	nnt2
+,		,
+which	which	ddq
+allows	allow	vvz
+me	me	ppio1
+to	to	to
+cherish	cherish	vvi
+forgotten	forgotten	jj@
+sagas	saga	nn2
+of	of	io
+life	life	nn1
+.		.
+Numbers	number	nn2
+and	and	cc
+complex	complex	jj
+solutions	solution	nn2
+fuel	fuel	vv0%
+##3569251		fo
+<p>		null
+The	the	at
+world	world	nn1
+is	be	vbz
+falling	fall	vvg
+apart	apart	rl
+,		,
+there	there	ex
+is	be	vbz
+no	no	at_rr%
+place	place	nn1_vv0
+to	to	to
+relax	relax	vvi
+or	or	cc
+to	to	to
+hide	hide	vvi
+.		.
+The	the	at
+war	war	nn1
+is	be	vbz
+here	here	rl
+and	and	cc
+everywhere	everywhere	rl
+you	you	ppy
+look	look	vv0
+there	there	ex_rl
+are	be	vbr
+some	some	dd
+enemies	enemy	nn2
+helicopters	helicopter	nn2
+and	and	cc
+weapons	weapon	nn2
+,		,
+they	they	pphs2
+all	all	db_rr@
+want	want	vv0
+to	to	to
+destroy	destroy	vvi
+you	you	ppy
+.		.
+People	people	nn
+are	be	vbr
+fighting	fight	vvg
+for	for	if
+their	their	appge
+peace	peace	nn1
+and	and	cc
+rights	right	nn2
+.		.
+If	if	cs
+you	you	ppy
+wan	wan	vv0
+na	na	to
+win	win	vvi
+this	this	dd1
+war	war	nn1
+you	you	ppy
+need	need	vv0
+to	to	to
+be	be	vbi
+prepared	prepare	vvn
+,		,
+you	you	ppy
+need	need	vv0
+to	to	to
+know	know	vvi
+what	what	ddq
+to	to	to
+do	do	vdi
+and	and	cc
+when	when	rrq
+to	to	to
+act	act	vvi
+.		.
+Fly	fly	vv0
+this	this	dd1
+fighting	fighting	nn1
+plane	plane	nn1
+and	and	cc
+take	take	vv0
+down	down	rp
+your	your	appge
+enemies	enemy	nn2
+,		,
+one	one	mc1
+by	by	ii
+one	one	mc1
+.		.
+Use	use	vv0
+your	your	appge
+secret	secret	jj_nn1
+weapons	weapon	nn2
+and	and	cc
+do	do	vd0
+the	the	at
+best	best	jjt_vv0%_rrt
+you	you	ppy
+can	can	vm
+,		,
+##3570251		fo
+<h>		null
+BEYONC	beyonc	np1_nn1
+:		:
+THE	the	at
+END	end	nn1
+OF	of	io
+THE	the	at
+WORLD	world	nn1
+DESIGN	design	nn1
+COMPETITION	competition	nn1
+<p>		null
+Some	some	dd
+think	think	vv0
+it	it	pph1
+will	will	vm
+be	be	vbi
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+world	world	nn1
+,		,
+some	some	dd
+think	think	vv0
+it	it	pph1
+will	will	vm
+be	be	vbi
+the	the	at
+start	start	nn1
+of	of	io
+a	a	at1
+new	new	jj
+golden	golden	jj
+age	age	nn1
+,		,
+and	and	cc
+most	most	dat_rrt@
+think	think	vv0
+it	it	pph1
+will	will	vm
+be	be	vbi
+nothing	nothing	pn1
+more	more	dar
+than	than	csn
+another	another	dd1
+winter	winter	nnt1
+solstice	solstice	nn1_vv0
+.		.
+<p>		null
+Regardless	regardless	rr
+of	of	io
+individual	individual	jj_nn1
+opinion	opinion	nn1
+,		,
+on	on	ii
+12/21/12		mf
+,		,
+the	the	at
+famous	famous	jj
+Mayan	mayan	jj_nn1
+calendar	calendar	nn1
+will	will	vm
+finally	finally	rr
+come	come	vvi
+to	to	ii
+an	a	at1
+end	end	nn1
+.		.
+To	to	ii
+us	us	ppio2
+here	here	rl
+at	at	ii
+Rivalation		nn1
+,		,
+if	if	cs
+there	there	ex
+'s	be	vhz
+ever	ever	rr
+been	be	vbn
+a	a	at1
+great	great	jj
+time	time	nnt1
+to	to	to
+throw	throw	vvi
+a	a	at1
+benefit	benefit	nn1
+concert	concert	nn1
+celebrating	celebrate	vvg_nn1@_jj@
+life	life	nn1
+on	on	ii
+Earth	earth	nn1
+,		,
+that	that	dd1
+time	time	nnt1
+is	be	vbz
+midnight	midnight	nnt1
+on	on	ii
+December	december	npm1
+22nd	22nd	md
+,		,
+2012	2012	mc
+,		,
+the	the	at
+very	very	rg
+first	first	md
+moment	moment	nn1
+after	after	ii_cs
+the	the	at
+close	close	nn1@_jj
+of	of	io
+the	the	at
+Mayan	mayan	jj_nn1
+calendar	calendar	nn1
+.		.
+<p>		null
+If	if	cs
+there	there	ex
+'s	be	vhz
+ever	ever	rr
+been	be	vbn
+a	a	at1
+great	great	jj
+place	place	nn1
+to	to	to
+throw	throw	vvi
+a	a	at1
+benefit	benefit	nn1
+concert	concert	nn1
+celebrating	celebrate	vvg_nn1@_jj@
+life	life	nn1
+on	on	ii
+Earth	earth	nn1
+,		,
+that	that	dd1_cst
+place	place	nn1
+is	be	vbz
+the	the	at
+iconic	iconic	jj
+heart	heart	nn1
+of	of	io
+Mayan	mayan	jj_np1_nn1
+civilization	civilization	nn1
+,		,
+the	the	at
+towering	towering	jj
+pyramid	pyramid	nn1
+in	in	ii
+Chichen	chichen	np1
+Itza	itza	np1
+,		,
+Mexico	mexico	np1
+,		,
+the	the	at
+greatest	greatest	jjt
+cultural	cultural	jj
+epicenter	epicenter	vv0_jjr
+in	in	ii
+Mayan	mayan	jj_np1_nn1
+history	history	nn1
+.		.
+<p>		null
+If	if	cs
+there	there	ex
+'s	be	vhz
+ever	ever	rr
+been	be	vbn
+a	a	at1
+great	great	jj
+superstar	superstar	nn1
+to	to	to
+headline	headline	vvi
+this	this	dd1
+event	event	nn1
+,		,
+one	one	mc1
+uniting	uniting	jj_vvg
+voice	voice	nn1
+with	with	iw
+the	the	at
+power	power	nn1
+to	to	to
+bring	bring	vvi
+human	human	jj
+beings	being	nn2
+around	around	ii
+the	the	at
+world	world	nn1
+together	together	rl
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+raise	raise	vvi
+hope	hope	nn1_vv0
+about	about	ii
+the	the	at
+conservation	conservation	nn1
+of	of	io
+our	our	appge
+planet	planet	nn1
+,		,
+to	to	to
+celebrate	celebrate	vvi
+the	the	at
+remarkable	remarkable	jj
+accomplishments	accomplishment	nn2
+of	of	io
+mankind	mankind	nn1
+so	so	rg
+far	far	rr
+,		,
+that	that	dd1
+superstar	superstar	nn1
+is	be	vbz
+Beyonc	beyonc	np1
+.		.
+<p>		null
+And	and	cc
+if	if	cs_csw@
+there	there	ex
+'s	be	vhz
+ever	ever	rr
+been	be	vbn
+a	a	at1
+designer	designer	nn1
+to	to	to
+create	create	vvi
+Beyonc	beyonc	np1
+'s	's	ge
+outfit	outfit	nn1
+for	for	if
+this	this	dd1
+remarkable	remarkable	jj
+event	event	nn1
+,		,
+the	the	at
+outfit	outfit	nn1
+that	that	cst_dd1
+will	will	vm
+undoubtedly	undoubtedly	rr
+become	become	vvi
+part	part	nn1
+of	of	io
+fashion	fashion	nn1
+lore	lore	nn1
+forever	forever	rt
+,		,
+the	the	at
+one	one	mc1
+outfit	outfit	nn1
+that	that	cst
+the	the	at
+world	world	nn1
+will	will	vm
+always	always	rr
+connect	connect	vvi
+with	with	iw
+Beyonc	beyonc	np1_nn1@
+as	as	ii_csa
+the	the	at
+dress	dress	nn1
+she	she	pphs1
+wore	wear	vvd
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+world	world	nn1
+,		,
+with	with	iw
+the	the	at
+soaring	soaring	jj
+pyramid	pyramid	nn1
+of	of	io
+Chichen	chichen	np1
+Itza	itza	np1
+at	at	ii
+her	her	ppho1_appge
+back	back	rp_nn1
+,		,
+with	with	iw
+the	the	at
+whole	whole	jj
+world	world	nn1
+watching	watch	vvg
+,		,
+we	we	ppis2
+think	think	vv0
+that	that	dd1_cst
+designer	designer	nn1
+is	be	vbz
+you	you	ppy
+...		...
+THE	the	at
+CHALLENGE	challenge	nn1
+What	what	ddq
+if	if	cs
+Beyonc	beyonc	np1
+was	be	vbdz
+really	really	rr
+chosen	choose	vvn
+to	to	to
+perform	perform	vvi
+a	a	at1
+concert	concert	nn1
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+world	world	nn1
+?		?
+And	and	cc
+what	what	ddq
+if	if	cs
+you	you	ppy
+were	be	vbdr
+really	really	rr
+chosen	choose	vvn
+to	to	to
+design	design	vvi
+the	the	at
+outfits	outfit	nn2
+for	for	if
+her	her	ppho1
+and	and	cc
+her	her	appge
+backup	backup	nn1
+singers	singer	nn2
+?		?
+<p>		null
+The	the	at
+seconds	second	nnt2
+would	would	vm
+be	be	vbi
+counting	count	vvg
+down	down	rp
+to	to	ii
+midnight	midnight	nnt1
+...		...
+<p>		null
+The	the	at
+dark	dark	jj_nn1
+silhouette	silhouette	nn1
+of	of	io
+Chichen	chichen	np1
+Itza	itza	np1
+would	would	vm
+be	be	vbi
+emblazoned	emblazon	vvn
+against	against	ii
+the	the	at
+night	night	nnt1
+sky	sky	nn1
+...		...
+<p>		null
+The	the	at
+slow	slow	jj
+pulse	pulse	nn1
+of	of	io
+music	music	nn1
+would	would	vm
+start	start	vvi
+rising	rise	vvg
+through	through	ii
+the	the	at
+crowd	crowd	nn1
+...		...
+<p>		null
+This	this	dd1
+,		,
+quite	quite	rg
+literally	literally	rr
+,		,
+would	would	vm
+be	be	vbi
+a	a	at1
+once	once	rr
+in	in	ii
+a	a	at1
+lifetime	lifetime	nnt1
+event	event	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+concert	concert	nn1
+at	at	ii
+the	the	at
+Mayan	mayan	jj_nn1
+pyramid	pyramid	nn1
+of	of	io
+Chichen	chichen	np1
+Itza	itza	np1
+at	at	ii
+midnight	midnight	nnt1
+on	on	ii
+December	december	npm1
+22nd	22nd	md
+,		,
+2012	2012	mc
+.		.
+<p>		null
+The	the	at
+whole	whole	jj
+world	world	nn1
+would	would	vm
+be	be	vbi
+abuzz	abuzz	nn1
+about	about	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+Mayan	mayan	jj_nn1
+calendar	calendar	nn1
+.		.
+Families	family	nn2
+from	from	ii
+almost	almost	rr
+every	every	at1
+country	country	nn1
+on	on	ii
+the	the	at
+planet	planet	nn1
+would	would	vm
+be	be	vbi
+tuned	tune	vvn
+in	in	rp@
+to	to	to
+watch	watch	vvi
+the	the	at
+concert	concert	nn1
+,		,
+and	and	cc
+it	it	pph1
+would	would	vm
+be	be	vbi
+you	you	ppy
+who	who	pnqs
+was	be	vbdz
+responsible	responsible	jj
+for	for	if
+creating	create	vvg
+the	the	at
+outfit	outfit	nn1
+that	that	cst_dd1
+would	would	vm
+forever	forever	rt
+be	be	vbi
+associated	associate	vvn
+in	in	ii
+their	their	appge
+minds	mind	nn2
+with	with	iw
+this	this	dd1
+moment	moment	nn1
+.		.
+<p>		null
+Although	although	cs
+the	the	at
+concert	concert	nn1
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+world	world	nn1
+is	be	vbz
+a	a	at1
+fictional	fictional	jj
+concept	concept	nn1
+,		,
+your	your	appge
+challenge	challenge	nn1
+is	be	vbz
+to	to	to
+create	create	vvi
+stylish	stylish	jj
+outfits	outfit	nn2
+for	for	if
+Beyonc	beyonc	np1
+and	and	cc
+her	her	appge
+backup	backup	nn1
+singers	singer	nn2
+,		,
+outfits	outfit	nn2
+that	that	cst
+marry	marry	vv0
+Beyonc	beyonc	np1_nn1@
+'s	be	vbz_ge_vhz@
+always	always	rr
+courageous	courageous	jj
+and	and	cc
+tasteful	tasteful	jj
+fashion	fashion	nn1
+sense	sense	nn1
+with	with	iw
+the	the	at
+**25;5763;TOOLONG		fu
+theme	theme	nn1
+of	of	io
+the	the	at
+concert	concert	nn1
+.		.
+Will	will	vm_vv0%
+you	you	ppy
+design	design	vvi
+primitive	primitive	jj_nn1
+outfits	outfit	nn2
+that	that	cst
+match	match	vv0
+the	the	at
+towering	towering	jj
+pyramid	pyramid	nn1
+of	of	io
+Chichen	chichen	np1
+Itza	itza	np1
+behind	behind	ii
+them	them	ppho2
+?		?
+Will	will	vm_vv0%
+you	you	ppy
+design	design	vvi
+futuristic	futuristic	jj
+outfits	outfit	nn2
+that	that	cst
+celebrate	celebrate	vv0
+what	what	ddq
+lies	lie	vvz
+ahead	ahead	rl
+for	for	if
+human	human	jj
+beings	being	nn2
+and	and	cc
+our	our	appge
+planet	planet	nn1
+?		?
+<p>		null
+Will	will	vm
+the	the	at
+outfits	outfit	nn2
+be	be	vbi
+conservative	conservative	jj
+and	and	cc
+elegant	elegant	jj
+or	or	cc
+risqu	risqu	nn1
+and	and	cc
+dangerous	dangerous	jj
+?		?
+What	what	ddq
+material	material	nn1
+will	will	vm
+they	they	pphs2
+be	be	vbi
+made	make	vvn
+of	of	io
+?		?
+What	what	ddq
+color	color	nn1
+will	will	vm
+they	they	pphs2
+be	be	vbi
+?		?
+<p>		null
+All	all	db
+these	these	dd2
+things	thing	nn2
+are	be	vbr
+for	for	if
+you	you	ppy
+to	to	to
+decide	decide	vvi
+.		.
+<p>		null
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+...		...
+Beyonc	beyonc	nn1_np1@
+at	at	ii
+the	the	at
+end	end	nn1
+of	of	io
+the	the	at
+world	world	nn1
+...		...
+What	what	ddq
+are	be	vbr
+you	you	ppy
+going	go	vvg
+to	to	to
+do	do	vdi
+with	with	iw
+it	it	pph1
+?		?
+<p>		null
+The	the	at
+registration	registration	nn1
+periods	period	nn2
+will	will	vm
+be	be	vbi
+divided	divide	vvn
+as	as	csa
+follows	follow	vvz
+:		:
+Special	special	jj
+Period	period	nn1
+--		zz
+Sep	sep	np1
+24th	24th	md
+to	to	ii
+Nov	nov	npm1
+25th	25th	md
+Early	early	jj
+Period	period	nn1
+--		zz
+Nov	nov	npm1
+26th	26th	md
+to	to	ii
+Dec	dec	npm1
+23rd	23rd	md
+Regular	regular	jj
+Period	period	nn1
+--		zz
+Dec	dec	npm1_np1@
+24rh		fo
+to	to	ii
+Jan	jan	npm1
+20th	20th	md
+The	the	at
+registration	registration	nn1
+price	price	nn1
+is	be	vbz
+applied	apply	vvn
+to	to	ii
+each	each	dd1
+team	team	nn1
+,		,
+regardless	regardless	rr
+of	of	io
+how	how	rgq@_rrq
+many	many	da2
+members	member	nn2
+that	that	cst_dd1
+team	team	nn1
+may	may	vm
+have	have	vhi
+.		.
+<p>		null
+The	the	at
+voting	voting	nn1
+process	process	nn1_vv0
+to	to	to
+choose	choose	vvi
+the	the	at
+winning	winning	jj@
+projects	project	nn2
+will	will	vm
+take	take	vvi
+place	place	nn1
+in	in	ii
+the	the	at
+following	following	jj
+stages	stage	nn2
+:		:
+Curation	curation	nn1
+:		:
+The	the	at
+curation	curation	nn1
+process	process	nn1
+of	of	io
+this	this	dd1
+competition	competition	nn1
+will	will	vm
+be	be	vbi
+handled	handle	vvn
+by	by	ii
+Rivalation		nn1
+under	under	ii_rg@
+direct	direct	jj
+directions	direction	nn2
+from	from	ii
+the	the	at
+jury	jury	nn1
+.		.
+50	50	mc
+projects	project	nn2
+will	will	vm
+make	make	vvi
+it	it	pph1
+to	to	ii
+the	the	at
+next	next	md
+round	round	nn1
+.		.
+Judging	judge	vvg
+:		:
+Will	will	vm
+be	be	vbi
+handled	handle	vvn
+handled	handle	vvn
+by	by	ii
+the	the	at
+jury	jury	nn1
+formed	form	vvn
+by	by	ii_rp%
+:		:
+Colette	colette	np1
+Wong	wong	np1_nn1
+-	-	-
+Fashion	fashion	nn1_vv0@
+Institute	institute	nn1
+of	of	io
+Technology	technology	nn1
+NYC	nyc	nn1_np1
+Jillian	jillian	jj_nn1@
+Shatken		nn1
+-	-	-
+Dolce	dolce	np1
+Vita	vita	np1
+Desmond	desmond	np1
+Zhengs		np1_vvz_nn2
+-	-	-
+Fashion	fashion	nn1_vv0@
+correspondent	correspondent	nn1
+Katya	katya	np1
+Moorman	moorman	np1_nn1
+-	-	-
+styledefinedny.com		nnu
+<h>		null
+No	no	at
+comments	comment	nn2
+:		:
+<h>		null
+Post	post	ii@_nn1
+a	a	at1
+Comment	comment	nn1
+<p>		null
+Hello	hello	uh
+!		!
+I	i	ppis1
+'m	be	vbm
+Kenny	kenny	np1
+Manalad		np1
+,		,
+The	the	at
+creative	creative	jj
+editor	editor	nn1
+of	of	io
+this	this	dd1
+blog	blog	nn1
+.		.
+I	i	ppis1
+have	have	vh0
+been	be	vbn
+in	in	ii
+the	the	at
+blogging	blogging	jj@_nn1@
+industry	industry	nn1
+for	for	if
+more	more	dar
+than	than	csn
+six	six	mc
+years	year	nnt2
+now	now	rt
+.		.
+I	i	ppis1
+am	be	vbm
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+designing	design	vvg_nn1@
+when	when	cs_rrq
+given	give	vvn
+the	the	at
+opportunity	opportunity	nn1
+.		.
+<p>		null
+I	i	ppis1
+do	do	vd0
+not	not	xx
+claim	claim	vvi
+all	all	db
+of	of	io
+the	the	at
+photos	photo	nn2
+that	that	cst
+are	be	vbr
+posted	post	vvn
+here	here	rl
+on	on	ii
+the	the	at
+style	style	nn1
+diaries	diary	nn2
+.		.
+I	i	ppis1
+do	do	vd0
+my	my	appge
+absolute	absolute	jj
+best	best	jjt
+to	to	to
+link	link	vvi
+back	back	rp
+to	to	ii
+photos	photo	nn2
+found	find	vvn_vvd
+from	from	ii
+other	other	jj
+sources	source	nn2
+,		,
+both	both	rr_db2
+via	via	ii
+click-throughs	click-throughs	nn2
+and	and	cc
+image	image	nn1
+credit	credit	nn1
+listings	listing	nn2
+.		.
+If	if	cs
+You	you	ppy
+are	be	vbr
+the	the	at
+Legal	legal	jj
+owner	owner	nn1
+of	of	io
+the	the	at
+content	content	nn1_jj
+and	and	cc
+against	against	ii
+##3826651		fo
+<p>		null
+Pour	pour	vv0
+a	a	at1
+few	few	da2
+glugs	glug	nn2
+of	of	io
+oil	oil	nn1
+into	into	ii
+a	a	at1
+large	large	jj
+saucepan	saucepan	nn1
+(		(
+with	with	iw
+fitted	fitted	jj@
+lid	lid	nn1
+)		)
+over	over	ii_rp
+medium	medium	jj_nn1
+heat	heat	nn1
+and	and	cc
+let	let	vv0
+it	it	pph1
+get	get	vvi
+hot	hot	jj
+.		.
+Add	add	vv0
+the	the	at
+diced	diced	jj@
+onion	onion	nn1
+and	and	cc
+jalapeno	jalapeno	nn1
+and	and	cc
+let	let	vv0
+sweat	sweat	nn1_vv0
+for	for	if
+3	3	mc
+minutes	minute	nnt2
+.		.
+Add	add	vv0
+the	the	at
+garlic	garlic	nn1
+and	and	cc
+cook	cook	vv0_nn1
+until	until	cs_ii@
+fragrant	fragrant	jj
+,		,
+1	1	mc1
+minute	minute	nnt1
+.		.
+Pour	pour	vv0
+in	in	ii_rp@
+the	the	at
+tomatoes	tomato	nn2
+,		,
+black	black	jj
+beans	bean	nn2
+,		,
+paprika	paprika	nn1
+,		,
+cumin	cumin	nn1
+and	and	cc
+a	a	at1
+few	few	da2
+pinches	pinch	nn2
+of	of	io
+salt	salt	nn1
+.		.
+Bring	bring	vv0
+to	to	ii
+a	a	at1
+boil	boil	nn1@
+and	and	cc
+reduce	reduce	vv0
+to	to	ii
+a	a	at1
+simmer	simmer	vv0
+until	until	cs_ii@
+sauce	sauce	nn1
+has	have	vhz
+reduced	reduce	vvn
+slightly	slightly	rr
+and	and	cc
+thickened	thicken	vvn
+up	up	rp
+,		,
+15	15	mc
+minutes	minute	nnt2
+.		.
+Add	add	vv0
+the	the	at
+honey	honey	nn1
+or	or	cc
+sugar	sugar	nn1
+and	and	cc
+stir	stir	vv0
+to	to	to
+combine	combine	vvi
+.		.
+<p>		null
+Crack	crack	vv0
+the	the	at
+eggs	egg	nn2
+gently	gently	rr
+into	into	ii
+a	a	at1
+small	small	jj
+ramekin	ramekin	nn1
+or	or	cc
+bowl	bowl	nn1
+(		(
+it	it	pph1
+'s	be	vbz
+easier	easy	jjr
+to	to	to
+pour	pour	vvi
+them	them	ppho2
+into	into	ii
+the	the	at
+marinara	marinara	nn1
+this	this	dd1
+way	way	nn1
+)		)
+.		.
+Using	use	vvg
+the	the	at
+back	back	nn1
+of	of	io
+a	a	at1
+large	large	jj
+serving	serving	nn1@_jj%_vvg
+spoon	spoon	nn1
+,		,
+make	make	vv0
+a	a	at1
+small	small	jj
+indentation	indentation	nn1
+in	in	ii
+the	the	at
+sauce	sauce	nn1
+.		.
+Pour	pour	vv0
+in	in	ii_rp@
+one	one	mc1
+egg	egg	nn1
+.		.
+Repeat	repeat	vv0
+with	with	iw
+the	the	at
+other	other	jj_nn1@
+3	3	mc
+eggs	egg	nn2
+.		.
+Put	put	vv0
+the	the	at
+lid	lid	nn1
+on	on	ii_rp@
+and	and	cc
+cook	cook	vv0_nn1
+until	until	cs_ii@
+whites	white	nn2
+are	be	vbr
+set	set	vvn
+and	and	cc
+yolks	yolk	nn2
+are	be	vbr
+still	still	rr
+runny	runny	jj
+,		,
+about	about	ii
+6-7	6-7	mcmc
+minutes	minute	nnt2
+.		.
+<p>		null
+Serve	serve	vv0
+each	each	dd1
+person	person	nn1
+a	a	at1
+slice	slice	nn1
+of	of	io
+bread	bread	nn1
+or	or	cc
+pita	pita	nn1
+and	and	cc
+spoon	spoon	nn1_vv0@
+one	one	mc1
+egg	egg	nn1
+onto	onto	ii
+the	the	at
+@		ii
+@		ii
+##3831351		fo
+<p>		null
+To	to	to
+celebrate	celebrate	vvi
+the	the	at
+5th	5th	md
+year	year	nnt1
+since	since	cs_ii@
+Bikram	bikram	np1
+Yoga	yoga	np1
+Manila	manila	np1
+has	have	vhz
+been	be	vbn
+established	establish	vvn
+,		,
+they	they	pphs2
+are	be	vbr
+offering	offer	vvg
+free	free	jj
+yoga	yoga	nn1
+classes	class	nn2
+to	to	ii
+the	the	at
+public	public	nn1_jj
+at	at	ii
+their	their	appge
+2	2	mc
+studios	studio	nn2
+for	for	if
+the	the	at
+whole	whole	jj
+month	month	nnt1
+of	of	io
+November	november	npm1
+and	and	cc
+December	december	npm1
+2010	2010	mc
+.		.
+They	they	pphs2
+are	be	vbr
+offering	offer	vvg
+for	for	if
+free	free	jj_vv0@
+their	their	appge
+Monday	monday	npd1
+to	to	ii
+Friday	friday	npd1
+8:30/9		mc
+am	am	ra@
+and	and	cc
+4/4:30		mc
+pm	pm	ra
+classes	class	nn2
+to	to	ii
+all	all	db
+first	first	md
+timers	timer	nn2
+to	to	ii
+Bikram	bikram	np1_nn1
+yoga	yoga	nn1
+(		(
+kindly	kindly	rr
+consult	consult	vv0
+our	our	appge
+schedule	schedule	nn1
+online	online	rr
+as	as	csa
+we	we	ppis2
+have	have	vh0
+different	different	jj
+schedules	schedule	nn2
+at	at	ii
+each	each	dd1
+studio	studio	nn1
+)		)
+.		.
+<p>		null
+I	i	ppis1
+asked	ask	vvd
+them	them	ppho2
+what	what	ddq
+first	first	md
+timers	timer	nn2
+mean	mean	vv0
+:		:
+"		"
+First	first	md
+timers	timer	nn2
+is	be	vbz
+our	our	appge
+term	term	nn1
+for	for	if
+anyone	anyone	pn1
+who	who	pnqs
+has	have	vhz
+never	never	rr
+taken	take	vvn
+a	a	at1
+class	class	nn1
+at	at	ii
+any	any	dd
+of	of	io
+our	our	appge
+studios	studio	nn2
+.		.
+After	after	cs
+they	they	pphs2
+take	take	vv0
+one	one	mc1
+class	class	nn1
+,		,
+they	they	pphs2
+will	will	vm
+no	no	rr%_at
+longer	long	rrr
+be	be	vbi
+first	first	md
+timers	timer	nn2
+.		.
+If	if	cs
+they	they	pphs2
+like	like	vv0
+the	the	at
+yoga	yoga	nn1
+and	and	cc
+wish	wish	vv0
+to	to	to
+continue	continue	vvi
+practicing	practice	vvg_nn1@_jj@
+,		,
+they	they	pphs2
+can	can	vm
+make	make	vvi
+arrangements	arrangement	nn2
+at	at	ii
+the	the	at
+studio	studio	nn1
+.		.
+"		"
+<p>		null
+So	so	rr
+if	if	cs
+you	you	ppy
+just	just	rr
+want	want	vv0
+to	to	to
+try	try	vvi
+to	to	to
+see	see	vvi
+if	if	csw@_cs
+Bikram	bikram	np1
+YOGA	yoga	np1_nn1
+is	be	vbz
+for	for	if
+you	you	ppy
+,		,
+head	head	nn1_vv0@
+##3831352		fo
+<p>		null
+Important	important	jj
+Reminder	reminder	nn1
+!		!
+Since	since	cs
+this	this	dd1
+is	be	vbz
+a	a	at1
+"		"
+green	green	jj
+race	race	nn1
+"		"
+,		,
+please	please	rr
+bring	bring	vv0
+your	your	appge
+own	own	da
+hydration	hydration	nn1
+equipment	equipment	nn1
+.		.
+No	no	at
+cups	cup	nn2
+will	will	vm
+be	be	vbi
+provided	provide	vvn
+during	during	ii
+the	the	at
+race	race	nn1
+,		,
+but	but	ccb
+there	there	ex
+will	will	vm
+be	be	vbi
+water	water	nn1
+stations	station	nn2
+where	where	cs_rrq
+you	you	ppy
+can	can	vm
+fill	fill	vvi
+up	up	rp
+your	your	appge
+hydration	hydration	nn1
+equipment	equipment	nn1
+.		.
+<p>		null
+solar	solar	jj
+energy	energy	nn1
+foundation	foundation	nn1
+is	be	vbz
+a	a	at1
+holistic	holistic	jj
+organization	organization	nn1
+as	as	csa
+documented	document	vvn
+by	by	ii
+the	the	at
+motorcycle	motorcycle	nn1
+diaries	diary	nn2
+shown	show	vvn
+at	at	ii
+gmanews		nn2
+tv	tv	nnu
+channel	channel	nn1
+11.		mc
+but	but	ccb
+given	give	vvn
+the	the	at
+above	above	ii
+average	average	jj_nn1
+registration	registration	nn1
+fees	fee	nn2
+and	and	cc
+hydration	hydration	nn1
+issues	issue	vvz@_nn2
+it	it	pph1
+is	be	vbz
+doubtful	doubtful	jj
+that	that	cst
+this	this	dd1
+race	race	nn1
+will	will	vm
+muster	muster	vvi
+the	the	at
+needed	need	vvn_vvd
+number	number	nn1
+of	of	io
+registrants.		nnu
+let	let	vv0
+us	us	ppio2
+hope	hope	vvi
+that	that	cst
+the	the	at
+organizers	organizer	nn2
+will	will	vm
+tweak	tweak	vvi
+the	the	at
+race	race	nn1
+details	detail	nn2
+to	to	to
+convince	convince	vvi
+most	most	dat
+runners	runner	nn2
+to	to	to
+join	join	vvi
+.		.
+<p>		null
+@rod		fo
+:		:
+you	you	ppy
+have	have	vh0
+a	a	at1
+point	point	nn1
+because	because	cs
+a	a	at1
+seasoned	seasoned	jj
+runner	runner	nn1
+can	can	vm
+finish	finish	vvi
+a	a	at1
+10K	10k	fo
+distance	distance	nn1
+without	without	iw
+hydration.		nnu
+how	how	rrq
+?		?
+load	load	nn1
+up	up	rp_ii@
+a	a	at1
+500-ml	500-ml	jj
+sports	sport	nn2
+drink	drink	vv0
+before	before	ii
+running	run	vvg
+and	and	cc
+you	you	ppy
+can	can	vm
+last	last	vvi
+the	the	at
+10K	10k	fo
+distance	distance	nn1
+.		.
+this	this	dd1
+is	be	vbz
+what	what	ddq
+i	i	zz1
+had	have	vhd
+been	be	vbn
+doing	do	vdg
+during	during	ii
+weekends	weekend	nnt2
+under	under	ii
+the	the	at
+condition	condition	nn1
+that	that	cst
+the	the	at
+run	run	nn1
+is	be	vbz
+for	for	if
+fun	fun	nn1_jj
+and	and	cc
+not	not	xx
+for	for	if
+PR	pr	np1_nn1@
+.		.
+<p>		null
+mga	mga	nn1
+kaibigan		nn1
+,		,
+10Km	10km	nnu
+lang	lang	nn1_vv0
+naman	naman	nn1
+yan	yan	nn1
+.		.
+for	for	if
+me	me	ppio1
+as	as	ii
+an	a	at1
+amateur	amateur	jj_nn1
+runner	runner	nn1
+,		,
+I	i	ppis1
+can	can	vm
+finish	finish	vvi
+this	this	dd1
+without	without	iw
+hydrating	hydrate	vvg
+my	my	appge
+self	self	nn1
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+@		ii
+hydrating	hydrate	vvg
+him/her	him/her	ppho1
+self	self	nn1
+unless	unless	cs
+you	you	ppy
+finish	finish	vv0
+10Km	10km	nnu
+in	in	ii
+2	2	mc
+hours	hour	nnt2
+!		!
+LOL	lol	np1_vv0_nn1
+<p>		null
+there	there	ex
+is	be	vbz
+no	no	at
+wrong	wrong	jj
+thing	thing	nn1
+on	on	ii
+what	what	ddq
+i	i	mc1_zz1
+said	say	vvd_jj%_vvn@
+?		?
+yes	yes	uh
+it	it	pph1
+is	be	vbz
+..	...	...
+research	research	nn1_vv0@
+before	before	cs
+you	you	ppy
+react	react	vv0
+..	...	...
+what	what	ddq
+i	i	zz1_mc1
+just	just	rr
+want	want	vv0
+to	to	to
+imply	imply	vvi
+is	be	vbz
+that	that	cst
+we	we	ppis2
+must	must	vm
+know	know	vvi
+how	how	rgq@
+much	much	da1
+would	would	vm
+be	be	vbi
+given	give	vvn
+to	to	ii
+the	the	at
+advocacy	advocacy	nn1
+..	...	...
+<p>		null
+in	in	ii
+milo	milo	nn1
+run	run	vvn_nn1_vv0
+alone	alone	rr_jj
+,		,
+if	if	cs
+you	you	ppy
+are	be	vbr
+running	run	vvg
+for	for	if
+10k	10k	fo
+or	or	cc
+higher	high	jjr_rrr@
+the	the	at
+registration	registration	nn1
+is	be	vbz
+500pesos		nnu1
+for	for	if
+the	the	at
+advocacy	advocacy	nn1
+of	of	io
+giving	give	vvg
+shoes	shoe	nn2
+to	to	ii
+public	public	jj_nn1
+school	school	nn1
+children	child	nn2
+.		.
+as	as	ii21_csa
+for	for	ii22_if
+me	me	ppio1
+,		,
+no	no	at
+problem	problem	nn1
+with	with	iw
+the	the	at
+advocacy	advocacy	nn1
+..	...	...
+but	but	ccb
+do	do	vd0
+you	you	ppy
+know	know	vvi
+that	that	cst_dd1
+in	in	ii
+that	that	dd1
+registration	registration	nn1
+fee/		nn1
+amount	amount	nn1
+,		,
+only	only	rr
+ten	ten	mc
+pesos	peso	nnu2
+goes	go	nn2%_vvz
+to	to	ii
+the	the	at
+advocacy	advocacy	nn1
+,		,
+yes	yes	uh
+it	it	pph1
+is	be	vbz
+..	...	...
+Php10		fo
+from	from	ii
+that	that	dd1
+of	of	io
+Php500		fo
+..	...	...
+now	now	rt
+differentiate	differentiate	vv0
+and	and	cc
+balance	balance	nn1_vv0@
+which	which	ddq
+is	be	vbz
+have	have	vh0
+the	the	at
+edge-		nn1_jj
+the	the	at
+advocacy	advocacy	nn1
+as	as	ii_csa
+the	the	at
+frontline	frontline	nn1
+of	of	io
+the	the	at
+run	run	nn1
+or	or	cc
+the	the	at
+business	business	nn1
+.		.
+<p>		null
+Just	just	rr
+think	think	vv0
+,		,
+analyze	analyze	vv0
+and	and	cc
+learn	learn	vv0
+!		!
+<p>		null
+as	as	csa
+you	you	ppy
+clearly	clearly	rr
+implied	imply	vvd_vvn
+"		"
+we	we	ppis2
+are	be	vbr
+entitled	entitle	vvn
+to	to	ii
+our	our	appge
+own	own	da
+opinion	opinion	nn1
+"		"
+<p>		null
+truly	truly	rr
+I	i	ppis1
+do	do	vd0
+respect	respect	vvi
+your	your	appge
+opinion	opinion	nn1
+and	and	cc
+i	i	zz1_mc1
+expect	expect	vv0
+you	you	ppy
