@@ -1,4 +1,6 @@
 import os, pickle
+import pandas as pd
+import numpy as np
 from collections import defaultdict
 from preprocessing import CorpusBuilder
 from itertools import tee
@@ -15,7 +17,7 @@ class NGramCounts(object):
         self.n = n
         self.corpus_builder = CorpusBuilder()
         self.corpus = self.corpus_builder.load_corpus()
-        self.counts = defaultdict(lambda: defaultdict(int))
+        self.counts = {}
         # set count data
         self.load_counts()
 
@@ -30,16 +32,30 @@ class NGramCounts(object):
         pickle.dump(dict(self.counts)   , open(self.filename(), 'wb'))
 
     def _build_counts(self, n):
-        """ Calculates n-gram counts for a specific n """
+        """
+        Calculates n-gram counts for a specific n
+        Stores them in a pandas DataFrame as:
+            | word1 | word2 | ... | wordn | count |
+        """
+        # Generate a dictionary of {n-gram tuple: count}
         counts = defaultdict(int)
         for s in self.corpus:
 
             # Add special start and end symbols
             s = ["START"] + s + ["END"]
-            
+
             for n_gram in window(s, n):
                 counts[tuple(n_gram)] += 1
-        return counts
+
+        # Converts to a list of dictionaries [{'word1': <word1>, ..., 'wordn': <wordn>, 'count': <count>}]
+        lst_of_dicts = []
+        for k, v in counts.items():
+            d = {'word' + str(i+1): w for i, w in enumerate(k)}
+            d['count'] = v
+            lst_of_dicts.append(d)
+
+        # Converts list of dicts to a dataframe
+        return pd.DataFrame(lst_of_dicts)
 
     def load_counts(self, update=False):
         if update or not os.path.exists(self.filename()):
@@ -50,4 +66,5 @@ class NGramCounts(object):
         return '%s/%dgram_counts.pickle' % (self.corpus_builder.data_path, self.n)
 
 if __name__ == '__main__':
-    NGramCounts(3).load_counts()
+    n = NGramCounts(3)
+    print(n.counts[3])
