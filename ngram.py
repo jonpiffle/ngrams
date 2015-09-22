@@ -13,9 +13,14 @@ def window(iterable, size):
     return zip(*iters)
 
 class NGramCounts(object):
-    def __init__(self, n):
+    def __init__(self, n, corpus_builder=None):
         self.n = n
-        self.corpus_builder = CorpusBuilder()
+
+        # Default CorpusBuilder
+        if corpus_builder is None:
+            corpus_builder = CorpusBuilder()
+
+        self.corpus_builder = corpus_builder
         self.corpus = self.corpus_builder.load_corpus()
         self.counts = {}
         # set count data
@@ -63,7 +68,8 @@ class NGramCounts(object):
         self.counts = pickle.load(open(self.filename(), 'rb'))
 
     def filename(self):
-        return '%s/%dgram_counts.pickle' % (self.corpus_builder.data_path, self.n)
+        suffix = 'stemmed' if self.corpus_builder.stemmed else 'unstemmed'
+        return '%s/%dgram_counts_%s.pickle' % (self.corpus_builder.data_path, self.n, suffix)
 
 if __name__ == '__main__':
     n = NGramCounts(3)
