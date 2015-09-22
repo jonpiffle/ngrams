@@ -20,14 +20,23 @@ class NGramCounts(object):
         self.load_counts()
 
     def build_counts(self):
+        """
+        Calculates n-gram counts for all n-grams <= n.
+        The lower-order counts will be necessary for some models.
+        Pickles and stores resulting dict
+        """
         for i in range(1, self.n + 1):
             self.counts[i] = self._build_counts(i)
         pickle.dump(dict(self.counts)   , open(self.filename(), 'wb'))
 
     def _build_counts(self, n):
+        """ Calculates n-gram counts for a specific n """
         counts = defaultdict(int)
         for s in self.corpus:
+
+            # Add special start and end symbols
             s = ["START"] + s + ["END"]
+            
             for n_gram in window(s, n):
                 counts[tuple(n_gram)] += 1
         return counts
