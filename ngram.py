@@ -3,14 +3,7 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict
 from preprocessing import CorpusBuilder
-from itertools import tee
-
-def window(iterable, size):
-    iters = tee(iterable, size)
-    for i in range(1, size):
-        for each in iters[i:]:
-            next(each, None)
-    return zip(*iters)
+from utils import window
 
 class NGramCounts(object):
     def __init__(self, n, corpus_builder=None):
@@ -21,10 +14,16 @@ class NGramCounts(object):
             corpus_builder = CorpusBuilder()
 
         self.corpus_builder = corpus_builder
-        self.corpus = self.corpus_builder.load_corpus()
         self.counts = {}
-        # set count data
+
+        # set counts data
         self.load_counts()
+
+    def get_counts(self, n=None):
+        if n is None:
+            n = self.n
+
+        return self.counts[n]
 
     def build_counts(self):
         """
@@ -44,7 +43,9 @@ class NGramCounts(object):
         """
         # Generate a dictionary of {n-gram tuple: count}
         counts = defaultdict(int)
-        for s in self.corpus:
+
+        # Reload corpus every time so that it doesn't need to permanently stay in memory
+        for s in self.corpus_builder.load_corpus():
 
             # Add special start and end symbols
             s = ["START"] + s + ["END"]
@@ -70,7 +71,3 @@ class NGramCounts(object):
     def filename(self):
         suffix = 'stemmed' if self.corpus_builder.stemmed else 'unstemmed'
         return '%s/%dgram_counts_%s.pickle' % (self.corpus_builder.data_path, self.n, suffix)
-
-if __name__ == '__main__':
-    n = NGramCounts(3)
-    print(n.counts[3])
