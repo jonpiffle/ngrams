@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict
 from preprocessing import CorpusBuilder
-from utils import window
+from utils import window, START_SYMBOL, END_SYMBOL
 
 class NGramCounts(object):
     def __init__(self, n, corpus_builder=None):
@@ -33,7 +33,7 @@ class NGramCounts(object):
         """
         for i in range(1, self.n + 1):
             self.counts[i] = self._build_counts(i)
-        pickle.dump(dict(self.counts)   , open(self.filename(), 'wb'))
+        pickle.dump(dict(self.counts), open(self.filename(), 'wb'))
 
     def _build_counts(self, n):
         """
@@ -48,7 +48,7 @@ class NGramCounts(object):
         for s in self.corpus_builder.load_corpus():
 
             # Add special start and end symbols
-            s = ["START"] + s + ["END"]
+            s = [START_SYMBOL] + s + [END_SYMBOL]
 
             for n_gram in window(s, n):
                 counts[tuple(n_gram)] += 1

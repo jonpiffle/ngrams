@@ -1,6 +1,6 @@
 from ngram import NGramCounts
 from probability import UnsmoothedProbabilityGenerator
-from utils import window
+from utils import window, START_SYMBOL, END_SYMBOL
 
 class LanguageModel(object):
     def __init__(self):
@@ -16,7 +16,7 @@ class LanguageModel(object):
         raise NotImplementedError
 
 class NGramLanguageModel(LanguageModel):
-    def __init__(self,  n=3, probability_generator=None):
+    def __init__(self, n=3, probability_generator=None):
         self.n = n
         self.ngram_counts = NGramCounts(self.n)
 
@@ -36,11 +36,20 @@ class NGramLanguageModel(LanguageModel):
             Prod( Pr(w_k | w_k - 1, ..., w_k - (n - 1)) )
         """
 
-        text = ['START'] + text.split() + ['END']
+        text = [START_SYMBOL] + text.split() + [END_SYMBOL]
         running_prob = 1
-        for w in window(text, self.n):
-            probability = self.probability_generator.get_probabilities(w)['probability'].values[0]
-            print(w, probability)
+        for w in window(text, self.n, left_nulls=True):
+            # for first N - 1 words, have to use a lower order model
+            n = self.n - len([a for a in w if a is None])
+            w = [a for a in w if a is not None]
+
+            probability = self.probability_generator.get_probabilities(w, n=n)['probability'].values[0]
+            print(w, n, probability)
             running_prob *= probability
         print(text, running_prob)
         return running_prob
+
+if __name__ == '__main__':
+    ng = NGramLanguageModel()
+    print(ng.probability_generator.probs.keys())
+    ng.text_probability('What you only need to ask')
