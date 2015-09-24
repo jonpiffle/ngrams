@@ -17,9 +17,12 @@ class ProbabilityGenerator(object):
 class UnsmoothedProbabilityGenerator(ProbabilityGenerator):
     def __init__(self, counts):
         self.counts = counts
-        self.probs = self._generate_probabilities()
+        self.probs = {}
 
-    def get_probabilities(self, state):
+        # set self.probs
+        self._generate_probabilities()
+
+    def get_probabilities(self, state, n=None):
         """
         For a partial state, returns all probabilities that could finish state
         e.g. state = ('at', '4:23') with counts of 3-grams
@@ -27,11 +30,19 @@ class UnsmoothedProbabilityGenerator(ProbabilityGenerator):
             word1 word2 word3  probability
             at    4:23  pm     0.000003
         """
-        return self.probs[np.logical_and(*[self.probs['word' + str(i+1)] == w for i, w in enumerate(state)])]
+        if n is None:
+            n = self.counts.n
+        probs = self.probs[n]
+
+        if len(state) == 1:
+            return probs[probs['word1'] == state[0]]
+        else:
+            return probs[np.logical_and.reduce([probs['word' + str(i+1)] == w for i, w in enumerate(state)])]
 
     def _generate_probabilities(self):
-        N = len(self.counts.get_counts().index)
-        probs = self.counts.get_counts()
-        probs['probability'] = probs['count'] / N
-        probs = probs.drop('count', 1)
-        return probs
+        for i in range(1, self.counts.n + 1):
+            probs = self.counts.get_counts(i)
+            total = sum(probs['count'].values)
+            probs['probability'] = probs['count'] / total
+            probs = probs.drop('count', 1)
+            self.probs[i] = probs
