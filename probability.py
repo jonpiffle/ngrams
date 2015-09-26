@@ -8,6 +8,7 @@ class ProbabilityGenerator(object):
 
     def __init__(self, counts):
         self.counts = counts
+        self.probs = {}
         self._generate_probabilities()
 
     def _generate_probabilities(self):
@@ -40,7 +41,6 @@ class ProbabilityGenerator(object):
 class RawProbabilityGenerator(ProbabilityGenerator):
 
     def __init__(self, counts):
-        self.probs = {}
         super().__init__(counts)
 
     def _generate_probabilities(self):
@@ -48,5 +48,20 @@ class RawProbabilityGenerator(ProbabilityGenerator):
             probs = self.counts.get_counts(i)
             total = sum(probs['count'].values)
             probs['probability'] = probs['count'] / total
+            probs = probs.drop('count', 1)
+            self.probs[i] = probs
+
+
+class LaplaceProbabilityGenerator(ProbabilityGenerator):
+
+    def __init__(self, counts, k=1):
+        self.k = k
+        super().__init__(counts)
+
+    def _generate_probabilities(self):
+        for i in range(1, self.counts.n + 1):
+            probs = self.counts.get_counts(i)
+            total = sum(probs['count'].values) + (len(probs) * self.k)
+            probs['probability'] = (probs['count'] + self.k) / total
             probs = probs.drop('count', 1)
             self.probs[i] = probs
