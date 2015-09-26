@@ -1,3 +1,7 @@
+from itertools import permutations
+
+import numpy as np
+
 from ngram import NGramCounts
 from probability import RawProbabilityGenerator
 from utils import window, START_SYMBOL, END_SYMBOL
@@ -11,22 +15,26 @@ class LanguageModel(object):
         raise NotImplementedError
 
     def unscramble(self, text):
-        raise NotImplementedError
+        words = text.split()
+        choices = np.array([' '.join(sentence) for sentence in permutations(words)])
+        probs = []
+        for sentence in choices:
+            print(sentence)
+            probs.append(self.text_probability(sentence))
+        return choices[np.argmax(probs)]
 
     def text_probability(self, text):
         raise NotImplementedError
 
 
 class NGramLanguageModel(LanguageModel):
+
     def __init__(self, n=3, probability_generator=RawProbabilityGenerator):
         self.n = n
         self.ngram_counts = NGramCounts(self.n)
         self.probability_generator = probability_generator(self.ngram_counts)
 
     def evaluate(self):
-        pass
-
-    def unscramble(self, text):
         pass
 
     def text_probability(self, text):
@@ -54,5 +62,6 @@ class NGramLanguageModel(LanguageModel):
 
 if __name__ == '__main__':
     ng = NGramLanguageModel()
-    print(ng.probability_generator.probs.keys())
-    ng.text_probability('What you only need to ask')
+    # print(ng.probability_generator.probs.keys())
+    # ng.text_probability('What you only need to ask')
+    print(ng.unscramble('you only ask to What need'))
