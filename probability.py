@@ -5,24 +5,16 @@ from utils import window
 
 
 class ProbabilityGenerator(object):
+
     def __init__(self, counts):
         self.counts = counts
-        self.probs = None
+        self._generate_probabilities()
+
+    def _generate_probabilities(self):
+        raise NotImplementedError
 
     def get_probability(self, state, action):
         raise NotImplementedError
-
-    def get_probabilities(self, state):
-        raise NotImplementedError
-
-
-class RawProbabilityGenerator(ProbabilityGenerator):
-    def __init__(self, counts):
-        self.counts = counts
-        self.probs = {}
-
-        # set self.probs
-        self._generate_probabilities()
 
     def get_probabilities(self, state, n=None):
         """
@@ -43,6 +35,13 @@ class RawProbabilityGenerator(ProbabilityGenerator):
             return probs[np.logical_and.reduce(
                 [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
             )]
+
+
+class RawProbabilityGenerator(ProbabilityGenerator):
+
+    def __init__(self, counts):
+        self.probs = {}
+        super().__init__(counts)
 
     def _generate_probabilities(self):
         for i in range(1, self.counts.n + 1):
