@@ -65,3 +65,22 @@ class LaplaceProbabilityGenerator(ProbabilityGenerator):
             probs['probability'] = (probs['count'] + self.k) / total
             probs = probs.drop('count', 1)
             self.probs[i] = probs
+
+
+class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
+
+    def __init__(self, counts, alpha=1, D=None):
+        self.alpha = alpha
+        self.D = D
+        super().__init__()
+
+    def _generate_probablities(self):
+        for i range(1, self.counts.n + 1):
+            probs = self.counts.get_counts(i)
+            total = sum(probs['count'].values)
+            if total > 0:
+                probs['probability'] = (probs['count'] - self.D) / total
+            else:
+                probs['probability'] = self.alpha * self.D
+            probs = probs.drop('count', 1)
+            self.probs[i] = probs
