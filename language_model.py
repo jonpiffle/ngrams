@@ -1,11 +1,23 @@
-from itertools import permutations
-
 import numpy as np
 
 from ngram import NGramCounts
 from probability import LaplaceProbabilityGenerator
 from probability import RawProbabilityGenerator
 from utils import window, START_SYMBOL, END_SYMBOL
+
+
+def permutations(iterable):
+    if len(iterable) == 0:
+        yield []
+    else:
+        for i, e in enumerate(iterable):
+            others = np.concatenate(
+                [np.arange(0, i), np.arange(i + 1, len(iterable))],
+            )
+            l = [e]
+            for p in permutations(iterable[others]):
+                l[1:] = list(p)
+                yield l
 
 
 class LanguageModel(object):
@@ -17,14 +29,13 @@ class LanguageModel(object):
 
     def unscramble(self, text):
         words = text.split()
-        choices = np.array(
-            [' '.join(sentence) for sentence in permutations(words)],
-        )
-        probs = []
-        for sentence in choices:
-            print(sentence)
-            probs.append(self.text_probability(sentence))
-        return choices[np.argmax(probs)]
+        best_sentence, best_prob = None, 0
+        for p in permutations(np.array(words)):
+            sentence = ' '.join(p)
+            prob = self.text_probability(sentence)
+            if prob > best_prob:
+                best_sentence, best_prob = sentence, prob
+        return best_sentence
 
     def text_probability(self, text):
         raise NotImplementedError
@@ -77,4 +88,4 @@ if __name__ == '__main__':
     ng = NGramLanguageModel(probability_generator=LaplaceProbabilityGenerator)
     # print(ng.probability_generator.probs.keys())
     # ng.text_probability('What you only need to ask')
-    print(ng.unscramble('world hello'))
+    print(ng.unscramble('you only need What to ask'))
