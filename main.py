@@ -29,7 +29,12 @@ def main(model, evaluate=None, unscramble=None):
     print(unscramble)
     language_model = model['class'](**model['kwargs'])
     print(language_model)
-
+    if evaluate:
+        language_model.evaluate(evaluate)
+    elif unscramble:
+        with open(unscramble) as f:
+            text = f.read()
+        language_model.unscramble(text)
 
 if __name__ == '__main__':
     import argparse
