@@ -3,6 +3,7 @@ from itertools import permutations
 import numpy as np
 
 from ngram import NGramCounts
+from probability import LaplaceProbabilityGenerator
 from probability import RawProbabilityGenerator
 from utils import window, START_SYMBOL, END_SYMBOL
 
@@ -16,7 +17,9 @@ class LanguageModel(object):
 
     def unscramble(self, text):
         words = text.split()
-        choices = np.array([' '.join(sentence) for sentence in permutations(words)])
+        choices = np.array(
+            [' '.join(sentence) for sentence in permutations(words)],
+        )
         probs = []
         for sentence in choices:
             print(sentence)
@@ -29,10 +32,16 @@ class LanguageModel(object):
 
 class NGramLanguageModel(LanguageModel):
 
-    def __init__(self, n=3, probability_generator=RawProbabilityGenerator):
+    def __init__(self,
+                 n=3,
+                 probability_generator=RawProbabilityGenerator,
+                 **kwargs):
         self.n = n
         self.ngram_counts = NGramCounts(self.n)
-        self.probability_generator = probability_generator(self.ngram_counts)
+        self.probability_generator = probability_generator(
+            self.ngram_counts,
+            **kwargs
+        )
 
     def evaluate(self):
         pass
@@ -50,10 +59,14 @@ class NGramLanguageModel(LanguageModel):
             n = self.n - len([a for a in w if a is None])
             w = [a for a in w if a is not None]
 
-            probability = self.probability_generator.get_probabilities(
-                w,
-                n=n,
-            )['probability'].values[0]
+            try:
+                probability = self.probability_generator.get_probabilities(
+                    w,
+                    n=n,
+                )['probability'].values[0]
+            except:
+                running_prob = 0
+                break
             print(w, n, probability)
             running_prob *= probability
         print(text, running_prob)
@@ -61,7 +74,7 @@ class NGramLanguageModel(LanguageModel):
 
 
 if __name__ == '__main__':
-    ng = NGramLanguageModel()
+    ng = NGramLanguageModel(probability_generator=LaplaceProbabilityGenerator)
     # print(ng.probability_generator.probs.keys())
     # ng.text_probability('What you only need to ask')
-    print(ng.unscramble('you only ask to What need'))
+    print(ng.unscramble('world hello'))
