@@ -75,7 +75,7 @@ class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
         super().__init__()
 
     def _generate_probablities(self):
-        for i range(1, self.counts.n + 1):
+        for i in range(1, self.counts.n + 1):
             probs = self.counts.get_counts(i)
             total = sum(probs['count'].values)
             if total > 0:
