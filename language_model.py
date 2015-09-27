@@ -21,6 +21,7 @@ def permutations(iterable):
 
 
 class LanguageModel(object):
+
     def __init__(self):
         raise NotImplementedError
 
@@ -28,6 +29,7 @@ class LanguageModel(object):
         raise NotImplementedError
 
     def unscramble(self, text):
+        self.cache = {}  # cache may get quite large if not cleared
         words = text.split()
         best_sentence, best_prob = None, 0
         for p in permutations(np.array(words)):
@@ -53,6 +55,7 @@ class NGramLanguageModel(LanguageModel):
             self.ngram_counts,
             **kwargs
         )
+        self.cache = {}
 
     def evaluate(self):
         pass
@@ -69,17 +72,23 @@ class NGramLanguageModel(LanguageModel):
             # for first N - 1 words, have to use a lower order model
             n = self.n - len([a for a in w if a is None])
             w = [a for a in w if a is not None]
+            cache_key = tuple(w + [n])
+            if cache_key in self.cache:
+                probability = self.cache[cache_key]
+            else:
+                try:
+                    probability = self.probability_generator.get_probabilities(
+                        w,
+                        n=n,
+                    )['probability'].values[0]
+                except:
+                    probability = 0
+                self.cache[cache_key] = probability
 
-            try:
-                probability = self.probability_generator.get_probabilities(
-                    w,
-                    n=n,
-                )['probability'].values[0]
-            except:
-                running_prob = 0
-                break
             print(w, n, probability)
             running_prob *= probability
+            if running_prob == 0:
+                break
         print(text, running_prob)
         return running_prob
 
