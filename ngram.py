@@ -73,9 +73,11 @@ class NGramCounts(object):
         suffix = 'stemmed' if self.corpus_builder.stemmed else 'unstemmed'
         return '%s/%dgram_counts_%s.pickle' % (self.corpus_builder.data_path, self.n, suffix)
 
-    def lexicon_to_csv(self):
+    def lexicon_to_csv(self, output_file):
         unigram_counts = self.get_counts(n=1)
-        print(unigram_counts.sort('count', ascending=False).to_csv(index=False))
+        with open(output_file, 'w') as f:
+            f.write(unigram_counts.sort('count', ascending=False).to_csv(index=False))
 
 if __name__ == '__main__':
-    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=True)).write_lexicon_to_file()
+    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=True)).write_lexicon_to_file('stemmed_lexicon.csv')
+    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=False)).write_lexicon_to_file('unstemmed_lexicon.csv')
