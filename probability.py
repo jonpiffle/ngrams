@@ -35,7 +35,7 @@ class ProbabilityGenerator(object):
         else:
             return probs[np.logical_and.reduce(
                 [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
-            )]
+            )]['probabilities']
 
 
 class RawProbabilityGenerator(ProbabilityGenerator):

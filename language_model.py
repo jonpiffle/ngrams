@@ -80,7 +80,8 @@ class NGramLanguageModel(LanguageModel):
                     probability = self.probability_generator.get_probabilities(
                         w,
                         n=n,
-                    )['probability'].values[0]
+                    )
+                    probability = probability[probability.keys()[0]]
                 except:
                     probability = 0
                 self.cache[cache_key] = probability
