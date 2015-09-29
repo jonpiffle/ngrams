@@ -106,20 +106,28 @@ class LaplaceProbabilityGenerator(LazyProbabilityGenerator):
         return self.k / self.Ns[n]
 
 
-class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
+class AbsoluteDiscountProbabilityGenerator(LazyProbabilityGenerator):
 
-    def __init__(self, counts, alpha=1, D=None):
-        self.alpha = alpha
+    def __init__(self, counts, D=0):
         self.D = D
-        super().__init__()
+        self.corpus_size = len(counts.get_counts(1))
+        self.alphas = {}
+        super().__init__(counts)
 
-    def _generate_probablities(self):
+    def _generate_probabilities(self):
         for i in range(1, self.counts.n + 1):
             probs = self.counts.get_counts(i)
             total = sum(probs['count'].values)
-            if total > 0:
-                probs['probability'] = (probs['count'] - self.D) / total
-            else:
-                probs['probability'] = self.alpha * self.D
+            probs['probability'] = (probs['count'] - self.D) / total
+            total_possible_ngrams = \
+                scipy.misc.comb(self.corpus_size, i) * scipy.misc.factorial(i)
+            # if there are k n-grams with counts of zero, then alpha is 1/k.
+            # Want to distribute D probability mass across these k unseen
+            # elements, so each should get probability (1/k)*D.
+            alpha = 1 / (total_possible_ngrams - len(probs))
+            self.alphas[i] = alpha
             probs = probs.drop('count', 1)
             self.probs[i] = probs
+
+    def lazy_probability(self, state, n):
+        return self.alphas[n] * self.D
