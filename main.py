@@ -36,7 +36,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     evaluate_unscramble = parser.add_mutually_exclusive_group(required=True)
-    evaluate_unscramble.add_argument('-evaluate', metavar='file')
+    evaluate_help = "File to evaluate model on. To use the model's own test \
+        set, use TEST_CORPUS"
+    evaluate_unscramble.add_argument(
+        '-evaluate',
+        metavar='file',
+        help=evaluate_help,
+    )
     evaluate_unscramble.add_argument('-unscramble', metavar='file')
 
     def nonnegative_int(string):
