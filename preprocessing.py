@@ -39,7 +39,7 @@ class CorpusBuilder(object):
                     else:
                         sentence.append(row['word'])
 
-        train_sentences, test_sentences = train_test_split(sentences, test_size=0.2)
+        train_sentences, test_sentences = train_test_split(sentences, test_size=100)
         pickle.dump(train_sentences, open(self.filename(), 'wb'))
         pickle.dump(test_sentences, open(self.test_filename(), 'wb'))
 
