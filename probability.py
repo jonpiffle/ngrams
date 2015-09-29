@@ -53,7 +53,37 @@ class RawProbabilityGenerator(ProbabilityGenerator):
             self.probs[i] = probs
 
 
-class LaplaceProbabilityGenerator(ProbabilityGenerator):
+class LazyProbabilityGenerator(ProbabilityGenerator):
+    """
+    Probability generator which - for perf/memory reasons, does not compute
+    all of its probabilities up front. By definition, these probability models
+    expect to not have a probability of 0. If they encounter such a
+    probability, then they will default to the result of a lazy_probability
+    function.
+    """
+
+    def __init__(self, counts):
+        super().__init__(counts)
+
+    def get_probabilities(self, state, n=None):
+        if n is None:
+            n = self.counts.n
+        probs = self.probs[n]
+
+        prob = probs[np.logical_and.reduce(
+            [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
+        )]['probability']
+
+        if prob.values[0] == 0:
+            return {0: self.lazy_probability(state, n)}
+        else:
+            return prob
+
+    def lazy_probability(self, state, n):
+        raise NotImplementedError
+
+
+class LaplaceProbabilityGenerator(LazyProbabilityGenerator):
 
     def __init__(self, counts, k=1):
         self.k = k
@@ -72,20 +102,8 @@ class LaplaceProbabilityGenerator(ProbabilityGenerator):
             probs = probs.drop('count', 1)
             self.probs[i] = probs
 
-    def get_probabilities(self, state, n=None):
-        if n is None:
-            n = self.counts.n
-        probs = self.probs[n]
-        N = self.Ns[n - 1]
-
-        prob = probs[np.logical_and.reduce(
-            [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
-        )]['probability']
-
-        if prob.values[0] == 0:
-            return {0: self.k / N}
-        else:
-            return prob
+    def lazy_probability(self, state, n):
+        return self.k / self.Ns[n - 1]
 
 
 class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
