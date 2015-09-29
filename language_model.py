@@ -81,7 +81,8 @@ class NGramLanguageModel(LanguageModel):
                         w,
                         n=n,
                     )
-                    probability = probability[probability.keys()[0]]
+                    index = [k for k in probability.keys()][0]
+                    probability = probability[index]
                 except:
                     probability = 0
                 self.cache[cache_key] = probability

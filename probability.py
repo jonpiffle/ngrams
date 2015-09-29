@@ -74,7 +74,7 @@ class LazyProbabilityGenerator(ProbabilityGenerator):
             [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
         )]['probability']
 
-        if prob.values[0] == 0:
+        if not len(prob.values) or prob.values[0] == 0:
             return {0: self.lazy_probability(state, n)}
         else:
             return prob
