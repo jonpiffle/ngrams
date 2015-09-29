@@ -43,11 +43,22 @@ class CorpusBuilder(object):
         pickle.dump(train_sentences, open(self.filename(), 'wb'))
         pickle.dump(test_sentences, open(self.test_filename(), 'wb'))
 
-    def stem(self, word):
+    def stem(self, text):
         """ Returns the stem of the word as defined by the corpus, or the word if not in the stem_map """
         if self.stem_map is None:
             self.stem_map = self.load_stem_map()
-        return self.stem_map[word] if word in self.stem_map else word
+
+        if isinstance(text, str):
+            text = [text]
+
+        stemmed_text = []
+        for sentence in text:
+            stemmed_sentence = []
+            for word in sentence.split():
+                stemmed_word = self.stem_map[word] if word in self.stem_map else word
+                stemmed_sentence.append(stemmed_word)
+            stemmed_text.append(" ".join(stemmed_sentence))
+        return stemmed_text
 
     def _build_stem_map(self):
         """ Builds and pickles a dictionary of {word: stem} using the corpus """
@@ -60,7 +71,7 @@ class CorpusBuilder(object):
                 for row in r:
                     if '#' in row['word'] or '@' in row['word']:
                         continue
-                    else:
+                    elif row['lemma'] != '':
                         stem_map[row['word']] = row['lemma']
         pickle.dump(stem_map, open(self.stem_map_filename(), 'wb'))
 
@@ -96,5 +107,5 @@ if __name__ == '__main__':
     stem_map = cb.load_stem_map()
     print(len(train))
     print(len(test))
-    print(cb.stem('factions'))
+    print(cb.stem('factions the hello'))
 
