@@ -1,0 +1,32 @@
+usage: main.py [-h] (-evaluate file | -unscramble file) [-n N]
+               {raw,laplace,abs_dis} ...
+
+positional arguments:
+  {raw,laplace,abs_dis}
+                        options for language models
+    raw                 Raw Probability Model
+    laplace             Laplace Probability Model
+    abs_dis             Absolute Discount Probability Model
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -evaluate file        File to evaluate model on. To use the model's own test
+                        set, use TEST_CORPUS
+  -unscramble file
+  -n N, --n N           Which n-gram model to use
+
+Specifying parameters for different models:
+
+usage: main.py laplace [-h] [-k K]
+
+optional arguments:
+  -h, --help   show this help message and exit
+  -k K, --k K  Amount to adjust counts by
+
+usage: main.py abs_dis [-h] D
+
+positional arguments:
+  D           Amount of probability mass to set aside for unseen words
+
+optional arguments:
+  -h, --help  show this help message and exit
