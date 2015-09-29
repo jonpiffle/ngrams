@@ -45,7 +45,8 @@ class NGramCounts(object):
         counts = defaultdict(int)
 
         # Reload corpus every time so that it doesn't need to permanently stay in memory
-        for s in self.corpus_builder.load_corpus():
+        train_corpus, test_corpus = self.corpus_builder.load_corpus()
+        for s in train_corpus:
 
             # Add special start and end symbols
             s = [START_SYMBOL] + s + [END_SYMBOL]
@@ -71,3 +72,10 @@ class NGramCounts(object):
     def filename(self):
         suffix = 'stemmed' if self.corpus_builder.stemmed else 'unstemmed'
         return '%s/%dgram_counts_%s.pickle' % (self.corpus_builder.data_path, self.n, suffix)
+
+    def lexicon_to_csv(self):
+        unigram_counts = self.get_counts(n=1)
+        print(unigram_counts.sort('count', ascending=False).to_csv(index=False))
+
+if __name__ == '__main__':
+    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=True)).write_lexicon_to_file()
