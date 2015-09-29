@@ -88,7 +88,7 @@ class LaplaceProbabilityGenerator(LazyProbabilityGenerator):
     def __init__(self, counts, k=1):
         self.k = k
         self.corpus_size = len(counts.get_counts(1))
-        self.Ns = []
+        self.Ns = {}
         super().__init__(counts)
 
     def _generate_probabilities(self):
@@ -97,13 +97,13 @@ class LaplaceProbabilityGenerator(LazyProbabilityGenerator):
             total_possible_ngrams = \
                 scipy.misc.comb(self.corpus_size, i) * scipy.misc.factorial(i)
             N = sum(probs['count'].values) + (total_possible_ngrams * self.k)
-            self.Ns.append(N)
+            self.Ns[i] = N
             probs['probability'] = (probs['count'] + self.k) / N
             probs = probs.drop('count', 1)
             self.probs[i] = probs
 
     def lazy_probability(self, state, n):
-        return self.k / self.Ns[n - 1]
+        return self.k / self.Ns[n]
 
 
 class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
