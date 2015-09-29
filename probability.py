@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import scipy.misc
 from ngram import NGramCounts
 from utils import window
 
@@ -56,15 +57,35 @@ class LaplaceProbabilityGenerator(ProbabilityGenerator):
 
     def __init__(self, counts, k=1):
         self.k = k
+        self.corpus_size = len(counts.get_counts(1))
+        self.Ns = []
         super().__init__(counts)
 
     def _generate_probabilities(self):
         for i in range(1, self.counts.n + 1):
             probs = self.counts.get_counts(i)
-            total = sum(probs['count'].values) + (len(probs) * self.k)
-            probs['probability'] = (probs['count'] + self.k) / total
+            total_possible_ngrams = \
+                scipy.misc.comb(self.corpus_size, i) * scipy.misc.factorial(i)
+            N = sum(probs['count'].values) + (total_possible_ngrams * self.k)
+            self.Ns.append(N)
+            probs['probability'] = (probs['count'] + self.k) / N
             probs = probs.drop('count', 1)
             self.probs[i] = probs
+
+    def get_probabilities(self, state, n=None):
+        if n is None:
+            n = self.counts.n
+        probs = self.probs[n]
+        N = self.Ns[n - 1]
+
+        prob = probs[np.logical_and.reduce(
+            [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
+        )]['probability']
+
+        if prob.values[0] == 0:
+            return {0: self.k / N}
+        else:
+            return prob
 
 
 class AbsoluteDiscountProbabilityGenerator(ProbabilityGenerator):
