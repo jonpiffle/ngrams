@@ -99,7 +99,6 @@ class NGramLanguageModel(LanguageModel):
             text = [text]
 
         running_log_prob = 0
-        text = text[:5]
 
         # Text length = number of words + start and end symbol for each sentence
         text_len = sum([len(s.split()) + 2 for s in text])
