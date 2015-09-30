@@ -72,7 +72,7 @@ class NGramLanguageModel(LanguageModel):
         If the filename is None, returns the test set from the train/test corpus split
         """
 
-        if test_text_file is None:
+        if test_text_file == 'TEST_CORPUS':
             corpus_builder = self.ngram_counts.corpus_builder 
             train_corpus, test_corpus = corpus_builder.load_corpus()
             sentences = [" ".join(s) for s in test_corpus]
