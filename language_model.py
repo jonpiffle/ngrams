@@ -78,6 +78,11 @@ class NGramLanguageModel(LanguageModel):
             with open(test_text_file, 'r') as f:
                 text = f.readlines()
             sentences = text.split('.')
+
+            # If using a stemmed model, need to stem test input
+            if self.ngram_counts.stemmed:
+                sentences = self.ngram_counts.corpus_builder.stem(sentences)
+
             return sentences
 
     def perplexity(self, text):
