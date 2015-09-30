@@ -31,7 +31,7 @@ class LanguageModel(object):
             p = list(p)
             sentence = ' '.join(words[p])
             prob = self.text_log_prob(sentence)
-            if prob > best_log_prob:
+            if prob >= best_log_prob:
                 best_sentence_indices, best_log_prob = p, prob
 
         return ' '.join(list(unstemmed_words[best_sentence_indices]))
@@ -133,8 +133,8 @@ class NGramLanguageModel(LanguageModel):
                     w,
                     n=n,
                 )
-                index = [k for k in probability.keys()][0]
-                probability = probability[index]
+                indices = [k for k in probability.keys()]
+                probability = probability[indices[0]] if indices else 0
                 self.cache[cache_key] = probability
 
             if probability == 0:

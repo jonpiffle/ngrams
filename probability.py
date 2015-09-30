@@ -32,11 +32,11 @@ class ProbabilityGenerator(object):
         probs = self.probs[n]
 
         if len(state) == 1:
-            return probs[probs['word1'] == state[0]]
+            return probs[probs['word1'] == state[0]]['probability']
         else:
             return probs[np.logical_and.reduce(
                 [probs['word' + str(i+1)] == w for i, w in enumerate(state)],
-            )]['probabilities']
+            )]['probability']
 
 
 class RawProbabilityGenerator(ProbabilityGenerator):
