@@ -52,6 +52,9 @@ class RawProbabilityGenerator(ProbabilityGenerator):
             probs = probs.drop('count', 1)
             self.probs[i] = probs
 
+    def __str__(self):
+        return "Raw Probability Generator (MLE Counts)"
+
 
 class LazyProbabilityGenerator(ProbabilityGenerator):
     """
@@ -105,6 +108,10 @@ class LaplaceProbabilityGenerator(LazyProbabilityGenerator):
     def lazy_probability(self, state, n):
         return self.k / self.Ns[n]
 
+    def __str__(self):
+        name = "Laplace Probabilities"
+        return "{} with k={}".format(name, self.k)
+
 
 class AbsoluteDiscountProbabilityGenerator(LazyProbabilityGenerator):
 
@@ -131,3 +138,7 @@ class AbsoluteDiscountProbabilityGenerator(LazyProbabilityGenerator):
 
     def lazy_probability(self, state, n):
         return self.alphas[n] * self.D
+
+    def __str__(self):
+        name = "Absolute Discount Probabilities"
+        return "{} with D={}".format(name, self.D)

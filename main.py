@@ -28,13 +28,21 @@ def main(n=1,
         probability_generator=PROBABILITY_GENERATORS[probability_generator],
         **probability_generator_kwargs
     )
-    print(language_model)
+    print(str(language_model))
     if evaluate:
-        language_model.evaluate(evaluate)
+        perplexity = language_model.evaluate(evaluate)
+        print("Perplexity: {}".format(perplexity))
     elif unscramble:
         with open(unscramble) as f:
-            text = f.read()
-        language_model.unscramble(text)
+            text = f.read().strip()
+        unscrambled = language_model.unscramble(text)
+        unscrambled_perplexity = language_model.perplexity(unscrambled)
+        scrambled_perplexity = language_model.perplexity(text)
+        print("Original Text: {}".format(text))
+        print("Unscrambled sentence: {}".format(unscrambled))
+        print("Original perplexity: {0}; Unscrambled perplexity: {1}".format(scrambled_perplexity, unscrambled_perplexity))
+        print(language_model.text_log_prob(text))
+        print(language_model.text_log_prob(unscrambled))
 
 if __name__ == '__main__':
     import argparse

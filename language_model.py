@@ -55,6 +55,12 @@ class NGramLanguageModel(LanguageModel):
         )
         self.cache = {}
 
+    def __str__(self):
+        gram = "{}-gram".format(self.n)
+        stemmed = "Stemmed" if self.ngram_counts.corpus_builder.stemmed else "Unstemmed"
+        prob = str(self.probability_generator)
+        return "Model: {}; {}; {}".format(gram, stemmed, prob)
+
     def evaluate(self, test_text_file=None):
         """ Returns the perplexity of the test text (if given) otherwise the corpus test set """
         test_text = self._load_test_text(test_text_file)
@@ -73,11 +79,11 @@ class NGramLanguageModel(LanguageModel):
             return sentences
         else:
             with open(test_text_file, 'r') as f:
-                text = f.readlines()
+                text = f.read().strip()
             sentences = text.split('.')
 
             # If using a stemmed model, need to stem test input
-            if self.ngram_counts.stemmed:
+            if self.ngram_counts.corpus_builder.stemmed:
                 sentences = self.ngram_counts.corpus_builder.stem(sentences)
 
             return sentences
@@ -96,7 +102,7 @@ class NGramLanguageModel(LanguageModel):
         text = text[:5]
 
         # Text length = number of words + start and end symbol for each sentence
-        text_len = sum([len(s) for s in text]) + 2 * len(text)
+        text_len = sum([len(s.split()) + 2 for s in text])
         print(text_len)
 
         for i, sentence in enumerate(text):
