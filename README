@@ -1,3 +1,10 @@
+Installation instructions:
+Written to python3.4.
+To install any missing packages, `pip install -r requirements.txt`.
+(use pip3 instead of pip if your system's pip is for python2).
+("python" below should be replaced with "python3" if your system's python is 2.x).
+
+
 usage: main.py [-h] (-evaluate file | -unscramble file) [-s | -u] [-n N]
                {raw,laplace,abs_dis} ...
 
@@ -25,10 +32,20 @@ optional arguments:
   -h, --help   show this help message and exit
   -k K, --k K  Amount to adjust counts by
 
-usage: main.py abs_dis [-h] D
-
-positional arguments:
-  D           Amount of probability mass to set aside for unseen words
+usage: main.py abs_dis [-h] [-D D]
 
 optional arguments:
+  -D, --D     Amount of probability mass to set aside for unseen words
   -h, --help  show this help message and exit
+
+
+Example Usages:
+
+# Bigram stemmed raw probabilities
+python main.py -evaluate TEST_CORPUS --stemmed --n 2 raw
+
+# Trigram unstemmed laplace with k =2
+python main.py -unscramble a_file --unstemmed --n 3 laplace -k=3
+
+# Unigram stemmed absolute discount with D = 0.2
+python main.py -evaluate some_file --stemmed --n 1 abs_dis -D=0.2

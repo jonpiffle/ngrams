@@ -126,9 +126,12 @@ if __name__ == '__main__':
         help='Absolute Discount Probability Model',
     )
     absolute_discount_parser.add_argument(
-        'D',
+        '-D',
+        '--D',
         type=between_zero_and_one,
         help='Amount of probability mass to set aside for unseen words',
+        required=False,
+        default=0.3,
     )
 
     args = parser.parse_args()

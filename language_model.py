@@ -102,12 +102,12 @@ class NGramLanguageModel(LanguageModel):
 
         # Text length = number of words + start and end symbol for each sentence
         text_len = sum([len(s.split()) + 2 for s in text])
-        print(text_len)
+        # print(text_len)
 
         for i, sentence in enumerate(text):
             sentence_log_prob = self.text_log_prob(sentence)
             running_log_prob += sentence_log_prob
-            print(i, running_log_prob)
+            # print(i, running_log_prob)
 
         log_perplexity = - 1 / text_len * running_log_prob
         perplexity = math.exp(log_perplexity)
@@ -141,8 +141,8 @@ class NGramLanguageModel(LanguageModel):
                 return float('-inf')
 
             running_prob += math.log(probability)
-            print(w, n, probability, running_prob)
-        print(text, running_prob)
+            # print(w, n, probability, running_prob)
+        # print(text, running_prob)
         return running_prob
 
 if __name__ == '__main__':
