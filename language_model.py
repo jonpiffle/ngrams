@@ -1,24 +1,12 @@
 import math
 import numpy as np
+from itertools import permutations
 
+from preprocessing import CorpusBuilder
 from ngram import NGramCounts
 from probability import LaplaceProbabilityGenerator
 from probability import RawProbabilityGenerator
 from utils import window, START_SYMBOL, END_SYMBOL
-
-
-def permutations(iterable):
-    if len(iterable) == 0:
-        yield []
-    else:
-        for i, e in enumerate(iterable):
-            others = np.concatenate(
-                [np.arange(0, i), np.arange(i + 1, len(iterable))],
-            )
-            l = [e]
-            for p in permutations(iterable[others]):
-                l[1:] = list(p)
-                yield l
 
 
 class LanguageModel(object):
@@ -31,14 +19,22 @@ class LanguageModel(object):
 
     def unscramble(self, text):
         self.cache = {}  # cache may get quite large if not cleared
-        words = text.split()
-        best_sentence, best_prob = None, 0
-        for p in permutations(np.array(words)):
-            sentence = ' '.join(p)
+        if self.ngram_counts.corpus_builder.stemmed:
+            unstemmed_words = np.array(text.split())
+            words = np.array(self.ngram_counts.corpus_builder.stem(text)[0].split())
+        else:
+            words = np.array(text.split())
+            unstemmed_words = words
+
+        best_sentence_indices, best_log_prob = [], float('-inf')
+        for p in permutations(range(len(words))):
+            p = list(p)
+            sentence = ' '.join(words[p])
             prob = self.text_log_prob(sentence)
-            if prob > best_prob:
-                best_sentence, best_prob = sentence, prob
-        return best_sentence
+            if prob > best_log_prob:
+                best_sentence_indices, best_log_prob = p, prob
+
+        return ' '.join(list(unstemmed_words[best_sentence_indices]))
 
     def text_log_prob(self, text):
         raise NotImplementedError
@@ -51,7 +47,8 @@ class NGramLanguageModel(LanguageModel):
                  probability_generator=RawProbabilityGenerator,
                  **kwargs):
         self.n = n
-        self.ngram_counts = NGramCounts(self.n)
+        corpus_builder = kwargs.pop('corpus_builder', None)
+        self.ngram_counts = NGramCounts(self.n, corpus_builder=corpus_builder)
         self.probability_generator = probability_generator(
             self.ngram_counts,
             **kwargs
@@ -144,10 +141,11 @@ class NGramLanguageModel(LanguageModel):
         return running_prob
 
 if __name__ == '__main__':
-    ng = NGramLanguageModel(probability_generator=LaplaceProbabilityGenerator)
+    cb = CorpusBuilder(stemmed=True)
+    ng = NGramLanguageModel(probability_generator=LaplaceProbabilityGenerator, corpus_builder=cb)
     # print(ng.probability_generator.probs.keys())
     # ng.text_log_prob('What you only need to ask')
-    # print(ng.unscramble('you only need What to ask'))
+    print(ng.unscramble('needed You only'))
     # print(ng.perplexity('you only need What to ask'))
     # print(ng.perplexity('What you only need to ask'))
-    print(ng.evaluate())
+    # print(ng.evaluate())
