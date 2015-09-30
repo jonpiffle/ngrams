@@ -1,4 +1,4 @@
-usage: main.py [-h] (-evaluate file | -unscramble file) [-n N]
+usage: main.py [-h] (-evaluate file | -unscramble file) [-s | -u] [-n N]
                {raw,laplace,abs_dis} ...
 
 positional arguments:
@@ -13,6 +13,8 @@ optional arguments:
   -evaluate file        File to evaluate model on. To use the model's own test
                         set, use TEST_CORPUS
   -unscramble file
+  -s, --stemmed         Use stemmed corpus
+  -u, --unstemmed       Use unstemmed corpus
   -n N, --n N           Which n-gram model to use
 
 Specifying parameters for different models:

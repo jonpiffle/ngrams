@@ -1,4 +1,5 @@
 from language_model import NGramLanguageModel
+from preprocessing import CorpusBuilder
 from probability import AbsoluteDiscountProbabilityGenerator
 from probability import LaplaceProbabilityGenerator
 from probability import RawProbabilityGenerator
@@ -15,8 +16,13 @@ def main(n=1,
          evaluate=None,
          unscramble=None,
          probability_generator=None,
+         stemmed=False,
+         unstemmed=True,
          **probability_generator_kwargs):
 
+    stemmed = unstemmed or stemmed
+    cb = CorpusBuilder(stemmed=stemmed)
+    probability_generator_kwargs['corpus_builder'] = cb
     language_model = NGramLanguageModel(
         n=n,
         probability_generator=PROBABILITY_GENERATORS[probability_generator],
@@ -45,6 +51,21 @@ if __name__ == '__main__':
     )
     evaluate_unscramble.add_argument('-unscramble', metavar='file')
 
+    stemmed_unstemmed = parser.add_mutually_exclusive_group()
+    stemmed_unstemmed.add_argument(
+        '-s',
+        '--stemmed',
+        help='Use stemmed corpus',
+        action='store_true',
+    )
+    stemmed_unstemmed.add_argument(
+        '-u',
+        '--unstemmed',
+        help='Use unstemmed corpus',
+        default=False,
+        action='store_false',
+    )
+
     def nonnegative_int(string):
         try:
             val = int(string)
@@ -70,6 +91,7 @@ if __name__ == '__main__':
         '--n',
         help='Which n-gram model to use',
         type=nonnegative_int,
+        default=1,
     )
 
     subparsers = parser.add_subparsers(
