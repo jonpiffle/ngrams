@@ -79,5 +79,5 @@ class NGramCounts(object):
             f.write(unigram_counts.sort('count', ascending=False).to_csv(index=False))
 
 if __name__ == '__main__':
-    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=True)).write_lexicon_to_file('stemmed_lexicon.csv')
-    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=False)).write_lexicon_to_file('unstemmed_lexicon.csv')
+    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=True)).lexicon_to_csv('stemmed_lexicon.csv')
+    NGramCounts(1, corpus_builder=CorpusBuilder(stemmed=False)).lexicon_to_csv('unstemmed_lexicon.csv')
